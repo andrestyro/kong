@@ -19,7 +19,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-name="tvOne" tvg-id="N/A" group-title="LOKAL" tvg-logo="https://static.mncnow.id/images/channel/2c987c0a/5a8a_r32.jpg",tvOne
 http://93.190.139.34:8278/streams/d/Tvone/playlist.m3u8
-#EXTINF:-1 tvg-name="[CODAY] SCTV _VIDIO" tvg-id="N/A" group-title="LOKAL" tvg-logo="https://static.mncnow.id/images/channel/3ce31c86/081e_r32.jpeg",SCTV
+#EXTINF:-1 tvg-name="[CODAY] SCTV _VIDIO" tvg-id="RIYAN.f77dc064d3f42a924e02861b6975d612.SHINTA" group-title="LOKAL" tvg-logo="https://static.mncnow.id/images/channel/3ce31c86/081e_r32.jpeg",SCTV
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-name="[CODAY] MNC _VIDIO" tvg-id="N/A" group-title="LOKAL" tvg-logo="https://static.mncnow.id/images/channel/4638bf6e/ba92_r32.jpg",MNCTV
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=22fb0cee7e1f3bde58293de743871417102a6ed6587b5b8cb4ebbe972864690b
