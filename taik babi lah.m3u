@@ -291,3 +291,15 @@ https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-foxsport1
 https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-foxsport2
 #EXTINF:-1 tvg-name="Fox Sport 3" tvg-id="" group-title="Sports" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13",Fox Sport 3
 https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-foxsport3
+#EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="Group Title" tvg-logo="Logo",HBO
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=cfcd208495d565ef66e7dff9f98764dad045c59a90d7587d8d671b5f5aec4e7c
+#EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="Group Title" tvg-logo="Logo",HBO Signature
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c4ca4238a0b923820dcc509a6f75849bd045c59a90d7587d8d671b5f5aec4e7c
+#EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="Group Title" tvg-logo="Logo",HBO Hits
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c81e728d9d4c2f636f067f89cc14862cd045c59a90d7587d8d671b5f5aec4e7c
+#EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="Group Title" tvg-logo="Logo",HBO Family
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=eccbc87e4b5ce2fe28308fd9f2a7baf3d045c59a90d7587d8d671b5f5aec4e7c
+#EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="Group Title" tvg-logo="Logo",Cinemax
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=a87ff679a2f3e71d9181a67b7542122cd045c59a90d7587d8d671b5f5aec4e7c
+#EXTINF:-1 tvg-name="Name" tvg-id="id" group-title="Group Title" tvg-logo="Logo",Red By HBO
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=e4da3b7fbbce2345d7772b0674a318d5d045c59a90d7587d8d671b5f5aec4e7c
