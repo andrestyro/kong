@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="NICK JR" group-title="FUN" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",NICK JR
+http://185.238.0.145:1313/c/alt/nickjr-hd.m3u8
+#EXTINF:-1 tvg-name="Disney Junior" group-title="FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior
+http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Astro Ceria" group-title="FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Astro_Ceria_HD.png",Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 tvg-name="Astro Ceria" group-title="FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Astro_Ceria_HD.png",Astro Ceria
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 #EXTINF:-1 tvg-name="ANTV" group-title="LOCAL" tvg-logo="https://static.mncnow.id/images/channel/3b46b39b/7020_r32.jpg",ANTV
 http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
 #EXTINF:-1 tvg-name="ANTV" group-title="LOCAL" tvg-logo="https://static.mncnow.id/images/channel/3b46b39b/7020_r32.jpg",ANTV
@@ -73,6 +81,8 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=ef452c63f81d0105dd4486f775adec81102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-name="HBO" group-title="MOVIE" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-name="HBO HITS" group-title="MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO HITS
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c81e728d9d4c2f636f067f89cc14862cd045c59a90d7587d8d671b5f5aec4e7c
 #EXTINF:-1 tvg-name="HBO hits" group-title="MOVIE" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/f9e915bc-2e3d-4bee-86a3-d1b689d98152.png",HBO hits
 http://93.190.139.34:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 tvg-name="AXN" group-title="MOVIE" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/axn_new.png",AXN
@@ -129,20 +139,12 @@ http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO FAMILY" group-title="unstable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",HBO FAMILY
 http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
-#EXTINF:-1 tvg-name="HBO HITS" group-title="unstable" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO HITS
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c81e728d9d4c2f636f067f89cc14862cd045c59a90d7587d8d671b5f5aec4e7c
 #EXTINF:-1 tvg-name="ANIPLUS" group-title="unstable" tvg-logo="https://sfile.mobi/thumb.php?src=https://sfile.mobi/data/user124907/PicsArt%2002-17-01.01.20.png&w=150&h=150&q=50",ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-name="Astro Ceria" group-title="FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Astro_Ceria_HD.png",Astro Ceria
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1 tvg-name="Astro Ceria" group-title="unstable" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Astro_Ceria_HD.png",Astro Ceria
-http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 #EXTINF:-1 tvg-name="Boomerang" group-title="unstable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",Boomerang
 http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2832
 #EXTINF:-1 tvg-name="Universal Kids" group-title="unstable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/1200px-Universal_Kids_2019_Logo.svg.png",Universal Kids
 http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/30899
-#EXTINF:-1 tvg-name="Disney Junior" group-title="FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior
-http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Disney Junior" group-title="unstable" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior
 http://tv.cyprusnetserver.net:8080/Duygulu/C4SGazNVDO/2754
 #EXTINF:-1 tvg-name="Disney Channel" group-title="unstable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png",Disney Channel
@@ -161,8 +163,6 @@ http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/32587
 http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/32586
 #EXTINF:-1 tvg-name="Nick Jr" group-title="unstable" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",Nick Jr
 http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/34494
-#EXTINF:-1 tvg-name="NICK JR" group-title="unstable" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",NICK JR
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/3063648/playlist.m3u8?terminate=false&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&sid=978&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 #EXTINF:-1 tvg-name="Nickelodeon" group-title="unstable" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/867edb39-9b93-4732-bd86-68e58fcc982f/dctrdud-d5fda329-33a4-4540-9c71-86c9b213dc00.png/v1/fill/w_1190,h_671,strp/nickelodeon_logo_recreation__2_by_therandommeister_dctrdud-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD03MjIiLCJwYXRoIjoiXC9mXC84NjdlZGIzOS05YjkzLTQ3MzItYmQ4Ni02OGU1OGZjYzk4MmZcL2RjdHJkdWQtZDVmZGEzMjktMzNhNC00NTQwLTljNzEtODZjOWIyMTNkYzAwLnBuZyIsIndpZHRoIjoiPD0xMjgwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.iq3TTK0xIqeuWVN7xfenGForstF3UnfH9puimkIHXWI",Nickelodeon
 http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/34495
 #EXTINF:-1 tvg-name="Cartoon Network" group-title="unstable" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c70e0e17-ffda-47e6-830e-817fcffe0b32/dap1por-1783f873-9ae3-467e-a0f4-16a5ccf0678b.jpg/v1/fill/w_1023,h_654,q_75,strp/cartoon_network_logo_2005_by_thatgreenswagguy_dap1por-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD02NTQiLCJwYXRoIjoiXC9mXC9jNzBlMGUxNy1mZmRhLTQ3ZTYtODMwZS04MTdmY2ZmZTBiMzJcL2RhcDFwb3ItMTc4M2Y4NzMtOWFlMy00NjdlLWEwZjQtMTZhNWNjZjA2NzhiLmpwZyIsIndpZHRoIjoiPD0xMDIzIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.z78wFEHxtVSyKvUX02MWNDv3NjLniUE7twASAsmYMK0",Cartoon Network
