@@ -207,8 +207,6 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c4768
 https://cdnkbl2.useetv.com/joss/15/useeprime/chunklist_w631695871_b894100_sleng_mkctv.m3u8?enc=kSUjWagG2o6GuRiO5pHvWw&uid=Y2E0Yzk5NDFjNTE2ZjIxMjFjYTNlYTAzOTg5NzM3MGQ=&exp=1612897213 
 #EXTINF:-1 tvg-name="Usee Photo" group-title="useetv" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13",Usee Photo
 https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-useephoto
-#EXTINF:-1 tvg-name="Usee Prime " group-title="useetv" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png?v=2.0.0.13",Usee Prime 
-https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-useeprime
 #EXTINF:-1 tvg-name="TVRI" group-title="useetv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvri.png",TVRI
 https://cdnkbl2.useetv.com/joss/15/bumperslate/chunklist_w366305248_b894100_sleng_mkctv.m3u8?enc=2U8r31YtPbdF8i_766-p1A&uid=Y2E0Yzk5NDFjNTE2ZjIxMjFjYTNlYTAzOTg5NzM3MGQ=&exp=1612897214 
 #EXTINF:-1 tvg-name="TRANS 7" group-title="useetv" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13",TRANS 7
@@ -241,14 +239,48 @@ https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-blueant
 https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-blueantextreme
 #EXTINF:-1 tvg-name="AXN" group-title="useetv" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13",AXN
 https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-axn
-#EXTINF:-1 tvg-name="" group-title="" tvg-logo="",
-
-#EXTINF:-1 tvg-name="" group-title="" tvg-logo="",
-
-#EXTINF:-1 tvg-name="" group-title="" tvg-logo="",
-
-#EXTINF:-1 tvg-name="" group-title="" tvg-logo="",
-
+#EXTINF:-1 tvg-name="Chinese Drama " group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png?v=2.0.0.13",Chinese Drama 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-chinesedrama
+#EXTINF:-1 tvg-name="Kix" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13",Kix
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-kix
+#EXTINF:-1 tvg-name="Waku Waku Japan " group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13",Waku Waku Japan 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-wakuwaku
+#EXTINF:-1 tvg-name="K+" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13",K+
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-kplus
+#EXTINF:-1 tvg-name="Sony GEM TV" group-title="Group Title" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13",Sony GEM TV
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-sgem
+#EXTINF:-1 tvg-name="Sony One " group-title="Group Title" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13",Sony One 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-sone
+#EXTINF:-1 tvg-name="Outdoor CHANNEL " group-title="Group Title" tvg-logo="https://www.useetv.com/assets/images/channel/logo_outdoor_small.png?v=1.1",Outdoor CHANNEL 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-outdoor
+#EXTINF:-1 tvg-name="Aniplus" group-title="Group Title" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13",Aniplus
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-aniplus
+#EXTINF:-1 tvg-name="Animax" group-title="Group Title" tvg-logo="tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png",Animax
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-animax
+#EXTINF:-1 tvg-name="Name" group-title="Group Title" tvg-logo="Logo",Name2
+Link
+#EXTINF:-1 tvg-name="Name" group-title="Group Title" tvg-logo="Logo",Name2
+Link
+#EXTINF:-1 tvg-name="Name" group-title="Group Title" tvg-logo="Logo",Name2
+Link
+#EXTINF:-1 tvg-name="Name" group-title="Group Title" tvg-logo="Logo",Name2
+Link
+#EXTINF:-1 tvg-name="Name" group-title="Group Title" tvg-logo="Logo",Name2
+Link
+#EXTINF:-1 tvg-name="Name" group-title="Group Title" tvg-logo="Logo",Name2
+Link
+#EXTINF:-1 tvg-name="Name" group-title="Group Title" tvg-logo="Logo",Name2
+Link
+#EXTINF:-1 tvg-name="Name" group-title="Group Title" tvg-logo="Logo",Name2
+Link
+#EXTINF:-1 tvg-name="Name" group-title="Group Title" tvg-logo="Logo",Name2
+Link
+#EXTINF:-1 tvg-name="Name" group-title="Group Title" tvg-logo="Logo",Name2
+Link
+#EXTINF:-1 tvg-name="Name" group-title="Group Title" tvg-logo="Logo",Name2
+Link
+#EXTINF:-1 tvg-name="Name" group-title="Group Title" tvg-logo="Logo",Name2
+Link
 #EXTINF:-1 tvg-name="" group-title="" tvg-logo="",
 
 #EXTINF:-1 tvg-name="" group-title="" tvg-logo="",
