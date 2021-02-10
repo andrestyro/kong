@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-id="N/A" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
-https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="Disney Junior" tvg-id="N/A" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="NICK JR" tvg-id="N/A" group-title="Kids" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",NICK JR
 http://185.238.0.145:1313/c/alt/nickjr-hd.m3u8
 #EXTINF:-1 tvg-name="Disney Junior" tvg-id="N/A" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior
