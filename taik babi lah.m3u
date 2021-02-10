@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Animax" tvg-id="N/A" group-title="Entertainment" tvg-logo="http://202.74.236.189/~uzbwkzam/img/animax.png",Animax
-http://103.47.132.164/PLTV/88888888/224/3221227145/index.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-id="N/A" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="NICK JR" tvg-id="N/A" group-title="Kids" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",NICK JR
 http://185.238.0.145:1313/c/alt/nickjr-hd.m3u8
 #EXTINF:-1 tvg-name="Disney Junior" tvg-id="N/A" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior
@@ -171,9 +171,9 @@ http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/8022
 http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/32586
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id="N/A" group-title="Unstable iptv from net" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/867edb39-9b93-4732-bd86-68e58fcc982f/dctrdud-d5fda329-33a4-4540-9c71-86c9b213dc00.png/v1/fill/w_1190,h_671,strp/nickelodeon_logo_recreation__2_by_therandommeister_dctrdud-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD03MjIiLCJwYXRoIjoiXC9mXC84NjdlZGIzOS05YjkzLTQ3MzItYmQ4Ni02OGU1OGZjYzk4MmZcL2RjdHJkdWQtZDVmZGEzMjktMzNhNC00NTQwLTljNzEtODZjOWIyMTNkYzAwLnBuZyIsIndpZHRoIjoiPD0xMjgwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.iq3TTK0xIqeuWVN7xfenGForstF3UnfH9puimkIHXWI",Nickelodeon
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-id="N/A" group-title="Unstable iptv from net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg",Cartoon Network
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-id="N/A" group-title="Unstable iptv from net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/30990
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-id="N/A" group-title="Unstable iptv from net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg",Cartoon Network
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-id="N/A" group-title="Unstable iptv from net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
 #EXTINF:-1 tvg-name="Sky Cinema Disney UK" tvg-id="N/A" group-title="Unstable iptv from net" tvg-logo="https://media.info/i/lf/0/1592346981/1533.png",Sky Cinema Disney UK
 http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/32539
