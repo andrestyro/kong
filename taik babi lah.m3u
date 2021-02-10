@@ -156,21 +156,21 @@ http://88.216.48.14/boomerang/live.m3u8
 #EXTINF:-1 tvg-name="Universal Kids" group-title="Unstable iptv from net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/1200px-Universal_Kids_2019_Logo.svg.png",Universal Kids
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/664
 #EXTINF:-1 tvg-name="Disney Junior" group-title="Unstable iptv from net" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
 #EXTINF:-1 tvg-name="Disney Channel" group-title="Unstable iptv from net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png",Disney Channel
-http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
 #EXTINF:-1 tvg-name="Disney Channel" group-title="Unstable iptv from net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png",Disney Channel
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="DISNEY XD" group-title="Unstable iptv from net" tvg-logo="",DISNEY XD
-http://randomserver.site:2086/crystal/12345/95371
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
 #EXTINF:-1 tvg-name="ANIMAX" group-title="Unstable iptv from net" tvg-logo="https://i.imgur.com/wIAZh19.jpg",ANIMAX
 http://203.154.177.124:8899/live/ch5/playlist.m3u8
 #EXTINF:-1 tvg-name="Aniplus" group-title="Unstable iptv from net" tvg-logo="",Aniplus
 http://45.126.83.51/dr9445/h/h02/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" group-title="Unstable iptv from net" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/867edb39-9b93-4732-bd86-68e58fcc982f/dctrdud-d5fda329-33a4-4540-9c71-86c9b213dc00.png/v1/fill/w_1190,h_671,strp/nickelodeon_logo_recreation__2_by_therandommeister_dctrdud-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD03MjIiLCJwYXRoIjoiXC9mXC84NjdlZGIzOS05YjkzLTQ3MzItYmQ4Ni02OGU1OGZjYzk4MmZcL2RjdHJkdWQtZDVmZGEzMjktMzNhNC00NTQwLTljNzEtODZjOWIyMTNkYzAwLnBuZyIsIndpZHRoIjoiPD0xMjgwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.iq3TTK0xIqeuWVN7xfenGForstF3UnfH9puimkIHXWI",Nickelodeon
-http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass%20%20
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
 #EXTINF:-1 tvg-name="Cartoon Network" group-title="Unstable iptv from net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
 #EXTINF:-1 tvg-name="Nick Jr Too" group-title="Unstable iptv from net" tvg-logo="https://i.pinimg.com/736x/0d/4f/46/0d4f46a806af800772c1144aa0f2fff6.jpg",Nick Jr Too
 http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/17153
 #EXTINF:-1 tvg-name="Nick Jr" group-title="Unstable iptv from net" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",Nick Jr
