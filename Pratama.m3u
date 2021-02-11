@@ -3,7 +3,7 @@
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-name="Astro Ceria" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Astro_Ceria_HD.png",Astro Ceria
 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
-#EXTINF:-1 tvg-name="Disney Junior UK" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior UK
+#EXTINF:-1 tvg-name="Disney Junior UK" tvg-id="713" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior UK
 http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="NICK JR Pluto" tvg-id="N/A" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",NICK JR Pluto
 http://185.238.0.145:1313/c/alt/nickjr-hd.m3u8
@@ -57,13 +57,13 @@ http://mags.vip:2086/live/miriam/miriam123/64131.ts
 http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32590
 #EXTINF:-1 tvg-name="Cartoon Network US" tvg-id="9100008443##9233015734" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network US
 http://mags.vip:2086/live/miriam/miriam123/64139.ts
-#EXTINF:-1 tvg-name="Cartoon Network UK" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network UK
+#EXTINF:-1 tvg-name="Cartoon Network UK" tvg-id="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network UK
 http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32592
-#EXTINF:-1 tvg-name="UK: Sky Cinema Action HD" tvg-id="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Sky_Cinema_Action_2020.svg/revision/latest/scale-to-width-down/300?cb=20210118213113",UK: Sky Cinema Action HD
+#EXTINF:-1 tvg-name="Sky Movies Action" tvg-id="251" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Sky_Cinema_Action_2020.svg/revision/latest/scale-to-width-down/300?cb=20210118213113",Sky Movies Action
 http://mags.vip:2086/live/miriam/miriam123/87571.ts
-#EXTINF:-1 tvg-name="UK: Sky Cinema Disney HD" tvg-id="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Sky_Cinema_Disney_2020.svg/revision/latest/scale-to-width-down/300?cb=20200702155650",UK: Sky Cinema Disney HD
+#EXTINF:-1 tvg-name="Sky Movies Disney" tvg-id="850" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Sky_Cinema_Disney_2020.svg/revision/latest/scale-to-width-down/300?cb=20200702155650",Sky Movies Disney
 http://mags.vip:2086/live/miriam/miriam123/87573.ts
-#EXTINF:-1 tvg-name="UK: Sky Cinema Family FHD" tvg-id="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Sky_Cinema_Family_2020.svg/revision/latest/scale-to-width-down/300?cb=20210118213029",UK: Sky Cinema Family FHD
+#EXTINF:-1 tvg-name="Sky Movies Family" tvg-id="252" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Sky_Cinema_Family_2020.svg/revision/latest/scale-to-width-down/300?cb=20210118213029",Sky Movies Family
 http://mags.vip:2086/live/miriam/miriam123/87575.ts
 #EXTINF:-1 tvg-name="Stand By Me Doraemon" tvg-id="N/A" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/91ea2ee2-7411-403f-9abc-7b9c03808b54/d7o8xw4-433c2937-8e85-4b45-afe8-5e7e2e082ecb.jpg/v1/fill/w_1024,h_488,q_75,strp/vod_logo_site1_1050x500_by_effect_design_d7o8xw4-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD00ODgiLCJwYXRoIjoiXC9mXC85MWVhMmVlMi03NDExLTQwM2YtOWFiYy03YjljMDM4MDhiNTRcL2Q3bzh4dzQtNDMzYzI5MzctOGU4NS00YjQ1LWFmZTgtNWU3ZTJlMDgyZWNiLmpwZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.CI7e4nSmSy-vbpSZhApbVL30gPN0SYqrjMIE7nfKBIo",Stand By Me Doraemon
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=ec57fca91217fdddf6e37b74984fe27599c04773e83da931f64885fdf14061a8
