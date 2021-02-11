@@ -15,12 +15,22 @@ http://starshare.live:8080/live/543678/546789/5483.ts
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 tvg-name="Boomerang US" tvg-id="9100008443##9233015844" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",Boomerang US
 http://mags.vip:2086/live/miriam/miriam123/100031.ts
+#EXTINF:-1 tvg-name="Bridge to Terabithia" tvg-id="N/A" tvg-logo="N/A",Bridge to Terabithia
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=54b956934efc0b13dd9353ef49a3b33e99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="Calon Bini" tvg-id="N/A" tvg-logo="N/A",Calon Bini
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=3c2726e79ee947ec1950dff41a08d62199c04773e83da931f64885fdf14061a8
 #EXTINF:-1 tvg-name="Cartoon Network US" tvg-id="9100008443##9233015734" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network US
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/30990
+http://mags.vip:2086/live/miriam/miriam123/64139.ts
 #EXTINF:-1 tvg-name="Disney Channel UK" tvg-id="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png",Disney Channel UK
 http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32590
+#EXTINF:-1 tvg-name="Disney Channel US" tvg-id="9100008443##9200018475" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png",Disney Channel US
+http://mags.vip:2086/live/miriam/miriam123/64131.ts
 #EXTINF:-1 tvg-name="Disney Junior UK" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior UK
 http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Disney XD US" tvg-id="9100008443##9200004852" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png",Disney XD US
+http://mags.vip:2086/live/miriam/miriam123/64129.ts
+#EXTINF:-1 tvg-name="Eiffel I'm in Love" tvg-id="N/A" tvg-logo="N/A",Eiffel I'm in Love
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=5d41a75be561acb86e8b8b8a4e5f6fb699c04773e83da931f64885fdf14061a8
 #EXTINF:-1 tvg-name="FOX" tvg-id="153" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_437.png",FOX
 http://50.7.161.82:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX Action Movies" tvg-id="16" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png",FOX Action Movies
@@ -31,22 +41,74 @@ http://203.153.218.28:9981/stream/channelid/1949182550
 http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-1 tvg-name="FOXCrime" tvg-id="152" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_152.png",FOXCrime
 http://50.7.161.82:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:-1 tvg-name="Generasi Micin vs. Kevin" tvg-id="N/A" tvg-logo="N/A",Generasi Micin vs. Kevin
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=c4fd1c73e7d864d6e5dfa38ace81393399c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="Gerbang Neraka" tvg-id="N/A" tvg-logo="N/A",Gerbang Neraka
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=c2c18e1b7fe5d161ea574aae3d723fda99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="Get Married 5 – 99% Muhrim" tvg-id="N/A" tvg-logo="N/A",Get Married 5 – 99% Muhrim
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=34ad2500f863b2f45b5d9cf2f500f78d99c04773e83da931f64885fdf14061a8
 #EXTINF:-1 tvg-name="Hello" tvg-id="N/A" tvg-logo="https://d3avoj45mekucs.cloudfront.net/rojakdaily/media/jessica-chua/entertainment/2018/oct/he110%20channel%20introduction/hello_main.jpg?ext=.jpg",Hello
 http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
+#EXTINF:-1 tvg-name="Kartini" tvg-id="N/A" tvg-logo="N/A",Kartini
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=915801e052298efdd705a0020597388799c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="Kawin Kontrak" tvg-id="N/A" tvg-logo="N/A",Kawin Kontrak
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=4c9aa318517df6a9de03b48ddbb529ab99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="Kawin Kontrak 3" tvg-id="N/A" tvg-logo="N/A",Kawin Kontrak 3
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=730083ac6d47c4b97184062aa400270299c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="Kawin Kontrak Lagi" tvg-id="N/A" tvg-logo="N/A",Kawin Kontrak Lagi
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=162d0fc33b2855cde59d713a67d8a9ac99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="Laskar Pelangi" tvg-id="N/A" tvg-logo="N/A",Laskar Pelangi
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=6a7c7de7de7705b6e5fdf1803348649299c04773e83da931f64885fdf14061a8
 #EXTINF:-1 tvg-name="National Geographic Channel" tvg-id="202" tvg-logo="https://mms.businesswire.com/media/20200803005527/en/551357/23/NGC_Logo.jpg",National Geographic Channel
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=f91c676cbee8fc9aa708334fcf26d98136347412c7d30ae6fde3742bbc4f21b9
 #EXTINF:-1 tvg-name="National Geographic People" tvg-id="247" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png",National Geographic People
 http://93.190.139.34:8278/streams/d/Natgeopeople/playlist.m3u8
 #EXTINF:-1 tvg-name="National Geographic Wild" tvg-id="204" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png",National Geographic Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-name="Ngenest" tvg-id="N/A" tvg-logo="N/A",Ngenest
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=e3ef8db7933bf72c7c4f5ca8e75c9d5999c04773e83da931f64885fdf14061a8
 #EXTINF:-1 tvg-name="NICK JR Pluto" tvg-id="N/A" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",NICK JR Pluto
 http://185.238.0.145:1313/c/alt/nickjr-hd.m3u8
 #EXTINF:-1 tvg-name="Nick Jr Too UK" tvg-id="611" tvg-logo="https://i.pinimg.com/736x/0d/4f/46/0d4f46a806af800772c1144aa0f2fff6.jpg",Nick Jr Too UK
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32585
-#EXTINF:-1 tvg-name="Nick Jr UK" tvg-id="211" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",Nick Jr UK
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32586
+http://mags.vip:2086/live/miriam/miriam123/67072.ts
+#EXTINF:-1 tvg-name="Nick Jr. UK" tvg-id="211" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",Nick Jr. UK
+http://mags.vip:2086/live/miriam/miriam123/98690.ts
 #EXTINF:-1 tvg-name="Nick Jr. US" tvg-id="9100008443##9233007153" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",Nick Jr. US
 http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/34494
+#EXTINF:-1 tvg-name="Orang Kaya Baru" tvg-id="N/A" tvg-logo="N/A",Orang Kaya Baru
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=8e9f29832feedc2215da513958fbf59999c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="Red Cobex" tvg-id="N/A" tvg-logo="N/A",Red Cobex
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=a2e709146ef3fac9d94e090de6934f9099c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="Sesuai Aplikasi" tvg-id="N/A" tvg-logo="N/A",Sesuai Aplikasi
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=bfdfefef1f0500a0dbce0e8e8ec16a6099c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="Si Jago Merah" tvg-id="N/A" tvg-logo="N/A",Si Jago Merah
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=b4d3d1b02487df3cea4d5b96e1575fce99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="Soekarno" tvg-id="N/A" tvg-logo="N/A",Soekarno
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=ad64133fc82b863784886188cfcec30599c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="Stand By Me Doraemon" tvg-id="N/A" tvg-logo="N/A",Stand By Me Doraemon
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=ec57fca91217fdddf6e37b74984fe27599c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="Susah Sinyal" tvg-id="N/A" tvg-logo="N/A",Susah Sinyal
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=950685268ad88e7d0f81aeb4476811ae99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="Tanah Surga... Katanya" tvg-id="N/A" tvg-logo="N/A",Tanah Surga... Katanya
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=773b764edf78ca824aa88973530f022799c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="The Raid" tvg-id="N/A" tvg-logo="N/A",The Raid
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=b6979253324331d349555c7165efed5599c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="The Raid 2: Berandal" tvg-id="N/A" tvg-logo="N/A",The Raid 2: Berandal
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=6f365f090e980b8723302794c09f0f3699c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="The Reef" tvg-id="N/A" tvg-logo="N/A",The Reef
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=0def136d0f724cb03d927f64a0039cce99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="The Tarix Jabrix" tvg-id="N/A" tvg-logo="N/A",The Tarix Jabrix
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=997bba22a9d6f40d5ed029e4fc0c25c399c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="The Tarix Jabrix 2" tvg-id="N/A" tvg-logo="N/A",The Tarix Jabrix 2
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=549d3eb37fb422bb48f377c41b1a4c1c99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="The Tarix Jabrix 3" tvg-id="N/A" tvg-logo="N/A",The Tarix Jabrix 3
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=a9bb54991e375c96deaf24b568e6241b99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="The Tarix Jabrix 3" tvg-id="N/A" tvg-logo="N/A",The Tarix Jabrix 3
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=a9bb54991e375c96deaf24b568e6241b99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="The Underdogs" tvg-id="N/A" tvg-logo="N/A",The Underdogs
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=0e9c8172242219a25bcaa0b9bbc8b5ae99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="Train to Busan" tvg-id="N/A" tvg-logo="N/A",Train to Busan
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=25926884475c7c81d3f9634fe15662d899c04773e83da931f64885fdf14061a8
 #EXTINF:-1 tvg-name="TV1" tvg-id="225" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png",TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 tvg-name="TV2" tvg-id="310" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",TV2
@@ -55,85 +117,21 @@ http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 http://50.7.222.130:8278/streams/d/TV3/playlist.m3u8
 #EXTINF:-1 tvg-name="UK: Cartoon Network FHD" tvg-id="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",UK: Cartoon Network FHD
 http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32592
-#EXTINF:-1 tvg-name="USA: Disney Channel" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png",USA: Disney Channel
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8081
-#EXTINF:-1 tvg-name="USA: Disney XD" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png",USA: Disney XD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32589
-#EXTINF:-1 tvg-name="USA: Paw Patrol HD 24H" tvg-id="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Paw_Patrol_II.svg/revision/latest?cb=20200709080723",USA: Paw Patrol HD 24H
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/49420
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="N/A",UK: Sky Cinema Disney HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32539
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="N/A",UK: Sky Cinema Family FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32540
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="N/A",UK: Sky Cinema Action HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32541
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",The Reef 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=0def136d0f724cb03d927f64a0039cce99c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Eiffel I'm in Love 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=5d41a75be561acb86e8b8b8a4e5f6fb699c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Bridge to Terabithia 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=54b956934efc0b13dd9353ef49a3b33e99c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Gerbang Neraka 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=c2c18e1b7fe5d161ea574aae3d723fda99c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Stand By Me Doraemon 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=ec57fca91217fdddf6e37b74984fe27599c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Kartini 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=915801e052298efdd705a0020597388799c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Soekarno 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=ad64133fc82b863784886188cfcec30599c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Red Cobex 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=a2e709146ef3fac9d94e090de6934f9099c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Si Jago Merah 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=b4d3d1b02487df3cea4d5b96e1575fce99c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Tanah Surga... Katanya 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=773b764edf78ca824aa88973530f022799c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Calon Bini 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=3c2726e79ee947ec1950dff41a08d62199c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Laskar Pelangi 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=6a7c7de7de7705b6e5fdf1803348649299c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Yowis Ben 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=55888cbc912830b69cbb5164922ab39799c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Susah Sinyal 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=950685268ad88e7d0f81aeb4476811ae99c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Sesuai Aplikasi 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=bfdfefef1f0500a0dbce0e8e8ec16a6099c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Ngenest 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=e3ef8db7933bf72c7c4f5ca8e75c9d5999c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Generasi Micin vs. Kevin 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=c4fd1c73e7d864d6e5dfa38ace81393399c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Orang Kaya Baru 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=8e9f29832feedc2215da513958fbf59999c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",The Raid 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=b6979253324331d349555c7165efed5599c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",The Raid 2: Berandal 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=6f365f090e980b8723302794c09f0f3699c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",The Underdogs 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=0e9c8172242219a25bcaa0b9bbc8b5ae99c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Warkop DKI - Godain Kita Dong 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=189cc63cc475284f33a6afba82f0588499c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Train to Busan 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=25926884475c7c81d3f9634fe15662d899c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Warkop DKI - Malu Malu Mau 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=8f5b034fee44157caa1cf1cd007f5b2899c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Warkop DKI - Saya Suka Kamu Punya 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=71e58f95185800ae285c9860a287fa3c99c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Kawin Kontrak 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=4c9aa318517df6a9de03b48ddbb529ab99c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Kawin Kontrak Lagi 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=162d0fc33b2855cde59d713a67d8a9ac99c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Kawin Kontrak 3 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=730083ac6d47c4b97184062aa400270299c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Warkop DKI - Itu Bisa Diatur 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=c35671483bc1050cce5f3c3d8b4187a399c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Warkop DKI - Bebas Aturan Main 
+#EXTINF:-1 tvg-name="UK: Sky Cinema Action HD" tvg-id="N/A" tvg-logo="N/A",UK: Sky Cinema Action HD
+http://mags.vip:2086/live/miriam/miriam123/87571.ts
+#EXTINF:-1 tvg-name="UK: Sky Cinema Disney HD" tvg-id="N/A" tvg-logo="N/A",UK: Sky Cinema Disney HD
+http://mags.vip:2086/live/miriam/miriam123/87573.ts
+#EXTINF:-1 tvg-name="UK: Sky Cinema Family FHD" tvg-id="N/A" tvg-logo="N/A",UK: Sky Cinema Family FHD
+http://mags.vip:2086/live/miriam/miriam123/87575.ts
+#EXTINF:-1 tvg-name="Warkop DKI - Bebas Aturan Main" tvg-id="N/A" tvg-logo="N/A",Warkop DKI - Bebas Aturan Main
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=887ea2ef509f2ed24ec267a962d472b199c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",The Tarix Jabrix 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=997bba22a9d6f40d5ed029e4fc0c25c399c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",The Tarix Jabrix 2 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=549d3eb37fb422bb48f377c41b1a4c1c99c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",The Tarix Jabrix 3 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=a9bb54991e375c96deaf24b568e6241b99c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Get Married 5 – 99% Muhrim 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=34ad2500f863b2f45b5d9cf2f500f78d99c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",The Tarix Jabrix 3 
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=a9bb54991e375c96deaf24b568e6241b99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="Warkop DKI - Godain Kita Dong" tvg-id="N/A" tvg-logo="N/A",Warkop DKI - Godain Kita Dong
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=189cc63cc475284f33a6afba82f0588499c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="Warkop DKI - Itu Bisa Diatur" tvg-id="N/A" tvg-logo="N/A",Warkop DKI - Itu Bisa Diatur
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=c35671483bc1050cce5f3c3d8b4187a399c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="Warkop DKI - Malu Malu Mau" tvg-id="N/A" tvg-logo="N/A",Warkop DKI - Malu Malu Mau
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=8f5b034fee44157caa1cf1cd007f5b2899c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="Warkop DKI - Saya Suka Kamu Punya" tvg-id="N/A" tvg-logo="N/A",Warkop DKI - Saya Suka Kamu Punya
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=71e58f95185800ae285c9860a287fa3c99c04773e83da931f64885fdf14061a8
+#EXTINF:-1 tvg-name="Yowis Ben" tvg-id="N/A" tvg-logo="N/A",Yowis Ben
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=55888cbc912830b69cbb5164922ab39799c04773e83da931f64885fdf14061a8
