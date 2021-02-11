@@ -1,0 +1,2752 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Indihome Shopping">
+    <display-name lang="id">Indihome Shopping</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_indishopping_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="TVRI">
+    <display-name lang="id">TVRI</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Indosiar">
+    <display-name lang="id">Indosiar</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_indosiar_small1.png?v=2.0.0.15" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="JITV">
+    <display-name lang="id">JITV</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_jitv_small.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Kompas TV">
+    <display-name lang="id">Kompas TV</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Metro TV">
+    <display-name lang="id">Metro TV</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Net.">
+    <display-name lang="id">Net.</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Rajawali TV">
+    <display-name lang="id">Rajawali TV</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="RRI NET">
+    <display-name lang="id">RRI NET</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="SCTV">
+    <display-name lang="id">SCTV</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_sctv_small1.png?v=2.0.0.15" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Trans7">
+    <display-name lang="id">Trans7</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="TransTV">
+    <display-name lang="id">TransTV</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="M Shop">
+    <display-name lang="id">M Shop</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_mshop_small.png?v=1.1" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Crime Investigation">
+    <display-name lang="id">Crime Investigation</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_crimeinvestigation_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Antara">
+    <display-name lang="id">Antara</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_antara_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="IDX">
+    <display-name lang="id">IDX</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_idx_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Baby First">
+    <display-name lang="id">Baby First</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_babyfirst_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Bali TV">
+    <display-name lang="id">Bali TV</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Berita Satu">
+    <display-name lang="id">Berita Satu</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Citra Drama">
+    <display-name lang="id">Citra Drama</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_citradrama_small.png?v=2.0.0.15" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <programme start="20210211000000 +0700" stop="20210211010000 +0700" channel="Indihome Shopping">
+    <title lang="id">Speak Up</title>
+  </programme>
+  <programme start="20210211010000 +0700" stop="20210211013000 +0700" channel="Indihome Shopping">
+    <title lang="id">Ruang Teh</title>
+  </programme>
+  <programme start="20210211013000 +0700" stop="20210211020000 +0700" channel="Indihome Shopping">
+    <title lang="id">Ruang Dekorasi</title>
+  </programme>
+  <programme start="20210211020000 +0700" stop="20210211030000 +0700" channel="Indihome Shopping">
+    <title lang="id">Sweet</title>
+  </programme>
+  <programme start="20210211030000 +0700" stop="20210211033000 +0700" channel="Indihome Shopping">
+    <title lang="id">Duo Ransel</title>
+  </programme>
+  <programme start="20210211033000 +0700" stop="20210211040000 +0700" channel="Indihome Shopping">
+    <title lang="id">Ruang Interior</title>
+  </programme>
+  <programme start="20210211040000 +0700" stop="20210211043000 +0700" channel="Indihome Shopping">
+    <title lang="id">Travel Fotografi</title>
+  </programme>
+  <programme start="20210211043000 +0700" stop="20210211050000 +0700" channel="Indihome Shopping">
+    <title lang="id">Home Design</title>
+  </programme>
+  <programme start="20210211050000 +0700" stop="20210211060000 +0700" channel="Indihome Shopping">
+    <title lang="id">Hi Doctor</title>
+  </programme>
+  <programme start="20210211060000 +0700" stop="20210211070000 +0700" channel="Indihome Shopping">
+    <title lang="id">Satria Berkamera</title>
+  </programme>
+  <programme start="20210211070000 +0700" stop="20210211073000 +0700" channel="Indihome Shopping">
+    <title lang="id">Break The Limit</title>
+  </programme>
+  <programme start="20210211073000 +0700" stop="20210211080000 +0700" channel="Indihome Shopping">
+    <title lang="id">Local Pride</title>
+  </programme>
+  <programme start="20210211080000 +0700" stop="20210211083000 +0700" channel="Indihome Shopping">
+    <title lang="id">Clavis Energetic Set</title>
+  </programme>
+  <programme start="20210211083000 +0700" stop="20210211090000 +0700" channel="Indihome Shopping">
+    <title lang="id">Doleefun Drying Rack</title>
+  </programme>
+  <programme start="20210211090000 +0700" stop="20210211093000 +0700" channel="Indihome Shopping">
+    <title lang="id">Magic Plus Cosmetics</title>
+  </programme>
+  <programme start="20210211093000 +0700" stop="20210211100000 +0700" channel="Indihome Shopping">
+    <title lang="id">Saponiex</title>
+  </programme>
+  <programme start="20210211100000 +0700" stop="20210211110000 +0700" channel="Indihome Shopping">
+    <title lang="id">Ecoramic Fry Pan</title>
+  </programme>
+  <programme start="20210211110000 +0700" stop="20210211120000 +0700" channel="Indihome Shopping">
+    <title lang="id">Swiss Guard And Helth Watch</title>
+  </programme>
+  <programme start="20210211120000 +0700" stop="20210211123000 +0700" channel="Indihome Shopping">
+    <title lang="id">Clavis Energetic Set</title>
+  </programme>
+  <programme start="20210211123000 +0700" stop="20210211130000 +0700" channel="Indihome Shopping">
+    <title lang="id">Doleefun Drying Rack</title>
+  </programme>
+  <programme start="20210211130000 +0700" stop="20210211140000 +0700" channel="Indihome Shopping">
+    <title lang="id">Excider Home Squat</title>
+  </programme>
+  <programme start="20210211140000 +0700" stop="20210211150000 +0700" channel="Indihome Shopping">
+    <title lang="id">Ecoramic Fry Pan</title>
+  </programme>
+  <programme start="20210211150000 +0700" stop="20210211153000 +0700" channel="Indihome Shopping">
+    <title lang="id">Doleefun Drying Rack</title>
+  </programme>
+  <programme start="20210211153000 +0700" stop="20210211160000 +0700" channel="Indihome Shopping">
+    <title lang="id">Hyper Gel Pillow</title>
+  </programme>
+  <programme start="20210211160000 +0700" stop="20210211170000 +0700" channel="Indihome Shopping">
+    <title lang="id">Tuctac Multi Blender</title>
+  </programme>
+  <programme start="20210211170000 +0700" stop="20210211173000 +0700" channel="Indihome Shopping">
+    <title lang="id">Clavis Energetic Set</title>
+  </programme>
+  <programme start="20210211173000 +0700" stop="20210211180000 +0700" channel="Indihome Shopping">
+    <title lang="id">Hyper Gel Pillow</title>
+  </programme>
+  <programme start="20210211180000 +0700" stop="20210211190000 +0700" channel="Indihome Shopping">
+    <title lang="id">Excider Home Squat</title>
+  </programme>
+  <programme start="20210211190000 +0700" stop="20210211200000 +0700" channel="Indihome Shopping">
+    <title lang="id">Ecoramic Fry Pan</title>
+  </programme>
+  <programme start="20210211200000 +0700" stop="20210211210000 +0700" channel="Indihome Shopping">
+    <title lang="id">Swiss Guard And Helth Watch</title>
+  </programme>
+  <programme start="20210211210000 +0700" stop="20210211213000 +0700" channel="Indihome Shopping">
+    <title lang="id">Clavis Energetic Set</title>
+  </programme>
+  <programme start="20210211213000 +0700" stop="20210211220000 +0700" channel="Indihome Shopping">
+    <title lang="id">Hyper Gel Pillow</title>
+  </programme>
+  <programme start="20210211220000 +0700" stop="20210211230000 +0700" channel="Indihome Shopping">
+    <title lang="id">Tuctac Multi Blender</title>
+  </programme>
+  <programme start="20210211230000 +0700" stop="20210212000000 +0700" channel="Indihome Shopping">
+    <title lang="id">Ecoramic Fry Pan</title>
+  </programme>
+  <programme start="20210211000000 +0700" stop="20210211013000 +0700" channel="TVRI">
+    <title lang="id">Pentas Budaya</title>
+  </programme>
+  <programme start="20210211013000 +0700" stop="20210211013500 +0700" channel="TVRI">
+    <title lang="id">Doa Untuk Bangsa</title>
+  </programme>
+  <programme start="20210211013500 +0700" stop="20210211021500 +0700" channel="TVRI">
+    <title lang="id">Sign Off</title>
+  </programme>
+  <programme start="20210211021500 +0700" stop="20210211023000 +0700" channel="TVRI">
+    <title lang="id">Pola Teknik</title>
+  </programme>
+  <programme start="20210211023000 +0700" stop="20210211050000 +0700" channel="TVRI">
+    <title lang="id">Coppa Italia</title>
+  </programme>
+  <programme start="20210211050000 +0700" stop="20210211060000 +0700" channel="TVRI">
+    <title lang="id">Satukan Shaf Indonesia</title>
+  </programme>
+  <programme start="20210211060000 +0700" stop="20210211070000 +0700" channel="TVRI">
+    <title lang="id">Klik Indonesia Pagi</title>
+  </programme>
+  <programme start="20210211070000 +0700" stop="20210211073000 +0700" channel="TVRI">
+    <title lang="id">Salam Olahraga</title>
+  </programme>
+  <programme start="20210211073000 +0700" stop="20210211080000 +0700" channel="TVRI">
+    <title lang="id">Info Covid 19 Terkini</title>
+  </programme>
+  <programme start="20210211113000 +0700" stop="20210211120000 +0700" channel="TVRI">
+    <title lang="id">Inspirasi Indonesia</title>
+  </programme>
+  <programme start="20210211120000 +0700" stop="20210211130000 +0700" channel="TVRI">
+    <title lang="id">Klik Indonesia Siang</title>
+  </programme>
+  <programme start="20210211130000 +0700" stop="20210211133000 +0700" channel="TVRI">
+    <title lang="id">Pesona Indonesia</title>
+  </programme>
+  <programme start="20210211133000 +0700" stop="20210211140000 +0700" channel="TVRI">
+    <title lang="id">Inspirasi Indonesia</title>
+  </programme>
+  <programme start="20210211140000 +0700" stop="20210211150000 +0700" channel="TVRI">
+    <title lang="id">Indonesia Sehat</title>
+  </programme>
+  <programme start="20210211150000 +0700" stop="20210211160000 +0700" channel="TVRI">
+    <title lang="id">Buah Hatiku Sayang</title>
+  </programme>
+  <programme start="20210211160000 +0700" stop="20210211170000 +0700" channel="TVRI">
+    <title lang="id">Info Covid 19 Terkini</title>
+  </programme>
+  <programme start="20210211170000 +0700" stop="20210211173000 +0700" channel="TVRI">
+    <title lang="id">Pembinaan Agama</title>
+  </programme>
+  <programme start="20210211173000 +0700" stop="20210211180000 +0700" channel="TVRI">
+    <title lang="id">English News Service</title>
+  </programme>
+  <programme start="20210211180000 +0700" stop="20210211190000 +0700" channel="TVRI">
+    <title lang="id">Klik Indonesia Malam</title>
+  </programme>
+  <programme start="20210211190000 +0700" stop="20210211200000 +0700" channel="TVRI">
+    <title lang="id">Indonesia Bicara</title>
+  </programme>
+  <programme start="20210211200000 +0700" stop="20210211210000 +0700" channel="TVRI">
+    <title lang="id">Musik Indonesia</title>
+  </programme>
+  <programme start="20210211210000 +0700" stop="20210211213000 +0700" channel="TVRI">
+    <title lang="id">Dunia Dalam Berita</title>
+  </programme>
+  <programme start="20210211213000 +0700" stop="20210211220000 +0700" channel="TVRI">
+    <title lang="id">Pesona Indonesia</title>
+  </programme>
+  <programme start="20210211220000 +0700" stop="20210211223000 +0700" channel="TVRI">
+    <title lang="id">Olahraga Tradisional</title>
+  </programme>
+  <programme start="20210211223000 +0700" stop="20210211233000 +0700" channel="TVRI">
+    <title lang="id">Warung Kopi Pasti Gerrr</title>
+  </programme>
+  <programme start="20210211233000 +0700" stop="20210212000000 +0700" channel="TVRI">
+    <title lang="id">Inspirasi Indonesia</title>
+  </programme>
+  <programme start="20210211013000 +0700" stop="20210211020000 +0700" channel="Indosiar">
+    <title lang="id">Patroli Malam</title>
+  </programme>
+  <programme start="20210211020000 +0700" stop="20210211023000 +0700" channel="Indosiar">
+    <title lang="id">Fokus Malam</title>
+  </programme>
+  <programme start="20210211023000 +0700" stop="20210211040000 +0700" channel="Indosiar">
+    <title lang="id">Azab</title>
+  </programme>
+  <programme start="20210211040000 +0700" stop="20210211043000 +0700" channel="Indosiar">
+    <title lang="id">Mukjizat Masih Ada</title>
+  </programme>
+  <programme start="20210211043000 +0700" stop="20210211060000 +0700" channel="Indosiar">
+    <title lang="id">Fokus Pagi</title>
+  </programme>
+  <programme start="20210211060000 +0700" stop="20210211063000 +0700" channel="Indosiar">
+    <title lang="id">Tasbih</title>
+  </programme>
+  <programme start="20210211063000 +0700" stop="20210211073000 +0700" channel="Indosiar">
+    <title lang="id">Keluarga Somat</title>
+  </programme>
+  <programme start="20210211073000 +0700" stop="20210211090000 +0700" channel="Indosiar">
+    <title lang="id">Pintu Berkah</title>
+  </programme>
+  <programme start="20210211090000 +0700" stop="20210211103000 +0700" channel="Indosiar">
+    <title lang="id">Hot Kiss</title>
+  </programme>
+  <programme start="20210211103000 +0700" stop="20210211110000 +0700" channel="Indosiar">
+    <title lang="id">Patroli</title>
+  </programme>
+  <programme start="20210211110000 +0700" stop="20210211113000 +0700" channel="Indosiar">
+    <title lang="id">Fokus</title>
+  </programme>
+  <programme start="20210211113000 +0700" stop="20210211133000 +0700" channel="Indosiar">
+    <title lang="id">Kisah Nyata</title>
+  </programme>
+  <programme start="20210211133000 +0700" stop="20210211153000 +0700" channel="Indosiar">
+    <title lang="id">Kisah Nyata</title>
+  </programme>
+  <programme start="20210211153000 +0700" stop="20210211173000 +0700" channel="Indosiar">
+    <title lang="id">Suara Hati Istri</title>
+  </programme>
+  <programme start="20210211173000 +0700" stop="20210211193000 +0700" channel="Indosiar">
+    <title lang="id">Mega Series Suara Hati Istri</title>
+  </programme>
+  <programme start="20210211193000 +0700" stop="20210211233000 +0700" channel="Indosiar">
+    <title lang="id">Semarak Indosiar</title>
+  </programme>
+  <programme start="20210211233000 +0700" stop="20210212013000 +0700" channel="Indosiar">
+    <title lang="id">Tukul Arwana One Man Show</title>
+  </programme>
+  <programme start="20210212013000 +0700" stop="20210212020000 +0700" channel="Indosiar">
+    <title lang="id">Patroli Malam</title>
+  </programme>
+  <programme start="20210212020000 +0700" stop="20210212023000 +0700" channel="Indosiar">
+    <title lang="id">Fokus Malam</title>
+  </programme>
+  <programme start="20210212023000 +0700" stop="20210212033000 +0700" channel="Indosiar">
+    <title lang="id">Azab</title>
+  </programme>
+  <programme start="20210212033000 +0700" stop="20210212043000 +0700" channel="Indosiar">
+    <title lang="id">Azab</title>
+  </programme>
+  <programme start="20210212043000 +0700" stop="20210212060000 +0700" channel="Indosiar">
+    <title lang="id">Fokus Pagi</title>
+  </programme>
+  <programme start="20210212060000 +0700" stop="20210212063000 +0700" channel="Indosiar">
+    <title lang="id">Tasbih</title>
+  </programme>
+  <programme start="20210212063000 +0700" stop="20210212073000 +0700" channel="Indosiar">
+    <title lang="id">Keluarga Somat</title>
+  </programme>
+  <programme start="20210212073000 +0700" stop="20210212090000 +0700" channel="Indosiar">
+    <title lang="id">Pintu Berkah</title>
+  </programme>
+  <programme start="20210212090000 +0700" stop="20210212103000 +0700" channel="Indosiar">
+    <title lang="id">Hot Kiss</title>
+  </programme>
+  <programme start="20210212103000 +0700" stop="20210212110000 +0700" channel="Indosiar">
+    <title lang="id">Patroli</title>
+  </programme>
+  <programme start="20210212110000 +0700" stop="20210212113000 +0700" channel="Indosiar">
+    <title lang="id">Fokus</title>
+  </programme>
+  <programme start="20210212113000 +0700" stop="20210212133000 +0700" channel="Indosiar">
+    <title lang="id">Kisah Nyata</title>
+  </programme>
+  <programme start="20210212133000 +0700" stop="20210212153000 +0700" channel="Indosiar">
+    <title lang="id">Kisah Nyata</title>
+  </programme>
+  <programme start="20210212153000 +0700" stop="20210212173000 +0700" channel="Indosiar">
+    <title lang="id">Suara Hati Istri</title>
+  </programme>
+  <programme start="20210212173000 +0700" stop="20210212193000 +0700" channel="Indosiar">
+    <title lang="id">Mega Series Suara Hati Istri</title>
+  </programme>
+  <programme start="20210212193000 +0700" stop="20210212233000 +0700" channel="Indosiar">
+    <title lang="id">Semarak Indosiar</title>
+  </programme>
+  <programme start="20210212233000 +0700" stop="20210213013000 +0700" channel="Indosiar">
+    <title lang="id">Tukul Arwana One Man Show</title>
+  </programme>
+  <programme start="20210211000000 +0700" stop="20210211001500 +0700" channel="JITV">
+    <title lang="id">I Jogja</title>
+  </programme>
+  <programme start="20210211001500 +0700" stop="20210211061500 +0700" channel="JITV">
+    <title lang="id">Wayangan</title>
+  </programme>
+  <programme start="20210211061500 +0700" stop="20210211063000 +0700" channel="JITV">
+    <title lang="id">I Jogja</title>
+  </programme>
+  <programme start="20210211063000 +0700" stop="20210211080000 +0700" channel="JITV">
+    <title lang="id">Cinema Kota-Kota</title>
+  </programme>
+  <programme start="20210211080000 +0700" stop="20210211093000 +0700" channel="JITV">
+    <title lang="id">Keliling Jogja</title>
+  </programme>
+  <programme start="20210211093000 +0700" stop="20210211103000 +0700" channel="JITV">
+    <title lang="id">Dunia Kita</title>
+  </programme>
+  <programme start="20210211103000 +0700" stop="20210211120000 +0700" channel="JITV">
+    <title lang="id">Cinema Kota-Kota</title>
+  </programme>
+  <programme start="20210211120000 +0700" stop="20210211121500 +0700" channel="JITV">
+    <title lang="id">I Jogja</title>
+  </programme>
+  <programme start="20210211121500 +0700" stop="20210211125000 +0700" channel="JITV">
+    <title lang="id">Teras Jogja</title>
+  </programme>
+  <programme start="20210211125000 +0700" stop="20210211145000 +0700" channel="JITV">
+    <title lang="id">Sarasehan</title>
+  </programme>
+  <programme start="20210211145000 +0700" stop="20210211153000 +0700" channel="JITV">
+    <title lang="id">Jogjapedia</title>
+  </programme>
+  <programme start="20210211153000 +0700" stop="20210211163000 +0700" channel="JITV">
+    <title lang="id">Learning English</title>
+  </programme>
+  <programme start="20210211163000 +0700" stop="20210211180000 +0700" channel="JITV">
+    <title lang="id">Cinema Kota-Kota</title>
+  </programme>
+  <programme start="20210211180000 +0700" stop="20210211181500 +0700" channel="JITV">
+    <title lang="id">I Jogja</title>
+  </programme>
+  <programme start="20210211181500 +0700" stop="20210211184000 +0700" channel="JITV">
+    <title lang="id">Serat Nitipraja</title>
+  </programme>
+  <programme start="20210211184000 +0700" stop="20210211193000 +0700" channel="JITV">
+    <title lang="id">Jogja Belajar</title>
+  </programme>
+  <programme start="20210211193000 +0700" stop="20210211203000 +0700" channel="JITV">
+    <title lang="id">Keliling Jogja</title>
+  </programme>
+  <programme start="20210211203000 +0700" stop="20210211230000 +0700" channel="JITV">
+    <title lang="id">Sarasehan</title>
+  </programme>
+  <programme start="20210211230000 +0700" stop="20210212000000 +0700" channel="JITV">
+    <title lang="id">VOA On JITV</title>
+  </programme>
+  <programme start="20210211000000 +0700" stop="20210211010000 +0700" channel="Kompas TV">
+    <title lang="id">Berita Utama</title>
+  </programme>
+  <programme start="20210211010000 +0700" stop="20210211013000 +0700" channel="Kompas TV">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20210211013000 +0700" stop="20210211020000 +0700" channel="Kompas TV">
+    <title lang="id">Bingkai Inspirasi</title>
+  </programme>
+  <programme start="20210211020000 +0700" stop="20210211030000 +0700" channel="Kompas TV">
+    <title lang="id">Kompas Malam</title>
+  </programme>
+  <programme start="20210211030000 +0700" stop="20210211033000 +0700" channel="Kompas TV">
+    <title lang="id">Kilas Kompas</title>
+  </programme>
+  <programme start="20210211033000 +0700" stop="20210211040000 +0700" channel="Kompas TV">
+    <title lang="id">Kalam Hati</title>
+  </programme>
+  <programme start="20210211040000 +0700" stop="20210211043000 +0700" channel="Kompas TV">
+    <title lang="id">Kompas Sport Pagi</title>
+  </programme>
+  <programme start="20210211043000 +0700" stop="20210211070000 +0700" channel="Kompas TV">
+    <title lang="id">Kompas Pagi</title>
+  </programme>
+  <programme start="20210211070000 +0700" stop="20210211093000 +0700" channel="Kompas TV">
+    <title lang="id">Sapa Indonesia Pagi</title>
+  </programme>
+  <programme start="20210211093000 +0700" stop="20210211100000 +0700" channel="Kompas TV">
+    <title lang="id">Bincang Kita</title>
+  </programme>
+  <programme start="20210211100000 +0700" stop="20210211103000 +0700" channel="Kompas TV">
+    <title lang="id">Pop News</title>
+  </programme>
+  <programme start="20210211103000 +0700" stop="20210211110000 +0700" channel="Kompas TV">
+    <title lang="id">Ayo Sehat</title>
+  </programme>
+  <programme start="20210211110000 +0700" stop="20210211130000 +0700" channel="Kompas TV">
+    <title lang="id">Kompas Siang</title>
+  </programme>
+  <programme start="20210211130000 +0700" stop="20210211140000 +0700" channel="Kompas TV">
+    <title lang="id">Sapa Indonesia Siang</title>
+  </programme>
+  <programme start="20210211140000 +0700" stop="20210211143000 +0700" channel="Kompas TV">
+    <title lang="id">Zona Inspirasi</title>
+  </programme>
+  <programme start="20210211143000 +0700" stop="20210211150000 +0700" channel="Kompas TV">
+    <title lang="id">Saksi Kunci</title>
+  </programme>
+  <programme start="20210211150000 +0700" stop="20210211160000 +0700" channel="Kompas TV">
+    <title lang="id">Update Korona</title>
+  </programme>
+  <programme start="20210211160000 +0700" stop="20210211180000 +0700" channel="Kompas TV">
+    <title lang="id">Kompas Petang</title>
+  </programme>
+  <programme start="20210211180000 +0700" stop="20210211190000 +0700" channel="Kompas TV">
+    <title lang="id">Berita Utama</title>
+  </programme>
+  <programme start="20210211190000 +0700" stop="20210211200000 +0700" channel="Kompas TV">
+    <title lang="id">Sapa Indonesia Malam</title>
+  </programme>
+  <programme start="20210211200000 +0700" stop="20210211210000 +0700" channel="Kompas TV">
+    <title lang="id">Rosi</title>
+  </programme>
+  <programme start="20210211210000 +0700" stop="20210211220000 +0700" channel="Kompas TV">
+    <title lang="id">Kompas Malam</title>
+  </programme>
+  <programme start="20210211220000 +0700" stop="20210211230000 +0700" channel="Kompas TV">
+    <title lang="id">Kata Netizen</title>
+  </programme>
+  <programme start="20210211230000 +0700" stop="20210211233000 +0700" channel="Kompas TV">
+    <title lang="id">Kilas Kompas</title>
+  </programme>
+  <programme start="20210211233000 +0700" stop="20210212000000 +0700" channel="Kompas TV">
+    <title lang="id">Kompas Sport Malam</title>
+  </programme>
+  <programme start="20210211000500 +0700" stop="20210211010500 +0700" channel="Metro TV">
+    <title lang="id">Primetime News</title>
+  </programme>
+  <programme start="20210211010500 +0700" stop="20210211020500 +0700" channel="Metro TV">
+    <title lang="id">Prime Talk</title>
+  </programme>
+  <programme start="20210211020500 +0700" stop="20210211030500 +0700" channel="Metro TV">
+    <title lang="id">Susi Cek Ombak</title>
+  </programme>
+  <programme start="20210211030500 +0700" stop="20210211040500 +0700" channel="Metro TV">
+    <title lang="id">Top News</title>
+  </programme>
+  <programme start="20210211040500 +0700" stop="20210211043000 +0700" channel="Metro TV">
+    <title lang="id">Sirah Nabawiyah</title>
+  </programme>
+  <programme start="20210211043000 +0700" stop="20210211050500 +0700" channel="Metro TV">
+    <title lang="id">Metro Pagi Primetime</title>
+  </programme>
+  <programme start="20210211050500 +0700" stop="20210211060500 +0700" channel="Metro TV">
+    <title lang="id">Metro Pagi Primetime</title>
+  </programme>
+  <programme start="20210211060500 +0700" stop="20210211063000 +0700" channel="Metro TV">
+    <title lang="id">Metro Pagi Primetime</title>
+  </programme>
+  <programme start="20210211063000 +0700" stop="20210211070500 +0700" channel="Metro TV">
+    <title lang="id">Go Healthy</title>
+  </programme>
+  <programme start="20210211070500 +0700" stop="20210211073000 +0700" channel="Metro TV">
+    <title lang="id">Metro Xin Wen</title>
+  </programme>
+  <programme start="20210211073000 +0700" stop="20210211080500 +0700" channel="Metro TV">
+    <title lang="id">Selamat Pagi Indonesia</title>
+  </programme>
+  <programme start="20210211080500 +0700" stop="20210211090500 +0700" channel="Metro TV">
+    <title lang="id">Selamat Pagi Indonesia</title>
+  </programme>
+  <programme start="20210211090500 +0700" stop="20210211100500 +0700" channel="Metro TV">
+    <title lang="id">Selamat Pagi Indonesia</title>
+  </programme>
+  <programme start="20210211100500 +0700" stop="20210211103000 +0700" channel="Metro TV">
+    <title lang="id">Selamat Pagi Indonesia</title>
+  </programme>
+  <programme start="20210211103000 +0700" stop="20210211110500 +0700" channel="Metro TV">
+    <title lang="id">Go Healthy</title>
+  </programme>
+  <programme start="20210211110500 +0700" stop="20210211120500 +0700" channel="Metro TV">
+    <title lang="id">Metro Siang</title>
+  </programme>
+  <programme start="20210211120500 +0700" stop="20210211130500 +0700" channel="Metro TV">
+    <title lang="id">Metro Siang</title>
+  </programme>
+  <programme start="20210211130500 +0700" stop="20210211140500 +0700" channel="Metro TV">
+    <title lang="id">Newsline</title>
+  </programme>
+  <programme start="20210211140500 +0700" stop="20210211150500 +0700" channel="Metro TV">
+    <title lang="id">Newsline</title>
+  </programme>
+  <programme start="20210211150500 +0700" stop="20210211153000 +0700" channel="Metro TV">
+    <title lang="id">Newsline</title>
+  </programme>
+  <programme start="20210211153000 +0700" stop="20210211160500 +0700" channel="Metro TV">
+    <title lang="id">Covid-19 Update</title>
+  </programme>
+  <programme start="20210211160500 +0700" stop="20210211173000 +0700" channel="Metro TV">
+    <title lang="id">Metro Hari Ini</title>
+  </programme>
+  <programme start="20210211173000 +0700" stop="20210211183000 +0700" channel="Metro TV">
+    <title lang="id">Primetime News</title>
+  </programme>
+  <programme start="20210211183000 +0700" stop="20210211190500 +0700" channel="Metro TV">
+    <title lang="id">Primetime News</title>
+  </programme>
+  <programme start="20210211190500 +0700" stop="20210211200500 +0700" channel="Metro TV">
+    <title lang="id">Prime Talk</title>
+  </programme>
+  <programme start="20210211200500 +0700" stop="20210211210500 +0700" channel="Metro TV">
+    <title lang="id">Sharia Economic Talk With Gunawan Yasni</title>
+  </programme>
+  <programme start="20210211210500 +0700" stop="20210211220500 +0700" channel="Metro TV">
+    <title lang="id">Top News</title>
+  </programme>
+  <programme start="20210211220500 +0700" stop="20210211223000 +0700" channel="Metro TV">
+    <title lang="id">Metro Sport</title>
+  </programme>
+  <programme start="20210211223000 +0700" stop="20210211230500 +0700" channel="Metro TV">
+    <title lang="id">Metro Malam</title>
+  </programme>
+  <programme start="20210211230500 +0700" stop="20210212000500 +0700" channel="Metro TV">
+    <title lang="id">Metro Malam</title>
+  </programme>
+  <programme start="20210211003000 +0700" stop="20210211010000 +0700" channel="Net.">
+    <title lang="id">Waktu Indonesia Bercanda</title>
+  </programme>
+  <programme start="20210211010000 +0700" stop="20210211013000 +0700" channel="Net.">
+    <title lang="id">Waktu Indonesia Bercanda</title>
+  </programme>
+  <programme start="20210211013000 +0700" stop="20210211030000 +0700" channel="Net.">
+    <title lang="id">The Comment</title>
+  </programme>
+  <programme start="20210211030000 +0700" stop="20210211040000 +0700" channel="Net.">
+    <title lang="id">Nyonya Nunung</title>
+  </programme>
+  <programme start="20210211040000 +0700" stop="20210211050000 +0700" channel="Net.">
+    <title lang="id">86</title>
+  </programme>
+  <programme start="20210211050000 +0700" stop="20210211060000 +0700" channel="Net.">
+    <title lang="id">Peristawa</title>
+  </programme>
+  <programme start="20210211060000 +0700" stop="20210211073000 +0700" channel="Net.">
+    <title lang="id">Net. Family</title>
+  </programme>
+  <programme start="20210211073000 +0700" stop="20210211090000 +0700" channel="Net.">
+    <title lang="id">Net. Family</title>
+  </programme>
+  <programme start="20210211090000 +0700" stop="20210211100000 +0700" channel="Net.">
+    <title lang="id">Net. Family</title>
+  </programme>
+  <programme start="20210211100000 +0700" stop="20210211103000 +0700" channel="Net.">
+    <title lang="id">Potret Selebriti</title>
+  </programme>
+  <programme start="20210211103000 +0700" stop="20210211110000 +0700" channel="Net.">
+    <title lang="id">I Pop</title>
+  </programme>
+  <programme start="20210211110000 +0700" stop="20210211113000 +0700" channel="Net.">
+    <title lang="id">Selamat Siang Indonesia</title>
+  </programme>
+  <programme start="20210211113000 +0700" stop="20210211120000 +0700" channel="Net.">
+    <title lang="id">TTS - Tawa Tawa Santai</title>
+  </programme>
+  <programme start="20210211120000 +0700" stop="20210211133000 +0700" channel="Net.">
+    <title lang="id">Net. Mania</title>
+  </programme>
+  <programme start="20210211133000 +0700" stop="20210211150000 +0700" channel="Net.">
+    <title lang="id">Net. Movie</title>
+  </programme>
+  <programme start="20210211150000 +0700" stop="20210211160000 +0700" channel="Net.">
+    <title lang="id">The Return Of Superman</title>
+  </programme>
+  <programme start="20210211160000 +0700" stop="20210211170000 +0700" channel="Net.">
+    <title lang="id">Diary Bahagia</title>
+  </programme>
+  <programme start="20210211170000 +0700" stop="20210211180000 +0700" channel="Net.">
+    <title lang="id">Net. Drakor : The Gang Doctor</title>
+  </programme>
+  <programme start="20210211180000 +0700" stop="20210211191500 +0700" channel="Net.">
+    <title lang="id">In The Kost</title>
+  </programme>
+  <programme start="20210211191500 +0700" stop="20210211203000 +0700" channel="Net.">
+    <title lang="id">Net Turkish : Hercai</title>
+  </programme>
+  <programme start="20210211203000 +0700" stop="20210211210000 +0700" channel="Net.">
+    <title lang="id">Like It</title>
+  </programme>
+  <programme start="20210211210000 +0700" stop="20210211213000 +0700" channel="Net.">
+    <title lang="id">Jalan Kesembuhan: Angga Praja Buana</title>
+  </programme>
+  <programme start="20210211213000 +0700" stop="20210211223000 +0700" channel="Net.">
+    <title lang="id">Tonight Show</title>
+  </programme>
+  <programme start="20210211223000 +0700" stop="20210211233000 +0700" channel="Net.">
+    <title lang="id">86</title>
+  </programme>
+  <programme start="20210211233000 +0700" stop="20210212003000 +0700" channel="Net.">
+    <title lang="id">Jatanras</title>
+  </programme>
+  <programme start="20210212003000 +0700" stop="20210212010000 +0700" channel="Net.">
+    <title lang="id">Waktu Indonesia Bercanda</title>
+  </programme>
+  <programme start="20210212010000 +0700" stop="20210212013000 +0700" channel="Net.">
+    <title lang="id">Waktu Indonesia Bercanda</title>
+  </programme>
+  <programme start="20210212013000 +0700" stop="20210212030000 +0700" channel="Net.">
+    <title lang="id">The Comment</title>
+  </programme>
+  <programme start="20210212030000 +0700" stop="20210212040000 +0700" channel="Net.">
+    <title lang="id">Nyonya Nunung</title>
+  </programme>
+  <programme start="20210212040000 +0700" stop="20210212050000 +0700" channel="Net.">
+    <title lang="id">86</title>
+  </programme>
+  <programme start="20210212050000 +0700" stop="20210212060000 +0700" channel="Net.">
+    <title lang="id">Peristawa</title>
+  </programme>
+  <programme start="20210212060000 +0700" stop="20210212073000 +0700" channel="Net.">
+    <title lang="id">Net. Family</title>
+  </programme>
+  <programme start="20210212073000 +0700" stop="20210212090000 +0700" channel="Net.">
+    <title lang="id">Net. Family</title>
+  </programme>
+  <programme start="20210212090000 +0700" stop="20210212100000 +0700" channel="Net.">
+    <title lang="id">Net. Family</title>
+  </programme>
+  <programme start="20210212100000 +0700" stop="20210212103000 +0700" channel="Net.">
+    <title lang="id">Potret Selebriti</title>
+  </programme>
+  <programme start="20210212103000 +0700" stop="20210212110000 +0700" channel="Net.">
+    <title lang="id">I Pop</title>
+  </programme>
+  <programme start="20210212110000 +0700" stop="20210212113000 +0700" channel="Net.">
+    <title lang="id">Selamat Siang Indonesia</title>
+  </programme>
+  <programme start="20210212113000 +0700" stop="20210212120000 +0700" channel="Net.">
+    <title lang="id">TTS - Tawa Tawa Santai</title>
+  </programme>
+  <programme start="20210212120000 +0700" stop="20210212133000 +0700" channel="Net.">
+    <title lang="id">Net. Mania</title>
+  </programme>
+  <programme start="20210212133000 +0700" stop="20210212150000 +0700" channel="Net.">
+    <title lang="id">Net. Movie</title>
+  </programme>
+  <programme start="20210212150000 +0700" stop="20210212160000 +0700" channel="Net.">
+    <title lang="id">The Return Of Superman</title>
+  </programme>
+  <programme start="20210212160000 +0700" stop="20210212170000 +0700" channel="Net.">
+    <title lang="id">Diary Bahagia</title>
+  </programme>
+  <programme start="20210212170000 +0700" stop="20210212180000 +0700" channel="Net.">
+    <title lang="id">Net. Drakor : The Gang Doctor</title>
+  </programme>
+  <programme start="20210212180000 +0700" stop="20210212191500 +0700" channel="Net.">
+    <title lang="id">Like It</title>
+  </programme>
+  <programme start="20210212191500 +0700" stop="20210212203000 +0700" channel="Net.">
+    <title lang="id">Net Turkish : Hercai</title>
+  </programme>
+  <programme start="20210212203000 +0700" stop="20210212213000 +0700" channel="Net.">
+    <title lang="id">TTS - Tawa Tawa Santai</title>
+  </programme>
+  <programme start="20210212213000 +0700" stop="20210212223000 +0700" channel="Net.">
+    <title lang="id">Indonesias Next Top Model</title>
+  </programme>
+  <programme start="20210212223000 +0700" stop="20210212233000 +0700" channel="Net.">
+    <title lang="id">86</title>
+  </programme>
+  <programme start="20210212233000 +0700" stop="20210213003000 +0700" channel="Net.">
+    <title lang="id">Jatanras</title>
+  </programme>
+  <programme start="20210211000000 +0700" stop="20210211003000 +0700" channel="Rajawali TV">
+    <title lang="id">Mega Klasik</title>
+  </programme>
+  <programme start="20210212000000 +0700" stop="20210212003000 +0700" channel="Rajawali TV">
+    <title lang="id">Semangat Hidup</title>
+  </programme>
+  <programme start="20210212003000 +0700" stop="20210212010000 +0700" channel="Rajawali TV">
+    <title lang="id">Lensa Indonesia Malam</title>
+  </programme>
+  <programme start="20210212010000 +0700" stop="20210212013000 +0700" channel="Rajawali TV">
+    <title lang="id">Cermin Hati</title>
+  </programme>
+  <programme start="20210212013000 +0700" stop="20210212020000 +0700" channel="Rajawali TV">
+    <title lang="id">Mega Aksi</title>
+  </programme>
+  <programme start="20210212020000 +0700" stop="20210212030000 +0700" channel="Rajawali TV">
+    <title lang="id">Mega Klasik</title>
+  </programme>
+  <programme start="20210212030000 +0700" stop="20210212033000 +0700" channel="Rajawali TV">
+    <title lang="id">CSI - Catatan Seputar Investigasi</title>
+  </programme>
+  <programme start="20210212033000 +0700" stop="20210212040000 +0700" channel="Rajawali TV">
+    <title lang="id">Cahaya Ilahi</title>
+  </programme>
+  <programme start="20210212040000 +0700" stop="20210212043000 +0700" channel="Rajawali TV">
+    <title lang="id">Unik Enak</title>
+  </programme>
+  <programme start="20210212043000 +0700" stop="20210212053000 +0700" channel="Rajawali TV">
+    <title lang="id">Lensa Indonesia Pagi</title>
+  </programme>
+  <programme start="20210212053000 +0700" stop="20210212070000 +0700" channel="Rajawali TV">
+    <title lang="id">Omar Hana</title>
+  </programme>
+  <programme start="20210212070000 +0700" stop="20210212073000 +0700" channel="Rajawali TV">
+    <title lang="id">Riko The Series</title>
+  </programme>
+  <programme start="20210212073000 +0700" stop="20210212083000 +0700" channel="Rajawali TV">
+    <title lang="id">Sinema Ceria</title>
+  </programme>
+  <programme start="20210212083000 +0700" stop="20210212090000 +0700" channel="Rajawali TV">
+    <title lang="id">Unik Enak</title>
+  </programme>
+  <programme start="20210212090000 +0700" stop="20210212093000 +0700" channel="Rajawali TV">
+    <title lang="id">Caca Marica</title>
+  </programme>
+  <programme start="20210212093000 +0700" stop="20210212103000 +0700" channel="Rajawali TV">
+    <title lang="id">Sinema Ceria</title>
+  </programme>
+  <programme start="20210212103000 +0700" stop="20210212110000 +0700" channel="Rajawali TV">
+    <title lang="id">CSI - Catatan Seputar Investigasi</title>
+  </programme>
+  <programme start="20210212110000 +0700" stop="20210212113000 +0700" channel="Rajawali TV">
+    <title lang="id">Lensa Indonesia Siang</title>
+  </programme>
+  <programme start="20210212113000 +0700" stop="20210212123000 +0700" channel="Rajawali TV">
+    <title lang="id">Detektif Peet</title>
+  </programme>
+  <programme start="20210212123000 +0700" stop="20210212133000 +0700" channel="Rajawali TV">
+    <title lang="id">Sinema Ceria</title>
+  </programme>
+  <programme start="20210212133000 +0700" stop="20210212140000 +0700" channel="Rajawali TV">
+    <title lang="id">Stroberi</title>
+  </programme>
+  <programme start="20210212140000 +0700" stop="20210212150000 +0700" channel="Rajawali TV">
+    <title lang="id">Sinema Keluarga</title>
+  </programme>
+  <programme start="20210212150000 +0700" stop="20210212160000 +0700" channel="Rajawali TV">
+    <title lang="id">Omar Hana</title>
+  </programme>
+  <programme start="20210212160000 +0700" stop="20210212163000 +0700" channel="Rajawali TV">
+    <title lang="id">Sinema Keluarga</title>
+  </programme>
+  <programme start="20210212163000 +0700" stop="20210212173000 +0700" channel="Rajawali TV">
+    <title lang="id">Sinema Keluarga</title>
+  </programme>
+  <programme start="20210212173000 +0700" stop="20210212183000 +0700" channel="Rajawali TV">
+    <title lang="id">Sinema Keluarga</title>
+  </programme>
+  <programme start="20210212183000 +0700" stop="20210212190000 +0700" channel="Rajawali TV">
+    <title lang="id">Riko The Series</title>
+  </programme>
+  <programme start="20210212190000 +0700" stop="20210212203000 +0700" channel="Rajawali TV">
+    <title lang="id">Sinema Keluarga</title>
+  </programme>
+  <programme start="20210212203000 +0700" stop="20210212220000 +0700" channel="Rajawali TV">
+    <title lang="id">Mega Hero</title>
+  </programme>
+  <programme start="20210212220000 +0700" stop="20210212230000 +0700" channel="Rajawali TV">
+    <title lang="id">Mega Aksi</title>
+  </programme>
+  <programme start="20210212230000 +0700" stop="20210212233000 +0700" channel="Rajawali TV">
+    <title lang="id">102</title>
+  </programme>
+  <programme start="20210212233000 +0700" stop="20210213003000 +0700" channel="Rajawali TV">
+    <title lang="id">Mega Klasik</title>
+  </programme>
+  <programme start="20210214000000 +0700" stop="20210214003000 +0700" channel="Rajawali TV">
+    <title lang="id">Program Pengganti</title>
+  </programme>
+  <programme start="20210214003000 +0700" stop="20210214010000 +0700" channel="Rajawali TV">
+    <title lang="id">Lensa Indonesia Malam</title>
+  </programme>
+  <programme start="20210214010000 +0700" stop="20210214013000 +0700" channel="Rajawali TV">
+    <title lang="id">Cermin Hati</title>
+  </programme>
+  <programme start="20210214013000 +0700" stop="20210214020000 +0700" channel="Rajawali TV">
+    <title lang="id">Mega Aksi</title>
+  </programme>
+  <programme start="20210214020000 +0700" stop="20210214030000 +0700" channel="Rajawali TV">
+    <title lang="id">Mega Klasik</title>
+  </programme>
+  <programme start="20210214030000 +0700" stop="20210214033000 +0700" channel="Rajawali TV">
+    <title lang="id">CSI - Catatan Seputar Investigasi</title>
+  </programme>
+  <programme start="20210214033000 +0700" stop="20210214040000 +0700" channel="Rajawali TV">
+    <title lang="id">Cahaya Ilahi</title>
+  </programme>
+  <programme start="20210214040000 +0700" stop="20210214043000 +0700" channel="Rajawali TV">
+    <title lang="id">Unik Enak</title>
+  </programme>
+  <programme start="20210214043000 +0700" stop="20210214053000 +0700" channel="Rajawali TV">
+    <title lang="id">Lensa Indonesia Pagi</title>
+  </programme>
+  <programme start="20210214053000 +0700" stop="20210214070000 +0700" channel="Rajawali TV">
+    <title lang="id">Omar Hana</title>
+  </programme>
+  <programme start="20210214070000 +0700" stop="20210214073000 +0700" channel="Rajawali TV">
+    <title lang="id">Riko The Series</title>
+  </programme>
+  <programme start="20210214073000 +0700" stop="20210214083000 +0700" channel="Rajawali TV">
+    <title lang="id">Sinema Ceria</title>
+  </programme>
+  <programme start="20210214083000 +0700" stop="20210214090000 +0700" channel="Rajawali TV">
+    <title lang="id">Unik Enak</title>
+  </programme>
+  <programme start="20210214090000 +0700" stop="20210214103000 +0700" channel="Rajawali TV">
+    <title lang="id">Sinema Ceria</title>
+  </programme>
+  <programme start="20210214103000 +0700" stop="20210214110000 +0700" channel="Rajawali TV">
+    <title lang="id">CSI - Catatan Seputar Investigasi</title>
+  </programme>
+  <programme start="20210214110000 +0700" stop="20210214113000 +0700" channel="Rajawali TV">
+    <title lang="id">Lensa Indonesia Siang</title>
+  </programme>
+  <programme start="20210214113000 +0700" stop="20210214123000 +0700" channel="Rajawali TV">
+    <title lang="id">Detektif Peet</title>
+  </programme>
+  <programme start="20210214123000 +0700" stop="20210214133000 +0700" channel="Rajawali TV">
+    <title lang="id">Sinema Ceria</title>
+  </programme>
+  <programme start="20210214133000 +0700" stop="20210214150000 +0700" channel="Rajawali TV">
+    <title lang="id">Sinema Keluarga</title>
+  </programme>
+  <programme start="20210214150000 +0700" stop="20210214160000 +0700" channel="Rajawali TV">
+    <title lang="id">Omar Hana</title>
+  </programme>
+  <programme start="20210214160000 +0700" stop="20210214163000 +0700" channel="Rajawali TV">
+    <title lang="id">Sinema Keluarga</title>
+  </programme>
+  <programme start="20210214163000 +0700" stop="20210214173000 +0700" channel="Rajawali TV">
+    <title lang="id">Sinema Keluarga</title>
+  </programme>
+  <programme start="20210214173000 +0700" stop="20210214183000 +0700" channel="Rajawali TV">
+    <title lang="id">Sinema Keluarga</title>
+  </programme>
+  <programme start="20210214183000 +0700" stop="20210214190000 +0700" channel="Rajawali TV">
+    <title lang="id">Riko The Series</title>
+  </programme>
+  <programme start="20210214190000 +0700" stop="20210214203000 +0700" channel="Rajawali TV">
+    <title lang="id">Sinema Keluarga</title>
+  </programme>
+  <programme start="20210214203000 +0700" stop="20210214220000 +0700" channel="Rajawali TV">
+    <title lang="id">Mega Hero</title>
+  </programme>
+  <programme start="20210214220000 +0700" stop="20210214230000 +0700" channel="Rajawali TV">
+    <title lang="id">Mega Aksi</title>
+  </programme>
+  <programme start="20210214230000 +0700" stop="20210214233000 +0700" channel="Rajawali TV">
+    <title lang="id">Sportivi</title>
+  </programme>
+  <programme start="20210214233000 +0700" stop="20210215003000 +0700" channel="Rajawali TV">
+    <title lang="id">Mega Klasik</title>
+  </programme>
+  <programme start="20210215003000 +0700" stop="20210215010000 +0700" channel="Rajawali TV">
+    <title lang="id">Lensa Indonesia Malam</title>
+  </programme>
+  <programme start="20210215010000 +0700" stop="20210215013000 +0700" channel="Rajawali TV">
+    <title lang="id">Cermin Hati</title>
+  </programme>
+  <programme start="20210215013000 +0700" stop="20210215020000 +0700" channel="Rajawali TV">
+    <title lang="id">Mega Aksi</title>
+  </programme>
+  <programme start="20210215020000 +0700" stop="20210215030000 +0700" channel="Rajawali TV">
+    <title lang="id">Mega Aksi</title>
+  </programme>
+  <programme start="20210215030000 +0700" stop="20210215033000 +0700" channel="Rajawali TV">
+    <title lang="id">CSI - Catatan Seputar Investigasi</title>
+  </programme>
+  <programme start="20210215033000 +0700" stop="20210215040000 +0700" channel="Rajawali TV">
+    <title lang="id">Cahaya Ilahi</title>
+  </programme>
+  <programme start="20210215040000 +0700" stop="20210215043000 +0700" channel="Rajawali TV">
+    <title lang="id">Unik Enak</title>
+  </programme>
+  <programme start="20210215043000 +0700" stop="20210215053000 +0700" channel="Rajawali TV">
+    <title lang="id">Lensa Indonesia Pagi</title>
+  </programme>
+  <programme start="20210215053000 +0700" stop="20210215070000 +0700" channel="Rajawali TV">
+    <title lang="id">Omar Hana</title>
+  </programme>
+  <programme start="20210215070000 +0700" stop="20210215073000 +0700" channel="Rajawali TV">
+    <title lang="id">Riko The Series</title>
+  </programme>
+  <programme start="20210215073000 +0700" stop="20210215083000 +0700" channel="Rajawali TV">
+    <title lang="id">Sinema Ceria</title>
+  </programme>
+  <programme start="20210215083000 +0700" stop="20210215090000 +0700" channel="Rajawali TV">
+    <title lang="id">Unik Enak</title>
+  </programme>
+  <programme start="20210215090000 +0700" stop="20210215103000 +0700" channel="Rajawali TV">
+    <title lang="id">Sinema Ceria</title>
+  </programme>
+  <programme start="20210215103000 +0700" stop="20210215110000 +0700" channel="Rajawali TV">
+    <title lang="id">CSI - Catatan Seputar Investigasi</title>
+  </programme>
+  <programme start="20210215110000 +0700" stop="20210215113000 +0700" channel="Rajawali TV">
+    <title lang="id">Lensa Indonesia Siang</title>
+  </programme>
+  <programme start="20210215113000 +0700" stop="20210215123000 +0700" channel="Rajawali TV">
+    <title lang="id">Detektif Peet</title>
+  </programme>
+  <programme start="20210215123000 +0700" stop="20210215133000 +0700" channel="Rajawali TV">
+    <title lang="id">Sinema Ceria</title>
+  </programme>
+  <programme start="20210215133000 +0700" stop="20210215150000 +0700" channel="Rajawali TV">
+    <title lang="id">Sinema Keluarga</title>
+  </programme>
+  <programme start="20210215150000 +0700" stop="20210215160000 +0700" channel="Rajawali TV">
+    <title lang="id">Omar Hana</title>
+  </programme>
+  <programme start="20210215160000 +0700" stop="20210215163000 +0700" channel="Rajawali TV">
+    <title lang="id">Sinema Keluarga</title>
+  </programme>
+  <programme start="20210215163000 +0700" stop="20210215173000 +0700" channel="Rajawali TV">
+    <title lang="id">Sinema Keluarga</title>
+  </programme>
+  <programme start="20210215173000 +0700" stop="20210215183000 +0700" channel="Rajawali TV">
+    <title lang="id">Sinema Keluarga</title>
+  </programme>
+  <programme start="20210215183000 +0700" stop="20210215190000 +0700" channel="Rajawali TV">
+    <title lang="id">Riko The Series</title>
+  </programme>
+  <programme start="20210215190000 +0700" stop="20210215203000 +0700" channel="Rajawali TV">
+    <title lang="id">Sinema Keluarga</title>
+  </programme>
+  <programme start="20210215203000 +0700" stop="20210215220000 +0700" channel="Rajawali TV">
+    <title lang="id">Mega Hero</title>
+  </programme>
+  <programme start="20210215220000 +0700" stop="20210215230000 +0700" channel="Rajawali TV">
+    <title lang="id">Mega Aksi</title>
+  </programme>
+  <programme start="20210215230000 +0700" stop="20210215233000 +0700" channel="Rajawali TV">
+    <title lang="id">Sportivi</title>
+  </programme>
+  <programme start="20210215233000 +0700" stop="20210216003000 +0700" channel="Rajawali TV">
+    <title lang="id">Mega Klasik</title>
+  </programme>
+  <programme start="20210211000000 +0700" stop="20210211060000 +0700" channel="RRI NET">
+    <title lang="id">Color Bar</title>
+  </programme>
+  <programme start="20210211060000 +0700" stop="20210211070000 +0700" channel="RRI NET">
+    <title lang="id">Radio Tanggap Bencana Covid 19</title>
+  </programme>
+  <programme start="20210211070000 +0700" stop="20210211090000 +0700" channel="RRI NET">
+    <title lang="id">Radio Tanggap Bencana Covid 19</title>
+  </programme>
+  <programme start="20210211090000 +0700" stop="20210211100000 +0700" channel="RRI NET">
+    <title lang="id">Morning Live Chat</title>
+  </programme>
+  <programme start="20210211100000 +0700" stop="20210211130000 +0700" channel="RRI NET">
+    <title lang="id">Radio Tanggap Bencana Covid 19</title>
+  </programme>
+  <programme start="20210211130000 +0700" stop="20210211150000 +0700" channel="RRI NET">
+    <title lang="id">Pro Dangdut</title>
+  </programme>
+  <programme start="20210211150000 +0700" stop="20210211170000 +0700" channel="RRI NET">
+    <title lang="id">RRI Show</title>
+  </programme>
+  <programme start="20210211170000 +0700" stop="20210211180000 +0700" channel="RRI NET">
+    <title lang="id">Lintas Jakarta Sore</title>
+  </programme>
+  <programme start="20210211180000 +0700" stop="20210211200000 +0700" channel="RRI NET">
+    <title lang="id">Radio Tanggap Bencana Covid 19</title>
+  </programme>
+  <programme start="20210211200000 +0700" stop="20210211203000 +0700" channel="RRI NET">
+    <title lang="id">Radio Tanggap Bencana Covid 19</title>
+  </programme>
+  <programme start="20210211203000 +0700" stop="20210211220000 +0700" channel="RRI NET">
+    <title lang="id">RRI Live Music</title>
+  </programme>
+  <programme start="20210211220000 +0700" stop="20210211230000 +0700" channel="RRI NET">
+    <title lang="id">Obrolan Budaya</title>
+  </programme>
+  <programme start="20210211230000 +0700" stop="20210212000000 +0700" channel="RRI NET">
+    <title lang="id">Radio Tanggap Bencana Covid 19</title>
+  </programme>
+  <programme start="20210211013000 +0700" stop="20210211020000 +0700" channel="SCTV">
+    <title lang="id">Liputan 6 Malam</title>
+  </programme>
+  <programme start="20210211020000 +0700" stop="20210211033000 +0700" channel="SCTV">
+    <title lang="id">Cinta Raka Buat Riri</title>
+  </programme>
+  <programme start="20210211033000 +0700" stop="20210211040000 +0700" channel="SCTV">
+    <title lang="id">Emak Ijah</title>
+  </programme>
+  <programme start="20210211040000 +0700" stop="20210211043000 +0700" channel="SCTV">
+    <title lang="id">Kata Ustadz Solmed</title>
+  </programme>
+  <programme start="20210211043000 +0700" stop="20210211060000 +0700" channel="SCTV">
+    <title lang="id">Liputan 6 Pagi</title>
+  </programme>
+  <programme start="20210211060000 +0700" stop="20210211063000 +0700" channel="SCTV">
+    <title lang="id">Buser File</title>
+  </programme>
+  <programme start="20210211063000 +0700" stop="20210211080000 +0700" channel="SCTV">
+    <title lang="id">Halo Selebriti</title>
+  </programme>
+  <programme start="20210211080000 +0700" stop="20210211100000 +0700" channel="SCTV">
+    <title lang="id">Rebutan Hati Miss Cupu</title>
+  </programme>
+  <programme start="20210211100000 +0700" stop="20210211120000 +0700" channel="SCTV">
+    <title lang="id">Modal Nasi Bungkus Balik Modal Jodoh</title>
+  </programme>
+  <programme start="20210211120000 +0700" stop="20210211123000 +0700" channel="SCTV">
+    <title lang="id">Liputan 6 Siang</title>
+  </programme>
+  <programme start="20210211123000 +0700" stop="20210211133000 +0700" channel="SCTV">
+    <title lang="id">Penakluk Hati</title>
+  </programme>
+  <programme start="20210211133000 +0700" stop="20210211150000 +0700" channel="SCTV">
+    <title lang="id">Salah Jatuh Cinta</title>
+  </programme>
+  <programme start="20210211150000 +0700" stop="20210211164500 +0700" channel="SCTV">
+    <title lang="id">Rindu Yang Tak Bisa Dijelaskan</title>
+  </programme>
+  <programme start="20210211164500 +0700" stop="20210211181500 +0700" channel="SCTV">
+    <title lang="id">Dari Jendela SMP</title>
+  </programme>
+  <programme start="20210211181500 +0700" stop="20210211200000 +0700" channel="SCTV">
+    <title lang="id">Buku Harian Seorang Istri</title>
+  </programme>
+  <programme start="20210211200000 +0700" stop="20210211214500 +0700" channel="SCTV">
+    <title lang="id">Love Story The Series</title>
+  </programme>
+  <programme start="20210211214500 +0700" stop="20210211233000 +0700" channel="SCTV">
+    <title lang="id">Samudra Cinta</title>
+  </programme>
+  <programme start="20210211233000 +0700" stop="20210212004500 +0700" channel="SCTV">
+    <title lang="id">The Wonder Inem</title>
+  </programme>
+  <programme start="20210211000000 +0700" stop="20210211023000 +0700" channel="Trans7">
+    <title lang="id">Theather: Babeh Jagoan A.K.A Koboi Senior</title>
+  </programme>
+  <programme start="20210211023000 +0700" stop="20210211033000 +0700" channel="Trans7">
+    <title lang="id">Kisah Nyata</title>
+  </programme>
+  <programme start="20210211033000 +0700" stop="20210211040000 +0700" channel="Trans7">
+    <title lang="id">Cermin Kehidupan</title>
+  </programme>
+  <programme start="20210211040000 +0700" stop="20210211043000 +0700" channel="Trans7">
+    <title lang="id">Treasure Trekkers</title>
+  </programme>
+  <programme start="20210211043000 +0700" stop="20210211053000 +0700" channel="Trans7">
+    <title lang="id">Cermin Kehidupan</title>
+  </programme>
+  <programme start="20210211053000 +0700" stop="20210211060000 +0700" channel="Trans7">
+    <title lang="id">Khazanah</title>
+  </programme>
+  <programme start="20210211060000 +0700" stop="20210211070000 +0700" channel="Trans7">
+    <title lang="id">Redaksi Pagi</title>
+  </programme>
+  <programme start="20210211070000 +0700" stop="20210211073000 +0700" channel="Trans7">
+    <title lang="id">Ragam Indonesia</title>
+  </programme>
+  <programme start="20210211073000 +0700" stop="20210211080000 +0700" channel="Trans7">
+    <title lang="id">Selebrita Pagi</title>
+  </programme>
+  <programme start="20210211084500 +0700" stop="20210211093000 +0700" channel="Trans7">
+    <title lang="id">Warga 62</title>
+  </programme>
+  <programme start="20210211093000 +0700" stop="20210211100000 +0700" channel="Trans7">
+    <title lang="id">Enaknya Mantul</title>
+  </programme>
+  <programme start="20210211100000 +0700" stop="20210211103000 +0700" channel="Trans7">
+    <title lang="id">Bocah Ngapa K Ya</title>
+  </programme>
+  <programme start="20210211103000 +0700" stop="20210211113000 +0700" channel="Trans7">
+    <title lang="id">Okay Bos</title>
+  </programme>
+  <programme start="20210211113000 +0700" stop="20210211120000 +0700" channel="Trans7">
+    <title lang="id">Redaksi Siang</title>
+  </programme>
+  <programme start="20210211120000 +0700" stop="20210211123000 +0700" channel="Trans7">
+    <title lang="id">Si Unyil</title>
+  </programme>
+  <programme start="20210211123000 +0700" stop="20210211130000 +0700" channel="Trans7">
+    <title lang="id">Bocah Petualang</title>
+  </programme>
+  <programme start="20210211130000 +0700" stop="20210211133000 +0700" channel="Trans7">
+    <title lang="id">Si Otan</title>
+  </programme>
+  <programme start="20210211133000 +0700" stop="20210211140000 +0700" channel="Trans7">
+    <title lang="id">Tau Gak Sih</title>
+  </programme>
+  <programme start="20210211140000 +0700" stop="20210211144500 +0700" channel="Trans7">
+    <title lang="id">Jejak Petualang</title>
+  </programme>
+  <programme start="20210211144500 +0700" stop="20210211154500 +0700" channel="Trans7">
+    <title lang="id">Redaksi Sore</title>
+  </programme>
+  <programme start="20210211154500 +0700" stop="20210211163000 +0700" channel="Trans7">
+    <title lang="id">Jejak Si Gundul</title>
+  </programme>
+  <programme start="20210211163000 +0700" stop="20210211171500 +0700" channel="Trans7">
+    <title lang="id">Makan Receh</title>
+  </programme>
+  <programme start="20210211171500 +0700" stop="20210211180000 +0700" channel="Trans7">
+    <title lang="id">Selebrita Expose</title>
+  </programme>
+  <programme start="20210211190000 +0700" stop="20210211200000 +0700" channel="Trans7">
+    <title lang="id">The Police</title>
+  </programme>
+  <programme start="20210211200000 +0700" stop="20210211213000 +0700" channel="Trans7">
+    <title lang="id">Opera Van Java</title>
+  </programme>
+  <programme start="20210211213000 +0700" stop="20210211223000 +0700" channel="Trans7">
+    <title lang="id">Indonesia Giveaway</title>
+  </programme>
+  <programme start="20210211223000 +0700" stop="20210211230000 +0700" channel="Trans7">
+    <title lang="id">Krim Malam</title>
+  </programme>
+  <programme start="20210211230000 +0700" stop="20210211233000 +0700" channel="Trans7">
+    <title lang="id">Redaksi Malam</title>
+  </programme>
+  <programme start="20210211233000 +0700" stop="20210212000000 +0700" channel="Trans7">
+    <title lang="id">Sport 7</title>
+  </programme>
+  <programme start="20210212000000 +0700" stop="20210212023000 +0700" channel="Trans7">
+    <title lang="id">Theater: Kebangkitan Nyai Kembang A.K.A Dendam Dari Gunung Merapi: Titisan Nyai Kembang</title>
+  </programme>
+  <programme start="20210212023000 +0700" stop="20210212033000 +0700" channel="Trans7">
+    <title lang="id">Kisah Nyata</title>
+  </programme>
+  <programme start="20210212033000 +0700" stop="20210212040000 +0700" channel="Trans7">
+    <title lang="id">Cermin Kehidupan</title>
+  </programme>
+  <programme start="20210212040000 +0700" stop="20210212043000 +0700" channel="Trans7">
+    <title lang="id">Treasure Trekkers</title>
+  </programme>
+  <programme start="20210212043000 +0700" stop="20210212053000 +0700" channel="Trans7">
+    <title lang="id">Cermin Kehidupan</title>
+  </programme>
+  <programme start="20210212053000 +0700" stop="20210212060000 +0700" channel="Trans7">
+    <title lang="id">Khazanah</title>
+  </programme>
+  <programme start="20210212060000 +0700" stop="20210212070000 +0700" channel="Trans7">
+    <title lang="id">Redaksi Pagi</title>
+  </programme>
+  <programme start="20210212070000 +0700" stop="20210212073000 +0700" channel="Trans7">
+    <title lang="id">Ragam Indonesia</title>
+  </programme>
+  <programme start="20210212073000 +0700" stop="20210212080000 +0700" channel="Trans7">
+    <title lang="id">Selebrita Pagi</title>
+  </programme>
+  <programme start="20210212084500 +0700" stop="20210212093000 +0700" channel="Trans7">
+    <title lang="id">Warga 62</title>
+  </programme>
+  <programme start="20210212093000 +0700" stop="20210212100000 +0700" channel="Trans7">
+    <title lang="id">Enaknya Mantul</title>
+  </programme>
+  <programme start="20210212100000 +0700" stop="20210212103000 +0700" channel="Trans7">
+    <title lang="id">Bocah Ngapa K Ya</title>
+  </programme>
+  <programme start="20210212103000 +0700" stop="20210212113000 +0700" channel="Trans7">
+    <title lang="id">Okay Bos</title>
+  </programme>
+  <programme start="20210212113000 +0700" stop="20210212120000 +0700" channel="Trans7">
+    <title lang="id">Redaksi Siang</title>
+  </programme>
+  <programme start="20210212120000 +0700" stop="20210212123000 +0700" channel="Trans7">
+    <title lang="id">Si Unyil</title>
+  </programme>
+  <programme start="20210212123000 +0700" stop="20210212130000 +0700" channel="Trans7">
+    <title lang="id">Bocah Petualang</title>
+  </programme>
+  <programme start="20210212130000 +0700" stop="20210212133000 +0700" channel="Trans7">
+    <title lang="id">Si Otan</title>
+  </programme>
+  <programme start="20210212133000 +0700" stop="20210212140000 +0700" channel="Trans7">
+    <title lang="id">Tau Gak Sih</title>
+  </programme>
+  <programme start="20210212140000 +0700" stop="20210212144500 +0700" channel="Trans7">
+    <title lang="id">Jejak Petualang</title>
+  </programme>
+  <programme start="20210212144500 +0700" stop="20210212154500 +0700" channel="Trans7">
+    <title lang="id">Redaksi Sore</title>
+  </programme>
+  <programme start="20210212154500 +0700" stop="20210212163000 +0700" channel="Trans7">
+    <title lang="id">Jejak Si Gundul</title>
+  </programme>
+  <programme start="20210212163000 +0700" stop="20210212171500 +0700" channel="Trans7">
+    <title lang="id">Makan Receh</title>
+  </programme>
+  <programme start="20210212171500 +0700" stop="20210212180000 +0700" channel="Trans7">
+    <title lang="id">Selebrita Expose</title>
+  </programme>
+  <programme start="20210212190000 +0700" stop="20210212200000 +0700" channel="Trans7">
+    <title lang="id">The Police</title>
+  </programme>
+  <programme start="20210212200000 +0700" stop="20210212213000 +0700" channel="Trans7">
+    <title lang="id">Mata Najwa</title>
+  </programme>
+  <programme start="20210212213000 +0700" stop="20210212230000 +0700" channel="Trans7">
+    <title lang="id">Opera Van Java</title>
+  </programme>
+  <programme start="20210212230000 +0700" stop="20210212233000 +0700" channel="Trans7">
+    <title lang="id">Krim Malam</title>
+  </programme>
+  <programme start="20210212233000 +0700" stop="20210213000000 +0700" channel="Trans7">
+    <title lang="id">Redaksi Malam</title>
+  </programme>
+  <programme start="20210213000000 +0700" stop="20210213003000 +0700" channel="Trans7">
+    <title lang="id">Sport 7</title>
+  </programme>
+  <programme start="20210213003000 +0700" stop="20210213020000 +0700" channel="Trans7">
+    <title lang="id">Theater: Misteri Penunggu Pohon Jati A.K.A Kampung Djati</title>
+  </programme>
+  <programme start="20210213020000 +0700" stop="20210213023000 +0700" channel="Trans7">
+    <title lang="id">Rekonstruksi</title>
+  </programme>
+  <programme start="20210213023000 +0700" stop="20210213033000 +0700" channel="Trans7">
+    <title lang="id">Kisah Nyata</title>
+  </programme>
+  <programme start="20210213033000 +0700" stop="20210213040000 +0700" channel="Trans7">
+    <title lang="id">Cermin Kehidupan</title>
+  </programme>
+  <programme start="20210213040000 +0700" stop="20210213043000 +0700" channel="Trans7">
+    <title lang="id">Treasure Trekkers</title>
+  </programme>
+  <programme start="20210213043000 +0700" stop="20210213053000 +0700" channel="Trans7">
+    <title lang="id">Cermin Kehidupan</title>
+  </programme>
+  <programme start="20210213053000 +0700" stop="20210213060000 +0700" channel="Trans7">
+    <title lang="id">Khazanah</title>
+  </programme>
+  <programme start="20210213060000 +0700" stop="20210213070000 +0700" channel="Trans7">
+    <title lang="id">Redaksi Pagi</title>
+  </programme>
+  <programme start="20210213070000 +0700" stop="20210213073000 +0700" channel="Trans7">
+    <title lang="id">Ragam Indonesia</title>
+  </programme>
+  <programme start="20210213073000 +0700" stop="20210213080000 +0700" channel="Trans7">
+    <title lang="id">Selebrita Pagi</title>
+  </programme>
+  <programme start="20210213084500 +0700" stop="20210213093000 +0700" channel="Trans7">
+    <title lang="id">Warga 62</title>
+  </programme>
+  <programme start="20210213093000 +0700" stop="20210213100000 +0700" channel="Trans7">
+    <title lang="id">Enaknya Mantul</title>
+  </programme>
+  <programme start="20210213100000 +0700" stop="20210213103000 +0700" channel="Trans7">
+    <title lang="id">Bocah Ngapa K Ya</title>
+  </programme>
+  <programme start="20210213103000 +0700" stop="20210213113000 +0700" channel="Trans7">
+    <title lang="id">Okay Bos</title>
+  </programme>
+  <programme start="20210213113000 +0700" stop="20210213120000 +0700" channel="Trans7">
+    <title lang="id">Redaksi Siang</title>
+  </programme>
+  <programme start="20210213120000 +0700" stop="20210213123000 +0700" channel="Trans7">
+    <title lang="id">Si Unyil</title>
+  </programme>
+  <programme start="20210213123000 +0700" stop="20210213130000 +0700" channel="Trans7">
+    <title lang="id">Bocah Petualang</title>
+  </programme>
+  <programme start="20210213130000 +0700" stop="20210213133000 +0700" channel="Trans7">
+    <title lang="id">Si Otan</title>
+  </programme>
+  <programme start="20210213133000 +0700" stop="20210213140000 +0700" channel="Trans7">
+    <title lang="id">Tau Gak Sih</title>
+  </programme>
+  <programme start="20210213140000 +0700" stop="20210213144500 +0700" channel="Trans7">
+    <title lang="id">Jejak Anak Negeri</title>
+  </programme>
+  <programme start="20210213144500 +0700" stop="20210213154500 +0700" channel="Trans7">
+    <title lang="id">Redaksi Sore</title>
+  </programme>
+  <programme start="20210213154500 +0700" stop="20210213163000 +0700" channel="Trans7">
+    <title lang="id">Jejak Si Gundul</title>
+  </programme>
+  <programme start="20210213163000 +0700" stop="20210213171500 +0700" channel="Trans7">
+    <title lang="id">Makan Receh</title>
+  </programme>
+  <programme start="20210213171500 +0700" stop="20210213180000 +0700" channel="Trans7">
+    <title lang="id">Selebrita Expose</title>
+  </programme>
+  <programme start="20210213190000 +0700" stop="20210213200000 +0700" channel="Trans7">
+    <title lang="id">The Police</title>
+  </programme>
+  <programme start="20210213200000 +0700" stop="20210213213000 +0700" channel="Trans7">
+    <title lang="id">Opera Van Java</title>
+  </programme>
+  <programme start="20210213213000 +0700" stop="20210213223000 +0700" channel="Trans7">
+    <title lang="id">Indonesia Giveaway</title>
+  </programme>
+  <programme start="20210213223000 +0700" stop="20210213230000 +0700" channel="Trans7">
+    <title lang="id">Krim Malam</title>
+  </programme>
+  <programme start="20210213230000 +0700" stop="20210213233000 +0700" channel="Trans7">
+    <title lang="id">Redaksi Malam</title>
+  </programme>
+  <programme start="20210213233000 +0700" stop="20210214000000 +0700" channel="Trans7">
+    <title lang="id">Sport 7</title>
+  </programme>
+  <programme start="20210211013000 +0700" stop="20210211023000 +0700" channel="TransTV">
+    <title lang="id">The K2</title>
+  </programme>
+  <programme start="20210211023000 +0700" stop="20210211032000 +0700" channel="TransTV">
+    <title lang="id">CNN Indonesia Connected</title>
+  </programme>
+  <programme start="20210211032000 +0700" stop="20210211042000 +0700" channel="TransTV">
+    <title lang="id">Angels Last Mission: Love</title>
+  </programme>
+  <programme start="20210211042000 +0700" stop="20210211050000 +0700" channel="TransTV">
+    <title lang="id">Angels Last Mission: Love</title>
+  </programme>
+  <programme start="20210211050000 +0700" stop="20210211063000 +0700" channel="TransTV">
+    <title lang="id">Islam Itu Indah</title>
+  </programme>
+  <programme start="20210211063000 +0700" stop="20210211073000 +0700" channel="TransTV">
+    <title lang="id">Insert Pagi</title>
+  </programme>
+  <programme start="20210211073000 +0700" stop="20210211083000 +0700" channel="TransTV">
+    <title lang="id">CNN Indonesia Good Morning</title>
+  </programme>
+  <programme start="20210211083000 +0700" stop="20210211100000 +0700" channel="TransTV">
+    <title lang="id">Pagi-Pagi Ambyar</title>
+  </programme>
+  <programme start="20210211100000 +0700" stop="20210211113000 +0700" channel="TransTV">
+    <title lang="id">Kopi Viral</title>
+  </programme>
+  <programme start="20210211113000 +0700" stop="20210211123000 +0700" channel="TransTV">
+    <title lang="id">Insert</title>
+  </programme>
+  <programme start="20210211123000 +0700" stop="20210211140000 +0700" channel="TransTV">
+    <title lang="id">Brownis - Obrowlan Manis</title>
+  </programme>
+  <programme start="20210211140000 +0700" stop="20210211150000 +0700" channel="TransTV">
+    <title lang="id">Rumpi No Secret</title>
+  </programme>
+  <programme start="20210211150000 +0700" stop="20210211160000 +0700" channel="TransTV">
+    <title lang="id">Insert Today</title>
+  </programme>
+  <programme start="20210211160000 +0700" stop="20210211170000 +0700" channel="TransTV">
+    <title lang="id">CNN Indonesia News Update</title>
+  </programme>
+  <programme start="20210211170000 +0700" stop="20210211180000 +0700" channel="TransTV">
+    <title lang="id">Bikin Laper</title>
+  </programme>
+  <programme start="20210211180000 +0700" stop="20210211193000 +0700" channel="TransTV">
+    <title lang="id">Drama Korea TRANSTV</title>
+  </programme>
+  <programme start="20210211193000 +0700" stop="20210211203000 +0700" channel="TransTV">
+    <title lang="id">Keluarga Bosque</title>
+  </programme>
+  <programme start="20210211203000 +0700" stop="20210211213000 +0700" channel="TransTV">
+    <title lang="id">CNN Indonesia Prime News</title>
+  </programme>
+  <programme start="20210211213000 +0700" stop="20210211233000 +0700" channel="TransTV">
+    <title lang="id">Bioskop TRANSTV</title>
+  </programme>
+  <programme start="20210211233000 +0700" stop="20210212013000 +0700" channel="TransTV">
+    <title lang="id">Bioskop TRANSTV</title>
+  </programme>
+  <programme start="20210211000000 +0700" stop="20210211003000 +0700" channel="M Shop">
+    <title lang="id">Bioskin Men Underwear</title>
+  </programme>
+  <programme start="20210211003000 +0700" stop="20210211010000 +0700" channel="M Shop">
+    <title lang="id">Enter Elektronik</title>
+  </programme>
+  <programme start="20210211010000 +0700" stop="20210211013000 +0700" channel="M Shop">
+    <title lang="id">Arres Man Ring</title>
+  </programme>
+  <programme start="20210211013000 +0700" stop="20210211020000 +0700" channel="M Shop">
+    <title lang="id">Siti Khadijah Mukena Sulam</title>
+  </programme>
+  <programme start="20210211020000 +0700" stop="20210211023000 +0700" channel="M Shop">
+    <title lang="id">Kamasu</title>
+  </programme>
+  <programme start="20210211023000 +0700" stop="20210211030000 +0700" channel="M Shop">
+    <title lang="id">Aldo CCTV</title>
+  </programme>
+  <programme start="20210211030000 +0700" stop="20210211033000 +0700" channel="M Shop">
+    <title lang="id">Easy Dew</title>
+  </programme>
+  <programme start="20210211033000 +0700" stop="20210211040000 +0700" channel="M Shop">
+    <title lang="id">Minka Blender Pro</title>
+  </programme>
+  <programme start="20210211040000 +0700" stop="20210211043000 +0700" channel="M Shop">
+    <title lang="id">Rolens Al Attar</title>
+  </programme>
+  <programme start="20210211043000 +0700" stop="20210211050000 +0700" channel="M Shop">
+    <title lang="id">RB Air Fryer Oven</title>
+  </programme>
+  <programme start="20210211050000 +0700" stop="20210211053000 +0700" channel="M Shop">
+    <title lang="id">Al Quran New Al Fatih</title>
+  </programme>
+  <programme start="20210211053000 +0700" stop="20210211060000 +0700" channel="M Shop">
+    <title lang="id">Al Attar Helath Necklace</title>
+  </programme>
+  <programme start="20210211060000 +0700" stop="20210211063000 +0700" channel="M Shop">
+    <title lang="id">Kloken Tent</title>
+  </programme>
+  <programme start="20210211063000 +0700" stop="20210211070000 +0700" channel="M Shop">
+    <title lang="id">Re-Kitchen</title>
+  </programme>
+  <programme start="20210211070000 +0700" stop="20210211073000 +0700" channel="M Shop">
+    <title lang="id">Intex Rest Raised Airbed</title>
+  </programme>
+  <programme start="20210211073000 +0700" stop="20210211080000 +0700" channel="M Shop">
+    <title lang="id">Dr Duck Pro</title>
+  </programme>
+  <programme start="20210211080000 +0700" stop="20210211083000 +0700" channel="M Shop">
+    <title lang="id">Mega 6</title>
+  </programme>
+  <programme start="20210211083000 +0700" stop="20210211090000 +0700" channel="M Shop">
+    <title lang="id">Lock n Lock Multi Air Fryer</title>
+  </programme>
+  <programme start="20210211090000 +0700" stop="20210211093000 +0700" channel="M Shop">
+    <title lang="id">Curble Chair</title>
+  </programme>
+  <programme start="20210211093000 +0700" stop="20210211100000 +0700" channel="M Shop">
+    <title lang="id">Smart Keuken</title>
+  </programme>
+  <programme start="20210211100000 +0700" stop="20210211103000 +0700" channel="M Shop">
+    <title lang="id">Jetz Scalar Energy</title>
+  </programme>
+  <programme start="20210211103000 +0700" stop="20210211110000 +0700" channel="M Shop">
+    <title lang="id">Minka Frying Pan Set</title>
+  </programme>
+  <programme start="20210211110000 +0700" stop="20210211113000 +0700" channel="M Shop">
+    <title lang="id">Ko-Hyang Kimchi</title>
+  </programme>
+  <programme start="20210211113000 +0700" stop="20210211120000 +0700" channel="M Shop">
+    <title lang="id">EZ Black Cream</title>
+  </programme>
+  <programme start="20210211120000 +0700" stop="20210211123000 +0700" channel="M Shop">
+    <title lang="id">Sameo 3 In 1 Gas Stove</title>
+  </programme>
+  <programme start="20210211123000 +0700" stop="20210211130000 +0700" channel="M Shop">
+    <title lang="id">Intex Rest Raised Airbed</title>
+  </programme>
+  <programme start="20210211130000 +0700" stop="20210211133000 +0700" channel="M Shop">
+    <title lang="id">Dr Duck Pro</title>
+  </programme>
+  <programme start="20210211133000 +0700" stop="20210211140000 +0700" channel="M Shop">
+    <title lang="id">Al Attar Helath Necklace</title>
+  </programme>
+  <programme start="20210211140000 +0700" stop="20210211143000 +0700" channel="M Shop">
+    <title lang="id">Moncook Grill</title>
+  </programme>
+  <programme start="20210211143000 +0700" stop="20210211150000 +0700" channel="M Shop">
+    <title lang="id">IMO-100</title>
+  </programme>
+  <programme start="20210211150000 +0700" stop="20210211153000 +0700" channel="M Shop">
+    <title lang="id">Hulock Food Container</title>
+  </programme>
+  <programme start="20210211153000 +0700" stop="20210211160000 +0700" channel="M Shop">
+    <title lang="id">Dr Duck Pro</title>
+  </programme>
+  <programme start="20210211160000 +0700" stop="20210211163000 +0700" channel="M Shop">
+    <title lang="id">Lock n Lock Magic Oven</title>
+  </programme>
+  <programme start="20210211163000 +0700" stop="20210211170000 +0700" channel="M Shop">
+    <title lang="id">Moskiller</title>
+  </programme>
+  <programme start="20210211170000 +0700" stop="20210211173000 +0700" channel="M Shop">
+    <title lang="id">Range Mat</title>
+  </programme>
+  <programme start="20210211173000 +0700" stop="20210211180000 +0700" channel="M Shop">
+    <title lang="id">King Al Attar</title>
+  </programme>
+  <programme start="20210211180000 +0700" stop="20210211183000 +0700" channel="M Shop">
+    <title lang="id">Lock n Lock Multi Air Fryer</title>
+  </programme>
+  <programme start="20210211183000 +0700" stop="20210211190000 +0700" channel="M Shop">
+    <title lang="id">Smart Keuken</title>
+  </programme>
+  <programme start="20210211190000 +0700" stop="20210211193000 +0700" channel="M Shop">
+    <title lang="id">Minka Bread</title>
+  </programme>
+  <programme start="20210211193000 +0700" stop="20210211200000 +0700" channel="M Shop">
+    <title lang="id">Electrolux</title>
+  </programme>
+  <programme start="20210211200000 +0700" stop="20210211203000 +0700" channel="M Shop">
+    <title lang="id">Lock n Lock Multi Air Fryer</title>
+  </programme>
+  <programme start="20210211203000 +0700" stop="20210211210000 +0700" channel="M Shop">
+    <title lang="id">Intex Rest Raised Airbed</title>
+  </programme>
+  <programme start="20210211210000 +0700" stop="20210211213000 +0700" channel="M Shop">
+    <title lang="id">Jawara</title>
+  </programme>
+  <programme start="20210211213000 +0700" stop="20210211220000 +0700" channel="M Shop">
+    <title lang="id">Zeus Underwear</title>
+  </programme>
+  <programme start="20210211220000 +0700" stop="20210211223000 +0700" channel="M Shop">
+    <title lang="id">Jeido Power Laser</title>
+  </programme>
+  <programme start="20210211223000 +0700" stop="20210211230000 +0700" channel="M Shop">
+    <title lang="id">Jetz Scalar Energy</title>
+  </programme>
+  <programme start="20210211230000 +0700" stop="20210211233000 +0700" channel="M Shop">
+    <title lang="id">Zeus Underwear</title>
+  </programme>
+  <programme start="20210211233000 +0700" stop="20210212000000 +0700" channel="M Shop">
+    <title lang="id">Belt Stomach</title>
+  </programme>
+  <programme start="20210211005000 +0700" stop="20210211015000 +0700" channel="Crime Investigation">
+    <title lang="id">Surviving R. Kelly : Part II : The Reckoning Eps 1</title>
+  </programme>
+  <programme start="20210211015000 +0700" stop="20210211032000 +0700" channel="Crime Investigation">
+    <title lang="id">Surviving R. Kelly : Part II : The Reckoning Eps 2</title>
+  </programme>
+  <programme start="20210211032000 +0700" stop="20210211041000 +0700" channel="Crime Investigation">
+    <title lang="id">60 Days In S5 Eps 2</title>
+  </programme>
+  <programme start="20210211041000 +0700" stop="20210211043500 +0700" channel="Crime Investigation">
+    <title lang="id">The Lowe Files Eps 2</title>
+  </programme>
+  <programme start="20210211043500 +0700" stop="20210211050000 +0700" channel="Crime Investigation">
+    <title lang="id">The Lowe Files Eps 3</title>
+  </programme>
+  <programme start="20210211050000 +0700" stop="20210211055500 +0700" channel="Crime Investigation">
+    <title lang="id">Kids Behind Bars : Life Or Parole Eps 6</title>
+  </programme>
+  <programme start="20210211055500 +0700" stop="20210211064600 +0700" channel="Crime Investigation">
+    <title lang="id">Leah Remini : Scientology and The Aftermath S3 Eps 35</title>
+  </programme>
+  <programme start="20210211064600 +0700" stop="20210211071000 +0700" channel="Crime Investigation">
+    <title lang="id">Hero Ink Eps 1</title>
+  </programme>
+  <programme start="20210211071000 +0700" stop="20210211074000 +0700" channel="Crime Investigation">
+    <title lang="id">Hero Ink Eps 2</title>
+  </programme>
+  <programme start="20210211074000 +0700" stop="20210211083500 +0700" channel="Crime Investigation">
+    <title lang="id">Cold Case Files Eps 1</title>
+  </programme>
+  <programme start="20210211083500 +0700" stop="20210211093000 +0700" channel="Crime Investigation">
+    <title lang="id">60 Days In S5 Eps 2</title>
+  </programme>
+  <programme start="20210211093000 +0700" stop="20210211095500 +0700" channel="Crime Investigation">
+    <title lang="id">The Lowe Files Eps 2</title>
+  </programme>
+  <programme start="20210211095500 +0700" stop="20210211102500 +0700" channel="Crime Investigation">
+    <title lang="id">The Lowe Files Eps 3</title>
+  </programme>
+  <programme start="20210211102500 +0700" stop="20210211111500 +0700" channel="Crime Investigation">
+    <title lang="id">Cults And Extreme Belief Eps 2</title>
+  </programme>
+  <programme start="20210211111500 +0700" stop="20210211121500 +0700" channel="Crime Investigation">
+    <title lang="id">Surviving R. Kelly : Part II : The Reckoning Eps 1</title>
+  </programme>
+  <programme start="20210211121500 +0700" stop="20210211134500 +0700" channel="Crime Investigation">
+    <title lang="id">Surviving R. Kelly : Part II : The Reckoning Eps 2</title>
+  </programme>
+  <programme start="20210211134500 +0700" stop="20210211143500 +0700" channel="Crime Investigation">
+    <title lang="id">Kids Behind Bars : Life Or Parole Eps 6</title>
+  </programme>
+  <programme start="20210211143500 +0700" stop="20210211152500 +0700" channel="Crime Investigation">
+    <title lang="id">Leah Remini : Scientology and The Aftermath S3 Eps 35</title>
+  </programme>
+  <programme start="20210211152500 +0700" stop="20210211155500 +0700" channel="Crime Investigation">
+    <title lang="id">Hero Ink Eps 1</title>
+  </programme>
+  <programme start="20210211155500 +0700" stop="20210211164500 +0700" channel="Crime Investigation">
+    <title lang="id">Cold Case Files Eps 2</title>
+  </programme>
+  <programme start="20210211164500 +0700" stop="20210211173500 +0700" channel="Crime Investigation">
+    <title lang="id">60 Days In S5 Eps 3</title>
+  </programme>
+  <programme start="20210211173500 +0700" stop="20210211182500 +0700" channel="Crime Investigation">
+    <title lang="id">The First 48 S23 Eps 43</title>
+  </programme>
+  <programme start="20210211182500 +0700" stop="20210211191500 +0700" channel="Crime Investigation">
+    <title lang="id">60 Days In S6 Eps 6</title>
+  </programme>
+  <programme start="20210211191500 +0700" stop="20210211194000 +0700" channel="Crime Investigation">
+    <title lang="id">Border Security S6 Eps 13</title>
+  </programme>
+  <programme start="20210211194000 +0700" stop="20210211200500 +0700" channel="Crime Investigation">
+    <title lang="id">Border Security S6 Eps 14</title>
+  </programme>
+  <programme start="20210211200500 +0700" stop="20210211205500 +0700" channel="Crime Investigation">
+    <title lang="id">Intervention S14 Eps 6</title>
+  </programme>
+  <programme start="20210211205500 +0700" stop="20210211214500 +0700" channel="Crime Investigation">
+    <title lang="id">Intervention S17 Eps 6</title>
+  </programme>
+  <programme start="20210211214500 +0700" stop="20210211223500 +0700" channel="Crime Investigation">
+    <title lang="id">Ted Bundy : Serial Monster Eps 2</title>
+  </programme>
+  <programme start="20210211223500 +0700" stop="20210211232500 +0700" channel="Crime Investigation">
+    <title lang="id">Damian Lewis : Spy Wars Eps 6</title>
+  </programme>
+  <programme start="20210211232500 +0700" stop="20210212002000 +0700" channel="Crime Investigation">
+    <title lang="id">Intervention S14 Eps 6</title>
+  </programme>
+  <programme start="20210211000000 +0700" stop="20210211060000 +0700" channel="Antara">
+    <title lang="id">Sign Off</title>
+  </programme>
+  <programme start="20210211060000 +0700" stop="20210211063000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211063000 +0700" stop="20210211070000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211070000 +0700" stop="20210211073000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211073000 +0700" stop="20210211080000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211080000 +0700" stop="20210211083000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211083000 +0700" stop="20210211085700 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211085700 +0700" stop="20210211090500 +0700" channel="Antara">
+    <title lang="id">Warta Parlemen</title>
+  </programme>
+  <programme start="20210211090500 +0700" stop="20210211093000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211093000 +0700" stop="20210211100000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211100000 +0700" stop="20210211103000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211103000 +0700" stop="20210211110000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211110000 +0700" stop="20210211113000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211113000 +0700" stop="20210211120000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211120000 +0700" stop="20210211120700 +0700" channel="Antara">
+    <title lang="id">Warta Parlemen</title>
+  </programme>
+  <programme start="20210211120700 +0700" stop="20210211123000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211123000 +0700" stop="20210211130000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211130000 +0700" stop="20210211133000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211133000 +0700" stop="20210211140000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211140000 +0700" stop="20210211143000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211143000 +0700" stop="20210211150000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211150000 +0700" stop="20210211153000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211153000 +0700" stop="20210211160000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211160000 +0700" stop="20210211163000 +0700" channel="Antara">
+    <title lang="id">Warta Antara</title>
+  </programme>
+  <programme start="20210211163000 +0700" stop="20210211170000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211170000 +0700" stop="20210211173000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211173000 +0700" stop="20210211180000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211180000 +0700" stop="20210211183000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211183000 +0700" stop="20210211190000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211190000 +0700" stop="20210211193000 +0700" channel="Antara">
+    <title lang="id">Warta Antara</title>
+  </programme>
+  <programme start="20210211193000 +0700" stop="20210211200000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211200000 +0700" stop="20210211203000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211203000 +0700" stop="20210211210000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211210000 +0700" stop="20210211213000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211213000 +0700" stop="20210211220000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211220000 +0700" stop="20210211223000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211223000 +0700" stop="20210211230000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211230000 +0700" stop="20210211233000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211233000 +0700" stop="20210212000000 +0700" channel="Antara">
+    <title lang="id">Mata Indonesia</title>
+  </programme>
+  <programme start="20210211000000 +0700" stop="20210211003000 +0700" channel="IDX">
+    <title lang="id">Traventure Man</title>
+  </programme>
+  <programme start="20210211003000 +0700" stop="20210211013000 +0700" channel="IDX">
+    <title lang="id">Market Opening</title>
+  </programme>
+  <programme start="20210211013000 +0700" stop="20210211023000 +0700" channel="IDX">
+    <title lang="id">Market Review</title>
+  </programme>
+  <programme start="20210211023000 +0700" stop="20210211033000 +0700" channel="IDX">
+    <title lang="id">IDX 2nd Session Closing Market</title>
+  </programme>
+  <programme start="20210211033000 +0700" stop="20210211040000 +0700" channel="IDX">
+    <title lang="id">Geopark Indonesia</title>
+  </programme>
+  <programme start="20210211040000 +0700" stop="20210211043000 +0700" channel="IDX">
+    <title lang="id">Mata Pancing</title>
+  </programme>
+  <programme start="20210211043000 +0700" stop="20210211050000 +0700" channel="IDX">
+    <title lang="id">Decision Maker</title>
+  </programme>
+  <programme start="20210211050000 +0700" stop="20210211053000 +0700" channel="IDX">
+    <title lang="id">Capture</title>
+  </programme>
+  <programme start="20210211053000 +0700" stop="20210211063000 +0700" channel="IDX">
+    <title lang="id">IDX 2nd Session Closing Market</title>
+  </programme>
+  <programme start="20210211063000 +0700" stop="20210211073000 +0700" channel="IDX">
+    <title lang="id">Market Review</title>
+  </programme>
+  <programme start="20210211073000 +0700" stop="20210211080000 +0700" channel="IDX">
+    <title lang="id">Market Headlines</title>
+  </programme>
+  <programme start="20210211080000 +0700" stop="20210211083000 +0700" channel="IDX">
+    <title lang="id">News Screen Morning</title>
+  </programme>
+  <programme start="20210211083000 +0700" stop="20210211093000 +0700" channel="IDX">
+    <title lang="id">Market Opening</title>
+  </programme>
+  <programme start="20210211093000 +0700" stop="20210211100000 +0700" channel="IDX">
+    <title lang="id">Womens Talk</title>
+  </programme>
+  <programme start="20210211100000 +0700" stop="20210211110000 +0700" channel="IDX">
+    <title lang="id">Market Review</title>
+  </programme>
+  <programme start="20210211110000 +0700" stop="20210211113000 +0700" channel="IDX">
+    <title lang="id">Hangout</title>
+  </programme>
+  <programme start="20210211113000 +0700" stop="20210211123000 +0700" channel="IDX">
+    <title lang="id">Idx 1st Session Closing Market</title>
+  </programme>
+  <programme start="20210211123000 +0700" stop="20210211130000 +0700" channel="IDX">
+    <title lang="id">Decision Maker</title>
+  </programme>
+  <programme start="20210211130000 +0700" stop="20210211133000 +0700" channel="IDX">
+    <title lang="id">Urban Streetfood</title>
+  </programme>
+  <programme start="20210211133000 +0700" stop="20210211140000 +0700" channel="IDX">
+    <title lang="id">People And Hobbies</title>
+  </programme>
+  <programme start="20210211140000 +0700" stop="20210211143000 +0700" channel="IDX">
+    <title lang="id">Indonesia Authentic Place</title>
+  </programme>
+  <programme start="20210211143000 +0700" stop="20210211150000 +0700" channel="IDX">
+    <title lang="id">News Screen Evening</title>
+  </programme>
+  <programme start="20210211150000 +0700" stop="20210211160000 +0700" channel="IDX">
+    <title lang="id">IDX 2nd Session Closing Market</title>
+  </programme>
+  <programme start="20210211160000 +0700" stop="20210211163000 +0700" channel="IDX">
+    <title lang="id">Womens Talk</title>
+  </programme>
+  <programme start="20210211163000 +0700" stop="20210211170000 +0700" channel="IDX">
+    <title lang="id">Market Headlines</title>
+  </programme>
+  <programme start="20210211170000 +0700" stop="20210211173000 +0700" channel="IDX">
+    <title lang="id">Hangout</title>
+  </programme>
+  <programme start="20210211173000 +0700" stop="20210211180000 +0700" channel="IDX">
+    <title lang="id">People And Hobbies</title>
+  </programme>
+  <programme start="20210211180000 +0700" stop="20210211183000 +0700" channel="IDX">
+    <title lang="id">Urban Streetfood</title>
+  </programme>
+  <programme start="20210211183000 +0700" stop="20210211190000 +0700" channel="IDX">
+    <title lang="id">Double Gardan</title>
+  </programme>
+  <programme start="20210211190000 +0700" stop="20210211200000 +0700" channel="IDX">
+    <title lang="id">Market Opening</title>
+  </programme>
+  <programme start="20210211200000 +0700" stop="20210211203000 +0700" channel="IDX">
+    <title lang="id">Decision Maker</title>
+  </programme>
+  <programme start="20210211203000 +0700" stop="20210211210000 +0700" channel="IDX">
+    <title lang="id">News Screen Evening</title>
+  </programme>
+  <programme start="20210211210000 +0700" stop="20210211220000 +0700" channel="IDX">
+    <title lang="id">Market Review</title>
+  </programme>
+  <programme start="20210211220000 +0700" stop="20210211230000 +0700" channel="IDX">
+    <title lang="id">IDX 2nd Session Closing Market</title>
+  </programme>
+  <programme start="20210211230000 +0700" stop="20210211233000 +0700" channel="IDX">
+    <title lang="id">Market Headlines</title>
+  </programme>
+  <programme start="20210211233000 +0700" stop="20210212000000 +0700" channel="IDX">
+    <title lang="id">Womens Talk</title>
+  </programme>
+  <programme start="20210211053000 +0700" stop="20210211060000 +0700" channel="Baby First">
+    <title lang="id">Early Bloomers</title>
+  </programme>
+  <programme start="20210211060000 +0700" stop="20210211063000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs for Baby</title>
+  </programme>
+  <programme start="20210211063000 +0700" stop="20210211070000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs for Baby</title>
+  </programme>
+  <programme start="20210211070000 +0700" stop="20210211073000 +0700" channel="Baby First">
+    <title lang="id">Baby class</title>
+  </programme>
+  <programme start="20210211073000 +0700" stop="20210211080000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs for Baby</title>
+  </programme>
+  <programme start="20210211080000 +0700" stop="20210211083000 +0700" channel="Baby First">
+    <title lang="id">Baby First Club</title>
+  </programme>
+  <programme start="20210211083000 +0700" stop="20210211090000 +0700" channel="Baby First">
+    <title lang="id">Baby First Club</title>
+  </programme>
+  <programme start="20210211090000 +0700" stop="20210211093000 +0700" channel="Baby First">
+    <title lang="id">Baby First Club</title>
+  </programme>
+  <programme start="20210211093000 +0700" stop="20210211100000 +0700" channel="Baby First">
+    <title lang="id">Baby First Club</title>
+  </programme>
+  <programme start="20210211100000 +0700" stop="20210211103000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs for Baby</title>
+  </programme>
+  <programme start="20210211103000 +0700" stop="20210211110000 +0700" channel="Baby First">
+    <title lang="id">Early Bloomers</title>
+  </programme>
+  <programme start="20210211110000 +0700" stop="20210211113000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs for Baby</title>
+  </programme>
+  <programme start="20210211113000 +0700" stop="20210211120000 +0700" channel="Baby First">
+    <title lang="id">Art And Music</title>
+  </programme>
+  <programme start="20210211120000 +0700" stop="20210211123000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs for Baby</title>
+  </programme>
+  <programme start="20210211123000 +0700" stop="20210211130000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs for Baby</title>
+  </programme>
+  <programme start="20210211130000 +0700" stop="20210211133000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs for Baby</title>
+  </programme>
+  <programme start="20210211133000 +0700" stop="20210211140000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs for Baby</title>
+  </programme>
+  <programme start="20210211140000 +0700" stop="20210211143000 +0700" channel="Baby First">
+    <title lang="id">Baby class</title>
+  </programme>
+  <programme start="20210211143000 +0700" stop="20210211150000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs for Baby</title>
+  </programme>
+  <programme start="20210211150000 +0700" stop="20210211153000 +0700" channel="Baby First">
+    <title lang="id">Baby First Club</title>
+  </programme>
+  <programme start="20210211153000 +0700" stop="20210211160000 +0700" channel="Baby First">
+    <title lang="id">Baby First Club</title>
+  </programme>
+  <programme start="20210211160000 +0700" stop="20210211163000 +0700" channel="Baby First">
+    <title lang="id">Baby First Club</title>
+  </programme>
+  <programme start="20210211163000 +0700" stop="20210211170000 +0700" channel="Baby First">
+    <title lang="id">Baby First Club</title>
+  </programme>
+  <programme start="20210211170000 +0700" stop="20210211173000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs for Baby</title>
+  </programme>
+  <programme start="20210211173000 +0700" stop="20210211180000 +0700" channel="Baby First">
+    <title lang="id">Early Bloomers</title>
+  </programme>
+  <programme start="20210211180000 +0700" stop="20210211183000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs for Baby</title>
+  </programme>
+  <programme start="20210211183000 +0700" stop="20210211190000 +0700" channel="Baby First">
+    <title lang="id">Art And Music</title>
+  </programme>
+  <programme start="20210211190000 +0700" stop="20210211193000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs for Baby</title>
+  </programme>
+  <programme start="20210211193000 +0700" stop="20210211200000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs for Baby</title>
+  </programme>
+  <programme start="20210211200000 +0700" stop="20210212053000 +0700" channel="Baby First">
+    <title lang="id">A Dreamy Journey</title>
+  </programme>
+  <programme start="20210211000000 +0700" stop="20210211010000 +0700" channel="Bali TV">
+    <title lang="id">Sign Off</title>
+  </programme>
+  <programme start="20210211010000 +0700" stop="20210211020000 +0700" channel="Bali TV">
+    <title lang="id">Sign Off</title>
+  </programme>
+  <programme start="20210211020000 +0700" stop="20210211040000 +0700" channel="Bali TV">
+    <title lang="id">Sign Off</title>
+  </programme>
+  <programme start="20210211040000 +0700" stop="20210211043000 +0700" channel="Bali TV">
+    <title lang="id">Sign Off</title>
+  </programme>
+  <programme start="20210211043000 +0700" stop="20210211044500 +0700" channel="Bali TV">
+    <title lang="id">Gayatri Mantra</title>
+  </programme>
+  <programme start="20210211044500 +0700" stop="20210211045400 +0700" channel="Bali TV">
+    <title lang="id">Opening</title>
+  </programme>
+  <programme start="20210211045400 +0700" stop="20210211050000 +0700" channel="Bali TV">
+    <title lang="id">Bhagawad Gita</title>
+  </programme>
+  <programme start="20210211050000 +0700" stop="20210211050500 +0700" channel="Bali TV">
+    <title lang="id">Puja Tri Sandhya</title>
+  </programme>
+  <programme start="20210211050500 +0700" stop="20210211053500 +0700" channel="Bali TV">
+    <title lang="id">Dharma Wacana</title>
+  </programme>
+  <programme start="20210211053500 +0700" stop="20210211060500 +0700" channel="Bali TV">
+    <title lang="id">Seputar Bali Pagi</title>
+  </programme>
+  <programme start="20210211060500 +0700" stop="20210211063500 +0700" channel="Bali TV">
+    <title lang="id">Bali Channel Tourist TV</title>
+  </programme>
+  <programme start="20210211063500 +0700" stop="20210211070000 +0700" channel="Bali TV">
+    <title lang="id">Indonesia Network</title>
+  </programme>
+  <programme start="20210211070000 +0700" stop="20210211073000 +0700" channel="Bali TV">
+    <title lang="id">Bali Channel Tourist TV</title>
+  </programme>
+  <programme start="20210211073000 +0700" stop="20210211080000 +0700" channel="Bali TV">
+    <title lang="id">Ocydia Home Shopping</title>
+  </programme>
+  <programme start="20210211080000 +0700" stop="20210211080500 +0700" channel="Bali TV">
+    <title lang="id">Berita Terkini</title>
+  </programme>
+  <programme start="20210211080500 +0700" stop="20210211083000 +0700" channel="Bali TV">
+    <title lang="id">Taksu</title>
+  </programme>
+  <programme start="20210211083000 +0700" stop="20210211090000 +0700" channel="Bali TV">
+    <title lang="id">VOA Creative Talk</title>
+  </programme>
+  <programme start="20210211090000 +0700" stop="20210211090500 +0700" channel="Bali TV">
+    <title lang="id">Berita Terkini</title>
+  </programme>
+  <programme start="20210211090500 +0700" stop="20210211093000 +0700" channel="Bali TV">
+    <title lang="id">Ocydia Home Shopping</title>
+  </programme>
+  <programme start="20210211093000 +0700" stop="20210211100000 +0700" channel="Bali TV">
+    <title lang="id">Dunia Kita</title>
+  </programme>
+  <programme start="20210211100000 +0700" stop="20210211100500 +0700" channel="Bali TV">
+    <title lang="id">Berita Terkini</title>
+  </programme>
+  <programme start="20210211100500 +0700" stop="20210211103000 +0700" channel="Bali TV">
+    <title lang="id">Bali TV Shop - Punggung</title>
+  </programme>
+  <programme start="20210211103000 +0700" stop="20210211110000 +0700" channel="Bali TV">
+    <title lang="id">Bali Channel Tourist TV</title>
+  </programme>
+  <programme start="20210211110000 +0700" stop="20210211110500 +0700" channel="Bali TV">
+    <title lang="id">Puja Tri Sandhya</title>
+  </programme>
+  <programme start="20210211110500 +0700" stop="20210211113000 +0700" channel="Bali TV">
+    <title lang="id">Dharma Wacana</title>
+  </programme>
+  <programme start="20210211113000 +0700" stop="20210211120000 +0700" channel="Bali TV">
+    <title lang="id">Berita Siang</title>
+  </programme>
+  <programme start="20210211120000 +0700" stop="20210211123000 +0700" channel="Bali TV">
+    <title lang="id">Klip Bali</title>
+  </programme>
+  <programme start="20210211123000 +0700" stop="20210211130000 +0700" channel="Bali TV">
+    <title lang="id">Solusi Alternatif Marion Sam</title>
+  </programme>
+  <programme start="20210211130000 +0700" stop="20210211130500 +0700" channel="Bali TV">
+    <title lang="id">Berita Terkini</title>
+  </programme>
+  <programme start="20210211130500 +0700" stop="20210211133000 +0700" channel="Bali TV">
+    <title lang="id">Klip Bali</title>
+  </programme>
+  <programme start="20210211133000 +0700" stop="20210211140000 +0700" channel="Bali TV">
+    <title lang="id">Ocydia Home Shopping</title>
+  </programme>
+  <programme start="20210211140000 +0700" stop="20210211140500 +0700" channel="Bali TV">
+    <title lang="id">Berita Terkini</title>
+  </programme>
+  <programme start="20210211140500 +0700" stop="20210211143000 +0700" channel="Bali TV">
+    <title lang="id">Bali TV Shop - Lutut</title>
+  </programme>
+  <programme start="20210211143000 +0700" stop="20210211150000 +0700" channel="Bali TV">
+    <title lang="id">Bali Channel Tourist TV</title>
+  </programme>
+  <programme start="20210211150000 +0700" stop="20210211150500 +0700" channel="Bali TV">
+    <title lang="id">Berita Terkini</title>
+  </programme>
+  <programme start="20210211150500 +0700" stop="20210211153000 +0700" channel="Bali TV">
+    <title lang="id">Dialog KPCPEN</title>
+  </programme>
+  <programme start="20210211153000 +0700" stop="20210211160000 +0700" channel="Bali TV">
+    <title lang="id">Dialog KPCPEN</title>
+  </programme>
+  <programme start="20210211160000 +0700" stop="20210211160500 +0700" channel="Bali TV">
+    <title lang="id">Berita Terkini</title>
+  </programme>
+  <programme start="20210211160500 +0700" stop="20210211161500 +0700" channel="Bali TV">
+    <title lang="id">Bisnis Bali News</title>
+  </programme>
+  <programme start="20210211161500 +0700" stop="20210211163000 +0700" channel="Bali TV">
+    <title lang="id">Kalung Omkara</title>
+  </programme>
+  <programme start="20210211163000 +0700" stop="20210211170000 +0700" channel="Bali TV">
+    <title lang="id">Dharma Wacana</title>
+  </programme>
+  <programme start="20210211170000 +0700" stop="20210211170500 +0700" channel="Bali TV">
+    <title lang="id">Puja Tri Sandhya</title>
+  </programme>
+  <programme start="20210211170500 +0700" stop="20210211180000 +0700" channel="Bali TV">
+    <title lang="id">Seputar Bali Malam</title>
+  </programme>
+  <programme start="20210211180000 +0700" stop="20210211181500 +0700" channel="Bali TV">
+    <title lang="id">Giliran Anda</title>
+  </programme>
+  <programme start="20210211181500 +0700" stop="20210211183000 +0700" channel="Bali TV">
+    <title lang="id">Giliran Anda</title>
+  </programme>
+  <programme start="20210211183000 +0700" stop="20210211184500 +0700" channel="Bali TV">
+    <title lang="id">Bali TV Shop</title>
+  </programme>
+  <programme start="20210211184500 +0700" stop="20210211190000 +0700" channel="Bali TV">
+    <title lang="id">Orti Bali</title>
+  </programme>
+  <programme start="20210211190000 +0700" stop="20210211193000 +0700" channel="Bali TV">
+    <title lang="id">Pidato Akhir Tahun Gubernur Bali</title>
+  </programme>
+  <programme start="20210211193000 +0700" stop="20210211200000 +0700" channel="Bali TV">
+    <title lang="id">Pidato Akhir Tahun Gubernur Bali</title>
+  </programme>
+  <programme start="20210211200000 +0700" stop="20210211200500 +0700" channel="Bali TV">
+    <title lang="id">Berita Terkini</title>
+  </programme>
+  <programme start="20210211200500 +0700" stop="20210211202000 +0700" channel="Bali TV">
+    <title lang="id">Sendratari Isi Denpasar</title>
+  </programme>
+  <programme start="20210211202000 +0700" stop="20210211203000 +0700" channel="Bali TV">
+    <title lang="id">Sendratari Isi Denpasar</title>
+  </programme>
+  <programme start="20210211203000 +0700" stop="20210211204500 +0700" channel="Bali TV">
+    <title lang="id">Sendratari Isi Denpasar</title>
+  </programme>
+  <programme start="20210211204500 +0700" stop="20210211210000 +0700" channel="Bali TV">
+    <title lang="id">Sendratari Isi Denpasar</title>
+  </programme>
+  <programme start="20210211210000 +0700" stop="20210211210500 +0700" channel="Bali TV">
+    <title lang="id">Berita Terkini</title>
+  </programme>
+  <programme start="20210211210500 +0700" stop="20210211213000 +0700" channel="Bali TV">
+    <title lang="id">Kaleidoskop Bali 2020</title>
+  </programme>
+  <programme start="20210211213000 +0700" stop="20210211220000 +0700" channel="Bali TV">
+    <title lang="id">Kaleidoskop Bali 2021</title>
+  </programme>
+  <programme start="20210211220000 +0700" stop="20210211220500 +0700" channel="Bali TV">
+    <title lang="id">Berita Terkini</title>
+  </programme>
+  <programme start="20210211220500 +0700" stop="20210211223000 +0700" channel="Bali TV">
+    <title lang="id">Ocydia Home Shopping</title>
+  </programme>
+  <programme start="20210211223000 +0700" stop="20210211230000 +0700" channel="Bali TV">
+    <title lang="id">Indonesia Network</title>
+  </programme>
+  <programme start="20210211230000 +0700" stop="20210212000000 +0700" channel="Bali TV">
+    <title lang="id">Penutup</title>
+  </programme>
+  <programme start="20210211000000 +0700" stop="20210211010000 +0700" channel="Berita Satu">
+    <title lang="id">CEO Talks</title>
+  </programme>
+  <programme start="20210211010000 +0700" stop="20210211020000 +0700" channel="Berita Satu">
+    <title lang="id">Prime Time</title>
+  </programme>
+  <programme start="20210211020000 +0700" stop="20210211030000 +0700" channel="Berita Satu">
+    <title lang="id">Connect 360 Weekend</title>
+  </programme>
+  <programme start="20210211030000 +0700" stop="20210211040000 +0700" channel="Berita Satu">
+    <title lang="id">Beritasatu Highlights</title>
+  </programme>
+  <programme start="20210211040000 +0700" stop="20210211050000 +0700" channel="Berita Satu">
+    <title lang="id">Creative Money</title>
+  </programme>
+  <programme start="20210211050000 +0700" stop="20210211060000 +0700" channel="Berita Satu">
+    <title lang="id">Beritasatu Highlights</title>
+  </programme>
+  <programme start="20210211060000 +0700" stop="20210211070000 +0700" channel="Berita Satu">
+    <title lang="id">Good Morning Jakarta</title>
+  </programme>
+  <programme start="20210211070000 +0700" stop="20210211070500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210211070500 +0700" stop="20210211080000 +0700" channel="Berita Satu">
+    <title lang="id">Good Morning Jakarta</title>
+  </programme>
+  <programme start="20210211080000 +0700" stop="20210211080500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210211080500 +0700" stop="20210211083000 +0700" channel="Berita Satu">
+    <title lang="id">People Inspiration</title>
+  </programme>
+  <programme start="20210211083000 +0700" stop="20210211090000 +0700" channel="Berita Satu">
+    <title lang="id">IDX Opening Bell</title>
+  </programme>
+  <programme start="20210211090000 +0700" stop="20210211090500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210211090500 +0700" stop="20210211093000 +0700" channel="Berita Satu">
+    <title lang="id">IDX Opening Bell</title>
+  </programme>
+  <programme start="20210211093000 +0700" stop="20210211100000 +0700" channel="Berita Satu">
+    <title lang="id">News Buzz</title>
+  </programme>
+  <programme start="20210211100000 +0700" stop="20210211100500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210211100500 +0700" stop="20210211103000 +0700" channel="Berita Satu">
+    <title lang="id">Morning Talk</title>
+  </programme>
+  <programme start="20210211103000 +0700" stop="20210211110000 +0700" channel="Berita Satu">
+    <title lang="id">Business Round Up</title>
+  </programme>
+  <programme start="20210211110000 +0700" stop="20210211110500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210211110500 +0700" stop="20210211120000 +0700" channel="Berita Satu">
+    <title lang="id">New Normal</title>
+  </programme>
+  <programme start="20210211120000 +0700" stop="20210211120500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210211120500 +0700" stop="20210211130000 +0700" channel="Berita Satu">
+    <title lang="id">News On The Spot</title>
+  </programme>
+  <programme start="20210211130000 +0700" stop="20210211130500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210211130500 +0700" stop="20210211140000 +0700" channel="Berita Satu">
+    <title lang="id">Lunch Talk</title>
+  </programme>
+  <programme start="20210211140000 +0700" stop="20210211140500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210211140500 +0700" stop="20210211143000 +0700" channel="Berita Satu">
+    <title lang="id">Fakta Data</title>
+  </programme>
+  <programme start="20210211143000 +0700" stop="20210211150000 +0700" channel="Berita Satu">
+    <title lang="id">Closing Market</title>
+  </programme>
+  <programme start="20210211150000 +0700" stop="20210211150500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210211150500 +0700" stop="20210211153000 +0700" channel="Berita Satu">
+    <title lang="id">Closing Market</title>
+  </programme>
+  <programme start="20210211153000 +0700" stop="20210211160000 +0700" channel="Berita Satu">
+    <title lang="id">New Normal</title>
+  </programme>
+  <programme start="20210211160000 +0700" stop="20210211160500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210211160500 +0700" stop="20210211163000 +0700" channel="Berita Satu">
+    <title lang="id">New Normal</title>
+  </programme>
+  <programme start="20210211163000 +0700" stop="20210211180000 +0700" channel="Berita Satu">
+    <title lang="id">Prime Time</title>
+  </programme>
+  <programme start="20210211180000 +0700" stop="20210211180500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210211180500 +0700" stop="20210211190000 +0700" channel="Berita Satu">
+    <title lang="id">Connect 360</title>
+  </programme>
+  <programme start="20210211190000 +0700" stop="20210211190500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210211190500 +0700" stop="20210211193000 +0700" channel="Berita Satu">
+    <title lang="id">Business Round Up</title>
+  </programme>
+  <programme start="20210211193000 +0700" stop="20210211200000 +0700" channel="Berita Satu">
+    <title lang="id">News Buzz</title>
+  </programme>
+  <programme start="20210211200000 +0700" stop="20210211200500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210211200500 +0700" stop="20210211210000 +0700" channel="Berita Satu">
+    <title lang="id">Green Talk</title>
+  </programme>
+  <programme start="20210211210000 +0700" stop="20210211210500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210211210500 +0700" stop="20210211223000 +0700" channel="Berita Satu">
+    <title lang="id">Prime Time</title>
+  </programme>
+  <programme start="20210211223000 +0700" stop="20210211230000 +0700" channel="Berita Satu">
+    <title lang="id">Fakta Data</title>
+  </programme>
+  <programme start="20210211230000 +0700" stop="20210212000000 +0700" channel="Berita Satu">
+    <title lang="id">Beritasatu Highlights</title>
+  </programme>
+  <programme start="20210212000000 +0700" stop="20210212003000 +0700" channel="Berita Satu">
+    <title lang="id">People Inspiration</title>
+  </programme>
+  <programme start="20210212003000 +0700" stop="20210212020000 +0700" channel="Berita Satu">
+    <title lang="id">Prime Time</title>
+  </programme>
+  <programme start="20210212020000 +0700" stop="20210212030000 +0700" channel="Berita Satu">
+    <title lang="id">Connect 360</title>
+  </programme>
+  <programme start="20210212030000 +0700" stop="20210212040000 +0700" channel="Berita Satu">
+    <title lang="id">Beritasatu Highlights</title>
+  </programme>
+  <programme start="20210212040000 +0700" stop="20210212050000 +0700" channel="Berita Satu">
+    <title lang="id">Creative Money</title>
+  </programme>
+  <programme start="20210212050000 +0700" stop="20210212060000 +0700" channel="Berita Satu">
+    <title lang="id">Beritasatu Highlights</title>
+  </programme>
+  <programme start="20210212060000 +0700" stop="20210212070000 +0700" channel="Berita Satu">
+    <title lang="id">Good Morning Jakarta</title>
+  </programme>
+  <programme start="20210212070000 +0700" stop="20210212070500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210212070500 +0700" stop="20210212080000 +0700" channel="Berita Satu">
+    <title lang="id">Good Morning Jakarta</title>
+  </programme>
+  <programme start="20210212080000 +0700" stop="20210212080500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210212080500 +0700" stop="20210212083000 +0700" channel="Berita Satu">
+    <title lang="id">Business Round Up</title>
+  </programme>
+  <programme start="20210212083000 +0700" stop="20210212090000 +0700" channel="Berita Satu">
+    <title lang="id">IDX Opening Bell</title>
+  </programme>
+  <programme start="20210212090000 +0700" stop="20210212090500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210212090500 +0700" stop="20210212093000 +0700" channel="Berita Satu">
+    <title lang="id">IDX Opening Bell</title>
+  </programme>
+  <programme start="20210212093000 +0700" stop="20210212100000 +0700" channel="Berita Satu">
+    <title lang="id">Indepth</title>
+  </programme>
+  <programme start="20210212100000 +0700" stop="20210212100500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210212100500 +0700" stop="20210212103000 +0700" channel="Berita Satu">
+    <title lang="id">Morning Talk</title>
+  </programme>
+  <programme start="20210212103000 +0700" stop="20210212110000 +0700" channel="Berita Satu">
+    <title lang="id">Indepth</title>
+  </programme>
+  <programme start="20210212110000 +0700" stop="20210212110500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210212110500 +0700" stop="20210212120000 +0700" channel="Berita Satu">
+    <title lang="id">Zooming With Primus</title>
+  </programme>
+  <programme start="20210212120000 +0700" stop="20210212120500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210212120500 +0700" stop="20210212130000 +0700" channel="Berita Satu">
+    <title lang="id">News On The Spot</title>
+  </programme>
+  <programme start="20210212130000 +0700" stop="20210212130500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210212130500 +0700" stop="20210212140000 +0700" channel="Berita Satu">
+    <title lang="id">Lunch Talk</title>
+  </programme>
+  <programme start="20210212140000 +0700" stop="20210212140500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210212140500 +0700" stop="20210212143000 +0700" channel="Berita Satu">
+    <title lang="id">Indepth</title>
+  </programme>
+  <programme start="20210212143000 +0700" stop="20210212150000 +0700" channel="Berita Satu">
+    <title lang="id">Closing Market</title>
+  </programme>
+  <programme start="20210212150000 +0700" stop="20210212150500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210212150500 +0700" stop="20210212153000 +0700" channel="Berita Satu">
+    <title lang="id">Closing Market</title>
+  </programme>
+  <programme start="20210212153000 +0700" stop="20210212160000 +0700" channel="Berita Satu">
+    <title lang="id">CEO Talks</title>
+  </programme>
+  <programme start="20210212160000 +0700" stop="20210212160500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210212160500 +0700" stop="20210212163000 +0700" channel="Berita Satu">
+    <title lang="id">CEO Talks</title>
+  </programme>
+  <programme start="20210212163000 +0700" stop="20210212180000 +0700" channel="Berita Satu">
+    <title lang="id">Prime Time</title>
+  </programme>
+  <programme start="20210212180000 +0700" stop="20210212180500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210212180500 +0700" stop="20210212190000 +0700" channel="Berita Satu">
+    <title lang="id">Connect 360</title>
+  </programme>
+  <programme start="20210212190000 +0700" stop="20210212190500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210212190500 +0700" stop="20210212193000 +0700" channel="Berita Satu">
+    <title lang="id">Indepth</title>
+  </programme>
+  <programme start="20210212193000 +0700" stop="20210212200000 +0700" channel="Berita Satu">
+    <title lang="id">Fakta Data</title>
+  </programme>
+  <programme start="20210212200000 +0700" stop="20210212200500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210212200500 +0700" stop="20210212210000 +0700" channel="Berita Satu">
+    <title lang="id">Creative Money</title>
+  </programme>
+  <programme start="20210212210000 +0700" stop="20210212210500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210212210500 +0700" stop="20210212223000 +0700" channel="Berita Satu">
+    <title lang="id">Prime Time</title>
+  </programme>
+  <programme start="20210212223000 +0700" stop="20210212230000 +0700" channel="Berita Satu">
+    <title lang="id">News Buzz</title>
+  </programme>
+  <programme start="20210212230000 +0700" stop="20210213000000 +0700" channel="Berita Satu">
+    <title lang="id">Beritasatu Highlights</title>
+  </programme>
+  <programme start="20210213000000 +0700" stop="20210213003000 +0700" channel="Berita Satu">
+    <title lang="id">Business Round Up</title>
+  </programme>
+  <programme start="20210213003000 +0700" stop="20210213020000 +0700" channel="Berita Satu">
+    <title lang="id">Prime Time</title>
+  </programme>
+  <programme start="20210213020000 +0700" stop="20210213030000 +0700" channel="Berita Satu">
+    <title lang="id">Connect 360</title>
+  </programme>
+  <programme start="20210213030000 +0700" stop="20210213040000 +0700" channel="Berita Satu">
+    <title lang="id">Beritasatu Highlights</title>
+  </programme>
+  <programme start="20210213040000 +0700" stop="20210213050000 +0700" channel="Berita Satu">
+    <title lang="id">Green Talk</title>
+  </programme>
+  <programme start="20210213050000 +0700" stop="20210213060000 +0700" channel="Berita Satu">
+    <title lang="id">Beritasatu Highlights</title>
+  </programme>
+  <programme start="20210213060000 +0700" stop="20210213070000 +0700" channel="Berita Satu">
+    <title lang="id">Good Morning Jakarta</title>
+  </programme>
+  <programme start="20210213070000 +0700" stop="20210213070500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210213070500 +0700" stop="20210213080000 +0700" channel="Berita Satu">
+    <title lang="id">Good Morning Jakarta</title>
+  </programme>
+  <programme start="20210213080000 +0700" stop="20210213080500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210213080500 +0700" stop="20210213083000 +0700" channel="Berita Satu">
+    <title lang="id">News Buzz</title>
+  </programme>
+  <programme start="20210213083000 +0700" stop="20210213090000 +0700" channel="Berita Satu">
+    <title lang="id">IDX Opening Bell</title>
+  </programme>
+  <programme start="20210213090000 +0700" stop="20210213090500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210213090500 +0700" stop="20210213093000 +0700" channel="Berita Satu">
+    <title lang="id">IDX Opening Bell</title>
+  </programme>
+  <programme start="20210213093000 +0700" stop="20210213100000 +0700" channel="Berita Satu">
+    <title lang="id">Business Round Up</title>
+  </programme>
+  <programme start="20210213100000 +0700" stop="20210213100500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210213100500 +0700" stop="20210213103000 +0700" channel="Berita Satu">
+    <title lang="id">Morning Talk</title>
+  </programme>
+  <programme start="20210213103000 +0700" stop="20210213110000 +0700" channel="Berita Satu">
+    <title lang="id">Fakta Data</title>
+  </programme>
+  <programme start="20210213110000 +0700" stop="20210213110500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210213110500 +0700" stop="20210213120000 +0700" channel="Berita Satu">
+    <title lang="id">Creative Money</title>
+  </programme>
+  <programme start="20210213120000 +0700" stop="20210213120500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210213120500 +0700" stop="20210213130000 +0700" channel="Berita Satu">
+    <title lang="id">News On The Spot</title>
+  </programme>
+  <programme start="20210213130000 +0700" stop="20210213130500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210213130500 +0700" stop="20210213140000 +0700" channel="Berita Satu">
+    <title lang="id">Lunch Talk</title>
+  </programme>
+  <programme start="20210213140000 +0700" stop="20210213140500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210213140500 +0700" stop="20210213143000 +0700" channel="Berita Satu">
+    <title lang="id">People Inspiration</title>
+  </programme>
+  <programme start="20210213143000 +0700" stop="20210213150000 +0700" channel="Berita Satu">
+    <title lang="id">Closing Market</title>
+  </programme>
+  <programme start="20210213150000 +0700" stop="20210213150500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210213150500 +0700" stop="20210213153000 +0700" channel="Berita Satu">
+    <title lang="id">Closing Market</title>
+  </programme>
+  <programme start="20210213153000 +0700" stop="20210213160000 +0700" channel="Berita Satu">
+    <title lang="id">Green Talk</title>
+  </programme>
+  <programme start="20210213160000 +0700" stop="20210213160500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210213160500 +0700" stop="20210213163000 +0700" channel="Berita Satu">
+    <title lang="id">Green Talk</title>
+  </programme>
+  <programme start="20210213163000 +0700" stop="20210213180000 +0700" channel="Berita Satu">
+    <title lang="id">Prime Time</title>
+  </programme>
+  <programme start="20210213180000 +0700" stop="20210213180500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210213180500 +0700" stop="20210213190000 +0700" channel="Berita Satu">
+    <title lang="id">Connect 360</title>
+  </programme>
+  <programme start="20210213190000 +0700" stop="20210213190500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210213190500 +0700" stop="20210213193000 +0700" channel="Berita Satu">
+    <title lang="id">Business Round Up</title>
+  </programme>
+  <programme start="20210213193000 +0700" stop="20210213200000 +0700" channel="Berita Satu">
+    <title lang="id">People Inspiration</title>
+  </programme>
+  <programme start="20210213200000 +0700" stop="20210213200500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210213200500 +0700" stop="20210213210000 +0700" channel="Berita Satu">
+    <title lang="id">CEO Talks</title>
+  </programme>
+  <programme start="20210213210000 +0700" stop="20210213210500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210213210500 +0700" stop="20210213223000 +0700" channel="Berita Satu">
+    <title lang="id">Prime Time</title>
+  </programme>
+  <programme start="20210213223000 +0700" stop="20210213230000 +0700" channel="Berita Satu">
+    <title lang="id">Business Round Up</title>
+  </programme>
+  <programme start="20210213230000 +0700" stop="20210214000000 +0700" channel="Berita Satu">
+    <title lang="id">Beritasatu Highlights</title>
+  </programme>
+  <programme start="20210214000000 +0700" stop="20210214003000 +0700" channel="Berita Satu">
+    <title lang="id">Jurnal Ekstra</title>
+  </programme>
+  <programme start="20210214003000 +0700" stop="20210214020000 +0700" channel="Berita Satu">
+    <title lang="id">Prime Time</title>
+  </programme>
+  <programme start="20210214020000 +0700" stop="20210214030000 +0700" channel="Berita Satu">
+    <title lang="id">Connect 360</title>
+  </programme>
+  <programme start="20210214030000 +0700" stop="20210214040000 +0700" channel="Berita Satu">
+    <title lang="id">Beritasatu Highlights</title>
+  </programme>
+  <programme start="20210214040000 +0700" stop="20210214050000 +0700" channel="Berita Satu">
+    <title lang="id">Zooming With Primus</title>
+  </programme>
+  <programme start="20210214050000 +0700" stop="20210214060000 +0700" channel="Berita Satu">
+    <title lang="id">Beritasatu Highlights</title>
+  </programme>
+  <programme start="20210214060000 +0700" stop="20210214070000 +0700" channel="Berita Satu">
+    <title lang="id">Good Morning Jakarta</title>
+  </programme>
+  <programme start="20210214070000 +0700" stop="20210214070500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210214070500 +0700" stop="20210214080000 +0700" channel="Berita Satu">
+    <title lang="id">Good Morning Jakarta</title>
+  </programme>
+  <programme start="20210214080000 +0700" stop="20210214080500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210214080500 +0700" stop="20210214083000 +0700" channel="Berita Satu">
+    <title lang="id">Business Round Up</title>
+  </programme>
+  <programme start="20210214083000 +0700" stop="20210214090000 +0700" channel="Berita Satu">
+    <title lang="id">IDX Opening Bell</title>
+  </programme>
+  <programme start="20210214090000 +0700" stop="20210214090500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210214090500 +0700" stop="20210214093000 +0700" channel="Berita Satu">
+    <title lang="id">IDX Opening Bell</title>
+  </programme>
+  <programme start="20210214093000 +0700" stop="20210214100000 +0700" channel="Berita Satu">
+    <title lang="id">Jurnal Ekstra</title>
+  </programme>
+  <programme start="20210214100000 +0700" stop="20210214100500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210214100500 +0700" stop="20210214103000 +0700" channel="Berita Satu">
+    <title lang="id">Morning Talk</title>
+  </programme>
+  <programme start="20210214103000 +0700" stop="20210214110000 +0700" channel="Berita Satu">
+    <title lang="id">People Inspiration</title>
+  </programme>
+  <programme start="20210214110000 +0700" stop="20210214110500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210214110500 +0700" stop="20210214120000 +0700" channel="Berita Satu">
+    <title lang="id">CEO Talks</title>
+  </programme>
+  <programme start="20210214120000 +0700" stop="20210214120500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210214120500 +0700" stop="20210214130000 +0700" channel="Berita Satu">
+    <title lang="id">News On The Spot</title>
+  </programme>
+  <programme start="20210214130000 +0700" stop="20210214130500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210214130500 +0700" stop="20210214140000 +0700" channel="Berita Satu">
+    <title lang="id">Zooming With Primus</title>
+  </programme>
+  <programme start="20210214140000 +0700" stop="20210214140500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210214140500 +0700" stop="20210214143000 +0700" channel="Berita Satu">
+    <title lang="id">Fakta Data</title>
+  </programme>
+  <programme start="20210214143000 +0700" stop="20210214150000 +0700" channel="Berita Satu">
+    <title lang="id">Closing Market</title>
+  </programme>
+  <programme start="20210214150000 +0700" stop="20210214150500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210214150500 +0700" stop="20210214153000 +0700" channel="Berita Satu">
+    <title lang="id">Closing Market</title>
+  </programme>
+  <programme start="20210214153000 +0700" stop="20210214160000 +0700" channel="Berita Satu">
+    <title lang="id">Creative Money</title>
+  </programme>
+  <programme start="20210214160000 +0700" stop="20210214160500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210214160500 +0700" stop="20210214163000 +0700" channel="Berita Satu">
+    <title lang="id">Creative Money</title>
+  </programme>
+  <programme start="20210214163000 +0700" stop="20210214180000 +0700" channel="Berita Satu">
+    <title lang="id">Prime Time</title>
+  </programme>
+  <programme start="20210214180000 +0700" stop="20210214180500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210214180500 +0700" stop="20210214190000 +0700" channel="Berita Satu">
+    <title lang="id">Connect 360</title>
+  </programme>
+  <programme start="20210214190000 +0700" stop="20210214190500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210214190500 +0700" stop="20210214193000 +0700" channel="Berita Satu">
+    <title lang="id">News Buzz</title>
+  </programme>
+  <programme start="20210214193000 +0700" stop="20210214200000 +0700" channel="Berita Satu">
+    <title lang="id">Indepth</title>
+  </programme>
+  <programme start="20210214200000 +0700" stop="20210214200500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210214200500 +0700" stop="20210214210000 +0700" channel="Berita Satu">
+    <title lang="id">New Normal</title>
+  </programme>
+  <programme start="20210214210000 +0700" stop="20210214210500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210214210500 +0700" stop="20210214223000 +0700" channel="Berita Satu">
+    <title lang="id">Prime Time</title>
+  </programme>
+  <programme start="20210214223000 +0700" stop="20210214230000 +0700" channel="Berita Satu">
+    <title lang="id">People Inspiration</title>
+  </programme>
+  <programme start="20210214230000 +0700" stop="20210215000000 +0700" channel="Berita Satu">
+    <title lang="id">Beritasatu Highlights</title>
+  </programme>
+  <programme start="20210211011500 +0700" stop="20210211024000 +0700" channel="Citra Drama">
+    <title lang="id">Pembokat Idola Bokap</title>
+  </programme>
+  <programme start="20210211024000 +0700" stop="20210211040500 +0700" channel="Citra Drama">
+    <title lang="id">My Gengges Boy</title>
+  </programme>
+  <programme start="20210211040500 +0700" stop="20210211050000 +0700" channel="Citra Drama">
+    <title lang="id">Cinta Buta</title>
+  </programme>
+  <programme start="20210211050000 +0700" stop="20210211062500 +0700" channel="Citra Drama">
+    <title lang="id">Aku Mohabbatein Sama Kamu</title>
+  </programme>
+  <programme start="20210211062500 +0700" stop="20210211075000 +0700" channel="Citra Drama">
+    <title lang="id">Heelp Mamiku Lebih Laku Dari Aku</title>
+  </programme>
+  <programme start="20210211075000 +0700" stop="20210211084500 +0700" channel="Citra Drama">
+    <title lang="id">Bara Bere</title>
+  </programme>
+  <programme start="20210211084500 +0700" stop="20210211101000 +0700" channel="Citra Drama">
+    <title lang="id">Ndoro Putri</title>
+  </programme>
+  <programme start="20210211101000 +0700" stop="20210211113500 +0700" channel="Citra Drama">
+    <title lang="id">Semanis Cinta Rasa Strawberry</title>
+  </programme>
+  <programme start="20210211113500 +0700" stop="20210211130000 +0700" channel="Citra Drama">
+    <title lang="id">Awalnya Kasih Mawar Akhirnya Kasih Mahar</title>
+  </programme>
+  <programme start="20210211130000 +0700" stop="20210211142500 +0700" channel="Citra Drama">
+    <title lang="id">Cintaku Kesangkut Di Kandang Ayam</title>
+  </programme>
+  <programme start="20210211142500 +0700" stop="20210211155000 +0700" channel="Citra Drama">
+    <title lang="id">Jodoh Lewat Delivery</title>
+  </programme>
+  <programme start="20210211155000 +0700" stop="20210211164500 +0700" channel="Citra Drama">
+    <title lang="id">Cinta Buta</title>
+  </programme>
+  <programme start="20210211164500 +0700" stop="20210211181000 +0700" channel="Citra Drama">
+    <title lang="id">Borgol Hati Tante Polwan</title>
+  </programme>
+  <programme start="20210211181000 +0700" stop="20210211193500 +0700" channel="Citra Drama">
+    <title lang="id">Heelp Mamiku Lebih Laku Dari Aku</title>
+  </programme>
+  <programme start="20210211193500 +0700" stop="20210211210000 +0700" channel="Citra Drama">
+    <title lang="id">Abang Pizza Extra Ganteng</title>
+  </programme>
+  <programme start="20210211210000 +0700" stop="20210211222500 +0700" channel="Citra Drama">
+    <title lang="id">Bau Cintaku Dikucek Bilas Miss Laundry</title>
+  </programme>
+  <programme start="20210211222500 +0700" stop="20210211235000 +0700" channel="Citra Drama">
+    <title lang="id">Nyak Babe Rempong Hubungan Kita Jadi Bodong</title>
+  </programme>
+  <programme start="20210211235000 +0700" stop="20210212011500 +0700" channel="Citra Drama">
+    <title lang="id">Mengejar Cinta Gadis Marathon</title>
+  </programme>
+</tv>
