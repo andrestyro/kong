@@ -1,55 +1,55 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Astro Ceria" tvg-id="N/A" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Astro_Ceria_HD.png",Astro Ceria
+#EXTINF:-1 tvg-name="Astro Ceria" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Astro_Ceria_HD.png",Astro Ceria
 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
-#EXTINF:-1 tvg-name="Astro Ceria" tvg-id="N/A" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Astro_Ceria_HD.png",Astro Ceria
+#EXTINF:-1 tvg-name="Astro Ceria" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Astro_Ceria_HD.png",Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1 tvg-name="Disney Junior UK" tvg-id="N/A" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior UK
-http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="NICK JR Pluto" tvg-id="N/A" group-title="" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",NICK JR Pluto
-http://185.238.0.145:1313/c/alt/nickjr-hd.m3u8
-#EXTINF:-1 tvg-name="FOX Family Movies" tvg-id="15" group-title="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png",FOX Family Movies
-http://203.153.218.28:9981/stream/channelid/1949182550
-#EXTINF:-1 tvg-name="FOX Action Movies" tvg-id="16" group-title="" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png",FOX Action Movies
-http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:-1 tvg-name="FOX Movies" tvg-id="14" group-title="" tvg-logo="https://www.foxmoviesasia.com/images/fm.png",FOX Movies
-http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-1 tvg-name="FOXCrime" tvg-id="152" group-title="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_152.png",FOXCrime
-http://50.7.161.82:8278/streams/d/Foxcrime/playlist.m3u8
-#EXTINF:-1 tvg-name="FOX" tvg-id="153" group-title="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_437.png",FOX
-http://50.7.161.82:8278/streams/d/Foxhd/playlist.m3u8
-#EXTINF:-1 tvg-name="National Geographic People" tvg-id="247" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png",National Geographic People
-http://93.190.139.34:8278/streams/d/Natgeopeople/playlist.m3u8
-#EXTINF:-1 tvg-name="National Geographic Channel" tvg-id="202" group-title="" tvg-logo="https://mms.businesswire.com/media/20200803005527/en/551357/23/NGC_Logo.jpg",National Geographic Channel
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=f91c676cbee8fc9aa708334fcf26d98136347412c7d30ae6fde3742bbc4f21b9
-#EXTINF:-1 tvg-name="National Geographic Wild" tvg-id="204" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png",National Geographic Wild
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 tvg-name="TV1" tvg-id="225" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png",TV1
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 tvg-name="TV2" tvg-id="310" group-title="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",TV2
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-#EXTINF:-1 tvg-name="TV3" tvg-id="N/A" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png",TV3
-http://50.7.222.130:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1 tvg-name="Boo" tvg-id="N/A" group-title="" tvg-logo="http://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",Boo
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 tvg-name="Hello" tvg-id="N/A" group-title="" tvg-logo="https://d3avoj45mekucs.cloudfront.net/rojakdaily/media/jessica-chua/entertainment/2018/oct/he110%20channel%20introduction/hello_main.jpg?ext=.jpg",Hello
-http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network US" tvg-id="9100008443##9233015734" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network US
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
-#EXTINF:-1 tvg-name="Nick Jr Too UK" tvg-id="611" group-title="" tvg-logo="https://i.pinimg.com/736x/0d/4f/46/0d4f46a806af800772c1144aa0f2fff6.jpg",Nick Jr Too UK
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/17153
-#EXTINF:-1 tvg-name="Nick Jr UK" tvg-id="211" group-title="" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",Nick Jr UK
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/12062
-#EXTINF:-1 tvg-name="Nick Jr. US" tvg-id="9100008443##9233007153" group-title="" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",Nick Jr. US
-http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/12062
-#EXTINF:-1 tvg-name="Boomerang US" tvg-id="9100008443##9233015844" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",Boomerang US
-http://88.216.48.14/boomerang/live.m3u8
-#EXTINF:-1 tvg-name="Disney Channel UK" tvg-id="281" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png",Disney Channel UK
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
-#EXTINF:-1 tvg-name="Astro SuperSport 4" tvg-id="astro-supersport-4/details/163/##834_160" group-title="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png",Astro SuperSport 4
-http://starshare.live:8080/live/543678/546789/5483.ts
-#EXTINF:-1 tvg-name="Astro SuperSport 3" tvg-id="astro-supersport-3/details/69/##833_160" group-title="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_160.png",Astro SuperSport 3
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1 tvg-name="Astro SuperSport 2" tvg-id="astro-supersport-2/details/10/##832_160" group-title="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_160.png",Astro SuperSport 2
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1 tvg-name="Astro SuperSport" tvg-id="astro-supersport/details/71/##831_160" group-title="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_160.png",Astro SuperSport
+#EXTINF:-1 tvg-name="Astro SuperSport" tvg-id="astro-supersport/details/71/##831_160" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_160.png",Astro SuperSport
 http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 tvg-name="Astro SuperSport 2" tvg-id="astro-supersport-2/details/10/##832_160" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_160.png",Astro SuperSport 2
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 tvg-name="Astro SuperSport 3" tvg-id="astro-supersport-3/details/69/##833_160" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_160.png",Astro SuperSport 3
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 tvg-name="Astro SuperSport 4" tvg-id="astro-supersport-4/details/163/##834_160" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png",Astro SuperSport 4
+http://starshare.live:8080/live/543678/546789/5483.ts
+#EXTINF:-1 tvg-name="Boo" tvg-id="N/A" tvg-logo="http://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",Boo
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 tvg-name="Boomerang US" tvg-id="9100008443##9233015844" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",Boomerang US
+http://88.216.48.14/boomerang/live.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network US" tvg-id="9100008443##9233015734" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network US
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
+#EXTINF:-1 tvg-name="Disney Channel UK" tvg-id="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png",Disney Channel UK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
+#EXTINF:-1 tvg-name="Disney Junior UK" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior UK
+http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="FOX" tvg-id="153" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_437.png",FOX
+http://50.7.161.82:8278/streams/d/Foxhd/playlist.m3u8
+#EXTINF:-1 tvg-name="FOX Action Movies" tvg-id="16" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png",FOX Action Movies
+http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1 tvg-name="FOX Family Movies" tvg-id="15" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png",FOX Family Movies
+http://203.153.218.28:9981/stream/channelid/1949182550
+#EXTINF:-1 tvg-name="FOX Movies" tvg-id="14" tvg-logo="https://www.foxmoviesasia.com/images/fm.png",FOX Movies
+http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:-1 tvg-name="FOXCrime" tvg-id="152" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_152.png",FOXCrime
+http://50.7.161.82:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:-1 tvg-name="Hello" tvg-id="N/A" tvg-logo="https://d3avoj45mekucs.cloudfront.net/rojakdaily/media/jessica-chua/entertainment/2018/oct/he110%20channel%20introduction/hello_main.jpg?ext=.jpg",Hello
+http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
+#EXTINF:-1 tvg-name="National Geographic Channel" tvg-id="202" tvg-logo="https://mms.businesswire.com/media/20200803005527/en/551357/23/NGC_Logo.jpg",National Geographic Channel
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=f91c676cbee8fc9aa708334fcf26d98136347412c7d30ae6fde3742bbc4f21b9
+#EXTINF:-1 tvg-name="National Geographic People" tvg-id="247" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png",National Geographic People
+http://93.190.139.34:8278/streams/d/Natgeopeople/playlist.m3u8
+#EXTINF:-1 tvg-name="National Geographic Wild" tvg-id="204" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png",National Geographic Wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-name="NICK JR Pluto" tvg-id="N/A" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",NICK JR Pluto
+http://185.238.0.145:1313/c/alt/nickjr-hd.m3u8
+#EXTINF:-1 tvg-name="Nick Jr Too UK" tvg-id="611" tvg-logo="https://i.pinimg.com/736x/0d/4f/46/0d4f46a806af800772c1144aa0f2fff6.jpg",Nick Jr Too UK
+http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/17153
+#EXTINF:-1 tvg-name="Nick Jr UK" tvg-id="211" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",Nick Jr UK
+http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/12062
+#EXTINF:-1 tvg-name="Nick Jr. US" tvg-id="9100008443##9233007153" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",Nick Jr. US
+http://supremetv.club:8080/iptvlocal/CHkQEDxsL6/12062
+#EXTINF:-1 tvg-name="TV1" tvg-id="225" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png",TV1
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1 tvg-name="TV2" tvg-id="310" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",TV2
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 tvg-name="TV3" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png",TV3
+http://50.7.222.130:8278/streams/d/TV3/playlist.m3u8
