@@ -35,9 +35,9 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1 tvg-name="CNBC Indonesia" tvg-id="cnbcindonesia" group-title="LOKAL" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png?v=5.1.7",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697
-#EXTINF:-1 tvg-name="N/A" tvg-id="RIYAN.1697be9b822bb0fc9f8954eb45c6f5d8.SHINTA" group-title="LOCAL" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LveTiruIzIi7xfIe0bp6BH097SY=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/5ed6aa.png",[CODAY] Kompas TV _VIDIO
+#EXTINF:-1 tvg-name="N/A" tvg-id="RIYAN.1697be9b822bb0fc9f8954eb45c6f5d8.SHINTA" group-title="LOCAL" tvg-logo="https://static.mncnow.id/images/channel/e71dc3ed/0d3a_r32.jpg",[CODAY] Kompas TV _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-name="N/A" tvg-id="Riyan.cb70ab375662576bd1ac5aaf16b3fca4.Coday" group-title="LOCAL 2" tvg-logo="https://images.useetv.com/logo_rtv_big1.png?v=2.0.0.13",[CODAY] Rajawali TV _USEETV
+#EXTINF:-1 tvg-name="N/A" tvg-id="Riyan.cb70ab375662576bd1ac5aaf16b3fca4.Coday" group-title="LOCAL 2" tvg-logo="https://static.mncnow.id/images/channel/66d568b9/76cd_r32.jpg",[CODAY] Rajawali TV _USEETV
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc5663ff6b093d51bada01b2fd714eb3144a
 #EXTINF:-1 tvg-name="N/A" tvg-id="RIYAN.48a8c6b07cb747e34e2d0e2b0f19c8d7.SHINTA" group-title="RELIGIOUS" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/L-T7VnfcN2Wk5nDNelMi3IRdJPI=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6678/citra-muslim-68ac64.jpg",[CODAY] Citra Muslim _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=c4f8a2db7f8704b0bdaa266d61ef48c3102a6ed6587b5b8cb4ebbe972864690b
