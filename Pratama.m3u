@@ -13,22 +13,14 @@ http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 http://starshare.live:8080/live/543678/546789/5483.ts
 #EXTINF:-1 tvg-name="Boo" tvg-id="N/A" tvg-logo="http://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 tvg-name="USA: Paw Patrol HD 24H" tvg-id="N/A" tvg-logo="Logo",USA: Paw Patrol HD 24H
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/49420
 #EXTINF:-1 tvg-name="Boomerang US" tvg-id="9100008443##9233015844" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",Boomerang US
 http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/30922
-#EXTINF:-1 tvg-name="UK: Cartoon Network FHD" tvg-id="id" tvg-logo="Logo",UK: Cartoon Network FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32592
 #EXTINF:-1 tvg-name="Cartoon Network US" tvg-id="9100008443##9233015734" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network US
 http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/30990
 #EXTINF:-1 tvg-name="Disney Channel UK" tvg-id="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png",Disney Channel UK
 http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32590
 #EXTINF:-1 tvg-name="Disney Junior UK" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior UK
 http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="USA: Disney Channel" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",USA: Disney Channel
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32590
-#EXTINF:-1 tvg-name="USA: Disney XD" tvg-id="N/A" tvg-logo="Logo",USA: Disney XD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32589
 #EXTINF:-1 tvg-name="FOX" tvg-id="153" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_437.png",FOX
 http://50.7.161.82:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX Action Movies" tvg-id="16" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png",FOX Action Movies
@@ -61,3 +53,11 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-name="TV3" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png",TV3
 http://50.7.222.130:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 tvg-name="UK: Cartoon Network FHD" tvg-id="id" tvg-logo="Logo",UK: Cartoon Network FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32592
+#EXTINF:-1 tvg-name="USA: Disney Channel" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",USA: Disney Channel
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8081
+#EXTINF:-1 tvg-name="USA: Disney XD" tvg-id="N/A" tvg-logo="Logo",USA: Disney XD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32589
+#EXTINF:-1 tvg-name="USA: Paw Patrol HD 24H" tvg-id="N/A" tvg-logo="Logo",USA: Paw Patrol HD 24H
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/49420
