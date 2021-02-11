@@ -14,7 +14,7 @@ http://starshare.live:8080/live/543678/546789/5483.ts
 #EXTINF:-1 tvg-name="Boo" tvg-id="N/A" tvg-logo="http://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 tvg-name="Boomerang US" tvg-id="9100008443##9233015844" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",Boomerang US
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/30922
+http://mags.vip:2086/live/miriam/miriam123/100031.ts
 #EXTINF:-1 tvg-name="Cartoon Network US" tvg-id="9100008443##9233015734" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network US
 http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/30990
 #EXTINF:-1 tvg-name="Disney Channel UK" tvg-id="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png",Disney Channel UK
@@ -59,8 +59,14 @@ http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32592
 http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8081
 #EXTINF:-1 tvg-name="USA: Disney XD" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png",USA: Disney XD
 http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32589
-#EXTINF:-1 tvg-name="USA: Paw Patrol HD 24H" tvg-id="N/A" tvg-logo="Logo",USA: Paw Patrol HD 24H
+#EXTINF:-1 tvg-name="USA: Paw Patrol HD 24H" tvg-id="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Paw_Patrol_II.svg/revision/latest?cb=20200709080723",USA: Paw Patrol HD 24H
 http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/49420
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="N/A",UK: Sky Cinema Disney HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32539
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="N/A",UK: Sky Cinema Family FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32540
+#EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="N/A",UK: Sky Cinema Action HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32541
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",The Reef 
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=0def136d0f724cb03d927f64a0039cce99c04773e83da931f64885fdf14061a8
 #EXTINF:-1 tvg-name="N/A" tvg-id="N/A" tvg-logo="",Eiffel I'm in Love 
