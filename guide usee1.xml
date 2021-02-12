@@ -77,6 +77,7 @@
   </channel>
   <channel id="Fox Sport 3">
     <display-name lang="id">Fox Sport 3</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_foxsports3_small.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="UseeSports">
@@ -251,48 +252,6 @@
   </programme>
   <programme start="20210212230400 +0700" stop="20210213000500 +0700" channel="Duck TV">
     <title lang="id">ducktv Favorites</title>
-  </programme>
-  <programme start="20210212020000 +0700" stop="20210212030000 +0700" channel="Boomerang">
-    <title lang="id">My Little Pony: Friendship</title>
-  </programme>
-  <programme start="20210212030000 +0700" stop="20210212040000 +0700" channel="Boomerang">
-    <title lang="id">My Little Pony: Friendship</title>
-  </programme>
-  <programme start="20210212040000 +0700" stop="20210212050000 +0700" channel="Boomerang">
-    <title lang="id">My Little Pony: Friendship</title>
-  </programme>
-  <programme start="20210212050000 +0700" stop="20210212060000 +0700" channel="Boomerang">
-    <title lang="id">Dorothy And The Wizard Of Oz</title>
-  </programme>
-  <programme start="20210212060000 +0700" stop="20210212070000 +0700" channel="Boomerang">
-    <title lang="id">Barbie: Dreamtopia</title>
-  </programme>
-  <programme start="20210212070000 +0700" stop="20210212080000 +0700" channel="Boomerang">
-    <title lang="id">My Little Pony: Pony Life</title>
-  </programme>
-  <programme start="20210212080000 +0700" stop="20210212090000 +0700" channel="Boomerang">
-    <title lang="id">Unikitty</title>
-  </programme>
-  <programme start="20210212090000 +0700" stop="20210212100000 +0700" channel="Boomerang">
-    <title lang="id">The Powerpuff Girls</title>
-  </programme>
-  <programme start="20210212100000 +0700" stop="20210212110000 +0700" channel="Boomerang">
-    <title lang="id">Barbie: Dreamtopia</title>
-  </programme>
-  <programme start="20210212110000 +0700" stop="20210212120000 +0700" channel="Boomerang">
-    <title lang="id">My Little Pony: Friendship</title>
-  </programme>
-  <programme start="20210212120000 +0700" stop="20210212123000 +0700" channel="Boomerang">
-    <title lang="id">Be Cool Scooby-Doo!</title>
-  </programme>
-  <programme start="20210212123000 +0700" stop="20210212130000 +0700" channel="Boomerang">
-    <title lang="id">The Tom And Jerry Show</title>
-  </programme>
-  <programme start="20210212130000 +0700" stop="20210212133000 +0700" channel="Boomerang">
-    <title lang="id">The Looney Tunes Show</title>
-  </programme>
-  <programme start="20210212133000 +0700" stop="20210212140000 +0700" channel="Boomerang">
-    <title lang="id">Grizzy And The Lemmings</title>
   </programme>
   <programme start="20210212140000 +0700" stop="20210212143000 +0700" channel="Boomerang">
     <title lang="id">Shaun The Sheep</title>
@@ -1214,48 +1173,6 @@
   </programme>
   <programme start="20210222230000 +0700" stop="20210223000000 +0700" channel="Boomerang">
     <title lang="id">Grizzy And The Lemmings</title>
-  </programme>
-  <programme start="20210212020000 +0700" stop="20210212030000 +0700" channel="Cartoon Network">
-    <title lang="id">Chowder</title>
-  </programme>
-  <programme start="20210212030000 +0700" stop="20210212040000 +0700" channel="Cartoon Network">
-    <title lang="id">Adventure Time</title>
-  </programme>
-  <programme start="20210212040000 +0700" stop="20210212050000 +0700" channel="Cartoon Network">
-    <title lang="id">Grizzy And The Lemmings</title>
-  </programme>
-  <programme start="20210212050000 +0700" stop="20210212052500 +0700" channel="Cartoon Network">
-    <title lang="id">Oggy &amp; The Cockroaches</title>
-  </programme>
-  <programme start="20210212052500 +0700" stop="20210212053000 +0700" channel="Cartoon Network">
-    <title lang="id">Lamput</title>
-  </programme>
-  <programme start="20210212053000 +0700" stop="20210212063000 +0700" channel="Cartoon Network">
-    <title lang="id">The Tom And Jerry Show</title>
-  </programme>
-  <programme start="20210212063000 +0700" stop="20210212073000 +0700" channel="Cartoon Network">
-    <title lang="id">Grizzy And The Lemmings</title>
-  </programme>
-  <programme start="20210212073000 +0700" stop="20210212083000 +0700" channel="Cartoon Network">
-    <title lang="id">Mr. Bean: The Animated Series</title>
-  </programme>
-  <programme start="20210212083000 +0700" stop="20210212090000 +0700" channel="Cartoon Network">
-    <title lang="id">Kingdom Force</title>
-  </programme>
-  <programme start="20210212090000 +0700" stop="20210212103000 +0700" channel="Cartoon Network">
-    <title lang="id">Running Man: Ultimate Challenge</title>
-  </programme>
-  <programme start="20210212103000 +0700" stop="20210212114500 +0700" channel="Cartoon Network">
-    <title lang="id">Tom And Jerry: Robin Hood</title>
-  </programme>
-  <programme start="20210212114500 +0700" stop="20210212120000 +0700" channel="Cartoon Network">
-    <title lang="id">The Tom And Jerry Show</title>
-  </programme>
-  <programme start="20210212120000 +0700" stop="20210212130000 +0700" channel="Cartoon Network">
-    <title lang="id">Teen Titans Go!</title>
-  </programme>
-  <programme start="20210212130000 +0700" stop="20210212140000 +0700" channel="Cartoon Network">
-    <title lang="id">Teen Titans Go!</title>
   </programme>
   <programme start="20210212140000 +0700" stop="20210212150000 +0700" channel="Cartoon Network">
     <title lang="id">Teen Titans Go!</title>
@@ -2504,138 +2421,6 @@
   </programme>
   <programme start="20210212233000 +0700" stop="20210213000000 +0700" channel="Horee">
     <title lang="id">Detektif Kubi</title>
-  </programme>
-  <programme start="20210212014000 +0700" stop="20210212020500 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Adv. Of Paddington</title>
-  </programme>
-  <programme start="20210212020500 +0700" stop="20210212022500 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Adv. Of Paddington</title>
-  </programme>
-  <programme start="20210212022500 +0700" stop="20210212025000 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Top Wing</title>
-  </programme>
-  <programme start="20210212025000 +0700" stop="20210212031000 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Blaze &amp; Monster...</title>
-  </programme>
-  <programme start="20210212031000 +0700" stop="20210212033500 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Blaze &amp; Monster...</title>
-  </programme>
-  <programme start="20210212033500 +0700" stop="20210212035500 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Rusty Rivets</title>
-  </programme>
-  <programme start="20210212035500 +0700" stop="20210212042000 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Abby Hatcher</title>
-  </programme>
-  <programme start="20210212042000 +0700" stop="20210212044000 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Butterbean's Cafe</title>
-  </programme>
-  <programme start="20210212044000 +0700" stop="20210212050000 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Bubble Guppies</title>
-  </programme>
-  <programme start="20210212050000 +0700" stop="20210212050500 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Peppa Pig</title>
-  </programme>
-  <programme start="20210212050500 +0700" stop="20210212051000 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Peppa Pig</title>
-  </programme>
-  <programme start="20210212051000 +0700" stop="20210212053500 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Barbapapa: One...</title>
-  </programme>
-  <programme start="20210212053500 +0700" stop="20210212060000 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Blue's Clues &amp; You</title>
-  </programme>
-  <programme start="20210212060000 +0700" stop="20210212062000 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Blaze &amp; Monster...</title>
-  </programme>
-  <programme start="20210212062000 +0700" stop="20210212064500 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Blaze &amp; Monster...</title>
-  </programme>
-  <programme start="20210212064500 +0700" stop="20210212065500 +0700" channel="Nickelodeon Jr">
-    <title lang="id">PAW Patrol</title>
-  </programme>
-  <programme start="20210212065500 +0700" stop="20210212071000 +0700" channel="Nickelodeon Jr">
-    <title lang="id">PAW Patrol</title>
-  </programme>
-  <programme start="20210212071000 +0700" stop="20210212073100 +0700" channel="Nickelodeon Jr">
-    <title lang="id">PAW Patrol</title>
-  </programme>
-  <programme start="20210212073100 +0700" stop="20210212073500 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Calvin &amp; Kaison's...</title>
-  </programme>
-  <programme start="20210212073500 +0700" stop="20210212074000 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Calvin &amp; Kaison's...</title>
-  </programme>
-  <programme start="20210212074000 +0700" stop="20210212080500 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Top Wing</title>
-  </programme>
-  <programme start="20210212080500 +0700" stop="20210212082500 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Top Wing</title>
-  </programme>
-  <programme start="20210212082500 +0700" stop="20210212084500 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Adv. Of Paddington</title>
-  </programme>
-  <programme start="20210212084500 +0700" stop="20210212091000 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Bubble Guppies</title>
-  </programme>
-  <programme start="20210212091000 +0700" stop="20210212092000 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Abby Hatcher</title>
-  </programme>
-  <programme start="20210212092000 +0700" stop="20210212094500 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Butterbean's Cafe</title>
-  </programme>
-  <programme start="20210212094500 +0700" stop="20210212100500 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Blue's Clues &amp; You</title>
-  </programme>
-  <programme start="20210212100500 +0700" stop="20210212102500 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Blaze &amp; Monster...</title>
-  </programme>
-  <programme start="20210212102500 +0700" stop="20210212104500 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Blaze &amp; Monster...</title>
-  </programme>
-  <programme start="20210212104500 +0700" stop="20210212110000 +0700" channel="Nickelodeon Jr">
-    <title lang="id">PAW Patrol</title>
-  </programme>
-  <programme start="20210212110000 +0700" stop="20210212111000 +0700" channel="Nickelodeon Jr">
-    <title lang="id">PAW Patrol</title>
-  </programme>
-  <programme start="20210212111000 +0700" stop="20210212112500 +0700" channel="Nickelodeon Jr">
-    <title lang="id">PAW Patrol</title>
-  </programme>
-  <programme start="20210212112500 +0700" stop="20210212113500 +0700" channel="Nickelodeon Jr">
-    <title lang="id">PAW Patrol</title>
-  </programme>
-  <programme start="20210212113500 +0700" stop="20210212120000 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Adv. Of Paddington</title>
-  </programme>
-  <programme start="20210212120000 +0700" stop="20210212120400 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Peppa Pig</title>
-  </programme>
-  <programme start="20210212120400 +0700" stop="20210212121000 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Peppa Pig</title>
-  </programme>
-  <programme start="20210212121000 +0700" stop="20210212121500 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Peppa Pig</title>
-  </programme>
-  <programme start="20210212121500 +0700" stop="20210212122000 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Calvin &amp; Kaison's...</title>
-  </programme>
-  <programme start="20210212122000 +0700" stop="20210212122500 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Calvin &amp; Kaison's...</title>
-  </programme>
-  <programme start="20210212122500 +0700" stop="20210212123000 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Ready Set Dance</title>
-  </programme>
-  <programme start="20210212123000 +0700" stop="20210212125500 +0700" channel="Nickelodeon Jr">
-    <title lang="id">Blue's Clues &amp; You</title>
-  </programme>
-  <programme start="20210212125500 +0700" stop="20210212130500 +0700" channel="Nickelodeon Jr">
-    <title lang="id">PAW Patrol</title>
-  </programme>
-  <programme start="20210212130500 +0700" stop="20210212131500 +0700" channel="Nickelodeon Jr">
-    <title lang="id">PAW Patrol</title>
-  </programme>
-  <programme start="20210212131500 +0700" stop="20210212134000 +0700" channel="Nickelodeon Jr">
-    <title lang="id">PAW Patrol</title>
   </programme>
   <programme start="20210212134000 +0700" stop="20210212140500 +0700" channel="Nickelodeon Jr">
     <title lang="id">Adv. Of Paddington</title>
@@ -4988,120 +4773,6 @@
   </programme>
   <programme start="20210222233500 +0700" stop="20210223000000 +0700" channel="Nickelodeon Jr">
     <title lang="id">Adv. Of Paddington</title>
-  </programme>
-  <programme start="20210212014500 +0700" stop="20210212020500 +0700" channel="Nickelodeon">
-    <title lang="id">The Penguins Of Madagascar</title>
-  </programme>
-  <programme start="20210212020500 +0700" stop="20210212023000 +0700" channel="Nickelodeon">
-    <title lang="id">The Penguins Of Madagascar</title>
-  </programme>
-  <programme start="20210212023000 +0700" stop="20210212025000 +0700" channel="Nickelodeon">
-    <title lang="id">The Penguins Of Madagascar</title>
-  </programme>
-  <programme start="20210212025000 +0700" stop="20210212031500 +0700" channel="Nickelodeon">
-    <title lang="id">The Penguins Of Madagascar</title>
-  </programme>
-  <programme start="20210212031500 +0700" stop="20210212033500 +0700" channel="Nickelodeon">
-    <title lang="id">The Penguins Of Madagascar</title>
-  </programme>
-  <programme start="20210212033500 +0700" stop="20210212040000 +0700" channel="Nickelodeon">
-    <title lang="id">The Penguins Of Madagascar</title>
-  </programme>
-  <programme start="20210212040000 +0700" stop="20210212042000 +0700" channel="Nickelodeon">
-    <title lang="id">ChalkZone</title>
-  </programme>
-  <programme start="20210212042000 +0700" stop="20210212044500 +0700" channel="Nickelodeon">
-    <title lang="id">ChalkZone</title>
-  </programme>
-  <programme start="20210212044500 +0700" stop="20210212050000 +0700" channel="Nickelodeon">
-    <title lang="id">SpongeBob SquarePants</title>
-  </programme>
-  <programme start="20210212050000 +0700" stop="20210212052500 +0700" channel="Nickelodeon">
-    <title lang="id">SpongeBob SquarePants</title>
-  </programme>
-  <programme start="20210212052500 +0700" stop="20210212054500 +0700" channel="Nickelodeon">
-    <title lang="id">SpongeBob SquarePants</title>
-  </programme>
-  <programme start="20210212054500 +0700" stop="20210212060000 +0700" channel="Nickelodeon">
-    <title lang="id">SpongeBob SquarePants</title>
-  </programme>
-  <programme start="20210212060000 +0700" stop="20210212062500 +0700" channel="Nickelodeon">
-    <title lang="id">The Loud House</title>
-  </programme>
-  <programme start="20210212062500 +0700" stop="20210212064500 +0700" channel="Nickelodeon">
-    <title lang="id">The Loud House</title>
-  </programme>
-  <programme start="20210212064500 +0700" stop="20210212070000 +0700" channel="Nickelodeon">
-    <title lang="id">The Loud House</title>
-  </programme>
-  <programme start="20210212070000 +0700" stop="20210212071500 +0700" channel="Nickelodeon">
-    <title lang="id">PAW Patrol</title>
-  </programme>
-  <programme start="20210212071500 +0700" stop="20210212073000 +0700" channel="Nickelodeon">
-    <title lang="id">PAW Patrol</title>
-  </programme>
-  <programme start="20210212073000 +0700" stop="20210212075500 +0700" channel="Nickelodeon">
-    <title lang="id">Deer Squad</title>
-  </programme>
-  <programme start="20210212075500 +0700" stop="20210212080000 +0700" channel="Nickelodeon">
-    <title lang="id">Calvin &amp; Kaison's Play Power</title>
-  </programme>
-  <programme start="20210212080000 +0700" stop="20210212082500 +0700" channel="Nickelodeon">
-    <title lang="id">Blue's Clues &amp; You</title>
-  </programme>
-  <programme start="20210212082500 +0700" stop="20210212083000 +0700" channel="Nickelodeon">
-    <title lang="id">The Day Henry Met</title>
-  </programme>
-  <programme start="20210212083000 +0700" stop="20210212085500 +0700" channel="Nickelodeon">
-    <title lang="id">Blaze &amp; The Monster Machines</title>
-  </programme>
-  <programme start="20210212085500 +0700" stop="20210212090000 +0700" channel="Nickelodeon">
-    <title lang="id">Kid-E-Cats</title>
-  </programme>
-  <programme start="20210212090000 +0700" stop="20210212092500 +0700" channel="Nickelodeon">
-    <title lang="id">Top Wing</title>
-  </programme>
-  <programme start="20210212092500 +0700" stop="20210212094500 +0700" channel="Nickelodeon">
-    <title lang="id">PAW Patrol</title>
-  </programme>
-  <programme start="20210212094500 +0700" stop="20210212100000 +0700" channel="Nickelodeon">
-    <title lang="id">PAW Patrol</title>
-  </programme>
-  <programme start="20210212100000 +0700" stop="20210212103000 +0700" channel="Nickelodeon">
-    <title lang="id">Ricky Zoom</title>
-  </programme>
-  <programme start="20210212103000 +0700" stop="20210212110000 +0700" channel="Nickelodeon">
-    <title lang="id">Abby Hatcher</title>
-  </programme>
-  <programme start="20210212110000 +0700" stop="20210212112500 +0700" channel="Nickelodeon">
-    <title lang="id">Regal Academy</title>
-  </programme>
-  <programme start="20210212112500 +0700" stop="20210212115000 +0700" channel="Nickelodeon">
-    <title lang="id">Butterbean's Cafe</title>
-  </programme>
-  <programme start="20210212115000 +0700" stop="20210212115500 +0700" channel="Nickelodeon">
-    <title lang="id">Kid-E-Cats</title>
-  </programme>
-  <programme start="20210212115500 +0700" stop="20210212120500 +0700" channel="Nickelodeon">
-    <title lang="id">Chop Chop Ninja</title>
-  </programme>
-  <programme start="20210212120500 +0700" stop="20210212122000 +0700" channel="Nickelodeon">
-    <title lang="id">Chop Chop Ninja</title>
-  </programme>
-  <programme start="20210212122000 +0700" stop="20210212123000 +0700" channel="Nickelodeon">
-    <title lang="id">Chop Chop Ninja</title>
-  </programme>
-  <programme start="20210212123000 +0700" stop="20210212130000 +0700" channel="Nickelodeon">
-    <title lang="id">The Loud House</title>
-  </programme>
-  <programme start="20210212130000 +0700" stop="20210212131500 +0700" channel="Nickelodeon">
-    <title lang="id">Lego Friends</title>
-  </programme>
-  <programme start="20210212131500 +0700" stop="20210212133000 +0700" channel="Nickelodeon">
-    <title lang="id">Lego Friends</title>
-  </programme>
-  <programme start="20210212133000 +0700" stop="20210212140000 +0700" channel="Nickelodeon">
-    <title lang="id">Lego City Adventures</title>
   </programme>
   <programme start="20210212140000 +0700" stop="20210212143000 +0700" channel="Nickelodeon">
     <title lang="id">SpongeBob SquarePants</title>
@@ -7581,60 +7252,6 @@
   <programme start="20210212233000 +0700" stop="20210213000000 +0700" channel="Dreamworks">
     <title lang="id">Turbo F. A. S. T</title>
   </programme>
-  <programme start="20210212011500 +0700" stop="20210212020500 +0700" channel="Discovery Channel">
-    <title lang="id">Street Outlaws S2: Prairie</title>
-  </programme>
-  <programme start="20210212020500 +0700" stop="20210212023000 +0700" channel="Discovery Channel">
-    <title lang="id">How Do They Do It?</title>
-  </programme>
-  <programme start="20210212023000 +0700" stop="20210212025500 +0700" channel="Discovery Channel">
-    <title lang="id">How It's Made S11: Marimbas</title>
-  </programme>
-  <programme start="20210212025500 +0700" stop="20210212034500 +0700" channel="Discovery Channel">
-    <title lang="id">Dual Survival S5: Grin &amp; Bear</title>
-  </programme>
-  <programme start="20210212034500 +0700" stop="20210212043500 +0700" channel="Discovery Channel">
-    <title lang="id">Wheeler... S13: Ford Mustang</title>
-  </programme>
-  <programme start="20210212043500 +0700" stop="20210212053500 +0700" channel="Discovery Channel">
-    <title lang="id">Fast N' Loud S6: Shelby</title>
-  </programme>
-  <programme start="20210212053500 +0700" stop="20210212060000 +0700" channel="Discovery Channel">
-    <title lang="id">How Do They Do It?</title>
-  </programme>
-  <programme start="20210212060000 +0700" stop="20210212062500 +0700" channel="Discovery Channel">
-    <title lang="id">How It's Made S11: Marimbas</title>
-  </programme>
-  <programme start="20210212062500 +0700" stop="20210212071500 +0700" channel="Discovery Channel">
-    <title lang="id">Dual Survival S5: Grin &amp; Bear</title>
-  </programme>
-  <programme start="20210212071500 +0700" stop="20210212080500 +0700" channel="Discovery Channel">
-    <title lang="id">Wheeler... S12: Best Of</title>
-  </programme>
-  <programme start="20210212080500 +0700" stop="20210212085500 +0700" channel="Discovery Channel">
-    <title lang="id">Fast N' Loud S6: Quickflippin</title>
-  </programme>
-  <programme start="20210212085500 +0700" stop="20210212092000 +0700" channel="Discovery Channel">
-    <title lang="id">How Do They Do It?</title>
-  </programme>
-  <programme start="20210212092000 +0700" stop="20210212094500 +0700" channel="Discovery Channel">
-    <title lang="id">How It's Made S11: Car Seats</title>
-  </programme>
-  <programme start="20210212094500 +0700" stop="20210212103500 +0700" channel="Discovery Channel">
-    <title lang="id">Dodgeball... S1: Thunderdome</title>
-  </programme>
-  <programme start="20210212103500 +0700" stop="20210212112500 +0700" channel="Discovery Channel">
-    <title lang="id">Dodgeball... S1: Keep Coming</title>
-  </programme>
-  <programme start="20210212112500 +0700" stop="20210212121500 +0700" channel="Discovery Channel">
-    <title lang="id">Dodgeball... S1: Exploding</title>
-  </programme>
-  <programme start="20210212121500 +0700" stop="20210212130500 +0700" channel="Discovery Channel">
-    <title lang="id">Man Vs Bear: Flying Scotsman</title>
-  </programme>
-  <programme start="20210212130500 +0700" stop="20210212135500 +0700" channel="Discovery Channel">
-    <title lang="id">Man Vs Bear: Bart's 1st Defeat</title>
-  </programme>
   <programme start="20210212135500 +0700" stop="20210212144500 +0700" channel="Discovery Channel">
     <title lang="id">Man Vs Bear: Mammals</title>
   </programme>
@@ -8600,51 +8217,6 @@
   </programme>
   <programme start="20210222233500 +0700" stop="20210223002500 +0700" channel="Discovery Channel">
     <title lang="id">Deadliest Catch: Bleeding Edge</title>
-  </programme>
-  <programme start="20210212011500 +0700" stop="20210212021000 +0700" channel="Crime Investigation">
-    <title lang="id">Ted Bundy: Serial Monster</title>
-  </programme>
-  <programme start="20210212021000 +0700" stop="20210212030500 +0700" channel="Crime Investigation">
-    <title lang="id">Cold Case Files</title>
-  </programme>
-  <programme start="20210212030500 +0700" stop="20210212040000 +0700" channel="Crime Investigation">
-    <title lang="id">60 Days In</title>
-  </programme>
-  <programme start="20210212040000 +0700" stop="20210212050000 +0700" channel="Crime Investigation">
-    <title lang="id">The First 48</title>
-  </programme>
-  <programme start="20210212050000 +0700" stop="20210212055000 +0700" channel="Crime Investigation">
-    <title lang="id">60 Days In</title>
-  </programme>
-  <programme start="20210212055000 +0700" stop="20210212061500 +0700" channel="Crime Investigation">
-    <title lang="id">Border Security</title>
-  </programme>
-  <programme start="20210212061500 +0700" stop="20210212064500 +0700" channel="Crime Investigation">
-    <title lang="id">Border Security</title>
-  </programme>
-  <programme start="20210212064500 +0700" stop="20210212074000 +0700" channel="Crime Investigation">
-    <title lang="id">Damian Lewis: Spy Wars</title>
-  </programme>
-  <programme start="20210212074000 +0700" stop="20210212083500 +0700" channel="Crime Investigation">
-    <title lang="id">Cold Case Files</title>
-  </programme>
-  <programme start="20210212083500 +0700" stop="20210212093000 +0700" channel="Crime Investigation">
-    <title lang="id">60 Days In</title>
-  </programme>
-  <programme start="20210212093000 +0700" stop="20210212102500 +0700" channel="Crime Investigation">
-    <title lang="id">The First 48</title>
-  </programme>
-  <programme start="20210212102500 +0700" stop="20210212112000 +0700" channel="Crime Investigation">
-    <title lang="id">Intervention</title>
-  </programme>
-  <programme start="20210212112000 +0700" stop="20210212121500 +0700" channel="Crime Investigation">
-    <title lang="id">Intervention</title>
-  </programme>
-  <programme start="20210212121500 +0700" stop="20210212130500 +0700" channel="Crime Investigation">
-    <title lang="id">Ted Bundy: Serial Monster</title>
-  </programme>
-  <programme start="20210212130500 +0700" stop="20210212135500 +0700" channel="Crime Investigation">
-    <title lang="id">60 Days In</title>
   </programme>
   <programme start="20210212135500 +0700" stop="20210212142000 +0700" channel="Crime Investigation">
     <title lang="id">Border Security</title>
@@ -9690,27 +9262,6 @@
   <programme start="20210212233000 +0700" stop="20210213000000 +0700" channel="CGTN Documentary">
     <title lang="id">Living China</title>
   </programme>
-  <programme start="20210212020000 +0700" stop="20210212023000 +0700" channel="FOX Sports HD">
-    <title lang="id">Generation Gap: Alfredo Vs Raul</title>
-  </programme>
-  <programme start="20210212023000 +0700" stop="20210212033000 +0700" channel="FOX Sports HD">
-    <title lang="id">AUS Open 2021 Best Matches</title>
-  </programme>
-  <programme start="20210212033000 +0700" stop="20210212043000 +0700" channel="FOX Sports HD">
-    <title lang="id">AUS Open 2021 Best Matches</title>
-  </programme>
-  <programme start="20210212043000 +0700" stop="20210212053000 +0700" channel="FOX Sports HD">
-    <title lang="id">AUS Open 2021 Best Matches</title>
-  </programme>
-  <programme start="20210212053000 +0700" stop="20210212060000 +0700" channel="FOX Sports HD">
-    <title lang="id">Generation Gap: Alfredo Vs Raul</title>
-  </programme>
-  <programme start="20210212060000 +0700" stop="20210212070000 +0700" channel="FOX Sports HD">
-    <title lang="id">Australian Open Tennis 2021 HL</title>
-  </programme>
-  <programme start="20210212070000 +0700" stop="20210212110000 +0700" channel="FOX Sports HD">
-    <title lang="id">Australian Open Tennis 2021 (L)</title>
-  </programme>
   <programme start="20210212110000 +0700" stop="20210212150000 +0700" channel="FOX Sports HD">
     <title lang="id">Australian Open Tennis 2021 (L)</title>
   </programme>
@@ -10352,21 +9903,6 @@
   </programme>
   <programme start="20210222230000 +0700" stop="20210223010000 +0700" channel="FOX Sports HD">
     <title lang="id">Danish Superliga: BRO Vs VEJ</title>
-  </programme>
-  <programme start="20210212020000 +0700" stop="20210212040000 +0700" channel="FOX Sports 2 HD">
-    <title lang="id">Vodafone Test: AUS VS IND</title>
-  </programme>
-  <programme start="20210212040000 +0700" stop="20210212060000 +0700" channel="FOX Sports 2 HD">
-    <title lang="id">XFL 2020: Defenders Vs Vipers</title>
-  </programme>
-  <programme start="20210212060000 +0700" stop="20210212063000 +0700" channel="FOX Sports 2 HD">
-    <title lang="id">UCI BMX Supercross: J. Daudet</title>
-  </programme>
-  <programme start="20210212063000 +0700" stop="20210212070000 +0700" channel="FOX Sports 2 HD">
-    <title lang="id">FOX Sports Live</title>
-  </programme>
-  <programme start="20210212070000 +0700" stop="20210212110000 +0700" channel="FOX Sports 2 HD">
-    <title lang="id">Australian Open Tennis 2021 (L)</title>
   </programme>
   <programme start="20210212110000 +0700" stop="20210212150000 +0700" channel="FOX Sports 2 HD">
     <title lang="id">Australian Open Tennis 2021 (L)</title>
@@ -11148,33 +10684,6 @@
   <programme start="20210212233000 +0700" stop="20210213000000 +0700" channel="UseeSports2">
     <title lang="id">Sports Arena</title>
   </programme>
-  <programme start="20210212004000 +0700" stop="20210212024500 +0700" channel="beIN Sports 1">
-    <title lang="id">CDF 2020/21: SOC Vs ASE (L)</title>
-  </programme>
-  <programme start="20210212024500 +0700" stop="20210212025500 +0700" channel="beIN Sports 1">
-    <title lang="id">Great Goals</title>
-  </programme>
-  <programme start="20210212025500 +0700" stop="20210212050000 +0700" channel="beIN Sports 1">
-    <title lang="id">Emirates FA Cup: BAR Vs CHE (L)</title>
-  </programme>
-  <programme start="20210212050000 +0700" stop="20210212053000 +0700" channel="beIN Sports 1">
-    <title lang="id">Football's Greatest Club Teams</title>
-  </programme>
-  <programme start="20210212053000 +0700" stop="20210212060000 +0700" channel="beIN Sports 1">
-    <title lang="id">My Sporting Moment</title>
-  </programme>
-  <programme start="20210212060000 +0700" stop="20210212075000 +0700" channel="beIN Sports 1">
-    <title lang="id">La Liga 2020/21: SEV Vs GET</title>
-  </programme>
-  <programme start="20210212075000 +0700" stop="20210212094000 +0700" channel="beIN Sports 1">
-    <title lang="id">La Liga 2020/21: RMA Vs GET</title>
-  </programme>
-  <programme start="20210212094000 +0700" stop="20210212114000 +0700" channel="beIN Sports 1">
-    <title lang="id">CDF 2020/21: AUX Vs MAR</title>
-  </programme>
-  <programme start="20210212114000 +0700" stop="20210212131000 +0700" channel="beIN Sports 1">
-    <title lang="id">Viva La Liga 2020/21</title>
-  </programme>
   <programme start="20210212131000 +0700" stop="20210212141000 +0700" channel="beIN Sports 1">
     <title lang="id">La Liga 2 Highlights 2020/21</title>
   </programme>
@@ -11801,36 +11310,6 @@
   </programme>
   <programme start="20210222220000 +0700" stop="20210223000000 +0700" channel="beIN Sports 1">
     <title lang="id">Arsenal TV 2020/21: ARS Vs MCI</title>
-  </programme>
-  <programme start="20210212002000 +0700" stop="20210212023000 +0700" channel="beIN Sports 2">
-    <title lang="id">FA Cup 2020/21: WOL Vs SOT (L)</title>
-  </programme>
-  <programme start="20210212023000 +0700" stop="20210212024500 +0700" channel="beIN Sports 2">
-    <title lang="id">Great Goals</title>
-  </programme>
-  <programme start="20210212024500 +0700" stop="20210212025500 +0700" channel="beIN Sports 2">
-    <title lang="id">The Emirates FA Cup Draw (L)</title>
-  </programme>
-  <programme start="20210212025500 +0700" stop="20210212050000 +0700" channel="beIN Sports 2">
-    <title lang="id">CDF 2020/21: ANG Vs REN (L)</title>
-  </programme>
-  <programme start="20210212050000 +0700" stop="20210212053000 +0700" channel="beIN Sports 2">
-    <title lang="id">Sporting Records: Distance</title>
-  </programme>
-  <programme start="20210212053000 +0700" stop="20210212060000 +0700" channel="beIN Sports 2">
-    <title lang="id">Mini Match La Liga: ATM Vs CEL</title>
-  </programme>
-  <programme start="20210212060000 +0700" stop="20210212075000 +0700" channel="beIN Sports 2">
-    <title lang="id">CDF 2020/21: REI Vs VAL</title>
-  </programme>
-  <programme start="20210212075000 +0700" stop="20210212094000 +0700" channel="beIN Sports 2">
-    <title lang="id">A-League 2020/21: WSW Vs MVC</title>
-  </programme>
-  <programme start="20210212094000 +0700" stop="20210212121000 +0700" channel="beIN Sports 2">
-    <title lang="id">FA Cup 2020/21: MUN Vs WHU</title>
-  </programme>
-  <programme start="20210212121000 +0700" stop="20210212140000 +0700" channel="beIN Sports 2">
-    <title lang="id">FA Cup 2020/21: BAR Vs CHE</title>
   </programme>
   <programme start="20210212140000 +0700" stop="20210212150000 +0700" channel="beIN Sports 2">
     <title lang="id">A-League Highlights 2020/21</title>
