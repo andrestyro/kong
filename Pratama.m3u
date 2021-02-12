@@ -35,12 +35,14 @@ http://93.190.139.34:8278/streams/d/Natgeopeople/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 tvg-name="TV2" tvg-id="310" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",TV2
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-#EXTINF:-1 tvg-name="TV3" tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png",TV3
+#EXTINF:-1 tvg-name="TV3" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png",TV3
 http://50.7.222.130:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1 tvg-name="Boo" tvg-id="N/A" tvg-logo="http://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",Boo
+#EXTINF:-1 tvg-name="Boo" tvg-id="" tvg-logo="http://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 tvg-name="Hello" tvg-id="N/A" tvg-logo="https://d3avoj45mekucs.cloudfront.net/rojakdaily/media/jessica-chua/entertainment/2018/oct/he110%20channel%20introduction/hello_main.jpg?ext=.jpg",Hello
+#EXTINF:-1 tvg-name="Hello" tvg-id="" tvg-logo="https://d3avoj45mekucs.cloudfront.net/rojakdaily/media/jessica-chua/entertainment/2018/oct/he110%20channel%20introduction/hello_main.jpg?ext=.jpg",Hello
 http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
+#EXTINF:-1 tvg-name="Universal Kids USA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/1200px-Universal_Kids_2019_Logo.svg.png",Universal Kids USA
+http://ultrax.online:8000/IptvtoolsRestrictUltra/wEvvD4Rdpe/131254
 #EXTINF:-1 tvg-name="Boomerang US" tvg-id="9100008443##9233015844" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",Boomerang US
 http://mags.vip:2086/live/miriam/miriam123/100031.ts
 #EXTINF:-1 tvg-name="Nick Jr Too UK" tvg-id="611" tvg-logo="https://i.pinimg.com/736x/0d/4f/46/0d4f46a806af800772c1144aa0f2fff6.jpg",Nick Jr Too UK
@@ -48,23 +50,23 @@ http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32585
 #EXTINF:-1 tvg-name="Nick Jr. US" tvg-id="9100008443##9233007153" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",Nick Jr. US
 http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/34494
 #EXTINF:-1 tvg-name="Nick Jr. UK" tvg-id="211" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",Nick Jr. UK
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32586
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/26659
 #EXTINF:-1 tvg-name="Disney XD US" tvg-id="9100008443##9200004852" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png",Disney XD US
 http://mags.vip:2086/live/miriam/miriam123/64129.ts
 #EXTINF:-1 tvg-name="Disney Channel US" tvg-id="9100008443##9200018475" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png",Disney Channel US
 http://mags.vip:2086/live/miriam/miriam123/64131.ts
 #EXTINF:-1 tvg-name="Disney Channel UK" tvg-id="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png",Disney Channel UK
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32590
+http://alontv.info:8000/live/ontvtest/172722/58.ts
 #EXTINF:-1 tvg-name="Cartoon Network US" tvg-id="9100008443##9233015734" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network US
 http://mags.vip:2086/live/miriam/miriam123/64139.ts
 #EXTINF:-1 tvg-name="Cartoon Network UK" tvg-id="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network UK
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32592
+http://alontv.info:8000/live/ontvtest/172722/229.ts
 #EXTINF:-1 tvg-name="Sky Movies Action" tvg-id="251" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Sky_Cinema_Action_2020.svg/revision/latest/scale-to-width-down/300?cb=20210118213113",Sky Movies Action
-http://mags.vip:2086/live/miriam/miriam123/87571.ts
+http://alontv.info:8000/live/ontvtest/172722/478.ts
 #EXTINF:-1 tvg-name="Sky Movies Disney" tvg-id="850" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Sky_Cinema_Disney_2020.svg/revision/latest/scale-to-width-down/300?cb=20200702155650",Sky Movies Disney
 http://mags.vip:2086/live/miriam/miriam123/87573.ts
 #EXTINF:-1 tvg-name="Sky Movies Family" tvg-id="252" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Sky_Cinema_Family_2020.svg/revision/latest/scale-to-width-down/300?cb=20210118213029",Sky Movies Family
-http://mags.vip:2086/live/miriam/miriam123/87575.ts
+http://alontv.info:8000/live/ontvtest/172722/476.ts
 #EXTINF:-1 tvg-name="Stand By Me Doraemon" tvg-id="N/A" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/91ea2ee2-7411-403f-9abc-7b9c03808b54/d7o8xw4-433c2937-8e85-4b45-afe8-5e7e2e082ecb.jpg/v1/fill/w_1024,h_488,q_75,strp/vod_logo_site1_1050x500_by_effect_design_d7o8xw4-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD00ODgiLCJwYXRoIjoiXC9mXC85MWVhMmVlMi03NDExLTQwM2YtOWFiYy03YjljMDM4MDhiNTRcL2Q3bzh4dzQtNDMzYzI5MzctOGU4NS00YjQ1LWFmZTgtNWU3ZTJlMDgyZWNiLmpwZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.CI7e4nSmSy-vbpSZhApbVL30gPN0SYqrjMIE7nfKBIo",Stand By Me Doraemon
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=ec57fca91217fdddf6e37b74984fe27599c04773e83da931f64885fdf14061a8
 #EXTINF:-1 tvg-name="The Reef" tvg-id="N/A" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/91ea2ee2-7411-403f-9abc-7b9c03808b54/d7o8xw4-433c2937-8e85-4b45-afe8-5e7e2e082ecb.jpg/v1/fill/w_1024,h_488,q_75,strp/vod_logo_site1_1050x500_by_effect_design_d7o8xw4-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD00ODgiLCJwYXRoIjoiXC9mXC85MWVhMmVlMi03NDExLTQwM2YtOWFiYy03YjljMDM4MDhiNTRcL2Q3bzh4dzQtNDMzYzI5MzctOGU4NS00YjQ1LWFmZTgtNWU3ZTJlMDgyZWNiLmpwZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.CI7e4nSmSy-vbpSZhApbVL30gPN0SYqrjMIE7nfKBIo",The Reef
