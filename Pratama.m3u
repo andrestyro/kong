@@ -67,17 +67,12 @@ http://alontv.info:8000/live/ontvtest/172722/478.ts
 http://mags.vip:2086/live/miriam/miriam123/87573.ts
 #EXTINF:-1 tvg-name="Sky Movies Family" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Sky_Cinema_Family_2020.svg/revision/latest/scale-to-width-down/300?cb=20210118213029",Sky Movies Family
 http://alontv.info:8000/live/ontvtest/172722/476.ts
-#EXTINF:-1 tvg-name="Stand By Me Doraemon" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/91ea2ee2-7411-403f-9abc-7b9c03808b54/d7o8xw4-433c2937-8e85-4b45-afe8-5e7e2e082ecb.jpg/v1/fill/w_1024,h_488,q_75,strp/vod_logo_site1_1050x500_by_effect_design_d7o8xw4-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD00ODgiLCJwYXRoIjoiXC9mXC85MWVhMmVlMi03NDExLTQwM2YtOWFiYy03YjljMDM4MDhiNTRcL2Q3bzh4dzQtNDMzYzI5MzctOGU4NS00YjQ1LWFmZTgtNWU3ZTJlMDgyZWNiLmpwZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.CI7e4nSmSy-vbpSZhApbVL30gPN0SYqrjMIE7nfKBIo",Stand By Me Doraemon
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=ec57fca91217fdddf6e37b74984fe27599c04773e83da931f64885fdf14061a8
-#EXTINF:-1 tvg-name="N/A" tvg-logo="Sports	http://202.74.236.189/~uzbwkzam/img/beinsports1.png
-Sports	http://202.74.236.189/~uzbwkzam/img/beinsports2.png",beIN Sport 1	https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-beIN Sport 2	https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
-beIN Sport 1	https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-beIN Sport 2	https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-name="N/A" tvg-logo="Sports",http://202.74.236.189/~uzbwkzam/img/beinsports1.png
-beIN Sport 1
-#EXTINF:-1 tvg-name="True Premier 1" tvg-logo="Sports",http://202.74.236.189/~uzbwkzam/img/beinsports2.png
-beIN Sport 2
+#EXTINF:-1 tvg-name="beIN Sport 1" tvg-logo="http://202.74.236.189/~uzbwkzam/img/beinsports1.png",beIN Sport 1
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-name="beIN Sport 2" tvg-logo="http://202.74.236.189/~uzbwkzam/img/beinsports2.png",beIN Sport 2
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-name="True Premier 1" tvg-logo="http://202.74.236.189/~uzbwkzam/img/true1.png",True Premier 1
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="True Premier 2" tvg-logo="http://202.74.236.189/~uzbwkzam/img/true2.png",True Premier 2
 https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="True Premier 3" tvg-logo="http://202.74.236.189/~uzbwkzam/img/true3.png",True Premier 3
@@ -98,6 +93,8 @@ https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="TrueSport 5" tvg-logo="http://202.74.236.189/~uzbwkzam/img/truesports5.png",TrueSport 5
 https://www.livedoomovies.com/02_2sporthd5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-name="Stand By Me Doraemon" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/91ea2ee2-7411-403f-9abc-7b9c03808b54/d7o8xw4-433c2937-8e85-4b45-afe8-5e7e2e082ecb.jpg/v1/fill/w_1024,h_488,q_75,strp/vod_logo_site1_1050x500_by_effect_design_d7o8xw4-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD00ODgiLCJwYXRoIjoiXC9mXC85MWVhMmVlMi03NDExLTQwM2YtOWFiYy03YjljMDM4MDhiNTRcL2Q3bzh4dzQtNDMzYzI5MzctOGU4NS00YjQ1LWFmZTgtNWU3ZTJlMDgyZWNiLmpwZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.CI7e4nSmSy-vbpSZhApbVL30gPN0SYqrjMIE7nfKBIo",Stand By Me Doraemon
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=ec57fca91217fdddf6e37b74984fe27599c04773e83da931f64885fdf14061a8
 #EXTINF:-1 tvg-name="The Reef" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/91ea2ee2-7411-403f-9abc-7b9c03808b54/d7o8xw4-433c2937-8e85-4b45-afe8-5e7e2e082ecb.jpg/v1/fill/w_1024,h_488,q_75,strp/vod_logo_site1_1050x500_by_effect_design_d7o8xw4-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD00ODgiLCJwYXRoIjoiXC9mXC85MWVhMmVlMi03NDExLTQwM2YtOWFiYy03YjljMDM4MDhiNTRcL2Q3bzh4dzQtNDMzYzI5MzctOGU4NS00YjQ1LWFmZTgtNWU3ZTJlMDgyZWNiLmpwZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.CI7e4nSmSy-vbpSZhApbVL30gPN0SYqrjMIE7nfKBIo",The Reef
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=0def136d0f724cb03d927f64a0039cce99c04773e83da931f64885fdf14061a8
 #EXTINF:-1 tvg-name="The Underdogs" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/91ea2ee2-7411-403f-9abc-7b9c03808b54/d7o8xw4-433c2937-8e85-4b45-afe8-5e7e2e082ecb.jpg/v1/fill/w_1024,h_488,q_75,strp/vod_logo_site1_1050x500_by_effect_design_d7o8xw4-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD00ODgiLCJwYXRoIjoiXC9mXC85MWVhMmVlMi03NDExLTQwM2YtOWFiYy03YjljMDM4MDhiNTRcL2Q3bzh4dzQtNDMzYzI5MzctOGU4NS00YjQ1LWFmZTgtNWU3ZTJlMDgyZWNiLmpwZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.CI7e4nSmSy-vbpSZhApbVL30gPN0SYqrjMIE7nfKBIo",The Underdogs
