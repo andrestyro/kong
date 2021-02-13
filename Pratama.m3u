@@ -67,12 +67,12 @@ http://alontv.info:8000/live/ontvtest/172722/478.ts
 http://mags.vip:2086/live/miriam/miriam123/87573.ts
 #EXTINF:-1 tvg-name="Sky Movies Family" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Sky_Cinema_Family_2020.svg/revision/latest/scale-to-width-down/300?cb=20210118213029",Sky Movies Family
 http://alontv.info:8000/live/ontvtest/172722/476.ts
-#EXTINF:-1 tvg-name="BT SPORTS 1" tvg-logo="http://202.74.236.189/~uzbwkzam/img/bt1.png",BT SPORTS 1
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-name="BT SPORTS 2" tvg-logo="http://202.74.236.189/~uzbwkzam/img/bt2.png",BT SPORTS 2
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-name="True Premier 1" tvg-logo="http://202.74.236.189/~uzbwkzam/img/true1.png",True Premier 1
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-name="Fox Sport 1" tvg-logo="http://202.74.236.189/~uzbwkzam/img/foxsports1.png",Fox Sport 1
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 tvg-name="Fox Sport 2" tvg-logo="http://202.74.236.189/~uzbwkzam/img/foxsports2.png",Fox Sport 2
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-name="True Premier 1" tvg-logo="http://202.74.236.189/~uzbwkzam/img/foxsports3.png",Fox Sport 3
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="True Premier 2" tvg-logo="http://202.74.236.189/~uzbwkzam/img/true2.png",True Premier 2
 https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-name="True Premier 3" tvg-logo="http://202.74.236.189/~uzbwkzam/img/true3.png",True Premier 3
