@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Astro Ceria" tvg-id="" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Astro_Ceria_HD.png",Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 tvg-name="Astro Ceria" tvg-id="" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Astro_Ceria_HD.png",Astro Ceria
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+#EXTINF:-1 tvg-name="Dreamworks" tvg-id="" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",Dreamworks
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-dreamworks
+#EXTINF:-1 tvg-name="Boomerang" tvg-id="" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",Boomerang
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-boomerang
+#EXTINF:-1 tvg-name="Universal Kids USA" tvg-id="" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/1200px-Universal_Kids_2019_Logo.svg.png",Universal Kids USA
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3984
+#EXTINF:-1 tvg-name="Dreamworks" tvg-id="" group-title="" tvg-logo="https://www.seekpng.com/png/detail/266-2664227_loading-seems-to-be-taking-a-while-dreamworks.png",Dreamworks
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3648
+#EXTINF:-1 tvg-name="Disney Junior UK" tvg-id="" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior UK
+http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Nick Jr" tvg-id="" group-title="" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",Nick Jr
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-nickjr
+#EXTINF:-1 tvg-name="Nick Jr. US" tvg-id="" group-title="" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",Nick Jr. US
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3643
+#EXTINF:-1 tvg-name="NICK JR Pluto" tvg-id="" group-title="" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",NICK JR Pluto
+http://185.238.0.145:1313/c/alt/nickjr-hd.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-id="" group-title="" tvg-logo="https://i2.wp.com/whatismyip.network/wp-content/uploads/2019/12/How-to-Watch-Adult-Swim-Outside-the-US.jpg?fit=800%2C450&ssl=1",Cartoon Network
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-cartoonnetwork
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="" group-title="" tvg-logo="https://i.ibb.co/M8xBrts/nickelodeon-logo.png",Nickelodeon
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-nickelodeon
+#EXTINF:-1 tvg-name="Adult Swim" tvg-id="" group-title="" tvg-logo="https://i2.wp.com/whatismyip.network/wp-content/uploads/2019/12/How-to-Watch-Adult-Swim-Outside-the-US.jpg?fit=800%2C450&ssl=1",Adult Swim
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3980
+#EXTINF:-1 tvg-name="Nick Jr" tvg-id="" group-title="" tvg-logo="http://static.epg.best/sa/NickJr.sa.png",Nick Jr
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-nickjr
+#EXTINF:-1 tvg-name="DISNEY CHANNEL" tvg-id="" group-title="" tvg-logo="https://i.imgur.com/9EDVkDJ.png?1",DISNEY CHANNEL
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3644
+#EXTINF:-1 tvg-name="Disney XD US" tvg-id="" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png",Disney XD US
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3645
