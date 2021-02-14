@@ -92,7 +92,7 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/f9e915bc-2e3d-4bee-86a3-d1b689d98152.png",HBO HITS
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c81e728d9d4c2f636f067f89cc14862cd045c59a90d7587d8d671b5f5aec4e7c
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",Hbo Family
-http://51.79.82.231:8080/US_HBO_FAMILY/video.m3u8
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3530
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_437.png",FOX
 http://50.7.161.82:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.foxmoviesasia.com/images/fm.png",FOX Movies
@@ -109,6 +109,8 @@ http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 http://93.190.139.34:8278/streams/d/Axn/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/HwDf3KuZGrRkPEg9QqZBXOy_NDs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/d85bbf.jpg",TVN
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7f687767ccf20fcea1c9dc4a5adc2326102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1  tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sonysetone_logo.png/revision/latest/scale-to-width-down/340?cb=20170701184852",sony one
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4188
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6XlT52AAEtFj5wJNZYFweG9glbM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6399/1b4448.png",Zee Bioskop
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=985e9a46e10005356bbaf194249f6856102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/y4nR7h0L1cO-DaTDy2M0-IM5fY0=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6747/zing-74f73f.jpg",ZING
@@ -163,3 +165,23 @@ https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="http://202.74.236.189/~uzbwkzam/img/true5.png",True Premier 5
 https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png",Bein Sports 1 HD
+Link
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",Bein Sports 2 HD
+Link
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",Bein Sports 3 HD
+Link
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png",Bein Sports 4 HD
+Link
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 5 HD
+Link
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 6 HD
+Link
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 7 HD
+Link
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 8 HD
+Link
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 9 HD
+Link
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 10 HD
+Link
