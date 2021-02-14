@@ -106,7 +106,7 @@ http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/axn_new.png",AXN
 http://rr.dens.tv/h/h141/01.m3u8
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png",HBO
-http://51.79.82.231:8080/US_HBO_EAST/video.m3u8
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/94
 #EXTINF:-1 tvg-name="HBO HITS" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/f9e915bc-2e3d-4bee-86a3-d1b689d98152.png",HBO HITS
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3517
 #EXTINF:-1 tvg-name="Hbo Family" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png",Hbo Family
