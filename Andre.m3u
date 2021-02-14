@@ -109,6 +109,8 @@ http://50.7.161.82:8278/streams/d/Foxcrime/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.infotelevisi.com/asset/logotv/56b6c3c5f37c3-celestial_movies.jpg",CELESTIAL
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1  tvg-id="id" tvg-logo="https://i.imgur.com/KcCWHbk.png",Celestial Classic Movies
+http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/axn_new.png",AXN
 http://93.190.139.34:8278/streams/d/Axn/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/HwDf3KuZGrRkPEg9QqZBXOy_NDs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/d85bbf.jpg",TVN
