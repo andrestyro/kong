@@ -74,6 +74,8 @@ http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9
 #EXTINF:-1  tvg-id="id" tvg-logo="https://i.imgur.com/y1LQk44.png",Aniplus
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1  tvg-id="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",Animax
+https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-Animax-mp4a_98800_eng=3.m3u8
+#EXTINF:-1  tvg-id="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",Animax
 http://45.126.83.51/dr9445/h/h144/01.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://i2.wp.com/whatismyip.network/wp-content/uploads/2019/12/How-to-Watch-Adult-Swim-Outside-the-US.jpg?fit=800%2C450&ssl=1",Adult Swim
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3980
