@@ -64,13 +64,13 @@ http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png",Disney XD US
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3645
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png",Disney Channel US
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3644
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",Nick Jr. US
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3982
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",NICK JR Pluto
 http://185.238.0.145:1313/c/alt/nickjr-hd.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
-https://nonton.site:8443/novi/novi123/37403
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
 #EXTINF:-1  tvg-id="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",Animax
 https://nonton.site:8443/novi/novi123/37420
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://i2.wp.com/whatismyip.network/wp-content/uploads/2019/12/How-to-Watch-Adult-Swim-Outside-the-US.jpg?fit=800%2C450&ssl=1",Adult Swim
@@ -167,3 +167,17 @@ https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="http://dusktill.masuk.web.id/img/true5.png",True Premier 5
 https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1  tvg-id="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png",Bein Sports 1 HD
+http://tvlatina.homeip.net:25461/UERmsuoPrV/ZeozfM1SOR/3945
+#EXTINF:-1  tvg-id="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",Bein Sports 2 HD
+http://tvlatina.homeip.net:25461/UERmsuoPrV/ZeozfM1SOR/3940
+#EXTINF:-1  tvg-id="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",Bein Sports 3 HD
+http://tvlatina.homeip.net:25461/UERmsuoPrV/ZeozfM1SOR/3939
+#EXTINF:-1  tvg-id="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png",Bein Sports 4 HD
+http://tvlatina.homeip.net:25461/UERmsuoPrV/ZeozfM1SOR/3938
+#EXTINF:-1  tvg-id="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 5 HD
+http://tvlatina.homeip.net:25461/UERmsuoPrV/ZeozfM1SOR/3937
+#EXTINF:-1  tvg-id="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 6 HD
+http://tvlatina.homeip.net:25461/UERmsuoPrV/ZeozfM1SOR/3936
+#EXTINF:-1  tvg-id="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 7 HD
+http://tvlatina.homeip.net:25461/UERmsuoPrV/ZeozfM1SOR/3935
