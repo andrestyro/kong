@@ -55,10 +55,10 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/1200px-Universal_Kids_2019_Logo.svg.png",Universal Kids USA
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3984
-#EXTINF:-1  tvg-id="" tvg-logo="https://www.seekpng.com/png/detail/266-2664227_loading-seems-to-be-taking-a-while-dreamworks.png",Dreamworks
-http://185.238.242.136:20000/hls/play/id/48.m3u8
+#EXTINF:-1  tvg-id="N/A" tvg-logo="https://www.seekpng.com/png/detail/266-2664227_loading-seems-to-be-taking-a-while-dreamworks.png",Dreamworks
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3648
 #EXTINF:-1  tvg-id="id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",DisneyJunior
-http://185.238.242.136:20000/hls/play/id/47.m3u8
+http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3646
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior UK
 http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png",Disney XD US
@@ -111,7 +111,7 @@ http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 http://93.190.139.34:8278/streams/d/Axn/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/HwDf3KuZGrRkPEg9QqZBXOy_NDs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/d85bbf.jpg",TVN
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7f687767ccf20fcea1c9dc4a5adc2326102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1  tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sonysetone_logo.png/revision/latest/scale-to-width-down/340?cb=20170701184852",Sony One HD
+#EXTINF:-1  tvg-id="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sonysetone_logo.png/revision/latest/scale-to-width-down/340?cb=20170701184852",Sony One HD
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4188
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6XlT52AAEtFj5wJNZYFweG9glbM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6399/1b4448.png",Zee Bioskop
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=985e9a46e10005356bbaf194249f6856102a6ed6587b5b8cb4ebbe972864690b
@@ -157,33 +157,13 @@ http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png",Astro SuperSport 4
 http://starshare.live:8080/live/543678/546789/5483.ts
-#EXTINF:-1  tvg-id="N/A" tvg-logo="http://202.74.236.189/~uzbwkzam/img/true1.png",True Premier 1
+#EXTINF:-1  tvg-id="N/A" tvg-logo="http://dusktill.masuk.web.id/img/true1.png",True Premier 1
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1  tvg-id="N/A" tvg-logo="http://202.74.236.189/~uzbwkzam/img/true2.png",True Premier 2
+#EXTINF:-1  tvg-id="N/A" tvg-logo="http://dusktill.masuk.web.id/img/true2.png",True Premier 2
 https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1  tvg-id="N/A" tvg-logo="http://202.74.236.189/~uzbwkzam/img/true3.png",True Premier 3
+#EXTINF:-1  tvg-id="N/A" tvg-logo="http://dusktill.masuk.web.id/img/true3.png",True Premier 3
 https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1  tvg-id="N/A" tvg-logo="http://202.74.236.189/~uzbwkzam/img/true4.png",True Premier 4
+#EXTINF:-1  tvg-id="N/A" tvg-logo="http://dusktill.masuk.web.id/img/true4.png",True Premier 4
 https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1  tvg-id="N/A" tvg-logo="http://202.74.236.189/~uzbwkzam/img/true5.png",True Premier 5
+#EXTINF:-1  tvg-id="N/A" tvg-logo="http://dusktill.masuk.web.id/img/true5.png",True Premier 5
 https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png",Bein Sports 1 HD
-Link
-#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",Bein Sports 2 HD
-Link
-#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",Bein Sports 3 HD
-Link
-#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png",Bein Sports 4 HD
-Link
-#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 5 HD
-Link
-#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 6 HD
-Link
-#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 7 HD
-Link
-#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 8 HD
-Link
-#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 9 HD
-Link
-#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 10 HD
-Link
