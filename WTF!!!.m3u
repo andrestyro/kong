@@ -1,87 +1,35 @@
 #EXTM3U
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",18+1
-http://185.238.242.136:20000/hls/play/id/402.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",18+2
-http://185.238.242.136:20000/hls/play/id/403.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",18+3
-http://185.238.242.136:20000/hls/play/id/404.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",18+4
-http://185.238.242.136:20000/hls/play/id/405.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",18+5
-http://185.238.242.136:20000/hls/play/id/406.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",Hot
-http://185.238.242.136:20000/hls/play/id/407.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",Banana
-http://185.238.242.136:20000/hls/play/id/408.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",Amazing tv
-http://185.238.242.136:20000/hls/play/id/409.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",Pandora
-http://185.238.242.136:20000/hls/play/id/410.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",Pandora pink
-http://185.238.242.136:20000/hls/play/id/411.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",Happy
-http://185.238.242.136:20000/hls/play/id/412.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",Action18+1
-http://185.238.242.136:20000/hls/play/id/413.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",Action18+2
-http://185.238.242.136:20000/hls/play/id/414.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",Action18+3
-http://185.238.242.136:20000/hls/play/id/415.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",Net link
-http://185.238.242.136:20000/hls/play/id/416.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",Hustle18+
-http://185.238.242.136:20000/hls/play/id/451.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",LED light
-http://185.238.242.136:20000/hls/play/id/452.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",P
-http://185.238.242.136:20000/hls/play/id/453.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",X
-http://185.238.242.136:20000/hls/play/id/454.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",VividRed
-http://185.238.242.136:20000/hls/play/id/455.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",Eroxx
-http://185.238.242.136:20000/hls/play/id/456.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",XYporn
-http://185.238.242.136:20000/hls/play/id/457.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",VividTv
-http://185.238.242.136:20000/hls/play/id/458.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",VividTv hd
-http://185.238.242.136:20000/hls/play/id/459.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",X1
-http://185.238.242.136:20000/hls/play/id/461.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",X2
-http://185.238.242.136:20000/hls/play/id/462.m3u8
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",香蕉台
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",香蕉台
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/2701
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",松视1台
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",松视1台
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/2704
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",松视2台
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",松视2台
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/2705
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",松视3台
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",松视3台
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/2706
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",潘朵拉完美
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",潘朵拉完美
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/2707
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",潘朵拉粉红
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",潘朵拉粉红
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/2708
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",彩虹电影
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",彩虹电影
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/2709
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",彩虹K台
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",彩虹K台
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/2710
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",彩虹E台
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",彩虹E台
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/2711
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",HOT星颜
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",HOT星颜
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/2715
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",HAPPY
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",HAPPY
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/2716
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",惊豔台
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",惊豔台
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/2717
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",极限电影台测试
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",极限电影台测试
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/2718
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",舒活二台
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",舒活二台
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/2719
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",舒活一台
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",舒活一台
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/2723
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",蜜桃成人台
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",蜜桃成人台
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/2724
-#EXTINF:-1  group-title="" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",乐活频道
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",乐活频道
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/2724
