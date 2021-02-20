@@ -12,9 +12,11 @@ http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
 #EXTINF:-1 tvg-name="ANTV" tvg-logo="https://static.mncnow.id/images/channel/3b46b39b/7020_r32.jpg",ANTV
 http://103.55.39.182/~dusktil2/a.m3u8?q=antv
 #EXTINF:-1 tvg-name="Indosiar" tvg-logo="https://static.mncnow.id/images/channel/1b160abe/692a_r32.jpeg",Indosiar
-http://103.55.39.182/~dusktil2/a.m3u8?q=indosiar
-#EXTINF:-1 tvg-name="Indosiar" tvg-logo="https://static.mncnow.id/images/channel/1b160abe/692a_r32.jpeg",Indosiar
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-name="Indosiar" tvg-logo="https://static.mncnow.id/images/channel/1b160abe/692a_r32.jpeg",Indosiar
+http://103.55.39.182/~dusktil2/a.m3u8?q=indosiar
+#EXTINF:-1 tvg-name="MNC" tvg-logo="https://static.mncnow.id/images/channel/4638bf6e/ba92_r32.jpg",MNC
+http://93.190.139.34:8278/streams/d/Mnctv/playlist.m3u8
 #EXTINF:-1 tvg-name="MNC" tvg-logo="https://static.mncnow.id/images/channel/4638bf6e/ba92_r32.jpg",MNC
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=22fb0cee7e1f3bde58293de743871417102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-name="tvOne" tvg-logo="https://static.mncnow.id/images/channel/2c987c0a/5a8a_r32.jpg",tvOne
@@ -142,9 +144,9 @@ http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/94
 #EXTINF:-1 tvg-name="HBO HITS" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/f9e915bc-2e3d-4bee-86a3-d1b689d98152.png",HBO HITS
 http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3517
 #EXTINF:-1 tvg-name="Hbo Family" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png",Hbo Family
-https://nonton.site:8443/live/novi/novi123/30184.m3u8
+http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
 #EXTINF:-1 tvg-name="Hbo Family" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png",Hbo Family
-http://158.140.171.166/utv/hbofam.m3u8
+https://home-tv.web.id/dinda/malaka.m3u8?channel=h-fam
 #EXTINF:-1 tvg-name="FOX" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_437.png",FOX
 http://50.7.161.82:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX Movies" tvg-logo="https://www.foxmoviesasia.com/images/fm.png",FOX Movies
