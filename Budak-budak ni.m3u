@@ -1,51 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="NICK JR Pluto" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",NICK JR Pluto
-http://185.238.0.145:1313/c/alt/nickjr-hd.m3u8
-#EXTINF:-1 tvg-name="Astro Ceria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Astro_Ceria_HD.png",Astro Ceria
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1 tvg-name="Disney Junior UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",Disney Junior UK
+#EXTINF:-1 tvg-name="Disney Junior UK" tvg-logo="",Disney Junior UK
 http://79.137.41.99/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Astro Ceria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Astro_Ceria_HD.png",Astro Ceria
-http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
-#EXTINF:-1 tvg-name="Nick Jr. US" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",Nick Jr. US
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3643
-#EXTINF:-1 tvg-name="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/9EDVkDJ.png?1",DISNEY CHANNEL
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3644
-#EXTINF:-1 tvg-name="Disney XD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png",Disney XD US
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3645
-#EXTINF:-1 tvg-name="Dreamworks" tvg-logo="https://www.seekpng.com/png/detail/266-2664227_loading-seems-to-be-taking-a-while-dreamworks.png",Dreamworks
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3648
-#EXTINF:-1 tvg-name="Cartoon Network US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network US
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3980
-#EXTINF:-1 tvg-name="Universal Kids USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/1200px-Universal_Kids_2019_Logo.svg.png",Universal Kids USA
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3984
-#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",Boomerang
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-boomerang
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-cartoonnetwork
-#EXTINF:-1 tvg-name="Dreamworks" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",Dreamworks
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-dreamworks
-#EXTINF:-1 tvg-name="M Kidz" tvg-logo="Logo",M Kidz
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-mykids
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/M8xBrts/nickelodeon-logo.png",Nickelodeon
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-nickelodeon
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg",Nick Jr
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-nickjr
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="http://static.epg.best/sa/NickJr.sa.png",Nick Jr
-https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-nickjr
-#EXTINF:-1 tvg-name="Zoomoo" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/STe84feg1i6KlL2HUbcZT_ocKLk=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6533/zoomoo-7fdb7d.jpg",Zoomoo
-https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6533
-#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",Boomerang
-https://nonton.site:8443/novi/novi123/305
-#EXTINF:-1 tvg-name="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/9EDVkDJ.png?1",DISNEY CHANNEL
+#EXTINF:-1 tvg-name="Astro Ceria" tvg-logo="",Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 tvg-name="NICK JR Pluto" tvg-logo="",NICK JR Pluto
+http://185.238.0.145:1313/c/alt/nickjr-hd.m3u8
+#EXTINF:-1 tvg-name="DISNEY CHANNEL" tvg-logo="",DISNEY CHANNEL
+http://14.192.144.14:8000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-name="DISNEY CHANNEL" tvg-logo="",DISNEY CHANNEL
 https://nonton.site:8443/novi/novi123/3479
-#EXTINF:-1 tvg-name="Dreamworks" tvg-logo="https://www.seekpng.com/png/detail/266-2664227_loading-seems-to-be-taking-a-while-dreamworks.png",Dreamworks
+#EXTINF:-1 tvg-name="Disney XD US" tvg-logo="",Disney XD US
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512?checkedby:hlscat.com
+#EXTINF:-1 tvg-name="Boomerang" tvg-logo="",Boomerang
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-boomerang
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="",Cartoon Network
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-cartoonnetwork
+#EXTINF:-1 tvg-name="Dreamworks" tvg-logo="",Dreamworks
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-dreamworks
+#EXTINF:-1 tvg-name="M Kidz" tvg-logo="",M Kidz
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-mykids
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="",Nickelodeon
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-nickelodeon
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="",Nick Jr
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-nickjr
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="",Nick Jr
+http://14.192.144.14:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="",Nickelodeon
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-nickelodeon
+#EXTINF:-1 tvg-name="Da Vinci Learning" tvg-logo="",Da Vinci Learning
+https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6549
+#EXTINF:-1 tvg-name="Zoo Moo" tvg-logo="",Zoo Moo
+https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-6533
+#EXTINF:-1 tvg-name="Horee" tvg-logo="",Horee
+https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-horee
+#EXTINF:-1 tvg-name="HipHip Horee" tvg-logo="",HipHip Horee
+https://home-tv.web.id/dinda/malaka.m3u8?channel=vidio-7052
+#EXTINF:-1 tvg-name="Boomerang" tvg-logo="",Boomerang
+https://nonton.site:8443/novi/novi123/305
+#EXTINF:-1 tvg-name="DISNEY CHANNEL" tvg-logo="",DISNEY CHANNEL
+https://nonton.site:8443/novi/novi123/3479
+#EXTINF:-1 tvg-name="Dreamworks" tvg-logo="",Dreamworks
 https://nonton.site:8443/novi/novi123/37456
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="http://static.epg.best/sa/NickJr.sa.png",Nick Jr
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="",Nick Jr
 https://nonton.site:8443/novi/novi123/522
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="",Cartoon Network
 https://nonton.site:8443/novi/novi123/680
-#EXTINF:-1 tvg-name="Aniplus" tvg-logo="https://i.imgur.com/y1LQk44.png",Aniplus
+#EXTINF:-1 tvg-name="Aniplus" tvg-logo="",Aniplus
 https://nonton.site:8443/novi/novi123/37439
-#EXTINF:-1 tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",Animax
-https://nonton.site:8443/novi/novi123/37420
+#EXTINF:-1 tvg-name="Animax" tvg-logo="",Animax
+http://iptvlink.ga:8888/live/iptvlink/bola/422.ts
