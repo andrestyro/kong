@@ -86,7 +86,7 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 #EXTINF:-1 tvg-name="Vidio Entertainment" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/F9KWhy-IhIjbSH13o5OwPqhGKOM=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7352/vidio-entertainment-74982e.jpg",Vidio Entertainment
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=ab73f542b6d60c4de151800b8abc0a6c102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-name="Sone" tvg-logo="Logo",Sone
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/174
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF:-1 tvg-name="TVN MOVIES" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png",TVN MOVIES
 https://home-tv.web.id/dinda/malaka.m3u8?channel=usee-tvnmovies
 #EXTINF:-1 tvg-name="TVN" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/HwDf3KuZGrRkPEg9QqZBXOy_NDs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/d85bbf.jpg",TVN
@@ -138,11 +138,11 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=ffd67d44870fda644560c4768
 #EXTINF:-1 tvg-name="CELESTIAL" tvg-logo="https://i.imgur.com/KcCWHbk.png",CELESTIAL
 https://nonton.site:8443/live/novi/novi123/5.m3u8
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/axn_new.png",AXN
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/4216
+http://185.238.242.136:20000/hls/play/id/423.m3u8
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png",HBO
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/94
+http://185.238.242.136:20000/hls/play/id/332.m3u8
 #EXTINF:-1 tvg-name="HBO HITS" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/f9e915bc-2e3d-4bee-86a3-d1b689d98152.png",HBO HITS
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/3517
+http://185.238.242.136:20000/hls/play/id/330.m3u8
 #EXTINF:-1 tvg-name="Hbo Family" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png",Hbo Family
 http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
 #EXTINF:-1 tvg-name="Hbo Family" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png",Hbo Family
@@ -152,7 +152,7 @@ http://50.7.161.82:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX Movies" tvg-logo="https://www.foxmoviesasia.com/images/fm.png",FOX Movies
 http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX Family Movies" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png",FOX Family Movies
-http://tv.wakds.xyz:8080/Iptvlive/iptvlive08/99
+http://185.238.242.136:20000/hls/play/id/383.m3u8
 #EXTINF:-1 tvg-name="FOXCrime" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_152.png",FOXCrime
 http://50.7.161.82:8278/streams/d/Foxcrime/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX Action Movies" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png",FOX Action Movies
