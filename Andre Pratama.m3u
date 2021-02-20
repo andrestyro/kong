@@ -142,9 +142,9 @@ http://185.238.242.136:20000/hls/play/id/423.m3u8
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png",HBO
 http://185.238.242.136:20000/hls/play/id/332.m3u8
 #EXTINF:-1 tvg-name="HBO HITS" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/f9e915bc-2e3d-4bee-86a3-d1b689d98152.png",HBO HITS
-http://185.238.242.136:20000/hls/play/id/330.m3u8
+https://nonton.site:8443/novi/novi123/11492
 #EXTINF:-1 tvg-name="Hbo Family" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png",Hbo Family
-http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
+https://nonton.site:8443/novi/novi123/30184
 #EXTINF:-1 tvg-name="Hbo Family" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png",Hbo Family
 https://home-tv.web.id/dinda/malaka.m3u8?channel=h-fam
 #EXTINF:-1 tvg-name="FOX" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_437.png",FOX
@@ -154,7 +154,7 @@ http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-1 tvg-name="FOX Family Movies" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png",FOX Family Movies
 http://185.238.242.136:20000/hls/play/id/383.m3u8
 #EXTINF:-1 tvg-name="FOXCrime" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_152.png",FOXCrime
-http://50.7.161.82:8278/streams/d/Foxcrime/playlist.m3u8
+https://nonton.site:8443/novi/novi123/763
 #EXTINF:-1 tvg-name="FOX Action Movies" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png",FOX Action Movies
 http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
 #EXTINF:-1 tvg-name="National Geographic Channel" tvg-logo="https://mms.businesswire.com/media/20200803005527/en/551357/23/NGC_Logo.jpg",National Geographic Channel
