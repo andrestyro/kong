@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="Aniplus" tvg-logo="https://i.imgur.com/y1LQk44.png",Aniplus
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-name="Aniplus" tvg-logo="https://i.imgur.com/y1LQk44.png",Aniplus
-http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
+https://cdn09jtedge.useetv.com/joss/14/aniplus/chunklist_w1805662105_b684100_sleng.m3u8?enc=gdF3doYn5yz64-M2G-vZ9Q&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614005952
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",Animax
 http://45.126.83.51/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",Animax
