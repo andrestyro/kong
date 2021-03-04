@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Aniplus" tvg-logo="https://i.imgur.com/y1LQk44.png",Aniplus
 http://45.126.83.51/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-name="Aniplus" tvg-logo="https://i.imgur.com/y1LQk44.png",Aniplus
-https://cdn09jtedge.useetv.com/joss/14/aniplus/chunklist_w1805662105_b684100_sleng.m3u8?enc=gdF3doYn5yz64-M2G-vZ9Q&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1614005952
+#EXTINF:-1 tvg-name="Ceria" tvg-logo="https://i.imgur.com/y1LQk44.png",Aniplus
+p5p://user3.shusongw.mobi:16871/5f3a792900065ca24ce27715111474c9
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",Animax
 http://45.126.83.51/dr9445/h/h144/01.m3u8
-#EXTINF:-1 tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",Animax
-https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
 #EXTINF:-1 tvg-name="ANTV" tvg-logo="https://static.mncnow.id/images/channel/3b46b39b/7020_r32.jpg",ANTV
 http://93.190.139.34:8278/streams/d/Antv/playlist.m3u8
 #EXTINF:-1 tvg-name="ANTV" tvg-logo="https://static.mncnow.id/images/channel/3b46b39b/7020_r32.jpg",ANTV
@@ -144,7 +142,7 @@ http://185.238.242.136:20000/hls/play/id/332.m3u8
 #EXTINF:-1 tvg-name="HBO HITS" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/f9e915bc-2e3d-4bee-86a3-d1b689d98152.png",HBO HITS
 https://nonton.site:8443/novi/novi123/11492
 #EXTINF:-1 tvg-name="Hbo Family" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png",Hbo Family
-https://nonton.site:8443/novi/novi123/30184
+https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
 #EXTINF:-1 tvg-name="Hbo Family" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png",Hbo Family
 https://home-tv.web.id/dinda/malaka.m3u8?channel=h-fam
 #EXTINF:-1 tvg-name="FOX" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_437.png",FOX
