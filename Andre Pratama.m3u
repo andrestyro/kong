@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Aniplus" tvg-logo="https://i.imgur.com/y1LQk44.png",Aniplus
 http://45.126.83.51/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-name="Ceria" tvg-logo="https://i.imgur.com/y1LQk44.png",Aniplus
+#EXTINF:-1 tvg-name="Ceria" tvg-logo="Logo",Name2
 p5p://user3.shusongw.mobi:16871/5f3a792900065ca24ce27715111474c9
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",Animax
 http://45.126.83.51/dr9445/h/h144/01.m3u8
