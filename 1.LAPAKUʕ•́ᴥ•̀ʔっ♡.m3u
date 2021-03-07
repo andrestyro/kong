@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://dusktill.masuk.web.id/epg.xml" x-tvg-url="http://dusktill.masuk.web.id/epg.xml" url-tvg="https://viruscorona19.github.io/coronavirus19epg.xml" url-tvg="http://codaytv.eu/coday-epg.xml" url-tvg="https://raw.githubusercontent.com/andrestyro/kong/main/guide%20Andre%20Pratama.xml" url-tvg="https://raw.githubusercontent.com/andrestyro/kong/main/guide%20Pratama.xml"
+#EXTM3U url-tvg="http://dusktill.masuk.web.id/epg.xml" x-tvg-url="http://dusktill.masuk.web.id/epg.xml" url-tvg="https://viruscorona19.github.io/coronavirus19epg.xml"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
