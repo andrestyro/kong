@@ -99,24 +99,6 @@
     <icon src="https://mncvision.id/userfiles/image/channel/channel_272.jpg" />
     <url>http://www.mncvision.id.E</url>
   </channel>
-  <programme start="20210315133000 +0700" stop="20210315173000 +0700" channel="ANTV">
-    <title lang="id">Uttaran</title>
-  </programme>
-  <programme start="20210315173000 +0700" stop="20210315190000 +0700" channel="ANTV">
-    <title lang="id">Kulfi</title>
-  </programme>
-  <programme start="20210315190000 +0700" stop="20210315203000 +0700" channel="ANTV">
-    <title lang="id">Radha Krishna</title>
-  </programme>
-  <programme start="20210315203000 +0700" stop="20210315210000 +0700" channel="ANTV">
-    <title lang="id">Nazar</title>
-  </programme>
-  <programme start="20210315210000 +0700" stop="20210315230000 +0700" channel="ANTV">
-    <title lang="id">Jodoh Wasiat Bapak 2</title>
-  </programme>
-  <programme start="20210315230000 +0700" stop="20210316003000 +0700" channel="ANTV">
-    <title lang="id">Garis Tangan</title>
-  </programme>
   <programme start="20210316003000 +0700" stop="20210316010000 +0700" channel="ANTV">
     <title lang="id">Berkah Home Shopping</title>
   </programme>
@@ -510,20 +492,77 @@
   <programme start="20210322230000 +0700" stop="20210323003000 +0700" channel="ANTV">
     <title lang="id">Garis Tangan</title>
   </programme>
-  <programme start="20210315133000 +0700" stop="20210315153000 +0700" channel="Indosiar">
-    <title lang="id">Penjual Peralatan Olahraga</title>
+  <programme start="20210323003000 +0700" stop="20210323010000 +0700" channel="ANTV">
+    <title lang="id">ANTV</title>
   </programme>
-  <programme start="20210315153000 +0700" stop="20210315173000 +0700" channel="Indosiar">
-    <title lang="id">COVID Membuat Rumah Tanggaku...</title>
+  <programme start="20210323010000 +0700" stop="20210323020000 +0700" channel="ANTV">
+    <title lang="id">ANTV</title>
   </programme>
-  <programme start="20210315173000 +0700" stop="20210315193000 +0700" channel="Indosiar">
-    <title lang="id">Suara Hati Istri</title>
+  <programme start="20210323020000 +0700" stop="20210323030000 +0700" channel="ANTV">
+    <title lang="id">ANTV</title>
   </programme>
-  <programme start="20210315193000 +0700" stop="20210315210000 +0700" channel="Indosiar">
-    <title lang="id">Bersahabat Bukan Berarti...</title>
+  <programme start="20210323030000 +0700" stop="20210323040000 +0700" channel="ANTV">
+    <title lang="id">ANTV</title>
   </programme>
-  <programme start="20210315210000 +0700" stop="20210316003000 +0700" channel="Indosiar">
-    <title lang="id">LIDA 2021: Top 70</title>
+  <programme start="20210323040000 +0700" stop="20210323050000 +0700" channel="ANTV">
+    <title lang="id">ANTV</title>
+  </programme>
+  <programme start="20210323050000 +0700" stop="20210323060000 +0700" channel="ANTV">
+    <title lang="id">ANTV</title>
+  </programme>
+  <programme start="20210323060000 +0700" stop="20210323070000 +0700" channel="ANTV">
+    <title lang="id">ANTV</title>
+  </programme>
+  <programme start="20210323070000 +0700" stop="20210323080000 +0700" channel="ANTV">
+    <title lang="id">ANTV</title>
+  </programme>
+  <programme start="20210323080000 +0700" stop="20210323090000 +0700" channel="ANTV">
+    <title lang="id">ANTV</title>
+  </programme>
+  <programme start="20210323090000 +0700" stop="20210323100000 +0700" channel="ANTV">
+    <title lang="id">ANTV</title>
+  </programme>
+  <programme start="20210323100000 +0700" stop="20210323110000 +0700" channel="ANTV">
+    <title lang="id">ANTV</title>
+  </programme>
+  <programme start="20210323110000 +0700" stop="20210323120000 +0700" channel="ANTV">
+    <title lang="id">ANTV</title>
+  </programme>
+  <programme start="20210323120000 +0700" stop="20210323130000 +0700" channel="ANTV">
+    <title lang="id">ANTV</title>
+  </programme>
+  <programme start="20210323130000 +0700" stop="20210323140000 +0700" channel="ANTV">
+    <title lang="id">ANTV</title>
+  </programme>
+  <programme start="20210323140000 +0700" stop="20210323150000 +0700" channel="ANTV">
+    <title lang="id">ANTV</title>
+  </programme>
+  <programme start="20210323150000 +0700" stop="20210323160000 +0700" channel="ANTV">
+    <title lang="id">ANTV</title>
+  </programme>
+  <programme start="20210323160000 +0700" stop="20210323170000 +0700" channel="ANTV">
+    <title lang="id">ANTV</title>
+  </programme>
+  <programme start="20210323170000 +0700" stop="20210323180000 +0700" channel="ANTV">
+    <title lang="id">ANTV</title>
+  </programme>
+  <programme start="20210323180000 +0700" stop="20210323190000 +0700" channel="ANTV">
+    <title lang="id">ANTV</title>
+  </programme>
+  <programme start="20210323190000 +0700" stop="20210323200000 +0700" channel="ANTV">
+    <title lang="id">ANTV</title>
+  </programme>
+  <programme start="20210323200000 +0700" stop="20210323210000 +0700" channel="ANTV">
+    <title lang="id">ANTV</title>
+  </programme>
+  <programme start="20210323210000 +0700" stop="20210323220000 +0700" channel="ANTV">
+    <title lang="id">ANTV</title>
+  </programme>
+  <programme start="20210323220000 +0700" stop="20210323230000 +0700" channel="ANTV">
+    <title lang="id">ANTV</title>
+  </programme>
+  <programme start="20210323230000 +0700" stop="20210324000000 +0700" channel="ANTV">
+    <title lang="id">ANTV</title>
   </programme>
   <programme start="20210316003000 +0700" stop="20210316023000 +0700" channel="Indosiar">
     <title lang="id">Tukul Arwana One Man Show</title>
@@ -888,20 +927,56 @@
   <programme start="20210322223000 +0700" stop="20210323003000 +0700" channel="Indosiar">
     <title lang="id">Suara Hati Istri</title>
   </programme>
-  <programme start="20210315131500 +0700" stop="20210315154500 +0700" channel="RCTI">
-    <title lang="id">Tamu Tak Diundang</title>
+  <programme start="20210323003000 +0700" stop="20210323013000 +0700" channel="Indosiar">
+    <title lang="id">Patroli Malam</title>
   </programme>
-  <programme start="20210315154500 +0700" stop="20210315174500 +0700" channel="RCTI">
-    <title lang="id">Tukang Ojek Pengkolan</title>
+  <programme start="20210323013000 +0700" stop="20210323020000 +0700" channel="Indosiar">
+    <title lang="id">Fokus Malam</title>
   </programme>
-  <programme start="20210315174500 +0700" stop="20210315193000 +0700" channel="RCTI">
-    <title lang="id">Putri Untuk Pangeran</title>
+  <programme start="20210323020000 +0700" stop="20210323050000 +0700" channel="Indosiar">
+    <title lang="id">#Beraksi Di Rumah Saja</title>
   </programme>
-  <programme start="20210315193000 +0700" stop="20210315210000 +0700" channel="RCTI">
-    <title lang="id">Ikatan Cinta</title>
+  <programme start="20210323050000 +0700" stop="20210323063000 +0700" channel="Indosiar">
+    <title lang="id">Fokus Pagi</title>
   </programme>
-  <programme start="20210315210000 +0700" stop="20210316000000 +0700" channel="RCTI">
-    <title lang="id">Indonesian Idol 2020 (L)</title>
+  <programme start="20210323063000 +0700" stop="20210323080000 +0700" channel="Indosiar">
+    <title lang="id">Kisah Nyata</title>
+  </programme>
+  <programme start="20210323080000 +0700" stop="20210323091500 +0700" channel="Indosiar">
+    <title lang="id">Pintu Berkah</title>
+  </programme>
+  <programme start="20210323091500 +0700" stop="20210323100000 +0700" channel="Indosiar">
+    <title lang="id">Pintu Berkah</title>
+  </programme>
+  <programme start="20210323100000 +0700" stop="20210323103000 +0700" channel="Indosiar">
+    <title lang="id">Kiss Pagi</title>
+  </programme>
+  <programme start="20210323103000 +0700" stop="20210323110000 +0700" channel="Indosiar">
+    <title lang="id">Patroli</title>
+  </programme>
+  <programme start="20210323110000 +0700" stop="20210323113000 +0700" channel="Indosiar">
+    <title lang="id">Fokus</title>
+  </programme>
+  <programme start="20210323113000 +0700" stop="20210323133000 +0700" channel="Indosiar">
+    <title lang="id">Kisah Nyata Spesial</title>
+  </programme>
+  <programme start="20210323133000 +0700" stop="20210323150000 +0700" channel="Indosiar">
+    <title lang="id">Kisah Nyata Sore</title>
+  </programme>
+  <programme start="20210323150000 +0700" stop="20210323163000 +0700" channel="Indosiar">
+    <title lang="id">Kisah Nyata Petang</title>
+  </programme>
+  <programme start="20210323163000 +0700" stop="20210323180000 +0700" channel="Indosiar">
+    <title lang="id">Suara Hati Istri</title>
+  </programme>
+  <programme start="20210323180000 +0700" stop="20210323193000 +0700" channel="Indosiar">
+    <title lang="id">Suara Hati Istri</title>
+  </programme>
+  <programme start="20210323193000 +0700" stop="20210323230000 +0700" channel="Indosiar">
+    <title lang="id">Suara Hati Istri</title>
+  </programme>
+  <programme start="20210323230000 +0700" stop="20210324001500 +0700" channel="Indosiar">
+    <title lang="id">Temu Lawak</title>
   </programme>
   <programme start="20210316000000 +0700" stop="20210316013000 +0700" channel="RCTI">
     <title lang="id">Cinta Datang Di Kota Kembang</title>
@@ -1293,35 +1368,59 @@
   <programme start="20210322210000 +0700" stop="20210323000000 +0700" channel="RCTI">
     <title lang="id">Indonesian Idol 2020 (L)</title>
   </programme>
-  <programme start="20210315123000 +0700" stop="20210315150000 +0700" channel="Global TV">
-    <title lang="id">SpongeBob SquarePants Movie</title>
+  <programme start="20210323000000 +0700" stop="20210323013000 +0700" channel="RCTI">
+    <title lang="id">Mega Sinema</title>
   </programme>
-  <programme start="20210315150000 +0700" stop="20210315160000 +0700" channel="Global TV">
-    <title lang="id">Boruto: The Next Generation</title>
+  <programme start="20210323013000 +0700" stop="20210323020000 +0700" channel="RCTI">
+    <title lang="id">Delik</title>
   </programme>
-  <programme start="20210315160000 +0700" stop="20210315170000 +0700" channel="Global TV">
-    <title lang="id">Kisah Viral Warbiasak</title>
+  <programme start="20210323020000 +0700" stop="20210323033000 +0700" channel="RCTI">
+    <title lang="id">Layar Drama Indonesia</title>
   </programme>
-  <programme start="20210315170000 +0700" stop="20210315180000 +0700" channel="Global TV">
-    <title lang="id">Kisah Viral</title>
+  <programme start="20210323033000 +0700" stop="20210323040000 +0700" channel="RCTI">
+    <title lang="id">Penyegaran Rohani Hindu</title>
   </programme>
-  <programme start="20210315180000 +0700" stop="20210315190000 +0700" channel="Global TV">
-    <title lang="id">Kisah Viral</title>
+  <programme start="20210323040000 +0700" stop="20210323053000 +0700" channel="RCTI">
+    <title lang="id">Seputar iNews Pagi (L)</title>
   </programme>
-  <programme start="20210315190000 +0700" stop="20210315200000 +0700" channel="Global TV">
-    <title lang="id">Legenda Sang Penunggu</title>
+  <programme start="20210323053000 +0700" stop="20210323061500 +0700" channel="RCTI">
+    <title lang="id">Sergap</title>
   </programme>
-  <programme start="20210315200000 +0700" stop="20210315210000 +0700" channel="Global TV">
-    <title lang="id">Mitologi</title>
+  <programme start="20210323061500 +0700" stop="20210323070000 +0700" channel="RCTI">
+    <title lang="id">Go Spot</title>
   </programme>
-  <programme start="20210315210000 +0700" stop="20210315230000 +0700" channel="Global TV">
-    <title lang="id">Rambo: First Blood, Pt 2</title>
+  <programme start="20210323070000 +0700" stop="20210323081500 +0700" channel="RCTI">
+    <title lang="id">Layar Drama Indonesia</title>
   </programme>
-  <programme start="20210315230000 +0700" stop="20210316000000 +0700" channel="Global TV">
-    <title lang="id">Super Family 100</title>
+  <programme start="20210323081500 +0700" stop="20210323094500 +0700" channel="RCTI">
+    <title lang="id">Dahsyatnya 2021</title>
   </programme>
-  <programme start="20210316000000 +0700" stop="20210316003000 +0700" channel="Global TV">
-    <title lang="id">Konon Katanya</title>
+  <programme start="20210323094500 +0700" stop="20210323111500 +0700" channel="RCTI">
+    <title lang="id">Silet</title>
+  </programme>
+  <programme start="20210323111500 +0700" stop="20210323121500 +0700" channel="RCTI">
+    <title lang="id">Seputar iNews Siang (L)</title>
+  </programme>
+  <programme start="20210323121500 +0700" stop="20210323131500 +0700" channel="RCTI">
+    <title lang="id">Minta Tolong</title>
+  </programme>
+  <programme start="20210323131500 +0700" stop="20210323154500 +0700" channel="RCTI">
+    <title lang="id">Tamu Tak Diundang</title>
+  </programme>
+  <programme start="20210323154500 +0700" stop="20210323174500 +0700" channel="RCTI">
+    <title lang="id">Tukang Ojek Pengkolan</title>
+  </programme>
+  <programme start="20210323174500 +0700" stop="20210323193000 +0700" channel="RCTI">
+    <title lang="id">Putri Untuk Pangeran</title>
+  </programme>
+  <programme start="20210323193000 +0700" stop="20210323211500 +0700" channel="RCTI">
+    <title lang="id">Ikatan Cinta</title>
+  </programme>
+  <programme start="20210323211500 +0700" stop="20210323223000 +0700" channel="RCTI">
+    <title lang="id">Amanah Wali S4</title>
+  </programme>
+  <programme start="20210323223000 +0700" stop="20210324000000 +0700" channel="RCTI">
+    <title lang="id">Dunia Terbalik</title>
   </programme>
   <programme start="20210316003000 +0700" stop="20210316010000 +0700" channel="Global TV">
     <title lang="id">Gerebek</title>
@@ -1785,26 +1884,77 @@
   <programme start="20210322233000 +0700" stop="20210323003000 +0700" channel="Global TV">
     <title lang="id">Konon Katanya</title>
   </programme>
-  <programme start="20210315130000 +0700" stop="20210315140000 +0700" channel="MNC TV">
-    <title lang="id">Upin &amp; Ipin</title>
+  <programme start="20210323003000 +0700" stop="20210323010000 +0700" channel="Global TV">
+    <title lang="id">Gerebek</title>
   </programme>
-  <programme start="20210315140000 +0700" stop="20210315163000 +0700" channel="MNC TV">
-    <title lang="id">Iiihhh Serrreemm</title>
+  <programme start="20210323010000 +0700" stop="20210323013000 +0700" channel="Global TV">
+    <title lang="id">MSHOP</title>
   </programme>
-  <programme start="20210315163000 +0700" stop="20210315180000 +0700" channel="MNC TV">
-    <title lang="id">Upin &amp; Ipin</title>
+  <programme start="20210323013000 +0700" stop="20210323020000 +0700" channel="Global TV">
+    <title lang="id">Buletin iNews Malam</title>
   </programme>
-  <programme start="20210315180000 +0700" stop="20210315191500 +0700" channel="MNC TV">
-    <title lang="id">Upin &amp; Ipin</title>
+  <programme start="20210323020000 +0700" stop="20210323030000 +0700" channel="Global TV">
+    <title lang="id">Awas Ada Sule Lagi</title>
   </programme>
-  <programme start="20210315191500 +0700" stop="20210315211500 +0700" channel="MNC TV">
-    <title lang="id">I Can See Your Voice Indonesia</title>
+  <programme start="20210323030000 +0700" stop="20210323040000 +0700" channel="Global TV">
+    <title lang="id">Jeany &amp; Soun Miun</title>
   </programme>
-  <programme start="20210315211500 +0700" stop="20210315231500 +0700" channel="MNC TV">
-    <title lang="id">Kembalinya Raden Kian Santang</title>
+  <programme start="20210323040000 +0700" stop="20210323043000 +0700" channel="Global TV">
+    <title lang="id">Buletin iNews Pagi (L)</title>
   </programme>
-  <programme start="20210315231500 +0700" stop="20210316010000 +0700" channel="MNC TV">
-    <title lang="id">Badai Di Awal Bahagia</title>
+  <programme start="20210323043000 +0700" stop="20210323050000 +0700" channel="Global TV">
+    <title lang="id">Ragam Cerita</title>
+  </programme>
+  <programme start="20210323050000 +0700" stop="20210323053000 +0700" channel="Global TV">
+    <title lang="id">Turis Rempong</title>
+  </programme>
+  <programme start="20210323053000 +0700" stop="20210323060000 +0700" channel="Global TV">
+    <title lang="id">Be Be Bears</title>
+  </programme>
+  <programme start="20210323060000 +0700" stop="20210323063000 +0700" channel="Global TV">
+    <title lang="id">Zak Storm</title>
+  </programme>
+  <programme start="20210323063000 +0700" stop="20210323070000 +0700" channel="Global TV">
+    <title lang="id">Bernard Bears</title>
+  </programme>
+  <programme start="20210323070000 +0700" stop="20210323080000 +0700" channel="Global TV">
+    <title lang="id">SpongeBob SquarePants Movie</title>
+  </programme>
+  <programme start="20210323080000 +0700" stop="20210323093000 +0700" channel="Global TV">
+    <title lang="id">Big Movies Candyland</title>
+  </programme>
+  <programme start="20210323093000 +0700" stop="20210323100000 +0700" channel="Global TV">
+    <title lang="id">Obsesi (L)</title>
+  </programme>
+  <programme start="20210323100000 +0700" stop="20210323110000 +0700" channel="Global TV">
+    <title lang="id">Buletin iNews Siang (L)</title>
+  </programme>
+  <programme start="20210323110000 +0700" stop="20210323123000 +0700" channel="Global TV">
+    <title lang="id">Big Movies Family</title>
+  </programme>
+  <programme start="20210323123000 +0700" stop="20210323150000 +0700" channel="Global TV">
+    <title lang="id">Big Movies Family</title>
+  </programme>
+  <programme start="20210323150000 +0700" stop="20210323170000 +0700" channel="Global TV">
+    <title lang="id">Sasuke Ninja Warior Indonesia</title>
+  </programme>
+  <programme start="20210323170000 +0700" stop="20210323180000 +0700" channel="Global TV">
+    <title lang="id">Kisah Viral</title>
+  </programme>
+  <programme start="20210323180000 +0700" stop="20210323190000 +0700" channel="Global TV">
+    <title lang="id">Super Family 100</title>
+  </programme>
+  <programme start="20210323190000 +0700" stop="20210323200000 +0700" channel="Global TV">
+    <title lang="id">Kisah Viral</title>
+  </programme>
+  <programme start="20210323200000 +0700" stop="20210323210000 +0700" channel="Global TV">
+    <title lang="id">Legenda Sang Penunggu</title>
+  </programme>
+  <programme start="20210323210000 +0700" stop="20210323233000 +0700" channel="Global TV">
+    <title lang="id">Amazing Concert</title>
+  </programme>
+  <programme start="20210323233000 +0700" stop="20210324003000 +0700" channel="Global TV">
+    <title lang="id">Konon Katanya</title>
   </programme>
   <programme start="20210316010000 +0700" stop="20210316020000 +0700" channel="MNC TV">
     <title lang="id">Lintas iNews Malam</title>
@@ -2232,41 +2382,65 @@
   <programme start="20210322231500 +0700" stop="20210323010000 +0700" channel="MNC TV">
     <title lang="id">Blockbuster</title>
   </programme>
-  <programme start="20210315133000 +0700" stop="20210315141500 +0700" channel="iNews">
-    <title lang="id">Intens Reborn (L)</title>
+  <programme start="20210323010000 +0700" stop="20210323020000 +0700" channel="MNC TV">
+    <title lang="id">Lintas iNews Malam</title>
   </programme>
-  <programme start="20210315141500 +0700" stop="20210315150000 +0700" channel="iNews">
-    <title lang="id">iSeleb (L)</title>
+  <programme start="20210323020000 +0700" stop="20210323023000 +0700" channel="MNC TV">
+    <title lang="id">Midnite Great Sale</title>
   </programme>
-  <programme start="20210315150000 +0700" stop="20210315160000 +0700" channel="iNews">
-    <title lang="id">Realita (L)</title>
+  <programme start="20210323023000 +0700" stop="20210323040000 +0700" channel="MNC TV">
+    <title lang="id">Sinema Malam</title>
   </programme>
-  <programme start="20210315160000 +0700" stop="20210315180000 +0700" channel="iNews">
-    <title lang="id">iNews Sore (L)</title>
+  <programme start="20210323040000 +0700" stop="20210323050000 +0700" channel="MNC TV">
+    <title lang="id">Lintas iNews Pagi</title>
   </programme>
-  <programme start="20210315180000 +0700" stop="20210315190000 +0700" channel="iNews">
-    <title lang="id">iNews Room (L)</title>
+  <programme start="20210323050000 +0700" stop="20210323053000 +0700" channel="MNC TV">
+    <title lang="id">Nikmatnya Sedekah</title>
   </programme>
-  <programme start="20210315190000 +0700" stop="20210315200000 +0700" channel="iNews">
-    <title lang="id">Top Files (L)</title>
+  <programme start="20210323053000 +0700" stop="20210323063000 +0700" channel="MNC TV">
+    <title lang="id">Siraman Qolbu, Ustadz Dhanu</title>
   </programme>
-  <programme start="20210315200000 +0700" stop="20210315210000 +0700" channel="iNews">
-    <title lang="id">Modus</title>
+  <programme start="20210323063000 +0700" stop="20210323090000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
   </programme>
-  <programme start="20210315210000 +0700" stop="20210315220000 +0700" channel="iNews">
-    <title lang="id">Hot Nine 2021 Perempat Final</title>
+  <programme start="20210323090000 +0700" stop="20210323104500 +0700" channel="MNC TV">
+    <title lang="id">Serial Pilihan</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210315230000 +0700" channel="iNews">
-    <title lang="id">iNews Malam (L)</title>
+  <programme start="20210323104500 +0700" stop="20210323112000 +0700" channel="MNC TV">
+    <title lang="id">Seleb On News</title>
   </programme>
-  <programme start="20210315230000 +0700" stop="20210315233000 +0700" channel="iNews">
-    <title lang="id">ONE FC Fights</title>
-  </programme>
-  <programme start="20210315233000 +0700" stop="20210316000000 +0700" channel="iNews">
-    <title lang="id">Bentrap</title>
-  </programme>
-  <programme start="20210316000000 +0700" stop="20210316003000 +0700" channel="iNews">
+  <programme start="20210323112000 +0700" stop="20210323113000 +0700" channel="MNC TV">
     <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20210323113000 +0700" stop="20210323120000 +0700" channel="MNC TV">
+    <title lang="id">Lintas iNews Siang</title>
+  </programme>
+  <programme start="20210323120000 +0700" stop="20210323123000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210323123000 +0700" stop="20210323130000 +0700" channel="MNC TV">
+    <title lang="id">Kiko</title>
+  </programme>
+  <programme start="20210323130000 +0700" stop="20210323140000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210323140000 +0700" stop="20210323163000 +0700" channel="MNC TV">
+    <title lang="id">Iiihhh Serrreemm</title>
+  </programme>
+  <programme start="20210323163000 +0700" stop="20210323180000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210323180000 +0700" stop="20210323193000 +0700" channel="MNC TV">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20210323193000 +0700" stop="20210323205000 +0700" channel="MNC TV">
+    <title lang="id">Emak Gue Jagoan 3</title>
+  </programme>
+  <programme start="20210323205000 +0700" stop="20210323225000 +0700" channel="MNC TV">
+    <title lang="id">Kembalinya Raden Kian Santang</title>
+  </programme>
+  <programme start="20210323225000 +0700" stop="20210324010000 +0700" channel="MNC TV">
+    <title lang="id">Blockbuster</title>
   </programme>
   <programme start="20210316003000 +0700" stop="20210316010000 +0700" channel="iNews">
     <title lang="id">MNC Shop</title>
@@ -2901,26 +3075,104 @@
   <programme start="20210322233000 +0700" stop="20210323000000 +0700" channel="iNews">
     <title lang="id">Bentrap</title>
   </programme>
-  <programme start="20210315123000 +0700" stop="20210315150000 +0700" channel="SCTV">
-    <title lang="id">Satu Atap 3 Cinta</title>
+  <programme start="20210323000000 +0700" stop="20210323003000 +0700" channel="iNews">
+    <title lang="id">MNC Shop</title>
   </programme>
-  <programme start="20210315150000 +0700" stop="20210315163000 +0700" channel="SCTV">
-    <title lang="id">Kamuflase Cinta</title>
+  <programme start="20210323003000 +0700" stop="20210323010000 +0700" channel="iNews">
+    <title lang="id">MNC Shop</title>
   </programme>
-  <programme start="20210315163000 +0700" stop="20210315181500 +0700" channel="SCTV">
-    <title lang="id">Dari Jendela SMP</title>
+  <programme start="20210323010000 +0700" stop="20210323013000 +0700" channel="iNews">
+    <title lang="id">Loveless</title>
   </programme>
-  <programme start="20210315181500 +0700" stop="20210315201500 +0700" channel="SCTV">
-    <title lang="id">Buku Harian Seorang Istri</title>
+  <programme start="20210323013000 +0700" stop="20210323023000 +0700" channel="iNews">
+    <title lang="id">iNews Sport</title>
   </programme>
-  <programme start="20210315201500 +0700" stop="20210315214500 +0700" channel="SCTV">
-    <title lang="id">Love Story The Series</title>
+  <programme start="20210323023000 +0700" stop="20210323033000 +0700" channel="iNews">
+    <title lang="id">iNews Sport</title>
   </programme>
-  <programme start="20210315214500 +0700" stop="20210315233000 +0700" channel="SCTV">
-    <title lang="id">Samudra Cinta</title>
+  <programme start="20210323033000 +0700" stop="20210323035700 +0700" channel="iNews">
+    <title lang="id">Sergap</title>
   </programme>
-  <programme start="20210315233000 +0700" stop="20210316013000 +0700" channel="SCTV">
-    <title lang="id">Pembantu Tak Pernah Ingkar...</title>
+  <programme start="20210323035700 +0700" stop="20210323040000 +0700" channel="iNews">
+    <title lang="id">Padamu Negeri</title>
+  </programme>
+  <programme start="20210323040000 +0700" stop="20210323042700 +0700" channel="iNews">
+    <title lang="id">Modus</title>
+  </programme>
+  <programme start="20210323042700 +0700" stop="20210323043000 +0700" channel="iNews">
+    <title lang="id">Indonesia Raya</title>
+  </programme>
+  <programme start="20210323043000 +0700" stop="20210323060000 +0700" channel="iNews">
+    <title lang="id">iNews Pagi (L)</title>
+  </programme>
+  <programme start="20210323060000 +0700" stop="20210323063000 +0700" channel="iNews">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20210323063000 +0700" stop="20210323070000 +0700" channel="iNews">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20210323070000 +0700" stop="20210323073000 +0700" channel="iNews">
+    <title lang="id">OMG</title>
+  </programme>
+  <programme start="20210323073000 +0700" stop="20210323080000 +0700" channel="iNews">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20210323080000 +0700" stop="20210323083000 +0700" channel="iNews">
+    <title lang="id">iSeleb</title>
+  </programme>
+  <programme start="20210323083000 +0700" stop="20210323090000 +0700" channel="iNews">
+    <title lang="id">Intens Reborn</title>
+  </programme>
+  <programme start="20210323090000 +0700" stop="20210323100000 +0700" channel="iNews">
+    <title lang="id">Silet</title>
+  </programme>
+  <programme start="20210323100000 +0700" stop="20210323103000 +0700" channel="iNews">
+    <title lang="id">Asal Muasal</title>
+  </programme>
+  <programme start="20210323103000 +0700" stop="20210323110000 +0700" channel="iNews">
+    <title lang="id">iNews World</title>
+  </programme>
+  <programme start="20210323110000 +0700" stop="20210323123000 +0700" channel="iNews">
+    <title lang="id">iNews Siang (L)</title>
+  </programme>
+  <programme start="20210323123000 +0700" stop="20210323130000 +0700" channel="iNews">
+    <title lang="id">Bizz Update (L)</title>
+  </programme>
+  <programme start="20210323130000 +0700" stop="20210323133000 +0700" channel="iNews">
+    <title lang="id">Monitor</title>
+  </programme>
+  <programme start="20210323133000 +0700" stop="20210323141500 +0700" channel="iNews">
+    <title lang="id">Intens Reborn (L)</title>
+  </programme>
+  <programme start="20210323141500 +0700" stop="20210323150000 +0700" channel="iNews">
+    <title lang="id">iSeleb (L)</title>
+  </programme>
+  <programme start="20210323150000 +0700" stop="20210323154500 +0700" channel="iNews">
+    <title lang="id">Realita</title>
+  </programme>
+  <programme start="20210323154500 +0700" stop="20210323180000 +0700" channel="iNews">
+    <title lang="id">iNews Sore (L)</title>
+  </programme>
+  <programme start="20210323180000 +0700" stop="20210323190000 +0700" channel="iNews">
+    <title lang="id">iNews Room (L)</title>
+  </programme>
+  <programme start="20210323190000 +0700" stop="20210323193000 +0700" channel="iNews">
+    <title lang="id">Top Files (L)</title>
+  </programme>
+  <programme start="20210323193000 +0700" stop="20210323200000 +0700" channel="iNews">
+    <title lang="id">Asal Muasal</title>
+  </programme>
+  <programme start="20210323200000 +0700" stop="20210323213000 +0700" channel="iNews">
+    <title lang="id">Hot Nine 2021</title>
+  </programme>
+  <programme start="20210323213000 +0700" stop="20210323230000 +0700" channel="iNews">
+    <title lang="id">iNews Malam (L)</title>
+  </programme>
+  <programme start="20210323230000 +0700" stop="20210323233000 +0700" channel="iNews">
+    <title lang="id">ONE FC Fights</title>
+  </programme>
+  <programme start="20210323233000 +0700" stop="20210324000000 +0700" channel="iNews">
+    <title lang="id">Bentrap</title>
   </programme>
   <programme start="20210316013000 +0700" stop="20210316020000 +0700" channel="SCTV">
     <title lang="id">Liputan 6 Malam</title>
@@ -3267,44 +3519,53 @@
   <programme start="20210322233000 +0700" stop="20210323013000 +0700" channel="SCTV">
     <title lang="id">FTV Utama</title>
   </programme>
-  <programme start="20210315130000 +0700" stop="20210315140000 +0700" channel="TVONE">
-    <title lang="id">Hidup Sehat</title>
+  <programme start="20210323013000 +0700" stop="20210323020000 +0700" channel="SCTV">
+    <title lang="id">SCTV</title>
   </programme>
-  <programme start="20210315140000 +0700" stop="20210315143000 +0700" channel="TVONE">
-    <title lang="id">Pesona Nusantara</title>
+  <programme start="20210323020000 +0700" stop="20210323033000 +0700" channel="SCTV">
+    <title lang="id">SCTV</title>
   </programme>
-  <programme start="20210315143000 +0700" stop="20210315150000 +0700" channel="TVONE">
-    <title lang="id">2 Hari 1 Malam</title>
+  <programme start="20210323033000 +0700" stop="20210323040000 +0700" channel="SCTV">
+    <title lang="id">SCTV</title>
   </programme>
-  <programme start="20210315150000 +0700" stop="20210315153000 +0700" channel="TVONE">
-    <title lang="id">Kabar Pasar Sore</title>
+  <programme start="20210323040000 +0700" stop="20210323043000 +0700" channel="SCTV">
+    <title lang="id">SCTV</title>
   </programme>
-  <programme start="20210315153000 +0700" stop="20210315160000 +0700" channel="TVONE">
-    <title lang="id">Kabar Pandemi Corona</title>
+  <programme start="20210323043000 +0700" stop="20210323060000 +0700" channel="SCTV">
+    <title lang="id">SCTV</title>
   </programme>
-  <programme start="20210315160000 +0700" stop="20210315163000 +0700" channel="TVONE">
-    <title lang="id">Ragam Perkara</title>
+  <programme start="20210323060000 +0700" stop="20210323080000 +0700" channel="SCTV">
+    <title lang="id">SCTV</title>
   </programme>
-  <programme start="20210315163000 +0700" stop="20210315183000 +0700" channel="TVONE">
-    <title lang="id">Kabar Petang (L)</title>
+  <programme start="20210323080000 +0700" stop="20210323100000 +0700" channel="SCTV">
+    <title lang="id">SCTV</title>
   </programme>
-  <programme start="20210315183000 +0700" stop="20210315200000 +0700" channel="TVONE">
-    <title lang="id">Apa Kabar Indonesia Malam (L)</title>
+  <programme start="20210323100000 +0700" stop="20210323120000 +0700" channel="SCTV">
+    <title lang="id">SCTV</title>
   </programme>
-  <programme start="20210315200000 +0700" stop="20210315210000 +0700" channel="TVONE">
-    <title lang="id">Kabar Utama</title>
+  <programme start="20210323120000 +0700" stop="20210323123000 +0700" channel="SCTV">
+    <title lang="id">SCTV</title>
   </programme>
-  <programme start="20210315210000 +0700" stop="20210315220000 +0700" channel="TVONE">
-    <title lang="id">Fakta</title>
+  <programme start="20210323123000 +0700" stop="20210323143000 +0700" channel="SCTV">
+    <title lang="id">SCTV</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210315223000 +0700" channel="TVONE">
-    <title lang="id">Menyingkap Tabir</title>
+  <programme start="20210323143000 +0700" stop="20210323163000 +0700" channel="SCTV">
+    <title lang="id">SCTV</title>
   </programme>
-  <programme start="20210315223000 +0700" stop="20210315233000 +0700" channel="TVONE">
-    <title lang="id">Kabar Hari Ini</title>
+  <programme start="20210323163000 +0700" stop="20210323181500 +0700" channel="SCTV">
+    <title lang="id">SCTV</title>
   </programme>
-  <programme start="20210315233000 +0700" stop="20210316000000 +0700" channel="TVONE">
-    <title lang="id">Kabar Arena</title>
+  <programme start="20210323181500 +0700" stop="20210323200000 +0700" channel="SCTV">
+    <title lang="id">SCTV</title>
+  </programme>
+  <programme start="20210323200000 +0700" stop="20210323214500 +0700" channel="SCTV">
+    <title lang="id">SCTV</title>
+  </programme>
+  <programme start="20210323214500 +0700" stop="20210323231500 +0700" channel="SCTV">
+    <title lang="id">SCTV</title>
+  </programme>
+  <programme start="20210323231500 +0700" stop="20210324004500 +0700" channel="SCTV">
+    <title lang="id">SCTV</title>
   </programme>
   <programme start="20210316000000 +0700" stop="20210316010000 +0700" channel="TVONE">
     <title lang="id">Kabar Dunia</title>
@@ -3891,77 +4152,92 @@
   <programme start="20210322233000 +0700" stop="20210323000000 +0700" channel="TVONE">
     <title lang="id">Kabar Arena</title>
   </programme>
-  <programme start="20210315130500 +0700" stop="20210315140000 +0700" channel="Metro TV">
-    <title lang="id">Newsline</title>
+  <programme start="20210323000000 +0700" stop="20210323010000 +0700" channel="TVONE">
+    <title lang="id">Kabar Dunia</title>
   </programme>
-  <programme start="20210315140000 +0700" stop="20210315140500 +0700" channel="Metro TV">
-    <title lang="id">Headline News</title>
+  <programme start="20210323010000 +0700" stop="20210323013000 +0700" channel="TVONE">
+    <title lang="id">Lejel Home Shopping</title>
   </programme>
-  <programme start="20210315140500 +0700" stop="20210315150000 +0700" channel="Metro TV">
-    <title lang="id">Newsline</title>
+  <programme start="20210323013000 +0700" stop="20210323020000 +0700" channel="TVONE">
+    <title lang="id">AB Shop</title>
   </programme>
-  <programme start="20210315150000 +0700" stop="20210315150500 +0700" channel="Metro TV">
-    <title lang="id">Headline News</title>
+  <programme start="20210323020000 +0700" stop="20210323023000 +0700" channel="TVONE">
+    <title lang="id">Kabar Utama</title>
   </programme>
-  <programme start="20210315150500 +0700" stop="20210315153000 +0700" channel="Metro TV">
-    <title lang="id">Newsline</title>
+  <programme start="20210323023000 +0700" stop="20210323030000 +0700" channel="TVONE">
+    <title lang="id">Kabar Hari Ini</title>
   </programme>
-  <programme start="20210315153000 +0700" stop="20210315160000 +0700" channel="Metro TV">
-    <title lang="id">COVID-19 Update</title>
+  <programme start="20210323030000 +0700" stop="20210323033000 +0700" channel="TVONE">
+    <title lang="id">Ragam Perkara</title>
   </programme>
-  <programme start="20210315160000 +0700" stop="20210315160500 +0700" channel="Metro TV">
-    <title lang="id">Headline News</title>
+  <programme start="20210323033000 +0700" stop="20210323040000 +0700" channel="TVONE">
+    <title lang="id">Sidik Jari</title>
   </programme>
-  <programme start="20210315160500 +0700" stop="20210315170000 +0700" channel="Metro TV">
-    <title lang="id">Metro Hari Ini</title>
+  <programme start="20210323040000 +0700" stop="20210323043000 +0700" channel="TVONE">
+    <title lang="id">Assalamualaikum Nusantara</title>
   </programme>
-  <programme start="20210315170000 +0700" stop="20210315173000 +0700" channel="Metro TV">
-    <title lang="id">Headline News</title>
+  <programme start="20210323043000 +0700" stop="20210323060000 +0700" channel="TVONE">
+    <title lang="id">Kabar Pagi</title>
   </programme>
-  <programme start="20210315173000 +0700" stop="20210315180000 +0700" channel="Metro TV">
-    <title lang="id">Primetime News</title>
+  <programme start="20210323060000 +0700" stop="20210323063000 +0700" channel="TVONE">
+    <title lang="id">Kabar Arena Pagi (L)</title>
   </programme>
-  <programme start="20210315180000 +0700" stop="20210315180500 +0700" channel="Metro TV">
-    <title lang="id">Headline News</title>
+  <programme start="20210323063000 +0700" stop="20210323080000 +0700" channel="TVONE">
+    <title lang="id">Apa Kabar Indonesia Pagi (L)</title>
   </programme>
-  <programme start="20210315180500 +0700" stop="20210315190500 +0700" channel="Metro TV">
-    <title lang="id">Primetime News</title>
+  <programme start="20210323080000 +0700" stop="20210323090000 +0700" channel="TVONE">
+    <title lang="id">Rumah Mamah Dedeh</title>
   </programme>
-  <programme start="20210315190500 +0700" stop="20210315200000 +0700" channel="Metro TV">
-    <title lang="id">Primetime Talk</title>
+  <programme start="20210323090000 +0700" stop="20210323093000 +0700" channel="TVONE">
+    <title lang="id">Lejel Home Shopping</title>
   </programme>
-  <programme start="20210315200000 +0700" stop="20210315200500 +0700" channel="Metro TV">
-    <title lang="id">Headline News</title>
+  <programme start="20210323093000 +0700" stop="20210323100000 +0700" channel="TVONE">
+    <title lang="id">Coffee Break</title>
   </programme>
-  <programme start="20210315200500 +0700" stop="20210315210000 +0700" channel="Metro TV">
-    <title lang="id">Top News</title>
+  <programme start="20210323100000 +0700" stop="20210323103000 +0700" channel="TVONE">
+    <title lang="id">Cerita Kita</title>
   </programme>
-  <programme start="20210315210000 +0700" stop="20210315210500 +0700" channel="Metro TV">
-    <title lang="id">Headline News</title>
+  <programme start="20210323103000 +0700" stop="20210323110000 +0700" channel="TVONE">
+    <title lang="id">Sidik Jari</title>
   </programme>
-  <programme start="20210315210500 +0700" stop="20210315220000 +0700" channel="Metro TV">
-    <title lang="id">Top News</title>
+  <programme start="20210323110000 +0700" stop="20210323130000 +0700" channel="TVONE">
+    <title lang="id">Kabar Siang (L)</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210315220500 +0700" channel="Metro TV">
-    <title lang="id">Headline News</title>
+  <programme start="20210323130000 +0700" stop="20210323140000 +0700" channel="TVONE">
+    <title lang="id">Hidup Sehat</title>
   </programme>
-  <programme start="20210315220500 +0700" stop="20210315223000 +0700" channel="Metro TV">
-    <title lang="id">Metro Sport</title>
+  <programme start="20210323140000 +0700" stop="20210323143000 +0700" channel="TVONE">
+    <title lang="id">Selera Asal</title>
   </programme>
-  <programme start="20210315223000 +0700" stop="20210315230000 +0700" channel="Metro TV">
-    <title lang="id">Metro Malam</title>
+  <programme start="20210323143000 +0700" stop="20210323150000 +0700" channel="TVONE">
+    <title lang="id">Enak Betul</title>
   </programme>
-  <programme start="20210315230000 +0700" stop="20210315230500 +0700" channel="Metro TV">
-    <title lang="id">Headline News</title>
+  <programme start="20210323150000 +0700" stop="20210323153000 +0700" channel="TVONE">
+    <title lang="id">Kabar Pasar Sore</title>
   </programme>
-  <programme start="20210315230500 +0700" stop="20210315233000 +0700" channel="Metro TV">
-    <title lang="id">Metro Malam</title>
+  <programme start="20210323153000 +0700" stop="20210323160000 +0700" channel="TVONE">
+    <title lang="id">Kabar Pandemi Corona</title>
   </programme>
-  <programme start="20210315233000 +0700" stop="20210316000000 +0700" channel="Metro TV">
-    <title lang="id">Primetime News</title>
+  <programme start="20210323160000 +0700" stop="20210323163000 +0700" channel="TVONE">
+    <title lang="id">Ragam Perkara</title>
   </programme>
-  <programme start="20210316000000 +0700" stop="20210316000500 +0700" channel="Metro TV">
-    <title lang="id">Headline News</title>
+  <programme start="20210323163000 +0700" stop="20210323183000 +0700" channel="TVONE">
+    <title lang="id">Kabar Petang (L)</title>
+  </programme>
+  <programme start="20210323183000 +0700" stop="20210323203000 +0700" channel="TVONE">
+    <title lang="id">Apa Kabar Indonesia Malam (L)</title>
+  </programme>
+  <programme start="20210323203000 +0700" stop="20210323220000 +0700" channel="TVONE">
+    <title lang="id">Kabar Utama</title>
+  </programme>
+  <programme start="20210323220000 +0700" stop="20210323223000 +0700" channel="TVONE">
+    <title lang="id">Buru Sergap</title>
+  </programme>
+  <programme start="20210323223000 +0700" stop="20210323233000 +0700" channel="TVONE">
+    <title lang="id">Kabar Hari Ini</title>
+  </programme>
+  <programme start="20210323233000 +0700" stop="20210324000000 +0700" channel="TVONE">
+    <title lang="id">Kabar Arena</title>
   </programme>
   <programme start="20210316000500 +0700" stop="20210316010000 +0700" channel="Metro TV">
     <title lang="id">Primetime News</title>
@@ -5142,56 +5418,173 @@
   <programme start="20210322233000 +0700" stop="20210323000000 +0700" channel="Metro TV">
     <title lang="id">Primetime News</title>
   </programme>
-  <programme start="20210315133000 +0700" stop="20210315140000 +0700" channel="TVRI">
-    <title lang="id">Jendela Dunia: Inovator</title>
+  <programme start="20210323000000 +0700" stop="20210323000500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
   </programme>
-  <programme start="20210315140000 +0700" stop="20210315140300 +0700" channel="TVRI">
-    <title lang="id">Info Terkini</title>
+  <programme start="20210323000500 +0700" stop="20210323010000 +0700" channel="Metro TV">
+    <title lang="id">Primetime News</title>
   </programme>
-  <programme start="20210315140300 +0700" stop="20210315150000 +0700" channel="TVRI">
-    <title lang="id">Indonesia Sehat</title>
+  <programme start="20210323010000 +0700" stop="20210323010500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
   </programme>
-  <programme start="20210315150000 +0700" stop="20210315150300 +0700" channel="TVRI">
-    <title lang="id">Info Terkini</title>
+  <programme start="20210323010500 +0700" stop="20210323020000 +0700" channel="Metro TV">
+    <title lang="id">Primetalk</title>
   </programme>
-  <programme start="20210315150300 +0700" stop="20210315160000 +0700" channel="TVRI">
-    <title lang="id">Buah Hatiku Sayang</title>
+  <programme start="20210323020000 +0700" stop="20210323020500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
   </programme>
-  <programme start="20210315160000 +0700" stop="20210315170000 +0700" channel="TVRI">
-    <title lang="id">Info COVID 19 Terkini</title>
+  <programme start="20210323020500 +0700" stop="20210323030000 +0700" channel="Metro TV">
+    <title lang="id">Top News</title>
   </programme>
-  <programme start="20210315170000 +0700" stop="20210315173000 +0700" channel="TVRI">
-    <title lang="id">Mimbar Agama Katolik</title>
+  <programme start="20210323030000 +0700" stop="20210323030500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
   </programme>
-  <programme start="20210315173000 +0700" stop="20210315180000 +0700" channel="TVRI">
-    <title lang="id">English News Service</title>
+  <programme start="20210323030500 +0700" stop="20210323040000 +0700" channel="Metro TV">
+    <title lang="id">Top News</title>
   </programme>
-  <programme start="20210315180000 +0700" stop="20210315190000 +0700" channel="TVRI">
-    <title lang="id">Klik Indonesia Malam</title>
+  <programme start="20210323040000 +0700" stop="20210323040500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
   </programme>
-  <programme start="20210315190000 +0700" stop="20210315200000 +0700" channel="TVRI">
-    <title lang="id">Indonesia Bicara</title>
+  <programme start="20210323040500 +0700" stop="20210323043000 +0700" channel="Metro TV">
+    <title lang="id">Sirah Nabawiyah</title>
   </programme>
-  <programme start="20210315200000 +0700" stop="20210315200300 +0700" channel="TVRI">
-    <title lang="id">Info Terkini</title>
+  <programme start="20210323043000 +0700" stop="20210323050000 +0700" channel="Metro TV">
+    <title lang="id">Metro Pagi Primetime</title>
   </programme>
-  <programme start="20210315200300 +0700" stop="20210315210000 +0700" channel="TVRI">
-    <title lang="id">Musik Indonesia</title>
+  <programme start="20210323050000 +0700" stop="20210323050500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
   </programme>
-  <programme start="20210315210000 +0700" stop="20210315213000 +0700" channel="TVRI">
-    <title lang="id">Dunia Dalam Berita</title>
+  <programme start="20210323050500 +0700" stop="20210323060000 +0700" channel="Metro TV">
+    <title lang="id">Metro Pagi Primetime</title>
   </programme>
-  <programme start="20210315213000 +0700" stop="20210315220000 +0700" channel="TVRI">
-    <title lang="id">Pesona Indonesia</title>
+  <programme start="20210323060000 +0700" stop="20210323060500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210315223000 +0700" channel="TVRI">
-    <title lang="id">Spirit</title>
+  <programme start="20210323060500 +0700" stop="20210323063000 +0700" channel="Metro TV">
+    <title lang="id">Metro Pagi Primetime</title>
   </programme>
-  <programme start="20210315223000 +0700" stop="20210315233000 +0700" channel="TVRI">
-    <title lang="id">Warung Kopi Pasti Gerrr</title>
+  <programme start="20210323063000 +0700" stop="20210323070000 +0700" channel="Metro TV">
+    <title lang="id">Go Healthy</title>
   </programme>
-  <programme start="20210315233000 +0700" stop="20210316000000 +0700" channel="TVRI">
-    <title lang="id">Inspirasi Indonesia</title>
+  <programme start="20210323070000 +0700" stop="20210323070500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20210323070500 +0700" stop="20210323073000 +0700" channel="Metro TV">
+    <title lang="id">Metro Xin Wen</title>
+  </programme>
+  <programme start="20210323073000 +0700" stop="20210323080000 +0700" channel="Metro TV">
+    <title lang="id">Editorial Media Indonesia</title>
+  </programme>
+  <programme start="20210323080000 +0700" stop="20210323080500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20210323080500 +0700" stop="20210323090000 +0700" channel="Metro TV">
+    <title lang="id">Editorial Media Indonesia</title>
+  </programme>
+  <programme start="20210323090000 +0700" stop="20210323090500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20210323090500 +0700" stop="20210323100000 +0700" channel="Metro TV">
+    <title lang="id">Selamat Pagi Indonesia</title>
+  </programme>
+  <programme start="20210323100000 +0700" stop="20210323100500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20210323100500 +0700" stop="20210323103000 +0700" channel="Metro TV">
+    <title lang="id">Selamat Pagi Indonesia</title>
+  </programme>
+  <programme start="20210323103000 +0700" stop="20210323110000 +0700" channel="Metro TV">
+    <title lang="id">Go Healthy</title>
+  </programme>
+  <programme start="20210323110000 +0700" stop="20210323110500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20210323110500 +0700" stop="20210323120000 +0700" channel="Metro TV">
+    <title lang="id">Metro Siang</title>
+  </programme>
+  <programme start="20210323120000 +0700" stop="20210323120500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20210323120500 +0700" stop="20210323130000 +0700" channel="Metro TV">
+    <title lang="id">Metro Siang</title>
+  </programme>
+  <programme start="20210323130000 +0700" stop="20210323130500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20210323130500 +0700" stop="20210323140000 +0700" channel="Metro TV">
+    <title lang="id">Newsline</title>
+  </programme>
+  <programme start="20210323140000 +0700" stop="20210323140500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20210323140500 +0700" stop="20210323150000 +0700" channel="Metro TV">
+    <title lang="id">Newsline</title>
+  </programme>
+  <programme start="20210323150000 +0700" stop="20210323150500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20210323150500 +0700" stop="20210323153000 +0700" channel="Metro TV">
+    <title lang="id">Newsline</title>
+  </programme>
+  <programme start="20210323153000 +0700" stop="20210323160000 +0700" channel="Metro TV">
+    <title lang="id">COVID-19 Update</title>
+  </programme>
+  <programme start="20210323160000 +0700" stop="20210323160500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20210323160500 +0700" stop="20210323170000 +0700" channel="Metro TV">
+    <title lang="id">Metro Hari Ini</title>
+  </programme>
+  <programme start="20210323170000 +0700" stop="20210323170500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20210323170500 +0700" stop="20210323173000 +0700" channel="Metro TV">
+    <title lang="id">Metro Hari Ini</title>
+  </programme>
+  <programme start="20210323173000 +0700" stop="20210323180000 +0700" channel="Metro TV">
+    <title lang="id">Primetime News</title>
+  </programme>
+  <programme start="20210323180000 +0700" stop="20210323180500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20210323180500 +0700" stop="20210323190000 +0700" channel="Metro TV">
+    <title lang="id">Primetime News</title>
+  </programme>
+  <programme start="20210323190000 +0700" stop="20210323190500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20210323190500 +0700" stop="20210323200000 +0700" channel="Metro TV">
+    <title lang="id">Primetime Talk</title>
+  </programme>
+  <programme start="20210323200000 +0700" stop="20210323200500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20210323200500 +0700" stop="20210323210000 +0700" channel="Metro TV">
+    <title lang="id">Top News</title>
+  </programme>
+  <programme start="20210323210000 +0700" stop="20210323210500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20210323210500 +0700" stop="20210323220000 +0700" channel="Metro TV">
+    <title lang="id">Top News</title>
+  </programme>
+  <programme start="20210323220000 +0700" stop="20210323220500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20210323220500 +0700" stop="20210323223000 +0700" channel="Metro TV">
+    <title lang="id">Metro Sport</title>
+  </programme>
+  <programme start="20210323223000 +0700" stop="20210323230000 +0700" channel="Metro TV">
+    <title lang="id">Metro Malam</title>
+  </programme>
+  <programme start="20210323230000 +0700" stop="20210323230500 +0700" channel="Metro TV">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20210323230500 +0700" stop="20210323233000 +0700" channel="Metro TV">
+    <title lang="id">Metro Malam</title>
+  </programme>
+  <programme start="20210323233000 +0700" stop="20210324000000 +0700" channel="Metro TV">
+    <title lang="id">Primetime News</title>
   </programme>
   <programme start="20210316000000 +0700" stop="20210316010000 +0700" channel="TVRI">
     <title lang="id">Pentas Budaya</title>
@@ -5994,35 +6387,122 @@
   <programme start="20210322233000 +0700" stop="20210323000000 +0700" channel="TVRI">
     <title lang="id">Inspirasi Indonesia</title>
   </programme>
-  <programme start="20210315130000 +0700" stop="20210315150000 +0700" channel="Net TV">
-    <title lang="id">Misteri Surat Kaleng</title>
+  <programme start="20210323000000 +0700" stop="20210323010000 +0700" channel="TVRI">
+    <title lang="id">Pentas Budaya</title>
   </programme>
-  <programme start="20210315150000 +0700" stop="20210315160000 +0700" channel="Net TV">
-    <title lang="id">Diary Bahagia</title>
+  <programme start="20210323010000 +0700" stop="20210323013000 +0700" channel="TVRI">
+    <title lang="id">Paket Acara Terpadu</title>
   </programme>
-  <programme start="20210315160000 +0700" stop="20210315163000 +0700" channel="Net TV">
-    <title lang="id">Potret Selebriti</title>
+  <programme start="20210323013000 +0700" stop="20210323013500 +0700" channel="TVRI">
+    <title lang="id">Doa Untuk Bangsa</title>
   </programme>
-  <programme start="20210315163000 +0700" stop="20210315180000 +0700" channel="Net TV">
-    <title lang="id">Reply 1988</title>
+  <programme start="20210323013500 +0700" stop="20210323034500 +0700" channel="TVRI">
+    <title lang="id">TVRI</title>
   </programme>
-  <programme start="20210315180000 +0700" stop="20210315193000 +0700" channel="Net TV">
-    <title lang="id">Zalim</title>
+  <programme start="20210323034500 +0700" stop="20210323040000 +0700" channel="TVRI">
+    <title lang="id">Pola Teknik</title>
   </programme>
-  <programme start="20210315193000 +0700" stop="20210315210000 +0700" channel="Net TV">
-    <title lang="id">Hercai S3</title>
+  <programme start="20210323040000 +0700" stop="20210323043000 +0700" channel="TVRI">
+    <title lang="id">Jejak Islam</title>
   </programme>
-  <programme start="20210315210000 +0700" stop="20210315213000 +0700" channel="Net TV">
-    <title lang="id">Like It</title>
+  <programme start="20210323043000 +0700" stop="20210323060000 +0700" channel="TVRI">
+    <title lang="id">Serambi Islami</title>
   </programme>
-  <programme start="20210315213000 +0700" stop="20210315223000 +0700" channel="Net TV">
-    <title lang="id">Tonight Show</title>
+  <programme start="20210323060000 +0700" stop="20210323070000 +0700" channel="TVRI">
+    <title lang="id">Klik Indonesia Pagi</title>
   </programme>
-  <programme start="20210315223000 +0700" stop="20210315233000 +0700" channel="Net TV">
-    <title lang="id">86</title>
+  <programme start="20210323070000 +0700" stop="20210323073000 +0700" channel="TVRI">
+    <title lang="id">Salam Olahraga</title>
   </programme>
-  <programme start="20210315233000 +0700" stop="20210316003000 +0700" channel="Net TV">
-    <title lang="id">Jatanras</title>
+  <programme start="20210323073000 +0700" stop="20210323080000 +0700" channel="TVRI">
+    <title lang="id">Info COVID 19 Terkini</title>
+  </programme>
+  <programme start="20210323080000 +0700" stop="20210323083000 +0700" channel="TVRI">
+    <title lang="id">Belajar Dari Rumah</title>
+  </programme>
+  <programme start="20210323083000 +0700" stop="20210323090000 +0700" channel="TVRI">
+    <title lang="id">Belajar Dari Rumah</title>
+  </programme>
+  <programme start="20210323090000 +0700" stop="20210323090300 +0700" channel="TVRI">
+    <title lang="id">Info Terkini</title>
+  </programme>
+  <programme start="20210323090300 +0700" stop="20210323093000 +0700" channel="TVRI">
+    <title lang="id">Belajar Dari Rumah</title>
+  </programme>
+  <programme start="20210323093000 +0700" stop="20210323100000 +0700" channel="TVRI">
+    <title lang="id">Belajar Dari Rumah</title>
+  </programme>
+  <programme start="20210323100000 +0700" stop="20210323103000 +0700" channel="TVRI">
+    <title lang="id">Belajar Dari Rumah</title>
+  </programme>
+  <programme start="20210323103000 +0700" stop="20210323110000 +0700" channel="TVRI">
+    <title lang="id">Belajar Dari Rumah</title>
+  </programme>
+  <programme start="20210323110000 +0700" stop="20210323110300 +0700" channel="TVRI">
+    <title lang="id">Info Terkini</title>
+  </programme>
+  <programme start="20210323110300 +0700" stop="20210323113000 +0700" channel="TVRI">
+    <title lang="id">Belajar Dari Rumah</title>
+  </programme>
+  <programme start="20210323113000 +0700" stop="20210323120000 +0700" channel="TVRI">
+    <title lang="id">Inspirasi Indonesia</title>
+  </programme>
+  <programme start="20210323120000 +0700" stop="20210323130000 +0700" channel="TVRI">
+    <title lang="id">Klik Indonesia Siang</title>
+  </programme>
+  <programme start="20210323130000 +0700" stop="20210323133000 +0700" channel="TVRI">
+    <title lang="id">Pesona Indonesia</title>
+  </programme>
+  <programme start="20210323133000 +0700" stop="20210323140000 +0700" channel="TVRI">
+    <title lang="id">Jurnal Ekonomi</title>
+  </programme>
+  <programme start="20210323140000 +0700" stop="20210323140300 +0700" channel="TVRI">
+    <title lang="id">Info Terkini</title>
+  </programme>
+  <programme start="20210323140300 +0700" stop="20210323150000 +0700" channel="TVRI">
+    <title lang="id">Indonesia Sehat</title>
+  </programme>
+  <programme start="20210323150000 +0700" stop="20210323150300 +0700" channel="TVRI">
+    <title lang="id">Info Terkini</title>
+  </programme>
+  <programme start="20210323150300 +0700" stop="20210323160000 +0700" channel="TVRI">
+    <title lang="id">Buah Hatiku Sayang</title>
+  </programme>
+  <programme start="20210323160000 +0700" stop="20210323170000 +0700" channel="TVRI">
+    <title lang="id">Info COVID 19 Terkini</title>
+  </programme>
+  <programme start="20210323170000 +0700" stop="20210323173000 +0700" channel="TVRI">
+    <title lang="id">Mimbar Agama Protestan</title>
+  </programme>
+  <programme start="20210323173000 +0700" stop="20210323180000 +0700" channel="TVRI">
+    <title lang="id">English News Service</title>
+  </programme>
+  <programme start="20210323180000 +0700" stop="20210323190000 +0700" channel="TVRI">
+    <title lang="id">Klik Indonesia Malam</title>
+  </programme>
+  <programme start="20210323190000 +0700" stop="20210323200000 +0700" channel="TVRI">
+    <title lang="id">Indonesia Bicara</title>
+  </programme>
+  <programme start="20210323200000 +0700" stop="20210323200300 +0700" channel="TVRI">
+    <title lang="id">Info Terkini</title>
+  </programme>
+  <programme start="20210323200300 +0700" stop="20210323210000 +0700" channel="TVRI">
+    <title lang="id">Musik Indonesia</title>
+  </programme>
+  <programme start="20210323210000 +0700" stop="20210323213000 +0700" channel="TVRI">
+    <title lang="id">Dunia Dalam Berita</title>
+  </programme>
+  <programme start="20210323213000 +0700" stop="20210323220000 +0700" channel="TVRI">
+    <title lang="id">Pesona Indonesia</title>
+  </programme>
+  <programme start="20210323220000 +0700" stop="20210323223000 +0700" channel="TVRI">
+    <title lang="id">Spirit</title>
+  </programme>
+  <programme start="20210323223000 +0700" stop="20210323233000 +0700" channel="TVRI">
+    <title lang="id">Warung Kopi Pasti Gerrr</title>
+  </programme>
+  <programme start="20210323233000 +0700" stop="20210324000000 +0700" channel="TVRI">
+    <title lang="id">Inspirasi Indonesia</title>
   </programme>
   <programme start="20210316003000 +0700" stop="20210316023000 +0700" channel="Net TV">
     <title lang="id">Waktu Indonesia Bercanda</title>
@@ -6402,71 +6882,41 @@
   <programme start="20210322220000 +0700" stop="20210323000000 +0700" channel="Net TV">
     <title lang="id">NET TV</title>
   </programme>
-  <programme start="20210315130500 +0700" stop="20210315140000 +0700" channel="Berita Satu">
-    <title lang="id">Lunch Talk</title>
+  <programme start="20210323000000 +0700" stop="20210323020000 +0700" channel="Net TV">
+    <title lang="id">NET TV</title>
   </programme>
-  <programme start="20210315140000 +0700" stop="20210315140500 +0700" channel="Berita Satu">
-    <title lang="id">News Update</title>
+  <programme start="20210323020000 +0700" stop="20210323040000 +0700" channel="Net TV">
+    <title lang="id">NET TV</title>
   </programme>
-  <programme start="20210315140500 +0700" stop="20210315143000 +0700" channel="Berita Satu">
-    <title lang="id">Fakta Data</title>
+  <programme start="20210323040000 +0700" stop="20210323060000 +0700" channel="Net TV">
+    <title lang="id">NET TV</title>
   </programme>
-  <programme start="20210315143000 +0700" stop="20210315150000 +0700" channel="Berita Satu">
-    <title lang="id">Closing Market</title>
+  <programme start="20210323060000 +0700" stop="20210323080000 +0700" channel="Net TV">
+    <title lang="id">NET TV</title>
   </programme>
-  <programme start="20210315150000 +0700" stop="20210315150500 +0700" channel="Berita Satu">
-    <title lang="id">News Update</title>
+  <programme start="20210323080000 +0700" stop="20210323100000 +0700" channel="Net TV">
+    <title lang="id">NET TV</title>
   </programme>
-  <programme start="20210315150500 +0700" stop="20210315153000 +0700" channel="Berita Satu">
-    <title lang="id">Closing Market</title>
+  <programme start="20210323100000 +0700" stop="20210323120000 +0700" channel="Net TV">
+    <title lang="id">NET TV</title>
   </programme>
-  <programme start="20210315153000 +0700" stop="20210315160000 +0700" channel="Berita Satu">
-    <title lang="id">New Normal</title>
+  <programme start="20210323120000 +0700" stop="20210323140000 +0700" channel="Net TV">
+    <title lang="id">NET TV</title>
   </programme>
-  <programme start="20210315160000 +0700" stop="20210315160500 +0700" channel="Berita Satu">
-    <title lang="id">News Update</title>
+  <programme start="20210323140000 +0700" stop="20210323160000 +0700" channel="Net TV">
+    <title lang="id">NET TV</title>
   </programme>
-  <programme start="20210315160500 +0700" stop="20210315163000 +0700" channel="Berita Satu">
-    <title lang="id">New Normal</title>
+  <programme start="20210323160000 +0700" stop="20210323180000 +0700" channel="Net TV">
+    <title lang="id">NET TV</title>
   </programme>
-  <programme start="20210315163000 +0700" stop="20210315180000 +0700" channel="Berita Satu">
-    <title lang="id">Prime Time</title>
+  <programme start="20210323180000 +0700" stop="20210323200000 +0700" channel="Net TV">
+    <title lang="id">NET TV</title>
   </programme>
-  <programme start="20210315180000 +0700" stop="20210315180500 +0700" channel="Berita Satu">
-    <title lang="id">News Update</title>
+  <programme start="20210323200000 +0700" stop="20210323220000 +0700" channel="Net TV">
+    <title lang="id">NET TV</title>
   </programme>
-  <programme start="20210315180500 +0700" stop="20210315190000 +0700" channel="Berita Satu">
-    <title lang="id">Connect 360</title>
-  </programme>
-  <programme start="20210315190000 +0700" stop="20210315190500 +0700" channel="Berita Satu">
-    <title lang="id">News Update</title>
-  </programme>
-  <programme start="20210315190500 +0700" stop="20210315193000 +0700" channel="Berita Satu">
-    <title lang="id">Business Round Up</title>
-  </programme>
-  <programme start="20210315193000 +0700" stop="20210315200000 +0700" channel="Berita Satu">
-    <title lang="id">News Buzz</title>
-  </programme>
-  <programme start="20210315200000 +0700" stop="20210315200500 +0700" channel="Berita Satu">
-    <title lang="id">News Update</title>
-  </programme>
-  <programme start="20210315200500 +0700" stop="20210315210000 +0700" channel="Berita Satu">
-    <title lang="id">Green Talk</title>
-  </programme>
-  <programme start="20210315210000 +0700" stop="20210315210500 +0700" channel="Berita Satu">
-    <title lang="id">News Update</title>
-  </programme>
-  <programme start="20210315210500 +0700" stop="20210315223000 +0700" channel="Berita Satu">
-    <title lang="id">Prime Time</title>
-  </programme>
-  <programme start="20210315223000 +0700" stop="20210315230000 +0700" channel="Berita Satu">
-    <title lang="id">Fakta Data</title>
-  </programme>
-  <programme start="20210315230000 +0700" stop="20210316000000 +0700" channel="Berita Satu">
-    <title lang="id">BeritaSatu Highlights</title>
-  </programme>
-  <programme start="20210316000000 +0700" stop="20210316003000 +0700" channel="Berita Satu">
-    <title lang="id">People &amp; Inspiration</title>
+  <programme start="20210323220000 +0700" stop="20210324000000 +0700" channel="Net TV">
+    <title lang="id">NET TV</title>
   </programme>
   <programme start="20210316003000 +0700" stop="20210316020000 +0700" channel="Berita Satu">
     <title lang="id">Prime Time</title>
@@ -7383,41 +7833,137 @@
   <programme start="20210322230000 +0700" stop="20210323000000 +0700" channel="Berita Satu">
     <title lang="id">BeritaSatu Highlights</title>
   </programme>
-  <programme start="20210315130000 +0700" stop="20210315140000 +0700" channel="Jak TV">
-    <title lang="id">O Shop</title>
+  <programme start="20210323000000 +0700" stop="20210323003000 +0700" channel="Berita Satu">
+    <title lang="id">People &amp; Inspiration</title>
   </programme>
-  <programme start="20210315140000 +0700" stop="20210315150000 +0700" channel="Jak TV">
-    <title lang="id">Metropolis</title>
+  <programme start="20210323003000 +0700" stop="20210323020000 +0700" channel="Berita Satu">
+    <title lang="id">Prime Time</title>
   </programme>
-  <programme start="20210315150000 +0700" stop="20210315160000 +0700" channel="Jak TV">
-    <title lang="id">Berkah Shop</title>
+  <programme start="20210323020000 +0700" stop="20210323030000 +0700" channel="Berita Satu">
+    <title lang="id">Connect 360</title>
   </programme>
-  <programme start="20210315160000 +0700" stop="20210315170000 +0700" channel="Jak TV">
-    <title lang="id">Berkah Shop</title>
+  <programme start="20210323030000 +0700" stop="20210323040000 +0700" channel="Berita Satu">
+    <title lang="id">BeritaSatu Highlights</title>
   </programme>
-  <programme start="20210315170000 +0700" stop="20210315173000 +0700" channel="Jak TV">
-    <title lang="id">BNPB</title>
+  <programme start="20210323040000 +0700" stop="20210323050000 +0700" channel="Berita Satu">
+    <title lang="id">Creative Money</title>
   </programme>
-  <programme start="20210315173000 +0700" stop="20210315180000 +0700" channel="Jak TV">
-    <title lang="id">Inside</title>
+  <programme start="20210323050000 +0700" stop="20210323060000 +0700" channel="Berita Satu">
+    <title lang="id">BeritaSatu Highlights</title>
   </programme>
-  <programme start="20210315180000 +0700" stop="20210315190000 +0700" channel="Jak TV">
-    <title lang="id">News Room</title>
+  <programme start="20210323060000 +0700" stop="20210323070000 +0700" channel="Berita Satu">
+    <title lang="id">Good Morning Jakarta</title>
   </programme>
-  <programme start="20210315190000 +0700" stop="20210315200000 +0700" channel="Jak TV">
-    <title lang="id">Meet The VVIP</title>
+  <programme start="20210323070000 +0700" stop="20210323070500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
   </programme>
-  <programme start="20210315200000 +0700" stop="20210315210000 +0700" channel="Jak TV">
-    <title lang="id">MNC Shop</title>
+  <programme start="20210323070500 +0700" stop="20210323080000 +0700" channel="Berita Satu">
+    <title lang="id">Good Morning Jakarta</title>
   </programme>
-  <programme start="20210315210000 +0700" stop="20210315220000 +0700" channel="Jak TV">
-    <title lang="id">Curcol Kuy</title>
+  <programme start="20210323080000 +0700" stop="20210323080500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210315230000 +0700" channel="Jak TV">
-    <title lang="id">Kabar Misteri</title>
+  <programme start="20210323080500 +0700" stop="20210323083000 +0700" channel="Berita Satu">
+    <title lang="id">Business Round Up</title>
   </programme>
-  <programme start="20210315230000 +0700" stop="20210316000000 +0700" channel="Jak TV">
-    <title lang="id">News Room</title>
+  <programme start="20210323083000 +0700" stop="20210323090000 +0700" channel="Berita Satu">
+    <title lang="id">IDX Opening Bell</title>
+  </programme>
+  <programme start="20210323090000 +0700" stop="20210323090500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210323090500 +0700" stop="20210323093000 +0700" channel="Berita Satu">
+    <title lang="id">IDX Opening Bell</title>
+  </programme>
+  <programme start="20210323093000 +0700" stop="20210323100000 +0700" channel="Berita Satu">
+    <title lang="id">Indepth</title>
+  </programme>
+  <programme start="20210323100000 +0700" stop="20210323100500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210323100500 +0700" stop="20210323103000 +0700" channel="Berita Satu">
+    <title lang="id">Morning Talk</title>
+  </programme>
+  <programme start="20210323103000 +0700" stop="20210323110000 +0700" channel="Berita Satu">
+    <title lang="id">Indepth</title>
+  </programme>
+  <programme start="20210323110000 +0700" stop="20210323110500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210323110500 +0700" stop="20210323120000 +0700" channel="Berita Satu">
+    <title lang="id">Zooming With Primus</title>
+  </programme>
+  <programme start="20210323120000 +0700" stop="20210323120500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210323120500 +0700" stop="20210323130000 +0700" channel="Berita Satu">
+    <title lang="id">News On The Spot</title>
+  </programme>
+  <programme start="20210323130000 +0700" stop="20210323130500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210323130500 +0700" stop="20210323140000 +0700" channel="Berita Satu">
+    <title lang="id">Lunch Talk</title>
+  </programme>
+  <programme start="20210323140000 +0700" stop="20210323140500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210323140500 +0700" stop="20210323143000 +0700" channel="Berita Satu">
+    <title lang="id">Indepth</title>
+  </programme>
+  <programme start="20210323143000 +0700" stop="20210323150000 +0700" channel="Berita Satu">
+    <title lang="id">Closing Market</title>
+  </programme>
+  <programme start="20210323150000 +0700" stop="20210323150500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210323150500 +0700" stop="20210323153000 +0700" channel="Berita Satu">
+    <title lang="id">Closing Market</title>
+  </programme>
+  <programme start="20210323153000 +0700" stop="20210323160000 +0700" channel="Berita Satu">
+    <title lang="id">CEO Talks</title>
+  </programme>
+  <programme start="20210323160000 +0700" stop="20210323160500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210323160500 +0700" stop="20210323163000 +0700" channel="Berita Satu">
+    <title lang="id">CEO Talks</title>
+  </programme>
+  <programme start="20210323163000 +0700" stop="20210323180000 +0700" channel="Berita Satu">
+    <title lang="id">Prime Time</title>
+  </programme>
+  <programme start="20210323180000 +0700" stop="20210323180500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210323180500 +0700" stop="20210323190000 +0700" channel="Berita Satu">
+    <title lang="id">Connect 360</title>
+  </programme>
+  <programme start="20210323190000 +0700" stop="20210323190500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210323190500 +0700" stop="20210323193000 +0700" channel="Berita Satu">
+    <title lang="id">SH+E Magazine</title>
+  </programme>
+  <programme start="20210323193000 +0700" stop="20210323200000 +0700" channel="Berita Satu">
+    <title lang="id">Fakta Data</title>
+  </programme>
+  <programme start="20210323200000 +0700" stop="20210323200500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210323200500 +0700" stop="20210323210000 +0700" channel="Berita Satu">
+    <title lang="id">Creative Money</title>
+  </programme>
+  <programme start="20210323210000 +0700" stop="20210323210500 +0700" channel="Berita Satu">
+    <title lang="id">News Update</title>
+  </programme>
+  <programme start="20210323210500 +0700" stop="20210323223000 +0700" channel="Berita Satu">
+    <title lang="id">Prime Time</title>
+  </programme>
+  <programme start="20210323223000 +0700" stop="20210323230000 +0700" channel="Berita Satu">
+    <title lang="id">News Buzz</title>
+  </programme>
+  <programme start="20210323230000 +0700" stop="20210324000000 +0700" channel="Berita Satu">
+    <title lang="id">BeritaSatu Highlights</title>
   </programme>
   <programme start="20210316000000 +0700" stop="20210316020000 +0700" channel="Jak TV">
     <title lang="id">Kabar Misteri</title>
@@ -8016,86 +8562,95 @@
   <programme start="20210322230000 +0700" stop="20210323000000 +0700" channel="Jak TV">
     <title lang="id">News Room</title>
   </programme>
-  <programme start="20210315132000 +0700" stop="20210315134900 +0700" channel="NHK World Premium">
-    <title lang="id">At Home With Venetia In Kyoto</title>
+  <programme start="20210323000000 +0700" stop="20210323010000 +0700" channel="Jak TV">
+    <title lang="id">Kabar Misteri</title>
   </programme>
-  <programme start="20210315134900 +0700" stop="20210315135000 +0700" channel="NHK World Premium">
-    <title lang="id">World Weather</title>
+  <programme start="20210323010000 +0700" stop="20210323020000 +0700" channel="Jak TV">
+    <title lang="id">Berkah Shop</title>
   </programme>
-  <programme start="20210315135000 +0700" stop="20210315135500 +0700" channel="NHK World Premium">
-    <title lang="id">PythagoraSwitch</title>
+  <programme start="20210323020000 +0700" stop="20210323030000 +0700" channel="Jak TV">
+    <title lang="id">Ayo shop</title>
   </programme>
-  <programme start="20210315135500 +0700" stop="20210315160000 +0700" channel="NHK World Premium">
-    <title lang="id">Sports Program</title>
+  <programme start="20210323030000 +0700" stop="20210323040000 +0700" channel="Jak TV">
+    <title lang="id">Ocydia</title>
   </programme>
-  <programme start="20210315160000 +0700" stop="20210315161100 +0700" channel="NHK World Premium">
-    <title lang="id">News</title>
+  <programme start="20210323040000 +0700" stop="20210323050000 +0700" channel="Jak TV">
+    <title lang="id">Rindu Tanah Suci</title>
   </programme>
-  <programme start="20210315161100 +0700" stop="20210315162100 +0700" channel="NHK World Premium">
-    <title lang="id">Fun With Japanese</title>
+  <programme start="20210323050000 +0700" stop="20210323053000 +0700" channel="Jak TV">
+    <title lang="id">Inside</title>
   </programme>
-  <programme start="20210315162100 +0700" stop="20210315163600 +0700" channel="NHK World Premium">
-    <title lang="id">Peek-A-Boo</title>
+  <programme start="20210323053000 +0700" stop="20210323060000 +0700" channel="Jak TV">
+    <title lang="id">Kiddie World</title>
   </programme>
-  <programme start="20210315163600 +0700" stop="20210315170000 +0700" channel="NHK World Premium">
-    <title lang="id">With Mother</title>
+  <programme start="20210323060000 +0700" stop="20210323070000 +0700" channel="Jak TV">
+    <title lang="id">News Room</title>
   </programme>
-  <programme start="20210315170000 +0700" stop="20210315173000 +0700" channel="NHK World Premium">
-    <title lang="id">NHK News 7</title>
+  <programme start="20210323070000 +0700" stop="20210323080000 +0700" channel="Jak TV">
+    <title lang="id">Ayo shop</title>
   </programme>
-  <programme start="20210315173000 +0700" stop="20210315184200 +0700" channel="NHK World Premium">
-    <title lang="id">Tsurube's Salute To Families</title>
+  <programme start="20210323080000 +0700" stop="20210323090000 +0700" channel="Jak TV">
+    <title lang="id">Berkah Shop</title>
   </programme>
-  <programme start="20210315184200 +0700" stop="20210315184500 +0700" channel="NHK World Premium">
-    <title lang="id">Mini Program</title>
+  <programme start="20210323090000 +0700" stop="20210323100000 +0700" channel="Jak TV">
+    <title lang="id">Berkah Shop</title>
   </programme>
-  <programme start="20210315184500 +0700" stop="20210315185000 +0700" channel="NHK World Premium">
-    <title lang="id">Child-Rearing Hints &amp; Tips</title>
+  <programme start="20210323100000 +0700" stop="20210323110000 +0700" channel="Jak TV">
+    <title lang="id">Lejel</title>
   </programme>
-  <programme start="20210315185000 +0700" stop="20210315185700 +0700" channel="NHK World Premium">
-    <title lang="id">Design Ah!</title>
+  <programme start="20210323110000 +0700" stop="20210323113000 +0700" channel="Jak TV">
+    <title lang="id">Animal Action</title>
   </programme>
-  <programme start="20210315185700 +0700" stop="20210315190000 +0700" channel="NHK World Premium">
-    <title lang="id">World Weather</title>
+  <programme start="20210323113000 +0700" stop="20210323120000 +0700" channel="Jak TV">
+    <title lang="id">Kiddie World</title>
   </programme>
-  <programme start="20210315190000 +0700" stop="20210315200000 +0700" channel="NHK World Premium">
-    <title lang="id">News Watch 9</title>
+  <programme start="20210323120000 +0700" stop="20210323123000 +0700" channel="Jak TV">
+    <title lang="id">BNPB</title>
   </programme>
-  <programme start="20210315200000 +0700" stop="20210315204500 +0700" channel="NHK World Premium">
-    <title lang="id">True Life Turnaround Stories</title>
+  <programme start="20210323123000 +0700" stop="20210323130000 +0700" channel="Jak TV">
+    <title lang="id">Inside</title>
   </programme>
-  <programme start="20210315204500 +0700" stop="20210315211500 +0700" channel="NHK World Premium">
-    <title lang="id">Stories</title>
+  <programme start="20210323130000 +0700" stop="20210323140000 +0700" channel="Jak TV">
+    <title lang="id">O Shop</title>
   </programme>
-  <programme start="20210315211500 +0700" stop="20210315213000 +0700" channel="NHK World Premium">
-    <title lang="id">News Today</title>
+  <programme start="20210323140000 +0700" stop="20210323150000 +0700" channel="Jak TV">
+    <title lang="id">Curcol Kuy</title>
   </programme>
-  <programme start="20210315213000 +0700" stop="20210315221000 +0700" channel="NHK World Premium">
-    <title lang="id">International News Report 2021</title>
+  <programme start="20210323150000 +0700" stop="20210323160000 +0700" channel="Jak TV">
+    <title lang="id">Berkah Shop</title>
   </programme>
-  <programme start="20210315221000 +0700" stop="20210315225300 +0700" channel="NHK World Premium">
-    <title lang="id">World Weather</title>
+  <programme start="20210323160000 +0700" stop="20210323170000 +0700" channel="Jak TV">
+    <title lang="id">Berkah Shop</title>
   </programme>
-  <programme start="20210315225300 +0700" stop="20210315225500 +0700" channel="NHK World Premium">
-    <title lang="id">Mini Program</title>
+  <programme start="20210323170000 +0700" stop="20210323173000 +0700" channel="Jak TV">
+    <title lang="id">BNPB</title>
   </programme>
-  <programme start="20210315225500 +0700" stop="20210315230000 +0700" channel="NHK World Premium">
-    <title lang="id">Songs For Everyone</title>
+  <programme start="20210323173000 +0700" stop="20210323180000 +0700" channel="Jak TV">
+    <title lang="id">Inside</title>
   </programme>
-  <programme start="20210315230000 +0700" stop="20210315233000 +0700" channel="NHK World Premium">
-    <title lang="id">Science Zero</title>
+  <programme start="20210323180000 +0700" stop="20210323190000 +0700" channel="Jak TV">
+    <title lang="id">News Room</title>
   </programme>
-  <programme start="20210315233000 +0700" stop="20210316000000 +0700" channel="NHK World Premium">
-    <title lang="id">Soulful Bonfire</title>
+  <programme start="20210323190000 +0700" stop="20210323193000 +0700" channel="Jak TV">
+    <title lang="id">Animal Action</title>
   </programme>
-  <programme start="20210316000000 +0700" stop="20210316000500 +0700" channel="NHK World Premium">
-    <title lang="id">Great East Japan Earthquake</title>
+  <programme start="20210323193000 +0700" stop="20210323200000 +0700" channel="Jak TV">
+    <title lang="id">Kiddie World</title>
   </programme>
-  <programme start="20210316000500 +0700" stop="20210316001000 +0700" channel="NHK World Premium">
-    <title lang="id">Exercise For Everyone</title>
+  <programme start="20210323200000 +0700" stop="20210323210000 +0700" channel="Jak TV">
+    <title lang="id">MNC Shop</title>
   </programme>
-  <programme start="20210316001000 +0700" stop="20210316002500 +0700" channel="NHK World Premium">
-    <title lang="id">Health For Today</title>
+  <programme start="20210323210000 +0700" stop="20210323213000 +0700" channel="Jak TV">
+    <title lang="id">Ketok Palu</title>
+  </programme>
+  <programme start="20210323213000 +0700" stop="20210323220000 +0700" channel="Jak TV">
+    <title lang="id">Mirror Story</title>
+  </programme>
+  <programme start="20210323220000 +0700" stop="20210323230000 +0700" channel="Jak TV">
+    <title lang="id">Kabar Misteri</title>
+  </programme>
+  <programme start="20210323230000 +0700" stop="20210324000000 +0700" channel="Jak TV">
+    <title lang="id">News Room</title>
   </programme>
   <programme start="20210316002500 +0700" stop="20210316005000 +0700" channel="NHK World Premium">
     <title lang="id">Today's Menu</title>
@@ -9333,47 +9888,182 @@
   <programme start="20210322233000 +0700" stop="20210323000000 +0700" channel="NHK World Premium">
     <title lang="id">Soulful Bonfire</title>
   </programme>
-  <programme start="20210315130000 +0700" stop="20210315141500 +0700" channel="WAKUWAKU JAPAN">
-    <title lang="id">Good Doctor</title>
+  <programme start="20210323000000 +0700" stop="20210323000500 +0700" channel="NHK World Premium">
+    <title lang="id">Great East Japan Earthquake</title>
   </programme>
-  <programme start="20210315141500 +0700" stop="20210315143000 +0700" channel="WAKUWAKU JAPAN">
-    <title lang="id">Think Like A Crow!</title>
+  <programme start="20210323000500 +0700" stop="20210323001000 +0700" channel="NHK World Premium">
+    <title lang="id">Exercise For Everyone</title>
   </programme>
-  <programme start="20210315143000 +0700" stop="20210315150000 +0700" channel="WAKUWAKU JAPAN">
-    <title lang="id">Japan In Motion</title>
+  <programme start="20210323001000 +0700" stop="20210323002500 +0700" channel="NHK World Premium">
+    <title lang="id">Health For Today</title>
   </programme>
-  <programme start="20210315150000 +0700" stop="20210315170000 +0700" channel="WAKUWAKU JAPAN">
-    <title lang="id">The Before &amp; After Spc.</title>
+  <programme start="20210323002500 +0700" stop="20210323005000 +0700" channel="NHK World Premium">
+    <title lang="id">Today's Menu</title>
   </programme>
-  <programme start="20210315170000 +0700" stop="20210315173000 +0700" channel="WAKUWAKU JAPAN">
-    <title lang="id">Enjoy Japan!: Food...</title>
+  <programme start="20210323005000 +0700" stop="20210323005500 +0700" channel="NHK World Premium">
+    <title lang="id">Cooking For Beginners</title>
   </programme>
-  <programme start="20210315173000 +0700" stop="20210315180000 +0700" channel="WAKUWAKU JAPAN">
-    <title lang="id">Enjoy Japan!: Food...</title>
+  <programme start="20210323005500 +0700" stop="20210323010000 +0700" channel="NHK World Premium">
+    <title lang="id">Everyday Tips</title>
   </programme>
-  <programme start="20210315180000 +0700" stop="20210315190000 +0700" channel="WAKUWAKU JAPAN">
-    <title lang="id">DanShari: Dispose</title>
+  <programme start="20210323010000 +0700" stop="20210323011500 +0700" channel="NHK World Premium">
+    <title lang="id">News Today</title>
   </programme>
-  <programme start="20210315190000 +0700" stop="20210315200000 +0700" channel="WAKUWAKU JAPAN">
-    <title lang="id">VS Arashi</title>
+  <programme start="20210323011500 +0700" stop="20210323012500 +0700" channel="NHK World Premium">
+    <title lang="id">News Commentary</title>
   </programme>
-  <programme start="20210315200000 +0700" stop="20210315210000 +0700" channel="WAKUWAKU JAPAN">
-    <title lang="id">Our Sister's Soulmate</title>
+  <programme start="20210323012500 +0700" stop="20210323013000 +0700" channel="NHK World Premium">
+    <title lang="id">World Weather</title>
   </programme>
-  <programme start="20210315210000 +0700" stop="20210315220000 +0700" channel="WAKUWAKU JAPAN">
-    <title lang="id">I'm Taking The Day Off</title>
+  <programme start="20210323013000 +0700" stop="20210323020000 +0700" channel="NHK World Premium">
+    <title lang="id">100 Beautiful Mountains Of JPN</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210315223000 +0700" channel="WAKUWAKU JAPAN">
-    <title lang="id">What's Wrong With...</title>
+  <programme start="20210323020000 +0700" stop="20210323023000 +0700" channel="NHK World Premium">
+    <title lang="id">At Home With Venetia In Kyoto</title>
   </programme>
-  <programme start="20210315223000 +0700" stop="20210315230000 +0700" channel="WAKUWAKU JAPAN">
-    <title lang="id">The Secret Lives Of...</title>
+  <programme start="20210323023000 +0700" stop="20210323025400 +0700" channel="NHK World Premium">
+    <title lang="id">Sports Program</title>
   </programme>
-  <programme start="20210315230000 +0700" stop="20210315235000 +0700" channel="WAKUWAKU JAPAN">
-    <title lang="id">Sweet Kiss Bitter Kiss</title>
+  <programme start="20210323025400 +0700" stop="20210323030000 +0700" channel="NHK World Premium">
+    <title lang="id">World Music Album</title>
   </programme>
-  <programme start="20210315235000 +0700" stop="20210316000000 +0700" channel="WAKUWAKU JAPAN">
-    <title lang="id">Japan Endless Discovery</title>
+  <programme start="20210323030000 +0700" stop="20210323032400 +0700" channel="NHK World Premium">
+    <title lang="id">With Mother</title>
+  </programme>
+  <programme start="20210323032400 +0700" stop="20210323033900 +0700" channel="NHK World Premium">
+    <title lang="id">Kid's Discovery</title>
+  </programme>
+  <programme start="20210323033900 +0700" stop="20210323034900 +0700" channel="NHK World Premium">
+    <title lang="id">Chatty Jay's Sundry Shop</title>
+  </programme>
+  <programme start="20210323034900 +0700" stop="20210323035900 +0700" channel="NHK World Premium">
+    <title lang="id">Go! Go! Cook R'n</title>
+  </programme>
+  <programme start="20210323035900 +0700" stop="20210323040000 +0700" channel="NHK World Premium">
+    <title lang="id">World Weather</title>
+  </programme>
+  <programme start="20210323040000 +0700" stop="20210323060000 +0700" channel="NHK World Premium">
+    <title lang="id">News: Good Morning, Japan</title>
+  </programme>
+  <programme start="20210323060000 +0700" stop="20210323061500 +0700" channel="NHK World Premium">
+    <title lang="id">Ochoyan</title>
+  </programme>
+  <programme start="20210323061500 +0700" stop="20210323075500 +0700" channel="NHK World Premium">
+    <title lang="id">Asaichi</title>
+  </programme>
+  <programme start="20210323075500 +0700" stop="20210323080000 +0700" channel="NHK World Premium">
+    <title lang="id">Mini Program</title>
+  </programme>
+  <programme start="20210323080000 +0700" stop="20210323091700 +0700" channel="NHK World Premium">
+    <title lang="id">Mini Program</title>
+  </programme>
+  <programme start="20210323091700 +0700" stop="20210323094800 +0700" channel="NHK World Premium">
+    <title lang="id">Document 72 Hours</title>
+  </programme>
+  <programme start="20210323094800 +0700" stop="20210323095800 +0700" channel="NHK World Premium">
+    <title lang="id">Points At Issue</title>
+  </programme>
+  <programme start="20210323095800 +0700" stop="20210323100000 +0700" channel="NHK World Premium">
+    <title lang="id">World Weather</title>
+  </programme>
+  <programme start="20210323100000 +0700" stop="20210323102000 +0700" channel="NHK World Premium">
+    <title lang="id">News</title>
+  </programme>
+  <programme start="20210323102000 +0700" stop="20210323104500 +0700" channel="NHK World Premium">
+    <title lang="id">Bento Expo</title>
+  </programme>
+  <programme start="20210323104500 +0700" stop="20210323110000 +0700" channel="NHK World Premium">
+    <title lang="id">Ochoyan</title>
+  </programme>
+  <programme start="20210323110000 +0700" stop="20210323112500 +0700" channel="NHK World Premium">
+    <title lang="id">Hobbies: Sparkle Your Life!</title>
+  </programme>
+  <programme start="20210323112500 +0700" stop="20210323115000 +0700" channel="NHK World Premium">
+    <title lang="id">Tanka Poetry</title>
+  </programme>
+  <programme start="20210323115000 +0700" stop="20210323120000 +0700" channel="NHK World Premium">
+    <title lang="id">Useful English Phrases For...</title>
+  </programme>
+  <programme start="20210323120000 +0700" stop="20210323122500 +0700" channel="NHK World Premium">
+    <title lang="id">Gretel's Magical Oven</title>
+  </programme>
+  <programme start="20210323122500 +0700" stop="20210323125500 +0700" channel="NHK World Premium">
+    <title lang="id">J-Melo</title>
+  </programme>
+  <programme start="20210323125500 +0700" stop="20210323130000 +0700" channel="NHK World Premium">
+    <title lang="id">World Music Album</title>
+  </programme>
+  <programme start="20210323130000 +0700" stop="20210323131000 +0700" channel="NHK World Premium">
+    <title lang="id">Let's Enjoy English With Orton</title>
+  </programme>
+  <programme start="20210323131000 +0700" stop="20210323132000 +0700" channel="NHK World Premium">
+    <title lang="id">NHK News</title>
+  </programme>
+  <programme start="20210323132000 +0700" stop="20210323134900 +0700" channel="NHK World Premium">
+    <title lang="id">Child-Rearing Hints &amp; Tips</title>
+  </programme>
+  <programme start="20210323134900 +0700" stop="20210323135000 +0700" channel="NHK World Premium">
+    <title lang="id">World Weather</title>
+  </programme>
+  <programme start="20210323135000 +0700" stop="20210323135500 +0700" channel="NHK World Premium">
+    <title lang="id">PythagoraSwitch</title>
+  </programme>
+  <programme start="20210323135500 +0700" stop="20210323160000 +0700" channel="NHK World Premium">
+    <title lang="id">Sports Program</title>
+  </programme>
+  <programme start="20210323160000 +0700" stop="20210323161100 +0700" channel="NHK World Premium">
+    <title lang="id">News</title>
+  </programme>
+  <programme start="20210323161100 +0700" stop="20210323162100 +0700" channel="NHK World Premium">
+    <title lang="id">Fun With Japanese</title>
+  </programme>
+  <programme start="20210323162100 +0700" stop="20210323163600 +0700" channel="NHK World Premium">
+    <title lang="id">Peek-A-Boo</title>
+  </programme>
+  <programme start="20210323163600 +0700" stop="20210323170000 +0700" channel="NHK World Premium">
+    <title lang="id">With Mother</title>
+  </programme>
+  <programme start="20210323170000 +0700" stop="20210323184200 +0700" channel="NHK World Premium">
+    <title lang="id">NHK News 7</title>
+  </programme>
+  <programme start="20210323184200 +0700" stop="20210323184500 +0700" channel="NHK World Premium">
+    <title lang="id">Mini Program</title>
+  </programme>
+  <programme start="20210323184500 +0700" stop="20210323185000 +0700" channel="NHK World Premium">
+    <title lang="id">Child-Rearing Hints &amp; Tips</title>
+  </programme>
+  <programme start="20210323185000 +0700" stop="20210323185700 +0700" channel="NHK World Premium">
+    <title lang="id">Design Ah!</title>
+  </programme>
+  <programme start="20210323185700 +0700" stop="20210323190000 +0700" channel="NHK World Premium">
+    <title lang="id">World Weather</title>
+  </programme>
+  <programme start="20210323190000 +0700" stop="20210323211500 +0700" channel="NHK World Premium">
+    <title lang="id">News Watch 9</title>
+  </programme>
+  <programme start="20210323211500 +0700" stop="20210323213000 +0700" channel="NHK World Premium">
+    <title lang="id">News Today</title>
+  </programme>
+  <programme start="20210323213000 +0700" stop="20210323221000 +0700" channel="NHK World Premium">
+    <title lang="id">International News Report 2021</title>
+  </programme>
+  <programme start="20210323221000 +0700" stop="20210323221500 +0700" channel="NHK World Premium">
+    <title lang="id">World Weather</title>
+  </programme>
+  <programme start="20210323221500 +0700" stop="20210323225800 +0700" channel="NHK World Premium">
+    <title lang="id">Fountain Of Ancient Wisdom</title>
+  </programme>
+  <programme start="20210323225800 +0700" stop="20210323230000 +0700" channel="NHK World Premium">
+    <title lang="id">Mini Program</title>
+  </programme>
+  <programme start="20210323230000 +0700" stop="20210323230500 +0700" channel="NHK World Premium">
+    <title lang="id">Songs For Everyone</title>
+  </programme>
+  <programme start="20210323230500 +0700" stop="20210323233000 +0700" channel="NHK World Premium">
+    <title lang="id">Gretel's Magical Oven</title>
+  </programme>
+  <programme start="20210323233000 +0700" stop="20210324000000 +0700" channel="NHK World Premium">
+    <title lang="id">A Solo Life On Friday</title>
   </programme>
   <programme start="20210316000000 +0700" stop="20210316010000 +0700" channel="WAKUWAKU JAPAN">
     <title lang="id">VS Arashi</title>
@@ -9945,23 +10635,101 @@
   <programme start="20210322231000 +0700" stop="20210323000000 +0700" channel="WAKUWAKU JAPAN">
     <title lang="id">Sweet Kiss Bitter...</title>
   </programme>
-  <programme start="20210315130000 +0700" stop="20210315160000 +0700" channel="CNBC">
-    <title lang="id">Squawk Box Europe</title>
+  <programme start="20210323000000 +0700" stop="20210323010000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">VS Arashi</title>
   </programme>
-  <programme start="20210315160000 +0700" stop="20210315170000 +0700" channel="CNBC">
-    <title lang="id">Worldwide Exchange</title>
+  <programme start="20210323010000 +0700" stop="20210323021000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">I'm Taking The Day Off</title>
   </programme>
-  <programme start="20210315170000 +0700" stop="20210315200000 +0700" channel="CNBC">
-    <title lang="id">Squawk Box US</title>
+  <programme start="20210323021000 +0700" stop="20210323023000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">Japan Endless Discovery</title>
   </programme>
-  <programme start="20210315200000 +0700" stop="20210315220000 +0700" channel="CNBC">
-    <title lang="id">Squawk On The Street</title>
+  <programme start="20210323023000 +0700" stop="20210323030000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">Enjoy Japan!: Food...</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210315230000 +0700" channel="CNBC">
-    <title lang="id">Squawk Alley US</title>
+  <programme start="20210323030000 +0700" stop="20210323033000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">What's Wrong With...</title>
   </programme>
-  <programme start="20210315230000 +0700" stop="20210316000000 +0700" channel="CNBC">
-    <title lang="id">Fast Money: Halftime Report</title>
+  <programme start="20210323033000 +0700" stop="20210323040000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">The Secret Lives Of...</title>
+  </programme>
+  <programme start="20210323040000 +0700" stop="20210323050000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">VS Arashi</title>
+  </programme>
+  <programme start="20210323050000 +0700" stop="20210323053000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">Enjoy Japan!: Food...</title>
+  </programme>
+  <programme start="20210323053000 +0700" stop="20210323060000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">Enjoy Japan!: Food...</title>
+  </programme>
+  <programme start="20210323060000 +0700" stop="20210323063000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">What's Wrong With...</title>
+  </programme>
+  <programme start="20210323063000 +0700" stop="20210323070000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">The Secret Lives Of...</title>
+  </programme>
+  <programme start="20210323070000 +0700" stop="20210323080000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">Tokyo Bachelors</title>
+  </programme>
+  <programme start="20210323080000 +0700" stop="20210323090000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">Panda Judges The World</title>
+  </programme>
+  <programme start="20210323090000 +0700" stop="20210323100000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">VS Arashi</title>
+  </programme>
+  <programme start="20210323100000 +0700" stop="20210323103000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">What's Wrong With...</title>
+  </programme>
+  <programme start="20210323103000 +0700" stop="20210323110000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">The Secret Lives Of...</title>
+  </programme>
+  <programme start="20210323110000 +0700" stop="20210323120000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">Tokyo Bachelors</title>
+  </programme>
+  <programme start="20210323120000 +0700" stop="20210323130000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">Panda Judges The World</title>
+  </programme>
+  <programme start="20210323130000 +0700" stop="20210323140000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">Sacred Monsters</title>
+  </programme>
+  <programme start="20210323140000 +0700" stop="20210323143000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">Enjoy Japan!: Food...</title>
+  </programme>
+  <programme start="20210323143000 +0700" stop="20210323150000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">Enjoy Japan!: Food...</title>
+  </programme>
+  <programme start="20210323150000 +0700" stop="20210323153000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">What's Wrong With...</title>
+  </programme>
+  <programme start="20210323153000 +0700" stop="20210323160000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">The Secret Lives Of...</title>
+  </programme>
+  <programme start="20210323160000 +0700" stop="20210323170000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">VS Arashi</title>
+  </programme>
+  <programme start="20210323170000 +0700" stop="20210323173000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">Enjoy Japan!: Food...</title>
+  </programme>
+  <programme start="20210323173000 +0700" stop="20210323180000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">Enjoy Japan!: Food...</title>
+  </programme>
+  <programme start="20210323180000 +0700" stop="20210323190000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">Tsukai TV Sukatto Japan</title>
+  </programme>
+  <programme start="20210323190000 +0700" stop="20210323200000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">Tokoro Japan</title>
+  </programme>
+  <programme start="20210323200000 +0700" stop="20210323210000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">Tokyo Bachelors</title>
+  </programme>
+  <programme start="20210323210000 +0700" stop="20210323220000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">Panda Judges The World</title>
+  </programme>
+  <programme start="20210323220000 +0700" stop="20210323230000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">Tsukai TV Sukatto Japan</title>
+  </programme>
+  <programme start="20210323230000 +0700" stop="20210324002000 +0700" channel="WAKUWAKU JAPAN">
+    <title lang="id">Sweet Kiss Bitter...</title>
   </programme>
   <programme start="20210316000000 +0700" stop="20210316010000 +0700" channel="CNBC">
     <title lang="id">The Exchange</title>
@@ -10341,71 +11109,50 @@
   <programme start="20210322230000 +0700" stop="20210323000000 +0700" channel="CNBC">
     <title lang="id">Fast Money: Halftime Report</title>
   </programme>
-  <programme start="20210315133000 +0700" stop="20210315140000 +0700" channel="CNN International">
-    <title lang="id">CNN Newsroom + World Sport</title>
+  <programme start="20210323000000 +0700" stop="20210323010000 +0700" channel="CNBC">
+    <title lang="id">The Exchange</title>
   </programme>
-  <programme start="20210315140000 +0700" stop="20210315143000 +0700" channel="CNN International">
-    <title lang="id">CNN Newsroom With R. Church</title>
+  <programme start="20210323010000 +0700" stop="20210323020000 +0700" channel="CNBC">
+    <title lang="id">Power Lunch</title>
   </programme>
-  <programme start="20210315143000 +0700" stop="20210315150000 +0700" channel="CNN International">
-    <title lang="id">CNN Newsroom With R. Church</title>
+  <programme start="20210323020000 +0700" stop="20210323040000 +0700" channel="CNBC">
+    <title lang="id">Closing Bell</title>
   </programme>
-  <programme start="20210315150000 +0700" stop="20210315153000 +0700" channel="CNN International">
-    <title lang="id">CNN Newsroom With R. Church</title>
+  <programme start="20210323040000 +0700" stop="20210323043000 +0700" channel="CNBC">
+    <title lang="id">Fast Money</title>
   </programme>
-  <programme start="20210315153000 +0700" stop="20210315160000 +0700" channel="CNN International">
-    <title lang="id">CNN Newsroom With R. Church</title>
+  <programme start="20210323043000 +0700" stop="20210323050000 +0700" channel="CNBC">
+    <title lang="id">Fast Money</title>
   </programme>
-  <programme start="20210315160000 +0700" stop="20210315163000 +0700" channel="CNN International">
-    <title lang="id">Early Start, Romans &amp; Jarrett</title>
+  <programme start="20210323050000 +0700" stop="20210323080000 +0700" channel="CNBC">
+    <title lang="id">Squawk Box Asia</title>
   </programme>
-  <programme start="20210315163000 +0700" stop="20210315170000 +0700" channel="CNN International">
-    <title lang="id">Early Start, Romans &amp; Jarrett</title>
+  <programme start="20210323080000 +0700" stop="20210323110000 +0700" channel="CNBC">
+    <title lang="id">Street Signs Asia</title>
   </programme>
-  <programme start="20210315170000 +0700" stop="20210315173000 +0700" channel="CNN International">
-    <title lang="id">New Day</title>
+  <programme start="20210323110000 +0700" stop="20210323120000 +0700" channel="CNBC">
+    <title lang="id">The News With Shepard Smith</title>
   </programme>
-  <programme start="20210315173000 +0700" stop="20210315180000 +0700" channel="CNN International">
-    <title lang="id">New Day</title>
+  <programme start="20210323120000 +0700" stop="20210323130000 +0700" channel="CNBC">
+    <title lang="id">Capital Connection</title>
   </programme>
-  <programme start="20210315180000 +0700" stop="20210315183000 +0700" channel="CNN International">
-    <title lang="id">New Day</title>
+  <programme start="20210323130000 +0700" stop="20210323160000 +0700" channel="CNBC">
+    <title lang="id">Squawk Box Europe</title>
   </programme>
-  <programme start="20210315183000 +0700" stop="20210315190000 +0700" channel="CNN International">
-    <title lang="id">New Day</title>
+  <programme start="20210323160000 +0700" stop="20210323170000 +0700" channel="CNBC">
+    <title lang="id">Worldwide Exchange</title>
   </programme>
-  <programme start="20210315190000 +0700" stop="20210315193000 +0700" channel="CNN International">
-    <title lang="id">New Day</title>
+  <programme start="20210323170000 +0700" stop="20210323200000 +0700" channel="CNBC">
+    <title lang="id">Squawk Box US</title>
   </programme>
-  <programme start="20210315193000 +0700" stop="20210315200000 +0700" channel="CNN International">
-    <title lang="id">World Sport</title>
+  <programme start="20210323200000 +0700" stop="20210323220000 +0700" channel="CNBC">
+    <title lang="id">Squawk On The Street</title>
   </programme>
-  <programme start="20210315200000 +0700" stop="20210315203000 +0700" channel="CNN International">
-    <title lang="id">First Move With J. Chatterley</title>
+  <programme start="20210323220000 +0700" stop="20210323230000 +0700" channel="CNBC">
+    <title lang="id">Squawk Alley US</title>
   </programme>
-  <programme start="20210315203000 +0700" stop="20210315210000 +0700" channel="CNN International">
-    <title lang="id">First Move With J. Chatterley</title>
-  </programme>
-  <programme start="20210315210000 +0700" stop="20210315213000 +0700" channel="CNN International">
-    <title lang="id">Connect The World</title>
-  </programme>
-  <programme start="20210315213000 +0700" stop="20210315220000 +0700" channel="CNN International">
-    <title lang="id">Connect World + World Sport</title>
-  </programme>
-  <programme start="20210315220000 +0700" stop="20210315223000 +0700" channel="CNN International">
-    <title lang="id">Connect The World</title>
-  </programme>
-  <programme start="20210315223000 +0700" stop="20210315230000 +0700" channel="CNN International">
-    <title lang="id">Connect The World</title>
-  </programme>
-  <programme start="20210315230000 +0700" stop="20210315233000 +0700" channel="CNN International">
-    <title lang="id">CNN Newsroom</title>
-  </programme>
-  <programme start="20210315233000 +0700" stop="20210316000000 +0700" channel="CNN International">
-    <title lang="id">CNN Newsroom</title>
-  </programme>
-  <programme start="20210316000000 +0700" stop="20210316003000 +0700" channel="CNN International">
-    <title lang="id">CNN Newsroom</title>
+  <programme start="20210323230000 +0700" stop="20210324000000 +0700" channel="CNBC">
+    <title lang="id">Fast Money: Halftime Report</title>
   </programme>
   <programme start="20210316003000 +0700" stop="20210316010000 +0700" channel="CNN International">
     <title lang="id">CNN Newsroom</title>
@@ -11418,68 +12165,149 @@
   <programme start="20210322233000 +0700" stop="20210323000000 +0700" channel="CNN International">
     <title lang="id">CNN Newsroom</title>
   </programme>
-  <programme start="20210315133000 +0700" stop="20210315140000 +0700" channel="BBC World News">
-    <title lang="id">World Business Report</title>
+  <programme start="20210323000000 +0700" stop="20210323003000 +0700" channel="CNN International">
+    <title lang="id">CNN Newsroom</title>
   </programme>
-  <programme start="20210315140000 +0700" stop="20210315143000 +0700" channel="BBC World News">
-    <title lang="id">BBC World News</title>
+  <programme start="20210323003000 +0700" stop="20210323010000 +0700" channel="CNN International">
+    <title lang="id">CNN Newsroom</title>
   </programme>
-  <programme start="20210315143000 +0700" stop="20210315150000 +0700" channel="BBC World News">
-    <title lang="id">Talking Business Asia</title>
+  <programme start="20210323010000 +0700" stop="20210323013000 +0700" channel="CNN International">
+    <title lang="id">CNN Newsroom</title>
   </programme>
-  <programme start="20210315150000 +0700" stop="20210315153000 +0700" channel="BBC World News">
-    <title lang="id">BBC World News</title>
+  <programme start="20210323013000 +0700" stop="20210323020000 +0700" channel="CNN International">
+    <title lang="id">CNN Newsroom</title>
   </programme>
-  <programme start="20210315153000 +0700" stop="20210315160000 +0700" channel="BBC World News">
-    <title lang="id">Our World:To The Moon &amp; Back</title>
+  <programme start="20210323020000 +0700" stop="20210323023000 +0700" channel="CNN International">
+    <title lang="id">Amanpour</title>
   </programme>
-  <programme start="20210315160000 +0700" stop="20210315163000 +0700" channel="BBC World News">
-    <title lang="id">BBC World News</title>
+  <programme start="20210323023000 +0700" stop="20210323030000 +0700" channel="CNN International">
+    <title lang="id">Amanpour</title>
   </programme>
-  <programme start="20210315163000 +0700" stop="20210315170000 +0700" channel="BBC World News">
-    <title lang="id">HARDtalk</title>
+  <programme start="20210323030000 +0700" stop="20210323033000 +0700" channel="CNN International">
+    <title lang="id">Quest Means Business</title>
   </programme>
-  <programme start="20210315170000 +0700" stop="20210315180000 +0700" channel="BBC World News">
-    <title lang="id">BBC News</title>
+  <programme start="20210323033000 +0700" stop="20210323040000 +0700" channel="CNN International">
+    <title lang="id">Quest Means Business</title>
   </programme>
-  <programme start="20210315180000 +0700" stop="20210315183000 +0700" channel="BBC World News">
-    <title lang="id">BBC World News</title>
+  <programme start="20210323040000 +0700" stop="20210323043000 +0700" channel="CNN International">
+    <title lang="id">Situation Room, Wolf Blitzer</title>
   </programme>
-  <programme start="20210315183000 +0700" stop="20210315190000 +0700" channel="BBC World News">
-    <title lang="id">Talking Business Asia</title>
+  <programme start="20210323043000 +0700" stop="20210323050000 +0700" channel="CNN International">
+    <title lang="id">Situation Room, Wolf Blitzer</title>
   </programme>
-  <programme start="20210315190000 +0700" stop="20210315191500 +0700" channel="BBC World News">
-    <title lang="id">BBC World News</title>
+  <programme start="20210323050000 +0700" stop="20210323053000 +0700" channel="CNN International">
+    <title lang="id">Situation Room, Wolf Blitzer</title>
   </programme>
-  <programme start="20210315191500 +0700" stop="20210315200000 +0700" channel="BBC World News">
-    <title lang="id">The Oscars: The Nominations</title>
+  <programme start="20210323053000 +0700" stop="20210323060000 +0700" channel="CNN International">
+    <title lang="id">Situation Room, Wolf Blitzer</title>
   </programme>
-  <programme start="20210315200000 +0700" stop="20210315203000 +0700" channel="BBC World News">
-    <title lang="id">BBC World News</title>
+  <programme start="20210323060000 +0700" stop="20210323063000 +0700" channel="CNN International">
+    <title lang="id">Erin Burnett OutFront</title>
   </programme>
-  <programme start="20210315203000 +0700" stop="20210315210000 +0700" channel="BBC World News">
-    <title lang="id">Worklife India</title>
+  <programme start="20210323063000 +0700" stop="20210323070000 +0700" channel="CNN International">
+    <title lang="id">Erin Burnett OutFront</title>
   </programme>
-  <programme start="20210315210000 +0700" stop="20210315213000 +0700" channel="BBC World News">
-    <title lang="id">BBC World News</title>
+  <programme start="20210323070000 +0700" stop="20210323073000 +0700" channel="CNN International">
+    <title lang="id">Anderson Cooper 360</title>
   </programme>
-  <programme start="20210315213000 +0700" stop="20210315220000 +0700" channel="BBC World News">
-    <title lang="id">BBC World News</title>
+  <programme start="20210323073000 +0700" stop="20210323080000 +0700" channel="CNN International">
+    <title lang="id">Anderson Cooper 360</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210315223000 +0700" channel="BBC World News">
-    <title lang="id">BBC World News</title>
+  <programme start="20210323080000 +0700" stop="20210323083000 +0700" channel="CNN International">
+    <title lang="id">CNN Special Report</title>
   </programme>
-  <programme start="20210315223000 +0700" stop="20210315230000 +0700" channel="BBC World News">
-    <title lang="id">HARDtalk</title>
+  <programme start="20210323083000 +0700" stop="20210323090000 +0700" channel="CNN International">
+    <title lang="id">CNN Special Report</title>
   </programme>
-  <programme start="20210315230000 +0700" stop="20210315233000 +0700" channel="BBC World News">
-    <title lang="id">BBC World News</title>
+  <programme start="20210323090000 +0700" stop="20210323093000 +0700" channel="CNN International">
+    <title lang="id">CNN Special Report</title>
   </programme>
-  <programme start="20210315233000 +0700" stop="20210316000000 +0700" channel="BBC World News">
-    <title lang="id">BBC World News</title>
+  <programme start="20210323093000 +0700" stop="20210323100000 +0700" channel="CNN International">
+    <title lang="id">CNN Special Report</title>
   </programme>
-  <programme start="20210316000000 +0700" stop="20210316003000 +0700" channel="BBC World News">
-    <title lang="id">BBC World News</title>
+  <programme start="20210323100000 +0700" stop="20210323103000 +0700" channel="CNN International">
+    <title lang="id">CNN Tonight With Don Lemon</title>
+  </programme>
+  <programme start="20210323103000 +0700" stop="20210323110000 +0700" channel="CNN International">
+    <title lang="id">CNN Tonight With Don Lemon</title>
+  </programme>
+  <programme start="20210323110000 +0700" stop="20210323113000 +0700" channel="CNN International">
+    <title lang="id">CNN Newsroom, John Vause</title>
+  </programme>
+  <programme start="20210323113000 +0700" stop="20210323120000 +0700" channel="CNN International">
+    <title lang="id">CNN Newsroom + World Sport</title>
+  </programme>
+  <programme start="20210323120000 +0700" stop="20210323123000 +0700" channel="CNN International">
+    <title lang="id">CNN Newsroom, John Vause</title>
+  </programme>
+  <programme start="20210323123000 +0700" stop="20210323130000 +0700" channel="CNN International">
+    <title lang="id">CNN Newsroom, John Vause</title>
+  </programme>
+  <programme start="20210323130000 +0700" stop="20210323133000 +0700" channel="CNN International">
+    <title lang="id">CNN Newsroom, Robyn Curnow</title>
+  </programme>
+  <programme start="20210323133000 +0700" stop="20210323140000 +0700" channel="CNN International">
+    <title lang="id">CNN Newsroom + World Sport</title>
+  </programme>
+  <programme start="20210323140000 +0700" stop="20210323143000 +0700" channel="CNN International">
+    <title lang="id">CNN Newsroom With R. Church</title>
+  </programme>
+  <programme start="20210323143000 +0700" stop="20210323150000 +0700" channel="CNN International">
+    <title lang="id">CNN Newsroom With R. Church</title>
+  </programme>
+  <programme start="20210323150000 +0700" stop="20210323153000 +0700" channel="CNN International">
+    <title lang="id">CNN Newsroom With R. Church</title>
+  </programme>
+  <programme start="20210323153000 +0700" stop="20210323160000 +0700" channel="CNN International">
+    <title lang="id">CNN Newsroom With R. Church</title>
+  </programme>
+  <programme start="20210323160000 +0700" stop="20210323163000 +0700" channel="CNN International">
+    <title lang="id">Early Start, Romans &amp; Jarrett</title>
+  </programme>
+  <programme start="20210323163000 +0700" stop="20210323170000 +0700" channel="CNN International">
+    <title lang="id">Early Start, Romans &amp; Jarrett</title>
+  </programme>
+  <programme start="20210323170000 +0700" stop="20210323173000 +0700" channel="CNN International">
+    <title lang="id">New Day</title>
+  </programme>
+  <programme start="20210323173000 +0700" stop="20210323180000 +0700" channel="CNN International">
+    <title lang="id">New Day</title>
+  </programme>
+  <programme start="20210323180000 +0700" stop="20210323183000 +0700" channel="CNN International">
+    <title lang="id">New Day</title>
+  </programme>
+  <programme start="20210323183000 +0700" stop="20210323190000 +0700" channel="CNN International">
+    <title lang="id">New Day</title>
+  </programme>
+  <programme start="20210323190000 +0700" stop="20210323193000 +0700" channel="CNN International">
+    <title lang="id">New Day</title>
+  </programme>
+  <programme start="20210323193000 +0700" stop="20210323200000 +0700" channel="CNN International">
+    <title lang="id">World Sport</title>
+  </programme>
+  <programme start="20210323200000 +0700" stop="20210323203000 +0700" channel="CNN International">
+    <title lang="id">First Move With J. Chatterley</title>
+  </programme>
+  <programme start="20210323203000 +0700" stop="20210323210000 +0700" channel="CNN International">
+    <title lang="id">First Move With J. Chatterley</title>
+  </programme>
+  <programme start="20210323210000 +0700" stop="20210323213000 +0700" channel="CNN International">
+    <title lang="id">Connect The World</title>
+  </programme>
+  <programme start="20210323213000 +0700" stop="20210323220000 +0700" channel="CNN International">
+    <title lang="id">Connect World + World Sport</title>
+  </programme>
+  <programme start="20210323220000 +0700" stop="20210323223000 +0700" channel="CNN International">
+    <title lang="id">Connect The World</title>
+  </programme>
+  <programme start="20210323223000 +0700" stop="20210323230000 +0700" channel="CNN International">
+    <title lang="id">Connect The World</title>
+  </programme>
+  <programme start="20210323230000 +0700" stop="20210323233000 +0700" channel="CNN International">
+    <title lang="id">CNN Newsroom</title>
+  </programme>
+  <programme start="20210323233000 +0700" stop="20210324000000 +0700" channel="CNN International">
+    <title lang="id">CNN Newsroom</title>
   </programme>
   <programme start="20210316003000 +0700" stop="20210316010000 +0700" channel="BBC World News">
     <title lang="id">Focus On Africa</title>
@@ -12597,50 +13425,188 @@
   <programme start="20210322235500 +0700" stop="20210323000000 +0700" channel="BBC World News">
     <title lang="id">Click</title>
   </programme>
-  <programme start="20210315133000 +0700" stop="20210315140000 +0700" channel="Channel [V]">
-    <title lang="id">Double Shot</title>
+  <programme start="20210323000000 +0700" stop="20210323003000 +0700" channel="BBC World News">
+    <title lang="id">BBC World News</title>
   </programme>
-  <programme start="20210315140000 +0700" stop="20210315150000 +0700" channel="Channel [V]">
-    <title lang="id">Loop</title>
+  <programme start="20210323003000 +0700" stop="20210323010000 +0700" channel="BBC World News">
+    <title lang="id">Focus On Africa</title>
   </programme>
-  <programme start="20210315150000 +0700" stop="20210315153000 +0700" channel="Channel [V]">
-    <title lang="id">The Playlist</title>
+  <programme start="20210323010000 +0700" stop="20210323013000 +0700" channel="BBC World News">
+    <title lang="id">BBC World News</title>
   </programme>
-  <programme start="20210315153000 +0700" stop="20210315160000 +0700" channel="Channel [V]">
-    <title lang="id">Top 5</title>
+  <programme start="20210323013000 +0700" stop="20210323020000 +0700" channel="BBC World News">
+    <title lang="id">HARDtalk</title>
   </programme>
-  <programme start="20210315160000 +0700" stop="20210315170000 +0700" channel="Channel [V]">
-    <title lang="id">VCD</title>
+  <programme start="20210323020000 +0700" stop="20210323023000 +0700" channel="BBC World News">
+    <title lang="id">Outside Source</title>
   </programme>
-  <programme start="20210315170000 +0700" stop="20210315173000 +0700" channel="Channel [V]">
-    <title lang="id">Double Shot</title>
+  <programme start="20210323023000 +0700" stop="20210323030000 +0700" channel="BBC World News">
+    <title lang="id">Outside Source</title>
   </programme>
-  <programme start="20210315173000 +0700" stop="20210315183000 +0700" channel="Channel [V]">
-    <title lang="id">XO</title>
+  <programme start="20210323030000 +0700" stop="20210323033000 +0700" channel="BBC World News">
+    <title lang="id">Outside Source</title>
   </programme>
-  <programme start="20210315183000 +0700" stop="20210315193000 +0700" channel="Channel [V]">
-    <title lang="id">Loop</title>
+  <programme start="20210323033000 +0700" stop="20210323035500 +0700" channel="BBC World News">
+    <title lang="id">Sport Today</title>
   </programme>
-  <programme start="20210315193000 +0700" stop="20210315200000 +0700" channel="Channel [V]">
-    <title lang="id">The Playlist</title>
+  <programme start="20210323035500 +0700" stop="20210323040000 +0700" channel="BBC World News">
+    <title lang="id">Click</title>
   </programme>
-  <programme start="20210315200000 +0700" stop="20210315203000 +0700" channel="Channel [V]">
-    <title lang="id">Top 5</title>
+  <programme start="20210323040000 +0700" stop="20210323043000 +0700" channel="BBC World News">
+    <title lang="id">BBC World News America</title>
   </programme>
-  <programme start="20210315203000 +0700" stop="20210315213000 +0700" channel="Channel [V]">
-    <title lang="id">VCD</title>
+  <programme start="20210323043000 +0700" stop="20210323050000 +0700" channel="BBC World News">
+    <title lang="id">BBC News With Katty &amp; Christian</title>
   </programme>
-  <programme start="20210315213000 +0700" stop="20210315220000 +0700" channel="Channel [V]">
-    <title lang="id">Double Shot</title>
+  <programme start="20210323050000 +0700" stop="20210323053000 +0700" channel="BBC World News">
+    <title lang="id">BBC World News</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210315230000 +0700" channel="Channel [V]">
-    <title lang="id">Loop</title>
+  <programme start="20210323053000 +0700" stop="20210323054500 +0700" channel="BBC World News">
+    <title lang="id">Asia Business Report</title>
   </programme>
-  <programme start="20210315230000 +0700" stop="20210315233000 +0700" channel="Channel [V]">
-    <title lang="id">The Playlist</title>
+  <programme start="20210323054500 +0700" stop="20210323055500 +0700" channel="BBC World News">
+    <title lang="id">Sport Today</title>
   </programme>
-  <programme start="20210315233000 +0700" stop="20210316000000 +0700" channel="Channel [V]">
-    <title lang="id">Top 5</title>
+  <programme start="20210323055500 +0700" stop="20210323060000 +0700" channel="BBC World News">
+    <title lang="id">Click</title>
+  </programme>
+  <programme start="20210323060000 +0700" stop="20210323063000 +0700" channel="BBC World News">
+    <title lang="id">BBC World News</title>
+  </programme>
+  <programme start="20210323063000 +0700" stop="20210323064500 +0700" channel="BBC World News">
+    <title lang="id">Asia Business Report</title>
+  </programme>
+  <programme start="20210323064500 +0700" stop="20210323065500 +0700" channel="BBC World News">
+    <title lang="id">Sport Today</title>
+  </programme>
+  <programme start="20210323065500 +0700" stop="20210323070000 +0700" channel="BBC World News">
+    <title lang="id">Click</title>
+  </programme>
+  <programme start="20210323070000 +0700" stop="20210323073000 +0700" channel="BBC World News">
+    <title lang="id">BBC World News</title>
+  </programme>
+  <programme start="20210323073000 +0700" stop="20210323074500 +0700" channel="BBC World News">
+    <title lang="id">Asia Business Report</title>
+  </programme>
+  <programme start="20210323074500 +0700" stop="20210323075500 +0700" channel="BBC World News">
+    <title lang="id">Sport Today</title>
+  </programme>
+  <programme start="20210323075500 +0700" stop="20210323080000 +0700" channel="BBC World News">
+    <title lang="id">The Travel Show</title>
+  </programme>
+  <programme start="20210323080000 +0700" stop="20210323083000 +0700" channel="BBC World News">
+    <title lang="id">BBC World News</title>
+  </programme>
+  <programme start="20210323083000 +0700" stop="20210323084500 +0700" channel="BBC World News">
+    <title lang="id">Asia Business Report</title>
+  </programme>
+  <programme start="20210323084500 +0700" stop="20210323085500 +0700" channel="BBC World News">
+    <title lang="id">Sport Today</title>
+  </programme>
+  <programme start="20210323085500 +0700" stop="20210323090000 +0700" channel="BBC World News">
+    <title lang="id">The Travel Show</title>
+  </programme>
+  <programme start="20210323090000 +0700" stop="20210323093000 +0700" channel="BBC World News">
+    <title lang="id">BBC World News</title>
+  </programme>
+  <programme start="20210323093000 +0700" stop="20210323094500 +0700" channel="BBC World News">
+    <title lang="id">Asia Business Report</title>
+  </programme>
+  <programme start="20210323094500 +0700" stop="20210323095500 +0700" channel="BBC World News">
+    <title lang="id">Sport Today</title>
+  </programme>
+  <programme start="20210323095500 +0700" stop="20210323100000 +0700" channel="BBC World News">
+    <title lang="id">The Travel Show</title>
+  </programme>
+  <programme start="20210323100000 +0700" stop="20210323103000 +0700" channel="BBC World News">
+    <title lang="id">BBC World News</title>
+  </programme>
+  <programme start="20210323103000 +0700" stop="20210323110000 +0700" channel="BBC World News">
+    <title lang="id">Our World</title>
+  </programme>
+  <programme start="20210323110000 +0700" stop="20210323113000 +0700" channel="BBC World News">
+    <title lang="id">BBC World News</title>
+  </programme>
+  <programme start="20210323113000 +0700" stop="20210323120000 +0700" channel="BBC World News">
+    <title lang="id">HARDtalk</title>
+  </programme>
+  <programme start="20210323120000 +0700" stop="20210323123000 +0700" channel="BBC World News">
+    <title lang="id">BBC World News</title>
+  </programme>
+  <programme start="20210323123000 +0700" stop="20210323130000 +0700" channel="BBC World News">
+    <title lang="id">World Business Report</title>
+  </programme>
+  <programme start="20210323130000 +0700" stop="20210323133000 +0700" channel="BBC World News">
+    <title lang="id">BBC World News</title>
+  </programme>
+  <programme start="20210323133000 +0700" stop="20210323135500 +0700" channel="BBC World News">
+    <title lang="id">World Business Report</title>
+  </programme>
+  <programme start="20210323135500 +0700" stop="20210323140000 +0700" channel="BBC World News">
+    <title lang="id">The Travel Show</title>
+  </programme>
+  <programme start="20210323140000 +0700" stop="20210323143000 +0700" channel="BBC World News">
+    <title lang="id">BBC World News</title>
+  </programme>
+  <programme start="20210323143000 +0700" stop="20210323150000 +0700" channel="BBC World News">
+    <title lang="id">TBA</title>
+  </programme>
+  <programme start="20210323150000 +0700" stop="20210323153000 +0700" channel="BBC World News">
+    <title lang="id">BBC World News</title>
+  </programme>
+  <programme start="20210323153000 +0700" stop="20210323160000 +0700" channel="BBC World News">
+    <title lang="id">TBA</title>
+  </programme>
+  <programme start="20210323160000 +0700" stop="20210323163000 +0700" channel="BBC World News">
+    <title lang="id">BBC World News</title>
+  </programme>
+  <programme start="20210323163000 +0700" stop="20210323170000 +0700" channel="BBC World News">
+    <title lang="id">HARDtalk</title>
+  </programme>
+  <programme start="20210323170000 +0700" stop="20210323180000 +0700" channel="BBC World News">
+    <title lang="id">BBC News</title>
+  </programme>
+  <programme start="20210323180000 +0700" stop="20210323183000 +0700" channel="BBC World News">
+    <title lang="id">BBC World News</title>
+  </programme>
+  <programme start="20210323183000 +0700" stop="20210323190000 +0700" channel="BBC World News">
+    <title lang="id">TBA</title>
+  </programme>
+  <programme start="20210323190000 +0700" stop="20210323193000 +0700" channel="BBC World News">
+    <title lang="id">BBC World News</title>
+  </programme>
+  <programme start="20210323193000 +0700" stop="20210323195500 +0700" channel="BBC World News">
+    <title lang="id">BBC World News</title>
+  </programme>
+  <programme start="20210323195500 +0700" stop="20210323200000 +0700" channel="BBC World News">
+    <title lang="id">The Travel Show</title>
+  </programme>
+  <programme start="20210323200000 +0700" stop="20210323203000 +0700" channel="BBC World News">
+    <title lang="id">BBC World News</title>
+  </programme>
+  <programme start="20210323203000 +0700" stop="20210323210000 +0700" channel="BBC World News">
+    <title lang="id">Talking Business</title>
+  </programme>
+  <programme start="20210323210000 +0700" stop="20210323213000 +0700" channel="BBC World News">
+    <title lang="id">BBC World News</title>
+  </programme>
+  <programme start="20210323213000 +0700" stop="20210323220000 +0700" channel="BBC World News">
+    <title lang="id">BBC World News</title>
+  </programme>
+  <programme start="20210323220000 +0700" stop="20210323223000 +0700" channel="BBC World News">
+    <title lang="id">BBC World News</title>
+  </programme>
+  <programme start="20210323223000 +0700" stop="20210323230000 +0700" channel="BBC World News">
+    <title lang="id">HARDtalk</title>
+  </programme>
+  <programme start="20210323230000 +0700" stop="20210323233000 +0700" channel="BBC World News">
+    <title lang="id">BBC World News</title>
+  </programme>
+  <programme start="20210323233000 +0700" stop="20210323235500 +0700" channel="BBC World News">
+    <title lang="id">BBC World News</title>
+  </programme>
+  <programme start="20210323235500 +0700" stop="20210324000000 +0700" channel="BBC World News">
+    <title lang="id">The Travel Show</title>
   </programme>
   <programme start="20210316000000 +0700" stop="20210316010000 +0700" channel="Channel [V]">
     <title lang="id">Loop</title>
@@ -13252,6 +14218,99 @@
     <title lang="id">The Playlist</title>
   </programme>
   <programme start="20210322233000 +0700" stop="20210323000000 +0700" channel="Channel [V]">
+    <title lang="id">Top 5</title>
+  </programme>
+  <programme start="20210323000000 +0700" stop="20210323010000 +0700" channel="Channel [V]">
+    <title lang="id">Loop</title>
+  </programme>
+  <programme start="20210323010000 +0700" stop="20210323013000 +0700" channel="Channel [V]">
+    <title lang="id">Double Shot</title>
+  </programme>
+  <programme start="20210323013000 +0700" stop="20210323023000 +0700" channel="Channel [V]">
+    <title lang="id">XO</title>
+  </programme>
+  <programme start="20210323023000 +0700" stop="20210323033000 +0700" channel="Channel [V]">
+    <title lang="id">Loop</title>
+  </programme>
+  <programme start="20210323033000 +0700" stop="20210323040000 +0700" channel="Channel [V]">
+    <title lang="id">The Playlist</title>
+  </programme>
+  <programme start="20210323040000 +0700" stop="20210323050000 +0700" channel="Channel [V]">
+    <title lang="id">XO</title>
+  </programme>
+  <programme start="20210323050000 +0700" stop="20210323070000 +0700" channel="Channel [V]">
+    <title lang="id">Morning Fix</title>
+  </programme>
+  <programme start="20210323070000 +0700" stop="20210323073000 +0700" channel="Channel [V]">
+    <title lang="id">The Playlist</title>
+  </programme>
+  <programme start="20210323073000 +0700" stop="20210323080000 +0700" channel="Channel [V]">
+    <title lang="id">Top 5</title>
+  </programme>
+  <programme start="20210323080000 +0700" stop="20210323090000 +0700" channel="Channel [V]">
+    <title lang="id">Loop</title>
+  </programme>
+  <programme start="20210323090000 +0700" stop="20210323093000 +0700" channel="Channel [V]">
+    <title lang="id">Double Shot</title>
+  </programme>
+  <programme start="20210323093000 +0700" stop="20210323103000 +0700" channel="Channel [V]">
+    <title lang="id">XO</title>
+  </programme>
+  <programme start="20210323103000 +0700" stop="20210323113000 +0700" channel="Channel [V]">
+    <title lang="id">Loop</title>
+  </programme>
+  <programme start="20210323113000 +0700" stop="20210323120000 +0700" channel="Channel [V]">
+    <title lang="id">The Playlist</title>
+  </programme>
+  <programme start="20210323120000 +0700" stop="20210323123000 +0700" channel="Channel [V]">
+    <title lang="id">Top 5</title>
+  </programme>
+  <programme start="20210323123000 +0700" stop="20210323133000 +0700" channel="Channel [V]">
+    <title lang="id">KPop Explosion</title>
+  </programme>
+  <programme start="20210323133000 +0700" stop="20210323140000 +0700" channel="Channel [V]">
+    <title lang="id">Double Shot</title>
+  </programme>
+  <programme start="20210323140000 +0700" stop="20210323150000 +0700" channel="Channel [V]">
+    <title lang="id">Loop</title>
+  </programme>
+  <programme start="20210323150000 +0700" stop="20210323153000 +0700" channel="Channel [V]">
+    <title lang="id">The Playlist</title>
+  </programme>
+  <programme start="20210323153000 +0700" stop="20210323160000 +0700" channel="Channel [V]">
+    <title lang="id">Top 5</title>
+  </programme>
+  <programme start="20210323160000 +0700" stop="20210323170000 +0700" channel="Channel [V]">
+    <title lang="id">KPop Explosion</title>
+  </programme>
+  <programme start="20210323170000 +0700" stop="20210323173000 +0700" channel="Channel [V]">
+    <title lang="id">Double Shot</title>
+  </programme>
+  <programme start="20210323173000 +0700" stop="20210323183000 +0700" channel="Channel [V]">
+    <title lang="id">XO</title>
+  </programme>
+  <programme start="20210323183000 +0700" stop="20210323193000 +0700" channel="Channel [V]">
+    <title lang="id">Loop</title>
+  </programme>
+  <programme start="20210323193000 +0700" stop="20210323200000 +0700" channel="Channel [V]">
+    <title lang="id">The Playlist</title>
+  </programme>
+  <programme start="20210323200000 +0700" stop="20210323203000 +0700" channel="Channel [V]">
+    <title lang="id">Top 5</title>
+  </programme>
+  <programme start="20210323203000 +0700" stop="20210323213000 +0700" channel="Channel [V]">
+    <title lang="id">KPop Explosion</title>
+  </programme>
+  <programme start="20210323213000 +0700" stop="20210323220000 +0700" channel="Channel [V]">
+    <title lang="id">Double Shot</title>
+  </programme>
+  <programme start="20210323220000 +0700" stop="20210323230000 +0700" channel="Channel [V]">
+    <title lang="id">Loop</title>
+  </programme>
+  <programme start="20210323230000 +0700" stop="20210323233000 +0700" channel="Channel [V]">
+    <title lang="id">The Playlist</title>
+  </programme>
+  <programme start="20210323233000 +0700" stop="20210324000000 +0700" channel="Channel [V]">
     <title lang="id">Top 5</title>
   </programme>
 </tv>

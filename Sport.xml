@@ -50,116 +50,101 @@
     <icon src="https://mncvision.id/userfiles/image/channel/150x150fightsport.jpg" />
     <url>http://www.mncvision.id.E</url>
   </channel>
-  <programme start="20210315000000 +0700" stop="20210315020000 +0700" channel="Champion TV 1">
+  <programme start="20210316000000 +0700" stop="20210316020000 +0700" channel="Champion TV 1">
     <title lang="id">ATP 500 - 2021 Dubai Duty Free Tennis Championships LIVE</title>
   </programme>
-  <programme start="20210315020000 +0700" stop="20210315023000 +0700" channel="Champion TV 1">
-    <title lang="id">UEL Magazine 2020 - 2021</title>
-  </programme>
-  <programme start="20210315023000 +0700" stop="20210315030000 +0700" channel="Champion TV 1">
-    <title lang="id">Badminton Unlimited</title>
-  </programme>
-  <programme start="20210315030000 +0700" stop="20210315050000 +0700" channel="Champion TV 1">
-    <title lang="id">UEL 2020 - 2021</title>
-  </programme>
-  <programme start="20210315050000 +0700" stop="20210315070000 +0700" channel="Champion TV 1">
-    <title lang="id">UEL 2020 - 2021</title>
-  </programme>
-  <programme start="20210315070000 +0700" stop="20210315073000 +0700" channel="Champion TV 1">
-    <title lang="id">UEL Magazine 2020 - 2021</title>
-  </programme>
-  <programme start="20210315073000 +0700" stop="20210315100000 +0700" channel="Champion TV 1">
-    <title lang="id">UCL 2020 - 2021</title>
-  </programme>
-  <programme start="20210315100000 +0700" stop="20210315120000 +0700" channel="Champion TV 1">
-    <title lang="id">UCL 2020 - 2021</title>
-  </programme>
-  <programme start="20210315120000 +0700" stop="20210315143000 +0700" channel="Champion TV 1">
+  <programme start="20210316020000 +0700" stop="20210316023000 +0700" channel="Champion TV 1">
     <title lang="id">EFL Highlight 2020 - 2021</title>
   </programme>
-  <programme start="20210315143000 +0700" stop="20210315150000 +0700" channel="Champion TV 1">
-    <title lang="id">EFL Papa Johns Trophy 2020</title>
-  </programme>
-  <programme start="20210315150000 +0700" stop="20210315170000 +0700" channel="Champion TV 1">
+  <programme start="20210316023000 +0700" stop="20210316050000 +0700" channel="Champion TV 1">
     <title lang="id">UCL 2020 - 2021</title>
   </programme>
-  <programme start="20210315170000 +0700" stop="20210315190000 +0700" channel="Champion TV 1">
+  <programme start="20210316050000 +0700" stop="20210316070000 +0700" channel="Champion TV 1">
+    <title lang="id">UEL 2020 - 2021</title>
+  </programme>
+  <programme start="20210316070000 +0700" stop="20210316090000 +0700" channel="Champion TV 1">
+    <title lang="id">ATP 500 - 2021 Abierto Mexicano Telcel - Acapulco</title>
+  </programme>
+  <programme start="20210316090000 +0700" stop="20210316110000 +0700" channel="Champion TV 1">
+    <title lang="id">ATP 500 - 2021 Abierto Mexicano Telcel - Acapulco</title>
+  </programme>
+  <programme start="20210316110000 +0700" stop="20210316130000 +0700" channel="Champion TV 1">
+    <title lang="id">ATP 500 - 2021 Abierto Mexicano Telcel - Acapulco</title>
+  </programme>
+  <programme start="20210316130000 +0700" stop="20210316150000 +0700" channel="Champion TV 1">
+    <title lang="id">UCL 2020 - 2021</title>
+  </programme>
+  <programme start="20210316150000 +0700" stop="20210316170000 +0700" channel="Champion TV 1">
+    <title lang="id">UCL 2020 - 2021</title>
+  </programme>
+  <programme start="20210316170000 +0700" stop="20210316190000 +0700" channel="Champion TV 1">
     <title lang="id">ATP 500 - 2021 Dubai Duty Free Tennis Championships LIVE</title>
   </programme>
-  <programme start="20210315190000 +0700" stop="20210315210000 +0700" channel="Champion TV 1">
+  <programme start="20210316190000 +0700" stop="20210316210000 +0700" channel="Champion TV 1">
     <title lang="id">ATP 500 - 2021 Dubai Duty Free Tennis Championships LIVE</title>
   </programme>
-  <programme start="20210315210000 +0700" stop="20210315213000 +0700" channel="Champion TV 1">
-    <title lang="id">EFL Highlight 2020 - 2021</title>
+  <programme start="20210316210000 +0700" stop="20210316213000 +0700" channel="Champion TV 1">
+    <title lang="id">UCL Final Archive Series</title>
   </programme>
-  <programme start="20210315213000 +0700" stop="20210315220000 +0700" channel="Champion TV 1">
+  <programme start="20210316213000 +0700" stop="20210316220000 +0700" channel="Champion TV 1">
     <title lang="id">The Immortal</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210316000000 +0700" channel="Champion TV 1">
+  <programme start="20210316220000 +0700" stop="20210317000000 +0700" channel="Champion TV 1">
     <title lang="id">ATP 500 - 2021 Dubai Duty Free Tennis Championships LIVE</title>
   </programme>
-  <programme start="20210315000000 +0700" stop="20210315020000 +0700" channel="Champion TV 2">
+  <programme start="20210316000000 +0700" stop="20210316020000 +0700" channel="Champion TV 2">
+    <title lang="id">EFL League 1 2020 - 2021</title>
+  </programme>
+  <programme start="20210316020000 +0700" stop="20210316040000 +0700" channel="Champion TV 2">
     <title lang="id">EFL Championship 2020 - 2021</title>
   </programme>
-  <programme start="20210315020000 +0700" stop="20210315040000 +0700" channel="Champion TV 2">
-    <title lang="id">EFL Championship 2020 - 2021</title>
+  <programme start="20210316040000 +0700" stop="20210316060000 +0700" channel="Champion TV 2">
+    <title lang="id">EFL Papa Johns Trophy 2021</title>
   </programme>
-  <programme start="20210315040000 +0700" stop="20210315060000 +0700" channel="Champion TV 2">
-    <title lang="id">EFL Papa Johns Trophy 2020</title>
-  </programme>
-  <programme start="20210315060000 +0700" stop="20210315063000 +0700" channel="Champion TV 2">
+  <programme start="20210316060000 +0700" stop="20210316063000 +0700" channel="Champion TV 2">
     <title lang="id">Sport Woman</title>
   </programme>
-  <programme start="20210315063000 +0700" stop="20210315070000 +0700" channel="Champion TV 2">
+  <programme start="20210316063000 +0700" stop="20210316070000 +0700" channel="Champion TV 2">
     <title lang="id">Badminton Unlimited</title>
   </programme>
-  <programme start="20210315070000 +0700" stop="20210315090000 +0700" channel="Champion TV 2">
+  <programme start="20210316070000 +0700" stop="20210316090000 +0700" channel="Champion TV 2">
     <title lang="id">UEL 2020 - 2021</title>
   </programme>
-  <programme start="20210315090000 +0700" stop="20210315110000 +0700" channel="Champion TV 2">
-    <title lang="id">EFL Championship 2020 - 2021</title>
+  <programme start="20210316090000 +0700" stop="20210316110000 +0700" channel="Champion TV 2">
+    <title lang="id">EFL League 1 2020 - 2021</title>
   </programme>
-  <programme start="20210315110000 +0700" stop="20210315133000 +0700" channel="Champion TV 2">
+  <programme start="20210316110000 +0700" stop="20210316130000 +0700" channel="Champion TV 2">
     <title lang="id">UEL 2020 - 2021</title>
   </programme>
-  <programme start="20210315133000 +0700" stop="20210315140000 +0700" channel="Champion TV 2">
-    <title lang="id">EFL Highlight 2020 - 2021</title>
+  <programme start="20210316130000 +0700" stop="20210316133000 +0700" channel="Champion TV 2">
+    <title lang="id">Badminton Unlimited</title>
   </programme>
-  <programme start="20210315140000 +0700" stop="20210315160000 +0700" channel="Champion TV 2">
-    <title lang="id">UEL 2020 - 2021</title>
-  </programme>
-  <programme start="20210315160000 +0700" stop="20210315180000 +0700" channel="Champion TV 2">
-    <title lang="id">UEL 2020 - 2021</title>
-  </programme>
-  <programme start="20210315180000 +0700" stop="20210315183000 +0700" channel="Champion TV 2">
-    <title lang="id">EFL Highlight 2020 - 2021</title>
-  </programme>
-  <programme start="20210315183000 +0700" stop="20210315190000 +0700" channel="Champion TV 2">
+  <programme start="20210316133000 +0700" stop="20210316140000 +0700" channel="Champion TV 2">
     <title lang="id">The Immortal</title>
   </programme>
-  <programme start="20210315190000 +0700" stop="20210315210000 +0700" channel="Champion TV 2">
+  <programme start="20210316140000 +0700" stop="20210316160000 +0700" channel="Champion TV 2">
     <title lang="id">UEL 2020 - 2021</title>
   </programme>
-  <programme start="20210315210000 +0700" stop="20210315230000 +0700" channel="Champion TV 2">
+  <programme start="20210316160000 +0700" stop="20210316180000 +0700" channel="Champion TV 2">
     <title lang="id">UEL 2020 - 2021</title>
   </programme>
-  <programme start="20210315230000 +0700" stop="20210315233000 +0700" channel="Champion TV 2">
-    <title lang="id">Sport Woman</title>
+  <programme start="20210316180000 +0700" stop="20210316183000 +0700" channel="Champion TV 2">
+    <title lang="id">UCL Final Archive Series</title>
   </programme>
-  <programme start="20210315233000 +0700" stop="20210316000000 +0700" channel="Champion TV 2">
+  <programme start="20210316183000 +0700" stop="20210316190000 +0700" channel="Champion TV 2">
+    <title lang="id">The Immortal</title>
+  </programme>
+  <programme start="20210316190000 +0700" stop="20210316203000 +0700" channel="Champion TV 2">
+    <title lang="id">WTA 500 St. Petersburg Ladies Trophy LIVE</title>
+  </programme>
+  <programme start="20210316203000 +0700" stop="20210316220000 +0700" channel="Champion TV 2">
+    <title lang="id">WTA 500 St. Petersburg Ladies Trophy LIVE</title>
+  </programme>
+  <programme start="20210316220000 +0700" stop="20210316223000 +0700" channel="Champion TV 2">
     <title lang="id">EFL Highlight 2020 - 2021</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210315223000 +0700" channel="beIN Sports 1 HD">
-    <title lang="id">Arsenal World 2020/21</title>
-  </programme>
-  <programme start="20210315223000 +0700" stop="20210315230000 +0700" channel="beIN Sports 1 HD">
-    <title lang="id">Arsenal 360 2020/21</title>
-  </programme>
-  <programme start="20210315230000 +0700" stop="20210316010000 +0700" channel="beIN Sports 1 HD">
-    <title lang="id">Arsenal TV 2020/21: ARS Vs TOT</title>
-  </programme>
-  <programme start="20210316010000 +0700" stop="20210316025500 +0700" channel="beIN Sports 1 HD">
-    <title lang="id">Viva La Liga 2020/21 (L)</title>
+  <programme start="20210316223000 +0700" stop="20210317000000 +0700" channel="Champion TV 2">
+    <title lang="id">WTA 500 St. Petersburg Ladies Trophy LIVE</title>
   </programme>
   <programme start="20210316025500 +0700" stop="20210316050000 +0700" channel="beIN Sports 1 HD">
     <title lang="id">La Liga 2020/21: BAR Vs HUE (L)</title>
@@ -578,17 +563,68 @@
   <programme start="20210322233000 +0700" stop="20210323000000 +0700" channel="beIN Sports 1 HD">
     <title lang="id">Mini Match La Liga: VLD Vs SEV</title>
   </programme>
-  <programme start="20210315215000 +0700" stop="20210315235000 +0700" channel="beIN Sports 2 HD">
-    <title lang="id">Serie A 2020/21: ACM Vs NAP</title>
+  <programme start="20210323000000 +0700" stop="20210323003000 +0700" channel="beIN Sports 1 HD">
+    <title lang="id">Emirates FA Cup HL 2020/21</title>
   </programme>
-  <programme start="20210315235000 +0700" stop="20210316005000 +0700" channel="beIN Sports 2 HD">
-    <title lang="id">Serie A Highlights Show 2020/21</title>
+  <programme start="20210323003000 +0700" stop="20210323010000 +0700" channel="beIN Sports 1 HD">
+    <title lang="id">La Liga Top Moments 2020/21</title>
   </programme>
-  <programme start="20210316005000 +0700" stop="20210316012000 +0700" channel="beIN Sports 2 HD">
-    <title lang="id">Mini Match Ligue 1: MON Vs LIL</title>
+  <programme start="20210323010000 +0700" stop="20210323023000 +0700" channel="beIN Sports 1 HD">
+    <title lang="id">Viva La Liga 2020/21 (L)</title>
   </programme>
-  <programme start="20210316012000 +0700" stop="20210316015000 +0700" channel="beIN Sports 2 HD">
-    <title lang="id">Mini Match Ligue 1: PSG Vs NAN</title>
+  <programme start="20210323023000 +0700" stop="20210323042000 +0700" channel="beIN Sports 1 HD">
+    <title lang="id">La Liga 2020/21: GET Vs ELC</title>
+  </programme>
+  <programme start="20210323042000 +0700" stop="20210323052000 +0700" channel="beIN Sports 1 HD">
+    <title lang="id">Supercars Championship 2021</title>
+  </programme>
+  <programme start="20210323052000 +0700" stop="20210323062500 +0700" channel="beIN Sports 1 HD">
+    <title lang="id">Supercars Championship 2021</title>
+  </programme>
+  <programme start="20210323062500 +0700" stop="20210323073000 +0700" channel="beIN Sports 1 HD">
+    <title lang="id">Supercars Championship 2021</title>
+  </programme>
+  <programme start="20210323073000 +0700" stop="20210323080000 +0700" channel="beIN Sports 1 HD">
+    <title lang="id">Mini Match FA Cup: BOU Vs SOU</title>
+  </programme>
+  <programme start="20210323080000 +0700" stop="20210323083000 +0700" channel="beIN Sports 1 HD">
+    <title lang="id">Mini Match FA Cup: EVE Vs MCI</title>
+  </programme>
+  <programme start="20210323083000 +0700" stop="20210323103000 +0700" channel="beIN Sports 1 HD">
+    <title lang="id">Liverpool TV 2020/21</title>
+  </programme>
+  <programme start="20210323103000 +0700" stop="20210323113000 +0700" channel="beIN Sports 1 HD">
+    <title lang="id">LFC Trending 2020/21</title>
+  </programme>
+  <programme start="20210323113000 +0700" stop="20210323132000 +0700" channel="beIN Sports 1 HD">
+    <title lang="id">La Liga 2020/21: CEL Vs RMA</title>
+  </programme>
+  <programme start="20210323132000 +0700" stop="20210323151000 +0700" channel="beIN Sports 1 HD">
+    <title lang="id">Emirates FA Cup: LEI Vs MUN</title>
+  </programme>
+  <programme start="20210323151000 +0700" stop="20210323161000 +0700" channel="beIN Sports 1 HD">
+    <title lang="id">La Liga Highlights 2020/21</title>
+  </programme>
+  <programme start="20210323161000 +0700" stop="20210323180000 +0700" channel="beIN Sports 1 HD">
+    <title lang="id">La Liga 2020/21: SOC Vs BAR</title>
+  </programme>
+  <programme start="20210323180000 +0700" stop="20210323183000 +0700" channel="beIN Sports 1 HD">
+    <title lang="id">Mini Match Serie A: JUV Vs BEN</title>
+  </programme>
+  <programme start="20210323183000 +0700" stop="20210323202000 +0700" channel="beIN Sports 1 HD">
+    <title lang="id">La Liga 2020/21: ATM Vs ALA</title>
+  </programme>
+  <programme start="20210323202000 +0700" stop="20210323221000 +0700" channel="beIN Sports 1 HD">
+    <title lang="id">Emirates FA Cup: EVE Vs MCI</title>
+  </programme>
+  <programme start="20210323221000 +0700" stop="20210323231000 +0700" channel="beIN Sports 1 HD">
+    <title lang="id">Serie A HL Show 2020/21</title>
+  </programme>
+  <programme start="20210323231000 +0700" stop="20210323234000 +0700" channel="beIN Sports 1 HD">
+    <title lang="id">Emirates FA Cup HL 2020/21</title>
+  </programme>
+  <programme start="20210323234000 +0700" stop="20210324004000 +0700" channel="beIN Sports 1 HD">
+    <title lang="id">La Liga 2 Highlights 2020/21</title>
   </programme>
   <programme start="20210316015000 +0700" stop="20210316034000 +0700" channel="beIN Sports 2 HD">
     <title lang="id">W-League 2020/21: MCY Vs NEW</title>
@@ -983,20 +1019,62 @@
   <programme start="20210322220000 +0700" stop="20210323000000 +0700" channel="beIN Sports 2 HD">
     <title lang="id">Chelsea TV 2020/21: CHE Vs SHU</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210315230000 +0700" channel="FOX Sports">
-    <title lang="id">The John Dykes Show</title>
+  <programme start="20210323000000 +0700" stop="20210323003000 +0700" channel="beIN Sports 2 HD">
+    <title lang="id">Mini Match Ligue 1: LYO Vs PSG</title>
   </programme>
-  <programme start="20210315230000 +0700" stop="20210316010000 +0700" channel="FOX Sports">
-    <title lang="id">Athletes Unlimited Volleyball</title>
+  <programme start="20210323003000 +0700" stop="20210323022000 +0700" channel="beIN Sports 2 HD">
+    <title lang="id">Serie A 2020/21: UDI Vs LAZ</title>
   </programme>
-  <programme start="20210316010000 +0700" stop="20210316013000 +0700" channel="FOX Sports">
-    <title lang="id">SportsCenter Asia 2021</title>
+  <programme start="20210323022000 +0700" stop="20210323041000 +0700" channel="beIN Sports 2 HD">
+    <title lang="id">A-League 2020/21: WSW Vs PER</title>
   </programme>
-  <programme start="20210316013000 +0700" stop="20210316023000 +0700" channel="FOX Sports">
-    <title lang="id">The John Dykes Show</title>
+  <programme start="20210323041000 +0700" stop="20210323060000 +0700" channel="beIN Sports 2 HD">
+    <title lang="id">A-League 2020/21: MAC Vs WSU</title>
   </programme>
-  <programme start="20210316023000 +0700" stop="20210316030000 +0700" channel="FOX Sports">
-    <title lang="id">Generation Gap: Betrayals</title>
+  <programme start="20210323060000 +0700" stop="20210323070000 +0700" channel="beIN Sports 2 HD">
+    <title lang="id">La Liga Highlights 2020/21</title>
+  </programme>
+  <programme start="20210323070000 +0700" stop="20210323080000 +0700" channel="beIN Sports 2 HD">
+    <title lang="id">Serie A Highlights Show 2020/21</title>
+  </programme>
+  <programme start="20210323080000 +0700" stop="20210323090000 +0700" channel="beIN Sports 2 HD">
+    <title lang="id">Ligue 1 Highlights 2020/21</title>
+  </programme>
+  <programme start="20210323090000 +0700" stop="20210323093000 +0700" channel="beIN Sports 2 HD">
+    <title lang="id">Chelsea TV Specials 2020/21</title>
+  </programme>
+  <programme start="20210323093000 +0700" stop="20210323100000 +0700" channel="beIN Sports 2 HD">
+    <title lang="id">Inside Chelsea 2020/21</title>
+  </programme>
+  <programme start="20210323100000 +0700" stop="20210323120000 +0700" channel="beIN Sports 2 HD">
+    <title lang="id">Chelsea TV 2020/21: CHE Vs SHU</title>
+  </programme>
+  <programme start="20210323120000 +0700" stop="20210323123000 +0700" channel="beIN Sports 2 HD">
+    <title lang="id">Mini Match Ligue 1: LIL Vs NIM</title>
+  </programme>
+  <programme start="20210323123000 +0700" stop="20210323143000 +0700" channel="beIN Sports 2 HD">
+    <title lang="id">A-League 2020/21: SYD Vs MVC</title>
+  </programme>
+  <programme start="20210323143000 +0700" stop="20210323162000 +0700" channel="beIN Sports 2 HD">
+    <title lang="id">Serie A 2020/21: SAM Vs TOR</title>
+  </programme>
+  <programme start="20210323162000 +0700" stop="20210323172000 +0700" channel="beIN Sports 2 HD">
+    <title lang="id">Serie A Highlights Show 2020/21</title>
+  </programme>
+  <programme start="20210323172000 +0700" stop="20210323191000 +0700" channel="beIN Sports 2 HD">
+    <title lang="id">Ligue 1 2020/21: LYO Vs PSG</title>
+  </programme>
+  <programme start="20210323191000 +0700" stop="20210323210000 +0700" channel="beIN Sports 2 HD">
+    <title lang="id">Serie A 2020/21: FIO Vs ACM</title>
+  </programme>
+  <programme start="20210323210000 +0700" stop="20210323213000 +0700" channel="beIN Sports 2 HD">
+    <title lang="id">Arsenal World 2020/21</title>
+  </programme>
+  <programme start="20210323213000 +0700" stop="20210323220000 +0700" channel="beIN Sports 2 HD">
+    <title lang="id">Arsenal 360 2020/21</title>
+  </programme>
+  <programme start="20210323220000 +0700" stop="20210324000000 +0700" channel="beIN Sports 2 HD">
+    <title lang="id">Arsenal TV 2020/21: WHU Vs ARS</title>
   </programme>
   <programme start="20210316030000 +0700" stop="20210316033000 +0700" channel="FOX Sports">
     <title lang="id">FOX Sports Live 2021</title>
@@ -1508,17 +1586,68 @@
   <programme start="20210322230000 +0700" stop="20210323000000 +0700" channel="FOX Sports">
     <title lang="id">Danish Superliga 2020/21</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210315230000 +0700" channel="FOX Sports 2">
-    <title lang="id">ABB FIA Formula E HL: Diriyah</title>
+  <programme start="20210323000000 +0700" stop="20210323010000 +0700" channel="FOX Sports">
+    <title lang="id">The John Dykes Show</title>
   </programme>
-  <programme start="20210315230000 +0700" stop="20210316010000 +0700" channel="FOX Sports 2">
-    <title lang="id">Englands Tour Of India 2021</title>
+  <programme start="20210323010000 +0700" stop="20210323013000 +0700" channel="FOX Sports">
+    <title lang="id">SportsCenter Asia 2021</title>
   </programme>
-  <programme start="20210316010000 +0700" stop="20210316020000 +0700" channel="FOX Sports 2">
-    <title lang="id">AFC 2020: SIPG FC Vs Marinos</title>
+  <programme start="20210323013000 +0700" stop="20210323033000 +0700" channel="FOX Sports">
+    <title lang="id">E1 Championship: Spa</title>
   </programme>
-  <programme start="20210316020000 +0700" stop="20210316030000 +0700" channel="FOX Sports 2">
-    <title lang="id">AFC 2020: Victory Vs Beijing FC</title>
+  <programme start="20210323033000 +0700" stop="20210323060000 +0700" channel="FOX Sports">
+    <title lang="id">UFC Epics: UFC 64 Unstoppable</title>
+  </programme>
+  <programme start="20210323060000 +0700" stop="20210323070000 +0700" channel="FOX Sports">
+    <title lang="id">The John Dykes Show</title>
+  </programme>
+  <programme start="20210323070000 +0700" stop="20210323080000 +0700" channel="FOX Sports">
+    <title lang="id">MotoGP Classic: Australia 2015</title>
+  </programme>
+  <programme start="20210323080000 +0700" stop="20210323103000 +0700" channel="FOX Sports">
+    <title lang="id">Best Of UFC 2012</title>
+  </programme>
+  <programme start="20210323103000 +0700" stop="20210323110000 +0700" channel="FOX Sports">
+    <title lang="id">Generation Gap: Fantasy MotoGP</title>
+  </programme>
+  <programme start="20210323110000 +0700" stop="20210323113000 +0700" channel="FOX Sports">
+    <title lang="id">ESPN FC 2021</title>
+  </programme>
+  <programme start="20210323113000 +0700" stop="20210323123000 +0700" channel="FOX Sports">
+    <title lang="id">The John Dykes Show</title>
+  </programme>
+  <programme start="20210323123000 +0700" stop="20210323130000 +0700" channel="FOX Sports">
+    <title lang="id">ESPN FC 2021</title>
+  </programme>
+  <programme start="20210323130000 +0700" stop="20210323150000 +0700" channel="FOX Sports">
+    <title lang="id">E1 Championship: Spa</title>
+  </programme>
+  <programme start="20210323150000 +0700" stop="20210323153000 +0700" channel="FOX Sports">
+    <title lang="id">SportsCenter Asia 2021</title>
+  </programme>
+  <programme start="20210323153000 +0700" stop="20210323160000 +0700" channel="FOX Sports">
+    <title lang="id">ESPN FC 2021</title>
+  </programme>
+  <programme start="20210323160000 +0700" stop="20210323180000 +0700" channel="FOX Sports">
+    <title lang="id">Athletes Unlimited Volleyball</title>
+  </programme>
+  <programme start="20210323180000 +0700" stop="20210323183000 +0700" channel="FOX Sports">
+    <title lang="id">ESPN FC 2021</title>
+  </programme>
+  <programme start="20210323183000 +0700" stop="20210323190000 +0700" channel="FOX Sports">
+    <title lang="id">SportsCenter Asia 2021</title>
+  </programme>
+  <programme start="20210323190000 +0700" stop="20210323193000 +0700" channel="FOX Sports">
+    <title lang="id">2 Wheels: Season Preview</title>
+  </programme>
+  <programme start="20210323193000 +0700" stop="20210323213000 +0700" channel="FOX Sports">
+    <title lang="id">Athletes Unlimited Volleyball</title>
+  </programme>
+  <programme start="20210323213000 +0700" stop="20210323220000 +0700" channel="FOX Sports">
+    <title lang="id">SportsCenter Asia 2021</title>
+  </programme>
+  <programme start="20210323220000 +0700" stop="20210324003000 +0700" channel="FOX Sports">
+    <title lang="id">UFC: Brunson Vs Holland</title>
   </programme>
   <programme start="20210316030000 +0700" stop="20210316050000 +0700" channel="FOX Sports 2">
     <title lang="id">Volleyball: Purple Vs Blue (L)</title>
@@ -1946,14 +2075,62 @@
   <programme start="20210322230000 +0700" stop="20210323010000 +0700" channel="FOX Sports 2">
     <title lang="id">Englands Tour Of India 2021</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210315230000 +0700" channel="FOX Sports 3">
-    <title lang="id">ESPN Classic Boxing</title>
+  <programme start="20210323010000 +0700" stop="20210323020000 +0700" channel="FOX Sports 2">
+    <title lang="id">AFC 2020: Marinos Vs Jeonbuk</title>
   </programme>
-  <programme start="20210315230000 +0700" stop="20210316020000 +0700" channel="FOX Sports 3">
-    <title lang="id">WLC: Heartless Tigers</title>
+  <programme start="20210323020000 +0700" stop="20210323030000 +0700" channel="FOX Sports 2">
+    <title lang="id">AFC 2020: SIPG FC Vs Sydney FC</title>
   </programme>
-  <programme start="20210316020000 +0700" stop="20210316030000 +0700" channel="FOX Sports 3">
-    <title lang="id">Monster Jam 2020</title>
+  <programme start="20210323030000 +0700" stop="20210323040000 +0700" channel="FOX Sports 2">
+    <title lang="id">AO Tennis 2021 Best Matches</title>
+  </programme>
+  <programme start="20210323040000 +0700" stop="20210323060000 +0700" channel="FOX Sports 2">
+    <title lang="id">Volleyball: Purple Vs Blue (L)</title>
+  </programme>
+  <programme start="20210323060000 +0700" stop="20210323070000 +0700" channel="FOX Sports 2">
+    <title lang="id">AO Tennis 2021 Best Matches</title>
+  </programme>
+  <programme start="20210323070000 +0700" stop="20210323090000 +0700" channel="FOX Sports 2">
+    <title lang="id">Volleyball: Orange Vs Gold (L)</title>
+  </programme>
+  <programme start="20210323090000 +0700" stop="20210323110000 +0700" channel="FOX Sports 2">
+    <title lang="id">US Open Championship 2020 HL</title>
+  </programme>
+  <programme start="20210323110000 +0700" stop="20210323120000 +0700" channel="FOX Sports 2">
+    <title lang="id">AO Tennis 2021 Best Matches</title>
+  </programme>
+  <programme start="20210323120000 +0700" stop="20210323130000 +0700" channel="FOX Sports 2">
+    <title lang="id">AO Tennis 2021 Best Matches</title>
+  </programme>
+  <programme start="20210323130000 +0700" stop="20210323143000 +0700" channel="FOX Sports 2">
+    <title lang="id">FIM Motocross: MXGP Of Trentino</title>
+  </programme>
+  <programme start="20210323143000 +0700" stop="20210323160000 +0700" channel="FOX Sports 2">
+    <title lang="id">FIM Motocross: MXGP Of Trentino</title>
+  </programme>
+  <programme start="20210323160000 +0700" stop="20210323170000 +0700" channel="FOX Sports 2">
+    <title lang="id">European Tramdriver C'ship</title>
+  </programme>
+  <programme start="20210323170000 +0700" stop="20210323180000 +0700" channel="FOX Sports 2">
+    <title lang="id">AO Tennis 2021 Best Matches</title>
+  </programme>
+  <programme start="20210323180000 +0700" stop="20210323190000 +0700" channel="FOX Sports 2">
+    <title lang="id">AO Tennis 2021 Best Matches</title>
+  </programme>
+  <programme start="20210323190000 +0700" stop="20210323200000 +0700" channel="FOX Sports 2">
+    <title lang="id">Vendee Globe 2020/21 Highlights</title>
+  </programme>
+  <programme start="20210323200000 +0700" stop="20210323210000 +0700" channel="FOX Sports 2">
+    <title lang="id">AO Tennis 2021 Best Matches</title>
+  </programme>
+  <programme start="20210323210000 +0700" stop="20210323220000 +0700" channel="FOX Sports 2">
+    <title lang="id">AO Tennis 2021 Best Matches</title>
+  </programme>
+  <programme start="20210323220000 +0700" stop="20210323230000 +0700" channel="FOX Sports 2">
+    <title lang="id">AO Tennis 2021 Best Matches</title>
+  </programme>
+  <programme start="20210323230000 +0700" stop="20210324010000 +0700" channel="FOX Sports 2">
+    <title lang="id">Englands Tour Of India 2021</title>
   </programme>
   <programme start="20210316030000 +0700" stop="20210316050000 +0700" channel="FOX Sports 3">
     <title lang="id">AMA Supercross 2021 Highlights</title>
@@ -2363,17 +2540,65 @@
   <programme start="20210322230000 +0700" stop="20210323010000 +0700" channel="FOX Sports 3">
     <title lang="id">Supercars All Stars Eseries HL</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210315223000 +0700" channel="MNC Sports">
-    <title lang="id">Extra Time</title>
+  <programme start="20210323010000 +0700" stop="20210323030000 +0700" channel="FOX Sports 3">
+    <title lang="id">Supercars All Stars Eseries HL</title>
   </programme>
-  <programme start="20210315223000 +0700" stop="20210315230000 +0700" channel="MNC Sports">
-    <title lang="id">Planet Football</title>
+  <programme start="20210323030000 +0700" stop="20210323040000 +0700" channel="FOX Sports 3">
+    <title lang="id">MotoAmerica Superbikes: USA</title>
   </programme>
-  <programme start="20210315230000 +0700" stop="20210315233000 +0700" channel="MNC Sports">
-    <title lang="id">MNC Shop</title>
+  <programme start="20210323040000 +0700" stop="20210323050000 +0700" channel="FOX Sports 3">
+    <title lang="id">MotoAmerica Superbikes: USA</title>
   </programme>
-  <programme start="20210315233000 +0700" stop="20210316013000 +0700" channel="MNC Sports">
-    <title lang="id">Best Of Euro Spc.: SPA Vs RUS</title>
+  <programme start="20210323050000 +0700" stop="20210323070000 +0700" channel="FOX Sports 3">
+    <title lang="id">Asian Cup 2019: UZB Vs OMA</title>
+  </programme>
+  <programme start="20210323070000 +0700" stop="20210323080000 +0700" channel="FOX Sports 3">
+    <title lang="id">ESPN Classic Boxing</title>
+  </programme>
+  <programme start="20210323080000 +0700" stop="20210323090000 +0700" channel="FOX Sports 3">
+    <title lang="id">ESPN Classic Boxing</title>
+  </programme>
+  <programme start="20210323090000 +0700" stop="20210323110000 +0700" channel="FOX Sports 3">
+    <title lang="id">Vodafone Test: AUS Vs IND</title>
+  </programme>
+  <programme start="20210323110000 +0700" stop="20210323130000 +0700" channel="FOX Sports 3">
+    <title lang="id">Asian Cup 2019: QAT Vs LIB</title>
+  </programme>
+  <programme start="20210323130000 +0700" stop="20210323140000 +0700" channel="FOX Sports 3">
+    <title lang="id">ESPN Classic Boxing</title>
+  </programme>
+  <programme start="20210323140000 +0700" stop="20210323150000 +0700" channel="FOX Sports 3">
+    <title lang="id">ESPN Classic Boxing</title>
+  </programme>
+  <programme start="20210323150000 +0700" stop="20210323160000 +0700" channel="FOX Sports 3">
+    <title lang="id">ERGP Global Edition 2020</title>
+  </programme>
+  <programme start="20210323160000 +0700" stop="20210323170000 +0700" channel="FOX Sports 3">
+    <title lang="id">MotoAmerica Rewind 2020: USA</title>
+  </programme>
+  <programme start="20210323170000 +0700" stop="20210323173000 +0700" channel="FOX Sports 3">
+    <title lang="id">Dakar Rally 2021: Saudi Arabia</title>
+  </programme>
+  <programme start="20210323173000 +0700" stop="20210323180000 +0700" channel="FOX Sports 3">
+    <title lang="id">Dakar Rally 2021: Saudi Arabia</title>
+  </programme>
+  <programme start="20210323180000 +0700" stop="20210323183000 +0700" channel="FOX Sports 3">
+    <title lang="id">Dakar Rally 2021: Saudi Arabia</title>
+  </programme>
+  <programme start="20210323183000 +0700" stop="20210323190000 +0700" channel="FOX Sports 3">
+    <title lang="id">Dakar Rally 2021: Saudi Arabia</title>
+  </programme>
+  <programme start="20210323190000 +0700" stop="20210323210000 +0700" channel="FOX Sports 3">
+    <title lang="id">AMA Supercross 2021 Highlights</title>
+  </programme>
+  <programme start="20210323210000 +0700" stop="20210323223000 +0700" channel="FOX Sports 3">
+    <title lang="id">ESPN Classic Boxing</title>
+  </programme>
+  <programme start="20210323223000 +0700" stop="20210323230000 +0700" channel="FOX Sports 3">
+    <title lang="id">ESPN Classic Boxing</title>
+  </programme>
+  <programme start="20210323230000 +0700" stop="20210324010000 +0700" channel="FOX Sports 3">
+    <title lang="id">Supercars All Stars Eseries HL</title>
   </programme>
   <programme start="20210316013000 +0700" stop="20210316033000 +0700" channel="MNC Sports">
     <title lang="id">Proliga 2020 Pekanbaru Putra</title>
@@ -2888,83 +3113,152 @@
   <programme start="20210322233000 +0700" stop="20210323013000 +0700" channel="MNC Sports">
     <title lang="id">Best Of Euro Spc.: SPA Vs IRL</title>
   </programme>
-  <programme start="20210315000000 +0700" stop="20210315010000 +0700" channel="egg network">
-    <title lang="id">SEA Spring Regional League : Week 5 Day 2</title>
+  <programme start="20210323013000 +0700" stop="20210323033000 +0700" channel="MNC Sports">
+    <title lang="id">Proliga 2020 Purwokerto Putri</title>
   </programme>
-  <programme start="20210315010000 +0700" stop="20210315020000 +0700" channel="egg network">
-    <title lang="id">SEA Spring Regional League : Week 5 Day 3</title>
+  <programme start="20210323033000 +0700" stop="20210323040000 +0700" channel="MNC Sports">
+    <title lang="id">Sportrivia</title>
   </programme>
-  <programme start="20210315020000 +0700" stop="20210315030000 +0700" channel="egg network">
-    <title lang="id">SEA Spring Regional League : Week 5 Day 3</title>
+  <programme start="20210323040000 +0700" stop="20210323043000 +0700" channel="MNC Sports">
+    <title lang="id">Planet Football</title>
   </programme>
-  <programme start="20210315030000 +0700" stop="20210315040000 +0700" channel="egg network">
-    <title lang="id">SEA Spring Regional League : Week 5 Day 3</title>
+  <programme start="20210323043000 +0700" stop="20210323050000 +0700" channel="MNC Sports">
+    <title lang="id">Sports Today</title>
   </programme>
-  <programme start="20210315040000 +0700" stop="20210315050000 +0700" channel="egg network">
-    <title lang="id">SEA Spring Regional League : Week 5 Day 3</title>
+  <programme start="20210323050000 +0700" stop="20210323063000 +0700" channel="MNC Sports">
+    <title lang="id">Sasuke Ninja Warrior S2</title>
   </programme>
-  <programme start="20210315050000 +0700" stop="20210315060000 +0700" channel="egg network">
-    <title lang="id">Apex Legends Global Series : Winter Circuit - Online Tournament 3</title>
+  <programme start="20210323063000 +0700" stop="20210323070000 +0700" channel="MNC Sports">
+    <title lang="id">Extra Time</title>
   </programme>
-  <programme start="20210315060000 +0700" stop="20210315070000 +0700" channel="egg network">
-    <title lang="id">Apex Legends Global Series : Winter Circuit - Online Tournament 3</title>
+  <programme start="20210323070000 +0700" stop="20210323073000 +0700" channel="MNC Sports">
+    <title lang="id">MNC Shop</title>
   </programme>
-  <programme start="20210315070000 +0700" stop="20210315080000 +0700" channel="egg network">
-    <title lang="id">Apex Legends Global Series : Winter Circuit - Online Tournament 3</title>
+  <programme start="20210323073000 +0700" stop="20210323091500 +0700" channel="MNC Sports">
+    <title lang="id">Proliga 2020 Purwokerto Putri</title>
   </programme>
-  <programme start="20210315080000 +0700" stop="20210315093000 +0700" channel="egg network">
-    <title lang="id">Apex Legends Global Series : Winter Circuit - Online Tournament 3</title>
+  <programme start="20210323091500 +0700" stop="20210323101500 +0700" channel="MNC Sports">
+    <title lang="id">Speak Soccer</title>
   </programme>
-  <programme start="20210315093000 +0700" stop="20210315100000 +0700" channel="egg network">
-    <title lang="id">League of Legends : Pacific Championship Series Spring - Week 4 Day 3</title>
+  <programme start="20210323101500 +0700" stop="20210323114500 +0700" channel="MNC Sports">
+    <title lang="id">Sasuke Ninja Warrior S2</title>
   </programme>
-  <programme start="20210315100000 +0700" stop="20210315120000 +0700" channel="egg network">
-    <title lang="id">League of Legends : Pacific Championship Series Spring - Week 4 Day 3</title>
+  <programme start="20210323114500 +0700" stop="20210323120000 +0700" channel="MNC Sports">
+    <title lang="id">Extra Time</title>
   </programme>
-  <programme start="20210315120000 +0700" stop="20210315140000 +0700" channel="egg network">
-    <title lang="id">League of Legends : Pacific Championship Series Spring - Week 4 Day 3</title>
+  <programme start="20210323120000 +0700" stop="20210323123000 +0700" channel="MNC Sports">
+    <title lang="id">Sports Today</title>
   </programme>
-  <programme start="20210315140000 +0700" stop="20210315153000 +0700" channel="egg network">
-    <title lang="id">League of Legends : Pacific Championship Series Spring - Week 4 Day 3</title>
+  <programme start="20210323123000 +0700" stop="20210323143000 +0700" channel="MNC Sports">
+    <title lang="id">Best Of Euro Spc.: CRO Vs SPA</title>
   </programme>
-  <programme start="20210315153000 +0700" stop="20210315170000 +0700" channel="egg network">
-    <title lang="id">Mobile Legends Professional League : MY Season 7 - Week 1 Day 3</title>
+  <programme start="20210323143000 +0700" stop="20210323160000 +0700" channel="MNC Sports">
+    <title lang="id">EFP: Musi Rawas Vs Upi Bandung</title>
   </programme>
-  <programme start="20210315170000 +0700" stop="20210315180000 +0700" channel="egg network">
-    <title lang="id">Mobile Legends Professional League : MY Season 7 - Week 1 Day 3</title>
+  <programme start="20210323160000 +0700" stop="20210323163000 +0700" channel="MNC Sports">
+    <title lang="id">Adrenaline Rush</title>
   </programme>
-  <programme start="20210315180000 +0700" stop="20210315190000 +0700" channel="egg network">
-    <title lang="id">Mobile Legends Professional League : MY Season 7 - Week 1 Day 3</title>
+  <programme start="20210323163000 +0700" stop="20210323170000 +0700" channel="MNC Sports">
+    <title lang="id">Top Gamer</title>
   </programme>
-  <programme start="20210315190000 +0700" stop="20210315200000 +0700" channel="egg network">
-    <title lang="id">Mobile Legends Professional League : MY Season 7 - Week 1 Day 3</title>
+  <programme start="20210323170000 +0700" stop="20210323173000 +0700" channel="MNC Sports">
+    <title lang="id">E'Profile 2019</title>
   </programme>
-  <programme start="20210315200000 +0700" stop="20210315213000 +0700" channel="egg network">
-    <title lang="id">Mobile Legends Professional League : MY Season 7 - Week 1 Day 3</title>
+  <programme start="20210323173000 +0700" stop="20210323193000 +0700" channel="MNC Sports">
+    <title lang="id">Proliga 2020 Purwokerto Putra</title>
   </programme>
-  <programme start="20210315213000 +0700" stop="20210315220000 +0700" channel="egg network">
+  <programme start="20210323193000 +0700" stop="20210323200000 +0700" channel="MNC Sports">
+    <title lang="id">Sportrivia</title>
+  </programme>
+  <programme start="20210323200000 +0700" stop="20210323203000 +0700" channel="MNC Sports">
+    <title lang="id">Sports Today</title>
+  </programme>
+  <programme start="20210323203000 +0700" stop="20210323220000 +0700" channel="MNC Sports">
+    <title lang="id">Sasuke Ninja Warrior S2</title>
+  </programme>
+  <programme start="20210323220000 +0700" stop="20210323223000 +0700" channel="MNC Sports">
+    <title lang="id">Extra Time</title>
+  </programme>
+  <programme start="20210323223000 +0700" stop="20210323230000 +0700" channel="MNC Sports">
+    <title lang="id">Adrenaline Rush</title>
+  </programme>
+  <programme start="20210323230000 +0700" stop="20210323233000 +0700" channel="MNC Sports">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20210323233000 +0700" stop="20210324013000 +0700" channel="MNC Sports">
+    <title lang="id">Best Of Euro Spc.: CRO Vs SPA</title>
+  </programme>
+  <programme start="20210316000000 +0700" stop="20210316020000 +0700" channel="egg network">
     <title lang="id">SEA Spring Regional League : Week 6 Day 1</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210315230000 +0700" channel="egg network">
+  <programme start="20210316020000 +0700" stop="20210316030000 +0700" channel="egg network">
     <title lang="id">SEA Spring Regional League : Week 6 Day 1</title>
   </programme>
-  <programme start="20210315230000 +0700" stop="20210316000000 +0700" channel="egg network">
+  <programme start="20210316030000 +0700" stop="20210316043000 +0700" channel="egg network">
     <title lang="id">SEA Spring Regional League : Week 6 Day 1</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210315230000 +0700" channel="Fight Sports">
-    <title lang="id">WCK: Diogo Calado Vs Edye Ruiz</title>
+  <programme start="20210316043000 +0700" stop="20210316050000 +0700" channel="egg network">
+    <title lang="id">SEA Spring Regional League : Week 6 Day 2</title>
   </programme>
-  <programme start="20210315230000 +0700" stop="20210316000000 +0700" channel="Fight Sports">
-    <title lang="id">MMA: Goncalves Vs Biko</title>
+  <programme start="20210316050000 +0700" stop="20210316060000 +0700" channel="egg network">
+    <title lang="id">SEA Spring Regional League : Week 6 Day 2</title>
   </programme>
-  <programme start="20210316000000 +0700" stop="20210316020000 +0700" channel="Fight Sports">
-    <title lang="id">Mega Fights</title>
+  <programme start="20210316060000 +0700" stop="20210316070000 +0700" channel="egg network">
+    <title lang="id">SEA Spring Regional League : Week 6 Day 2</title>
   </programme>
-  <programme start="20210316020000 +0700" stop="20210316023000 +0700" channel="Fight Sports">
-    <title lang="id">Judo For The World</title>
+  <programme start="20210316070000 +0700" stop="20210316083000 +0700" channel="egg network">
+    <title lang="id">SEA Spring Regional League : Week 6 Day 2</title>
   </programme>
-  <programme start="20210316023000 +0700" stop="20210316030000 +0700" channel="Fight Sports">
-    <title lang="id">BWF Martial Arts</title>
+  <programme start="20210316083000 +0700" stop="20210316090000 +0700" channel="egg network">
+    <title lang="id">PUBG Global Invitational. S : Week 5 - Survival Tournament Day 1</title>
+  </programme>
+  <programme start="20210316090000 +0700" stop="20210316100000 +0700" channel="egg network">
+    <title lang="id">PUBG Global Invitational. S : Week 5 - Survival Tournament Day 1</title>
+  </programme>
+  <programme start="20210316100000 +0700" stop="20210316110000 +0700" channel="egg network">
+    <title lang="id">PUBG Global Invitational. S : Week 5 - Survival Tournament Day 1</title>
+  </programme>
+  <programme start="20210316110000 +0700" stop="20210316113000 +0700" channel="egg network">
+    <title lang="id">PUBG Global Invitational. S : Week 5 - Survival Tournament Day 1</title>
+  </programme>
+  <programme start="20210316113000 +0700" stop="20210316120000 +0700" channel="egg network">
+    <title lang="id">Arena eSport Episode 213</title>
+  </programme>
+  <programme start="20210316120000 +0700" stop="20210316130000 +0700" channel="egg network">
+    <title lang="id">Mobile Legends Professional League : MY Season 7 - Week 1 Day 1</title>
+  </programme>
+  <programme start="20210316130000 +0700" stop="20210316140000 +0700" channel="egg network">
+    <title lang="id">Mobile Legends Professional League : MY Season 7 - Week 1 Day 1</title>
+  </programme>
+  <programme start="20210316140000 +0700" stop="20210316150000 +0700" channel="egg network">
+    <title lang="id">Mobile Legends Professional League : MY Season 7 - Week 1 Day 1</title>
+  </programme>
+  <programme start="20210316150000 +0700" stop="20210316160000 +0700" channel="egg network">
+    <title lang="id">Mobile Legends Professional League : MY Season 7 - Week 1 Day 1</title>
+  </programme>
+  <programme start="20210316160000 +0700" stop="20210316170000 +0700" channel="egg network">
+    <title lang="id">PGI. S Show - Episode 4</title>
+  </programme>
+  <programme start="20210316170000 +0700" stop="20210316180000 +0700" channel="egg network">
+    <title lang="id">LIVE PUBG Global Invitational. S : Week 7 - Day 1</title>
+  </programme>
+  <programme start="20210316180000 +0700" stop="20210316190000 +0700" channel="egg network">
+    <title lang="id">LIVE PUBG Global Invitational. S : Week 7 - Day 1</title>
+  </programme>
+  <programme start="20210316190000 +0700" stop="20210316200000 +0700" channel="egg network">
+    <title lang="id">LIVE PUBG Global Invitational. S : Week 7 - Day 1</title>
+  </programme>
+  <programme start="20210316200000 +0700" stop="20210316210000 +0700" channel="egg network">
+    <title lang="id">LIVE PUBG Global Invitational. S : Week 7 - Day 1</title>
+  </programme>
+  <programme start="20210316210000 +0700" stop="20210316220000 +0700" channel="egg network">
+    <title lang="id">LIVE PUBG Global Invitational. S : Week 7 - Day 1</title>
+  </programme>
+  <programme start="20210316220000 +0700" stop="20210316230000 +0700" channel="egg network">
+    <title lang="id">PGI. S Show - Episode 4</title>
+  </programme>
+  <programme start="20210316230000 +0700" stop="20210317000000 +0700" channel="egg network">
+    <title lang="id">FIFA e Club World Cup - Day 1</title>
   </programme>
   <programme start="20210316030000 +0700" stop="20210316033000 +0700" channel="Fight Sports">
     <title lang="id">Knockouts!: Mosley Vs Floyd</title>
@@ -3529,5 +3823,80 @@
   </programme>
   <programme start="20210322230000 +0700" stop="20210323000000 +0700" channel="Fight Sports">
     <title lang="id">MMA: Coxen Vs Seabi</title>
+  </programme>
+  <programme start="20210323000000 +0700" stop="20210323023000 +0700" channel="Fight Sports">
+    <title lang="id">Mega Fights</title>
+  </programme>
+  <programme start="20210323023000 +0700" stop="20210323030000 +0700" channel="Fight Sports">
+    <title lang="id">BWF Martial Arts</title>
+  </programme>
+  <programme start="20210323030000 +0700" stop="20210323033000 +0700" channel="Fight Sports">
+    <title lang="id">Knockouts!: Alvarez Vs Cintron</title>
+  </programme>
+  <programme start="20210323033000 +0700" stop="20210323040000 +0700" channel="Fight Sports">
+    <title lang="id">Grand Sumo</title>
+  </programme>
+  <programme start="20210323040000 +0700" stop="20210323050000 +0700" channel="Fight Sports">
+    <title lang="id">Karate 1 Premiere League S1</title>
+  </programme>
+  <programme start="20210323050000 +0700" stop="20210323060000 +0700" channel="Fight Sports">
+    <title lang="id">MMA: Coxen Vs Seabi</title>
+  </programme>
+  <programme start="20210323060000 +0700" stop="20210323083000 +0700" channel="Fight Sports">
+    <title lang="id">Mega Fights</title>
+  </programme>
+  <programme start="20210323083000 +0700" stop="20210323090000 +0700" channel="Fight Sports">
+    <title lang="id">BWF Martial Arts</title>
+  </programme>
+  <programme start="20210323090000 +0700" stop="20210323093000 +0700" channel="Fight Sports">
+    <title lang="id">Knockouts!: Alvarez Vs Cintron</title>
+  </programme>
+  <programme start="20210323093000 +0700" stop="20210323100000 +0700" channel="Fight Sports">
+    <title lang="id">Grand Sumo</title>
+  </programme>
+  <programme start="20210323100000 +0700" stop="20210323110000 +0700" channel="Fight Sports">
+    <title lang="id">Karate 1 Premiere League S1</title>
+  </programme>
+  <programme start="20210323110000 +0700" stop="20210323120000 +0700" channel="Fight Sports">
+    <title lang="id">MMA: Coxen Vs Seabi</title>
+  </programme>
+  <programme start="20210323120000 +0700" stop="20210323143000 +0700" channel="Fight Sports">
+    <title lang="id">Mega Fights</title>
+  </programme>
+  <programme start="20210323143000 +0700" stop="20210323150000 +0700" channel="Fight Sports">
+    <title lang="id">BWF Martial Arts</title>
+  </programme>
+  <programme start="20210323150000 +0700" stop="20210323153000 +0700" channel="Fight Sports">
+    <title lang="id">Knockouts!: Alvarez Vs Cintron</title>
+  </programme>
+  <programme start="20210323153000 +0700" stop="20210323160000 +0700" channel="Fight Sports">
+    <title lang="id">Grand Sumo</title>
+  </programme>
+  <programme start="20210323160000 +0700" stop="20210323170000 +0700" channel="Fight Sports">
+    <title lang="id">Karate 1 Premiere League S1</title>
+  </programme>
+  <programme start="20210323170000 +0700" stop="20210323180000 +0700" channel="Fight Sports">
+    <title lang="id">MMA: Coxen Vs Seabi</title>
+  </programme>
+  <programme start="20210323180000 +0700" stop="20210323200000 +0700" channel="Fight Sports">
+    <title lang="id">WCCB: Beterbiev Vs Prieto</title>
+  </programme>
+  <programme start="20210323200000 +0700" stop="20210323210000 +0700" channel="Fight Sports">
+    <title lang="id">Fight Quest</title>
+  </programme>
+  <programme start="20210323210000 +0700" stop="20210323213000 +0700" channel="Fight Sports">
+    <title lang="id">Knockouts!: Alvarez Vs Cotto</title>
+  </programme>
+  <programme start="20210323213000 +0700" stop="20210323220000 +0700" channel="Fight Sports">
+    <title lang="id">Grand Sumo</title>
+  </programme>
+  <programme start="20210323220000 +0700" stop="20210323223000 +0700" channel="Fight Sports">
+    <title lang="id">BWF Martial Arts</title>
+  </programme>
+  <programme start="20210323223000 +0700" stop="20210323230000 +0700" channel="Fight Sports">
+    <title lang="id">MMA 30</title>
+  </programme>
+  <programme start="20210323230000 +0700" stop="20210324000000 +0700" channel="Fight Sports">
+    <title lang="id">MMA: Zulu Vs Alves</title>
   </programme>
 </tv>

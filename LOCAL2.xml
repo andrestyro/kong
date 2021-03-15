@@ -5,22 +5,25 @@
     <icon src="https://mncvision.id/userfiles/image/channel/channel_111.png" />
     <url>http://www.mncvision.id.E</url>
   </channel>
-  <channel id="ALQURAN ALKARIM">
-    <display-name lang="id">ALQURAN ALKARIM</display-name>
-    <url>http://www.telkomvision.com</url>
+  <channel id="Al Quran Al Kareem">
+    <display-name lang="id">Al Quran Al Kareem</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_93.png" />
+    <url>http://www.mncvision.id.E</url>
   </channel>
   <channel id="Arirang">
     <display-name lang="id">Arirang</display-name>
     <icon src="https://mncvision.id/userfiles/image/channel/channel_351.png" />
     <url>http://www.mncvision.id.E</url>
   </channel>
-  <channel id="KBS WORD">
-    <display-name lang="id">KBS WORLD</display-name>
-    <url>http://www.telkomvision.com</url>
+  <channel id="KBS World">
+    <display-name lang="id">KBS World</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_kbsworld_small.png" />
+    <url>http://www.useetv.com</url>
   </channel>
-  <channel id="MTV ASIA">
-    <display-name lang="id">MTV ASIA</display-name>
-    <url>http://www.telkomvision.com</url>
+  <channel id="MTV Live">
+    <display-name lang="id">MTV Live</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_mtvlive_small.png" />
+    <url>http://www.useetv.com</url>
   </channel>
   <channel id="France 24 English">
     <display-name lang="id">France 24 English</display-name>
@@ -91,24 +94,6 @@
     <icon src="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
-  <programme start="20210315180000 +0700" stop="20210315191500 +0700" channel="Music channel">
-    <title lang="id">Juke Box</title>
-  </programme>
-  <programme start="20210315191500 +0700" stop="20210315203000 +0700" channel="Music channel">
-    <title lang="id">Juke Box</title>
-  </programme>
-  <programme start="20210315203000 +0700" stop="20210315213000 +0700" channel="Music channel">
-    <title lang="id">K-Hits</title>
-  </programme>
-  <programme start="20210315213000 +0700" stop="20210315221500 +0700" channel="Music channel">
-    <title lang="id">K-Hits</title>
-  </programme>
-  <programme start="20210315221500 +0700" stop="20210315230000 +0700" channel="Music channel">
-    <title lang="id">K-Hits</title>
-  </programme>
-  <programme start="20210315230000 +0700" stop="20210316000000 +0700" channel="Music channel">
-    <title lang="id">#Throwbacktime</title>
-  </programme>
   <programme start="20210316000000 +0700" stop="20210316013000 +0700" channel="Music channel">
     <title lang="id">Mega Konser</title>
   </programme>
@@ -607,38 +592,365 @@
   <programme start="20210322230000 +0700" stop="20210323000000 +0700" channel="Music channel">
     <title lang="id">#Throwbacktime</title>
   </programme>
-  <programme start="20210315190000 +0700" stop="20210315195000 +0700" channel="Arirang">
-    <title lang="id">COVID-19 Pandemic</title>
+  <programme start="20210323000000 +0700" stop="20210323013000 +0700" channel="Music channel">
+    <title lang="id">Mega Konser</title>
   </programme>
-  <programme start="20210315195000 +0700" stop="20210315200000 +0700" channel="Arirang">
-    <title lang="id">Money Monster</title>
+  <programme start="20210323013000 +0700" stop="20210323021500 +0700" channel="Music channel">
+    <title lang="id">K-Hits</title>
   </programme>
-  <programme start="20210315200000 +0700" stop="20210315203000 +0700" channel="Arirang">
-    <title lang="id">Arirang News (L)</title>
+  <programme start="20210323021500 +0700" stop="20210323030000 +0700" channel="Music channel">
+    <title lang="id">K-Hits</title>
   </programme>
-  <programme start="20210315203000 +0700" stop="20210315210000 +0700" channel="Arirang">
-    <title lang="id">Catchy Korea</title>
+  <programme start="20210323030000 +0700" stop="20210323034500 +0700" channel="Music channel">
+    <title lang="id">K-Hits</title>
   </programme>
-  <programme start="20210315210000 +0700" stop="20210315220000 +0700" channel="Arirang">
-    <title lang="id">Concert Today</title>
+  <programme start="20210323034500 +0700" stop="20210323050000 +0700" channel="Music channel">
+    <title lang="id">Juke Box</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210315222000 +0700" channel="Arirang">
-    <title lang="id">News In-Depth</title>
+  <programme start="20210323050000 +0700" stop="20210323070000 +0700" channel="Music channel">
+    <title lang="id">Indonesian Idol A New Chapter</title>
   </programme>
-  <programme start="20210315222000 +0700" stop="20210315223000 +0700" channel="Arirang">
-    <title lang="id">Korea In The Sky 2</title>
+  <programme start="20210323070000 +0700" stop="20210323073000 +0700" channel="Music channel">
+    <title lang="id">MNC Shop</title>
   </programme>
-  <programme start="20210315223000 +0700" stop="20210315230000 +0700" channel="Arirang">
-    <title lang="id">Pops In Seoul</title>
+  <programme start="20210323073000 +0700" stop="20210323084500 +0700" channel="Music channel">
+    <title lang="id">Juke Box</title>
   </programme>
-  <programme start="20210315230000 +0700" stop="20210316000000 +0700" channel="Arirang">
-    <title lang="id">Concert Today</title>
+  <programme start="20210323084500 +0700" stop="20210323093000 +0700" channel="Music channel">
+    <title lang="id">K-Hits</title>
   </programme>
-  <programme start="20210316000000 +0700" stop="20210316002000 +0700" channel="Arirang">
-    <title lang="id">News In-Depth</title>
+  <programme start="20210323093000 +0700" stop="20210323103000 +0700" channel="Music channel">
+    <title lang="id">K-Hits</title>
   </programme>
-  <programme start="20210316002000 +0700" stop="20210316003000 +0700" channel="Arirang">
-    <title lang="id">SmartBiz Accelerators Reload</title>
+  <programme start="20210323103000 +0700" stop="20210323113000 +0700" channel="Music channel">
+    <title lang="id">K-Hits</title>
+  </programme>
+  <programme start="20210323113000 +0700" stop="20210323120000 +0700" channel="Music channel">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20210323120000 +0700" stop="20210323130000 +0700" channel="Music channel">
+    <title lang="id">Video Lyric</title>
+  </programme>
+  <programme start="20210323130000 +0700" stop="20210323141500 +0700" channel="Music channel">
+    <title lang="id">Juke Box</title>
+  </programme>
+  <programme start="20210323141500 +0700" stop="20210323153000 +0700" channel="Music channel">
+    <title lang="id">Juke Box</title>
+  </programme>
+  <programme start="20210323153000 +0700" stop="20210323163000 +0700" channel="Music channel">
+    <title lang="id">K-Hits</title>
+  </programme>
+  <programme start="20210323163000 +0700" stop="20210323171500 +0700" channel="Music channel">
+    <title lang="id">K-Hits</title>
+  </programme>
+  <programme start="20210323171500 +0700" stop="20210323180000 +0700" channel="Music channel">
+    <title lang="id">K-Hits</title>
+  </programme>
+  <programme start="20210323180000 +0700" stop="20210323191500 +0700" channel="Music channel">
+    <title lang="id">Juke Box</title>
+  </programme>
+  <programme start="20210323191500 +0700" stop="20210323203000 +0700" channel="Music channel">
+    <title lang="id">Juke Box</title>
+  </programme>
+  <programme start="20210323203000 +0700" stop="20210323213000 +0700" channel="Music channel">
+    <title lang="id">K-Hits</title>
+  </programme>
+  <programme start="20210323213000 +0700" stop="20210323221500 +0700" channel="Music channel">
+    <title lang="id">K-Hits</title>
+  </programme>
+  <programme start="20210323221500 +0700" stop="20210323230000 +0700" channel="Music channel">
+    <title lang="id">K-Hits</title>
+  </programme>
+  <programme start="20210323230000 +0700" stop="20210324000000 +0700" channel="Music channel">
+    <title lang="id">#Throwbacktime</title>
+  </programme>
+  <programme start="20210316000000 +0700" stop="20210316020000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210316020000 +0700" stop="20210316040000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210316040000 +0700" stop="20210316060000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210316060000 +0700" stop="20210316080000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210316080000 +0700" stop="20210316100000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210316100000 +0700" stop="20210316120000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210316120000 +0700" stop="20210316140000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210316140000 +0700" stop="20210316160000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210316160000 +0700" stop="20210316180000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210316180000 +0700" stop="20210316200000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210316200000 +0700" stop="20210316220000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210316220000 +0700" stop="20210317000000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210317000000 +0700" stop="20210317020000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210317020000 +0700" stop="20210317040000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210317040000 +0700" stop="20210317060000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210317060000 +0700" stop="20210317080000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210317080000 +0700" stop="20210317100000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210317100000 +0700" stop="20210317120000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210317120000 +0700" stop="20210317140000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210317140000 +0700" stop="20210317160000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210317160000 +0700" stop="20210317180000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210317180000 +0700" stop="20210317200000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210317200000 +0700" stop="20210317220000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210317220000 +0700" stop="20210318000000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210318000000 +0700" stop="20210318020000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210318020000 +0700" stop="20210318040000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210318040000 +0700" stop="20210318060000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210318060000 +0700" stop="20210318080000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210318080000 +0700" stop="20210318100000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210318100000 +0700" stop="20210318120000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210318120000 +0700" stop="20210318140000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210318140000 +0700" stop="20210318160000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210318160000 +0700" stop="20210318180000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210318180000 +0700" stop="20210318200000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210318200000 +0700" stop="20210318220000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210318220000 +0700" stop="20210319000000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210319000000 +0700" stop="20210319020000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210319020000 +0700" stop="20210319040000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210319040000 +0700" stop="20210319060000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210319060000 +0700" stop="20210319080000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210319080000 +0700" stop="20210319100000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210319100000 +0700" stop="20210319120000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210319120000 +0700" stop="20210319140000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210319140000 +0700" stop="20210319160000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210319160000 +0700" stop="20210319180000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210319180000 +0700" stop="20210319200000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210319200000 +0700" stop="20210319220000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210319220000 +0700" stop="20210320000000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210320000000 +0700" stop="20210320020000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210320020000 +0700" stop="20210320040000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210320040000 +0700" stop="20210320060000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210320060000 +0700" stop="20210320080000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210320080000 +0700" stop="20210320100000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210320100000 +0700" stop="20210320120000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210320120000 +0700" stop="20210320140000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210320140000 +0700" stop="20210320160000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210320160000 +0700" stop="20210320180000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210320180000 +0700" stop="20210320200000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210320200000 +0700" stop="20210320220000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210320220000 +0700" stop="20210321000000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210321000000 +0700" stop="20210321020000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210321020000 +0700" stop="20210321040000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210321040000 +0700" stop="20210321060000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210321060000 +0700" stop="20210321080000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210321080000 +0700" stop="20210321100000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210321100000 +0700" stop="20210321120000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210321120000 +0700" stop="20210321140000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210321140000 +0700" stop="20210321160000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210321160000 +0700" stop="20210321180000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210321180000 +0700" stop="20210321200000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210321200000 +0700" stop="20210321220000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210321220000 +0700" stop="20210322000000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210322000000 +0700" stop="20210322020000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210322020000 +0700" stop="20210322040000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210322040000 +0700" stop="20210322060000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210322060000 +0700" stop="20210322080000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210322080000 +0700" stop="20210322100000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210322100000 +0700" stop="20210322120000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210322120000 +0700" stop="20210322140000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210322140000 +0700" stop="20210322160000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210322160000 +0700" stop="20210322180000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210322180000 +0700" stop="20210322200000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210322200000 +0700" stop="20210322220000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210322220000 +0700" stop="20210323000000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210323000000 +0700" stop="20210323020000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210323020000 +0700" stop="20210323040000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210323040000 +0700" stop="20210323060000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210323060000 +0700" stop="20210323080000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210323080000 +0700" stop="20210323100000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210323100000 +0700" stop="20210323120000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210323120000 +0700" stop="20210323140000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210323140000 +0700" stop="20210323160000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210323160000 +0700" stop="20210323180000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210323180000 +0700" stop="20210323200000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210323200000 +0700" stop="20210323220000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
+  </programme>
+  <programme start="20210323220000 +0700" stop="20210324000000 +0700" channel="Al Quran Al Kareem">
+    <title lang="id">Live From Mekkah</title>
   </programme>
   <programme start="20210316003000 +0700" stop="20210316012000 +0700" channel="Arirang">
     <title lang="id">COVID-19 Pandemic</title>
@@ -1729,98 +2041,452 @@
   <programme start="20210322230000 +0700" stop="20210323000000 +0700" channel="Arirang">
     <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315190000 +0700" stop="20210315191500 +0700" channel="France 24 English">
-    <title lang="id">News (L)</title>
+  <programme start="20210323000000 +0700" stop="20210323002000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315191500 +0700" stop="20210315191600 +0700" channel="France 24 English">
-    <title lang="id">Headlines (L)</title>
+  <programme start="20210323002000 +0700" stop="20210323003000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315191600 +0700" stop="20210315192100 +0700" channel="France 24 English">
-    <title lang="id">Culture Critics (L)</title>
+  <programme start="20210323003000 +0700" stop="20210323012000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315192100 +0700" stop="20210315193000 +0700" channel="France 24 English">
-    <title lang="id">Sport TTI PKG</title>
+  <programme start="20210323012000 +0700" stop="20210323013000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315193000 +0700" stop="20210315194500 +0700" channel="France 24 English">
-    <title lang="id">News (L)</title>
+  <programme start="20210323013000 +0700" stop="20210323020000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315194500 +0700" stop="20210315194600 +0700" channel="France 24 English">
-    <title lang="id">Headlines (L)</title>
+  <programme start="20210323020000 +0700" stop="20210323022000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315194600 +0700" stop="20210315195100 +0700" channel="France 24 English">
-    <title lang="id">Focus (L)</title>
+  <programme start="20210323022000 +0700" stop="20210323023000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315195100 +0700" stop="20210315200000 +0700" channel="France 24 English">
-    <title lang="id">Sports (L)</title>
+  <programme start="20210323023000 +0700" stop="20210323030000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315200000 +0700" stop="20210315201000 +0700" channel="France 24 English">
-    <title lang="id">News (L)</title>
+  <programme start="20210323030000 +0700" stop="20210323040000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315201000 +0700" stop="20210315201600 +0700" channel="France 24 English">
-    <title lang="id">The Observers</title>
+  <programme start="20210323040000 +0700" stop="20210323043000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315201600 +0700" stop="20210315203000 +0700" channel="France 24 English">
-    <title lang="id">France In Focus</title>
+  <programme start="20210323043000 +0700" stop="20210323050000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315203000 +0700" stop="20210315204000 +0700" channel="France 24 English">
-    <title lang="id">News (L)</title>
+  <programme start="20210323050000 +0700" stop="20210323053000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315204000 +0700" stop="20210315210000 +0700" channel="France 24 English">
-    <title lang="id">Revisited</title>
+  <programme start="20210323053000 +0700" stop="20210323060000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315210000 +0700" stop="20210315211500 +0700" channel="France 24 English">
-    <title lang="id">News (L)</title>
+  <programme start="20210323060000 +0700" stop="20210323063000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315211500 +0700" stop="20210315212100 +0700" channel="France 24 English">
-    <title lang="id">French Connections</title>
+  <programme start="20210323063000 +0700" stop="20210323070000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315212100 +0700" stop="20210315213000 +0700" channel="France 24 English">
-    <title lang="id">You Are Here</title>
+  <programme start="20210323070000 +0700" stop="20210323073000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315213000 +0700" stop="20210315214500 +0700" channel="France 24 English">
-    <title lang="id">News (L)</title>
+  <programme start="20210323073000 +0700" stop="20210323080000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315214500 +0700" stop="20210315220000 +0700" channel="France 24 English">
-    <title lang="id">Reporters</title>
+  <programme start="20210323080000 +0700" stop="20210323083000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210315221600 +0700" channel="France 24 English">
-    <title lang="id">News (L)</title>
+  <programme start="20210323083000 +0700" stop="20210323090000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315221600 +0700" stop="20210315223000 +0700" channel="France 24 English">
-    <title lang="id">Encore!</title>
+  <programme start="20210323090000 +0700" stop="20210323093000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315223000 +0700" stop="20210315224500 +0700" channel="France 24 English">
-    <title lang="id">News (L)</title>
+  <programme start="20210323093000 +0700" stop="20210323100000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315224500 +0700" stop="20210315230000 +0700" channel="France 24 English">
-    <title lang="id">Access Asia</title>
+  <programme start="20210323100000 +0700" stop="20210323101000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315230000 +0700" stop="20210315231500 +0700" channel="France 24 English">
-    <title lang="id">News (L)</title>
+  <programme start="20210323101000 +0700" stop="20210323103000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315231500 +0700" stop="20210315231600 +0700" channel="France 24 English">
-    <title lang="id">Headlines (L)</title>
+  <programme start="20210323103000 +0700" stop="20210323110000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315231600 +0700" stop="20210315233000 +0700" channel="France 24 English">
-    <title lang="id">Top Story (L)</title>
+  <programme start="20210323110000 +0700" stop="20210323120000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315233000 +0700" stop="20210315234500 +0700" channel="France 24 English">
-    <title lang="id">News (L)</title>
+  <programme start="20210323120000 +0700" stop="20210323121000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315234500 +0700" stop="20210315234600 +0700" channel="France 24 English">
-    <title lang="id">Headlines (L)</title>
+  <programme start="20210323121000 +0700" stop="20210323123000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315234600 +0700" stop="20210315235100 +0700" channel="France 24 English">
-    <title lang="id">Business (L)</title>
+  <programme start="20210323123000 +0700" stop="20210323130000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210315235100 +0700" stop="20210316000000 +0700" channel="France 24 English">
-    <title lang="id">Sports (L)</title>
+  <programme start="20210323130000 +0700" stop="20210323140000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210316000000 +0700" stop="20210316001000 +0700" channel="France 24 English">
-    <title lang="id">News (L)</title>
+  <programme start="20210323140000 +0700" stop="20210323143000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
   </programme>
-  <programme start="20210316001000 +0700" stop="20210316003000 +0700" channel="France 24 English">
-    <title lang="id">The Debate, Pt 1 (L)</title>
+  <programme start="20210323143000 +0700" stop="20210323150000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
+  </programme>
+  <programme start="20210323150000 +0700" stop="20210323153000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
+  </programme>
+  <programme start="20210323153000 +0700" stop="20210323160000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
+  </programme>
+  <programme start="20210323160000 +0700" stop="20210323161000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
+  </programme>
+  <programme start="20210323161000 +0700" stop="20210323163000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
+  </programme>
+  <programme start="20210323163000 +0700" stop="20210323170000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
+  </programme>
+  <programme start="20210323170000 +0700" stop="20210323173000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
+  </programme>
+  <programme start="20210323173000 +0700" stop="20210323180000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
+  </programme>
+  <programme start="20210323180000 +0700" stop="20210323183000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
+  </programme>
+  <programme start="20210323183000 +0700" stop="20210323190000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
+  </programme>
+  <programme start="20210323190000 +0700" stop="20210323200000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
+  </programme>
+  <programme start="20210323200000 +0700" stop="20210323203000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
+  </programme>
+  <programme start="20210323203000 +0700" stop="20210323210000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
+  </programme>
+  <programme start="20210323210000 +0700" stop="20210323213000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
+  </programme>
+  <programme start="20210323213000 +0700" stop="20210323220000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
+  </programme>
+  <programme start="20210323220000 +0700" stop="20210323223000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
+  </programme>
+  <programme start="20210323223000 +0700" stop="20210323230000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
+  </programme>
+  <programme start="20210323230000 +0700" stop="20210323233000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
+  </programme>
+  <programme start="20210323233000 +0700" stop="20210324000000 +0700" channel="Arirang">
+    <title lang="id">Arirang</title>
+  </programme>
+  <programme start="20210317000000 +0700" stop="20210317003000 +0700" channel="KBS World">
+    <title lang="id">The Return of Superman</title>
+  </programme>
+  <programme start="20210317003000 +0700" stop="20210317004000 +0700" channel="KBS World">
+    <title lang="id">Music Bank K-Chart</title>
+  </programme>
+  <programme start="20210317004000 +0700" stop="20210317011500 +0700" channel="KBS World">
+    <title lang="id">No Matter What</title>
+  </programme>
+  <programme start="20210317011500 +0700" stop="20210317015500 +0700" channel="KBS World">
+    <title lang="id">Miss Monte-Cristo</title>
+  </programme>
+  <programme start="20210317015500 +0700" stop="20210317033000 +0700" channel="KBS World">
+    <title lang="id">THE Producers</title>
+  </programme>
+  <programme start="20210317033000 +0700" stop="20210317040000 +0700" channel="KBS World">
+    <title lang="id">Stars Top Recipe at Fun-Staurant</title>
+  </programme>
+  <programme start="20210317040000 +0700" stop="20210317051500 +0700" channel="KBS World">
+    <title lang="id">Stars Top Recipe at Fun-Staurant</title>
+  </programme>
+  <programme start="20210317051500 +0700" stop="20210317062500 +0700" channel="KBS World">
+    <title lang="id">My Fair Lady</title>
+  </programme>
+  <programme start="20210317062500 +0700" stop="20210317070000 +0700" channel="KBS World">
+    <title lang="id">No Matter What</title>
+  </programme>
+  <programme start="20210317070000 +0700" stop="20210317074000 +0700" channel="KBS World">
+    <title lang="id">Miss Monte-Cristo</title>
+  </programme>
+  <programme start="20210317074000 +0700" stop="20210317081500 +0700" channel="KBS World">
+    <title lang="id">Screening Humanity</title>
+  </programme>
+  <programme start="20210317081500 +0700" stop="20210317085500 +0700" channel="KBS World">
+    <title lang="id">Fatal Promise</title>
+  </programme>
+  <programme start="20210317085500 +0700" stop="20210317101000 +0700" channel="KBS World">
+    <title lang="id">Homemade Love Story</title>
+  </programme>
+  <programme start="20210317101000 +0700" stop="20210317114500 +0700" channel="KBS World">
+    <title lang="id">Stars Top Recipe at Fun-Staurant</title>
+  </programme>
+  <programme start="20210317114500 +0700" stop="20210317132000 +0700" channel="KBS World">
+    <title lang="id">THE Producers</title>
+  </programme>
+  <programme start="20210317132000 +0700" stop="20210317143000 +0700" channel="KBS World">
+    <title lang="id">My Fair Lady</title>
+  </programme>
+  <programme start="20210317143000 +0700" stop="20210317145000 +0700" channel="KBS World">
+    <title lang="id">KBS World News Today</title>
+  </programme>
+  <programme start="20210317145000 +0700" stop="20210317154500 +0700" channel="KBS World">
+    <title lang="id">My Neighbor Charles</title>
+  </programme>
+  <programme start="20210317154500 +0700" stop="20210317172500 +0700" channel="KBS World">
+    <title lang="id">The Return of Superman Encore</title>
+  </programme>
+  <programme start="20210317172500 +0700" stop="20210317185500 +0700" channel="KBS World">
+    <title lang="id">Two Days and One Night 4</title>
+  </programme>
+  <programme start="20210317185500 +0700" stop="20210317193000 +0700" channel="KBS World">
+    <title lang="id">No Matter What</title>
+  </programme>
+  <programme start="20210317193000 +0700" stop="20210317201000 +0700" channel="KBS World">
+    <title lang="id">Miss Monte-Cristo</title>
+  </programme>
+  <programme start="20210317201000 +0700" stop="20210317213000 +0700" channel="KBS World">
+    <title lang="id">Cruel Love</title>
+  </programme>
+  <programme start="20210317213000 +0700" stop="20210317225500 +0700" channel="KBS World">
+    <title lang="id">Dogs Are Incredible</title>
+  </programme>
+  <programme start="20210317225500 +0700" stop="20210318000000 +0700" channel="KBS World">
+    <title lang="id">My Fair Lady</title>
+  </programme>
+  <programme start="20210316005500 +0700" stop="20210316035000 +0700" channel="MTV Live">
+    <title lang="id">Totally Uninterrupted Party Hits</title>
+  </programme>
+  <programme start="20210316035000 +0700" stop="20210316035500 +0700" channel="MTV Live">
+    <title lang="id">Hot Right Now</title>
+  </programme>
+  <programme start="20210316035500 +0700" stop="20210316044000 +0700" channel="MTV Live">
+    <title lang="id">World Stage: Flo Rida</title>
+  </programme>
+  <programme start="20210316044000 +0700" stop="20210316050500 +0700" channel="MTV Live">
+    <title lang="id">Mabel And Friends</title>
+  </programme>
+  <programme start="20210316050500 +0700" stop="20210316052500 +0700" channel="MTV Live">
+    <title lang="id">Mabel: MTV Live From Fusion Festival 2019</title>
+  </programme>
+  <programme start="20210316052500 +0700" stop="20210316061000 +0700" channel="MTV Live">
+    <title lang="id">Jax Jones Most Viewed Vids</title>
+  </programme>
+  <programme start="20210316061000 +0700" stop="20210316065500 +0700" channel="MTV Live">
+    <title lang="id">World Stage: Jason Derulo</title>
+  </programme>
+  <programme start="20210316065500 +0700" stop="20210316080000 +0700" channel="MTV Live">
+    <title lang="id">2021 Grammys: The Nominees</title>
+  </programme>
+  <programme start="20210316080000 +0700" stop="20210316085500 +0700" channel="MTV Live">
+    <title lang="id">High Definition Hits</title>
+  </programme>
+  <programme start="20210316085500 +0700" stop="20210316094000 +0700" channel="MTV Live">
+    <title lang="id">MTV World Stage Indonesia: Anne-Marie NCT</title>
+  </programme>
+  <programme start="20210316094000 +0700" stop="20210316102500 +0700" channel="MTV Live">
+    <title lang="id">Anne-Marie And Friends</title>
+  </programme>
+  <programme start="20210316102500 +0700" stop="20210316130000 +0700" channel="MTV Live">
+    <title lang="id">Hot Right Now</title>
+  </programme>
+  <programme start="20210316130000 +0700" stop="20210316170000 +0700" channel="MTV Live">
+    <title lang="id">High Definition Hits</title>
+  </programme>
+  <programme start="20210316170000 +0700" stop="20210316180000 +0700" channel="MTV Live">
+    <title lang="id">2021 Grammys: The Nominees</title>
+  </programme>
+  <programme start="20210316180000 +0700" stop="20210316184500 +0700" channel="MTV Live">
+    <title lang="id">MTV World Stage Indonesia: Anne-Marie NCT</title>
+  </programme>
+  <programme start="20210316184500 +0700" stop="20210316193000 +0700" channel="MTV Live">
+    <title lang="id">Anne-Marie And Friends</title>
+  </programme>
+  <programme start="20210316193000 +0700" stop="20210316201500 +0700" channel="MTV Live">
+    <title lang="id">World Stage: Flo Rida</title>
+  </programme>
+  <programme start="20210316201500 +0700" stop="20210316203500 +0700" channel="MTV Live">
+    <title lang="id">Mabel And Friends</title>
+  </programme>
+  <programme start="20210316203500 +0700" stop="20210316210000 +0700" channel="MTV Live">
+    <title lang="id">Mabel: MTV Live From Fusion Festival 2019</title>
+  </programme>
+  <programme start="20210316210000 +0700" stop="20210316223000 +0700" channel="MTV Live">
+    <title lang="id">24K Goldns 24k Hits</title>
+  </programme>
+  <programme start="20210316223000 +0700" stop="20210316230000 +0700" channel="MTV Live">
+    <title lang="id">MTV Asks: Doja Cat</title>
+  </programme>
+  <programme start="20210316230000 +0700" stop="20210317010000 +0700" channel="MTV Live">
+    <title lang="id">Hot Right Now</title>
+  </programme>
+  <programme start="20210317010000 +0700" stop="20210317020000 +0700" channel="MTV Live">
+    <title lang="id">Rock Solid Playlist</title>
+  </programme>
+  <programme start="20210317020000 +0700" stop="20210317033000 +0700" channel="MTV Live">
+    <title lang="id">24K Goldns 24k Hits</title>
+  </programme>
+  <programme start="20210317033000 +0700" stop="20210317040000 +0700" channel="MTV Live">
+    <title lang="id">MTV Asks: Doja Cat</title>
+  </programme>
+  <programme start="20210317040000 +0700" stop="20210317042000 +0700" channel="MTV Live">
+    <title lang="id">MTV Unplugged Presents: BTS</title>
+  </programme>
+  <programme start="20210317042000 +0700" stop="20210317044500 +0700" channel="MTV Live">
+    <title lang="id">Twenty One Pilots: MTV World Stage</title>
+  </programme>
+  <programme start="20210317044500 +0700" stop="20210317050500 +0700" channel="MTV Live">
+    <title lang="id">MTV Push Live 2020: Raye</title>
+  </programme>
+  <programme start="20210317050500 +0700" stop="20210317053000 +0700" channel="MTV Live">
+    <title lang="id">Rudimental: MTV Live From Fusion Festival 2019</title>
+  </programme>
+  <programme start="20210317053000 +0700" stop="20210317061500 +0700" channel="MTV Live">
+    <title lang="id">MTV World Stage Indonesia: Anne-Marie NCT</title>
+  </programme>
+  <programme start="20210317061500 +0700" stop="20210317070000 +0700" channel="MTV Live">
+    <title lang="id">Anne-Marie And Friends</title>
+  </programme>
+  <programme start="20210317070000 +0700" stop="20210317080000 +0700" channel="MTV Live">
+    <title lang="id">2021 Grammys: The Nominees</title>
+  </programme>
+  <programme start="20210317080000 +0700" stop="20210317090000 +0700" channel="MTV Live">
+    <title lang="id">High Definition Hits</title>
+  </programme>
+  <programme start="20210317090000 +0700" stop="20210317094500 +0700" channel="MTV Live">
+    <title lang="id">Jax Jones Most Viewed Vids</title>
+  </programme>
+  <programme start="20210317094500 +0700" stop="20210317103000 +0700" channel="MTV Live">
+    <title lang="id">World Stage: Jason Derulo</title>
+  </programme>
+  <programme start="20210317103000 +0700" stop="20210317130000 +0700" channel="MTV Live">
+    <title lang="id">Hot Right Now</title>
+  </programme>
+  <programme start="20210317130000 +0700" stop="20210317170000 +0700" channel="MTV Live">
+    <title lang="id">High Definition Hits</title>
+  </programme>
+  <programme start="20210317170000 +0700" stop="20210317180000 +0700" channel="MTV Live">
+    <title lang="id">Powerplay This Weeks MTV Hotlist</title>
+  </programme>
+  <programme start="20210317180000 +0700" stop="20210317184500 +0700" channel="MTV Live">
+    <title lang="id">World Stage Flo Rida</title>
+  </programme>
+  <programme start="20210317184500 +0700" stop="20210317190500 +0700" channel="MTV Live">
+    <title lang="id">Mabel And Friends</title>
+  </programme>
+  <programme start="20210317190500 +0700" stop="20210317192500 +0700" channel="MTV Live">
+    <title lang="id">Mabel MTV Live From Fusion Festival 2019</title>
+  </programme>
+  <programme start="20210317192500 +0700" stop="20210317195500 +0700" channel="MTV Live">
+    <title lang="id">MTV Unplugged Presents BTS</title>
+  </programme>
+  <programme start="20210317195500 +0700" stop="20210317201500 +0700" channel="MTV Live">
+    <title lang="id">Twenty One Pilots MTV World Stage</title>
+  </programme>
+  <programme start="20210317201500 +0700" stop="20210317203500 +0700" channel="MTV Live">
+    <title lang="id">MTV Push Live 2020 Raye</title>
+  </programme>
+  <programme start="20210317203500 +0700" stop="20210317210000 +0700" channel="MTV Live">
+    <title lang="id">Rudimental MTV Live From Fusion Festival 2019</title>
+  </programme>
+  <programme start="20210317210000 +0700" stop="20210317223000 +0700" channel="MTV Live">
+    <title lang="id">Billie Eilish X Rosalia X Dua Lipa</title>
+  </programme>
+  <programme start="20210317223000 +0700" stop="20210317225000 +0700" channel="MTV Live">
+    <title lang="id">MTV Asks Yungblud Home</title>
+  </programme>
+  <programme start="20210317225000 +0700" stop="20210318010000 +0700" channel="MTV Live">
+    <title lang="id">Hot Right Now</title>
+  </programme>
+  <programme start="20210318010000 +0700" stop="20210318020000 +0700" channel="MTV Live">
+    <title lang="id">Rock Solid Playlist</title>
+  </programme>
+  <programme start="20210318020000 +0700" stop="20210318032500 +0700" channel="MTV Live">
+    <title lang="id">Billie Eilish X Rosalia X Dua Lipa</title>
+  </programme>
+  <programme start="20210318032500 +0700" stop="20210318035000 +0700" channel="MTV Live">
+    <title lang="id">MTV Asks Yungblud Home</title>
+  </programme>
+  <programme start="20210318035000 +0700" stop="20210318040000 +0700" channel="MTV Live">
+    <title lang="id">Hot Right Now</title>
+  </programme>
+  <programme start="20210318040000 +0700" stop="20210318044500 +0700" channel="MTV Live">
+    <title lang="id">World Stage Flo Rida</title>
+  </programme>
+  <programme start="20210318044500 +0700" stop="20210318050500 +0700" channel="MTV Live">
+    <title lang="id">Mabel And Friends</title>
+  </programme>
+  <programme start="20210318050500 +0700" stop="20210318052500 +0700" channel="MTV Live">
+    <title lang="id">Mabel MTV Live From Fusion Festival 2019</title>
+  </programme>
+  <programme start="20210318052500 +0700" stop="20210318061000 +0700" channel="MTV Live">
+    <title lang="id">Jax Jones Most Viewed Vids</title>
+  </programme>
+  <programme start="20210318061000 +0700" stop="20210318065500 +0700" channel="MTV Live">
+    <title lang="id">World Stage Jason Derulo</title>
+  </programme>
+  <programme start="20210318065500 +0700" stop="20210318080000 +0700" channel="MTV Live">
+    <title lang="id">2021 Grammys The Winners</title>
+  </programme>
+  <programme start="20210318080000 +0700" stop="20210318090000 +0700" channel="MTV Live">
+    <title lang="id">High Definition Hits</title>
+  </programme>
+  <programme start="20210318090000 +0700" stop="20210318092500 +0700" channel="MTV Live">
+    <title lang="id">MTV Unplugged Presents BTS</title>
+  </programme>
+  <programme start="20210318092500 +0700" stop="20210318094500 +0700" channel="MTV Live">
+    <title lang="id">Twenty One Pilots MTV World Stage</title>
+  </programme>
+  <programme start="20210318094500 +0700" stop="20210318101000 +0700" channel="MTV Live">
+    <title lang="id">MTV Push Live 2020 Raye</title>
+  </programme>
+  <programme start="20210318101000 +0700" stop="20210318103000 +0700" channel="MTV Live">
+    <title lang="id">Rudimental MTV Live From Fusion Festival 2019</title>
+  </programme>
+  <programme start="20210318103000 +0700" stop="20210318130000 +0700" channel="MTV Live">
+    <title lang="id">Hot Right Now</title>
+  </programme>
+  <programme start="20210318130000 +0700" stop="20210318170000 +0700" channel="MTV Live">
+    <title lang="id">High Definition Hits</title>
+  </programme>
+  <programme start="20210318170000 +0700" stop="20210318180000 +0700" channel="MTV Live">
+    <title lang="id">2021 Grammys The Winners</title>
+  </programme>
+  <programme start="20210318180000 +0700" stop="20210318182000 +0700" channel="MTV Live">
+    <title lang="id">MTV Unplugged Presents BTS</title>
+  </programme>
+  <programme start="20210318182000 +0700" stop="20210318184500 +0700" channel="MTV Live">
+    <title lang="id">Twenty One Pilots MTV World Stage</title>
+  </programme>
+  <programme start="20210318184500 +0700" stop="20210318190500 +0700" channel="MTV Live">
+    <title lang="id">MTV Push Live 2020 Raye</title>
+  </programme>
+  <programme start="20210318190500 +0700" stop="20210318193000 +0700" channel="MTV Live">
+    <title lang="id">Rudimental MTV Live From Fusion Festival 2019</title>
+  </programme>
+  <programme start="20210318193000 +0700" stop="20210318201500 +0700" channel="MTV Live">
+    <title lang="id">MTV World Stage Indonesia Anne-Marie NCT</title>
+  </programme>
+  <programme start="20210318201500 +0700" stop="20210318210000 +0700" channel="MTV Live">
+    <title lang="id">Anne-Marie And Friends</title>
+  </programme>
+  <programme start="20210318210000 +0700" stop="20210318223000 +0700" channel="MTV Live">
+    <title lang="id">MTV Rewind 2017</title>
+  </programme>
+  <programme start="20210318223000 +0700" stop="20210318230000 +0700" channel="MTV Live">
+    <title lang="id">MTV Asks 5 Seconds Of Summer Home</title>
+  </programme>
+  <programme start="20210318230000 +0700" stop="20210319010000 +0700" channel="MTV Live">
+    <title lang="id">Hot Right Now</title>
   </programme>
   <programme start="20210316003000 +0700" stop="20210316003200 +0700" channel="France 24 English">
     <title lang="id">Headlines (L)</title>
@@ -4714,41 +5380,449 @@
   <programme start="20210322235100 +0700" stop="20210323000000 +0700" channel="France 24 English">
     <title lang="id">Sports (L)</title>
   </programme>
-  <programme start="20210315190000 +0700" stop="20210315195000 +0700" channel="ABC Australia">
-    <title lang="id">Grand Designs Australia</title>
+  <programme start="20210323000000 +0700" stop="20210323001000 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
   </programme>
-  <programme start="20210315195000 +0700" stop="20210315200000 +0700" channel="ABC Australia">
-    <title lang="id">Gardening Australia</title>
+  <programme start="20210323001000 +0700" stop="20210323003000 +0700" channel="France 24 English">
+    <title lang="id">The Debate, Pt 1 (L)</title>
   </programme>
-  <programme start="20210315200000 +0700" stop="20210315203000 +0700" channel="ABC Australia">
-    <title lang="id">ABC Late News</title>
+  <programme start="20210323003000 +0700" stop="20210323003200 +0700" channel="France 24 English">
+    <title lang="id">Headlines (L)</title>
   </programme>
-  <programme start="20210315203000 +0700" stop="20210315205000 +0700" channel="ABC Australia">
-    <title lang="id">Home And Away</title>
+  <programme start="20210323003200 +0700" stop="20210323005200 +0700" channel="France 24 English">
+    <title lang="id">The Debate, Pt 2 (L)</title>
   </programme>
-  <programme start="20210315205000 +0700" stop="20210315210000 +0700" channel="ABC Australia">
-    <title lang="id">BTN Newsbreak</title>
+  <programme start="20210323005200 +0700" stop="20210323010000 +0700" channel="France 24 English">
+    <title lang="id">Focus</title>
   </programme>
-  <programme start="20210315210000 +0700" stop="20210315211500 +0700" channel="ABC Australia">
-    <title lang="id">ABC Late News</title>
+  <programme start="20210323010000 +0700" stop="20210323011500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
   </programme>
-  <programme start="20210315211500 +0700" stop="20210315213000 +0700" channel="ABC Australia">
-    <title lang="id">The Business</title>
+  <programme start="20210323011500 +0700" stop="20210323011600 +0700" channel="France 24 English">
+    <title lang="id">Headlines (L)</title>
   </programme>
-  <programme start="20210315213000 +0700" stop="20210315220000 +0700" channel="ABC Australia">
-    <title lang="id">7.30</title>
+  <programme start="20210323011600 +0700" stop="20210323012100 +0700" channel="France 24 English">
+    <title lang="id">Business (L)</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210315230000 +0700" channel="ABC Australia">
-    <title lang="id">The Drum</title>
+  <programme start="20210323012100 +0700" stop="20210323013000 +0700" channel="France 24 English">
+    <title lang="id">Sports (L)</title>
   </programme>
-  <programme start="20210315230000 +0700" stop="20210315235500 +0700" channel="ABC Australia">
-    <title lang="id">The World</title>
+  <programme start="20210323013000 +0700" stop="20210323014500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
   </programme>
-  <programme start="20210315235500 +0700" stop="20210316001500 +0700" channel="ABC Australia">
-    <title lang="id">ABC News Overnight</title>
+  <programme start="20210323014500 +0700" stop="20210323014600 +0700" channel="France 24 English">
+    <title lang="id">Headlines (L)</title>
   </programme>
-  <programme start="20210316001500 +0700" stop="20210316003000 +0700" channel="ABC Australia">
-    <title lang="id">The Business</title>
+  <programme start="20210323014600 +0700" stop="20210323015100 +0700" channel="France 24 English">
+    <title lang="id">Media Watch (L)</title>
+  </programme>
+  <programme start="20210323015100 +0700" stop="20210323020000 +0700" channel="France 24 English">
+    <title lang="id">Focus (L)</title>
+  </programme>
+  <programme start="20210323020000 +0700" stop="20210323021700 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323021700 +0700" stop="20210323021800 +0700" channel="France 24 English">
+    <title lang="id">Headlines (L)</title>
+  </programme>
+  <programme start="20210323021800 +0700" stop="20210323023000 +0700" channel="France 24 English">
+    <title lang="id">Business (L)</title>
+  </programme>
+  <programme start="20210323023000 +0700" stop="20210323024500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323024500 +0700" stop="20210323024600 +0700" channel="France 24 English">
+    <title lang="id">Headlines (L)</title>
+  </programme>
+  <programme start="20210323024600 +0700" stop="20210323030000 +0700" channel="France 24 English">
+    <title lang="id">Eye On Africa (L)</title>
+  </programme>
+  <programme start="20210323030000 +0700" stop="20210323031500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323031500 +0700" stop="20210323031600 +0700" channel="France 24 English">
+    <title lang="id">Headlines (L)</title>
+  </programme>
+  <programme start="20210323031600 +0700" stop="20210323032100 +0700" channel="France 24 English">
+    <title lang="id">Business (L)</title>
+  </programme>
+  <programme start="20210323032100 +0700" stop="20210323033000 +0700" channel="France 24 English">
+    <title lang="id">Media Watch (L)</title>
+  </programme>
+  <programme start="20210323033000 +0700" stop="20210323034500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323034500 +0700" stop="20210323034600 +0700" channel="France 24 English">
+    <title lang="id">Headlines (L)</title>
+  </programme>
+  <programme start="20210323034600 +0700" stop="20210323040000 +0700" channel="France 24 English">
+    <title lang="id">Eye On Africa (L)</title>
+  </programme>
+  <programme start="20210323040000 +0700" stop="20210323041500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323041500 +0700" stop="20210323041600 +0700" channel="France 24 English">
+    <title lang="id">Headlines (L)</title>
+  </programme>
+  <programme start="20210323041600 +0700" stop="20210323043000 +0700" channel="France 24 English">
+    <title lang="id">Business + Media Watch</title>
+  </programme>
+  <programme start="20210323043000 +0700" stop="20210323044500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323044500 +0700" stop="20210323044600 +0700" channel="France 24 English">
+    <title lang="id">Headlines (L)</title>
+  </programme>
+  <programme start="20210323044600 +0700" stop="20210323045100 +0700" channel="France 24 English">
+    <title lang="id">Sports (L)</title>
+  </programme>
+  <programme start="20210323045100 +0700" stop="20210323050000 +0700" channel="France 24 English">
+    <title lang="id">Focus (L)</title>
+  </programme>
+  <programme start="20210323050000 +0700" stop="20210323051100 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323051100 +0700" stop="20210323053000 +0700" channel="France 24 English">
+    <title lang="id">The Debate, Pt 1</title>
+  </programme>
+  <programme start="20210323053000 +0700" stop="20210323053200 +0700" channel="France 24 English">
+    <title lang="id">Headlines (L)</title>
+  </programme>
+  <programme start="20210323053200 +0700" stop="20210323055200 +0700" channel="France 24 English">
+    <title lang="id">The Debate, Pt 2</title>
+  </programme>
+  <programme start="20210323055200 +0700" stop="20210323060000 +0700" channel="France 24 English">
+    <title lang="id">Focus</title>
+  </programme>
+  <programme start="20210323060000 +0700" stop="20210323061500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323061500 +0700" stop="20210323062000 +0700" channel="France 24 English">
+    <title lang="id">Business</title>
+  </programme>
+  <programme start="20210323062000 +0700" stop="20210323063000 +0700" channel="France 24 English">
+    <title lang="id">Sports B</title>
+  </programme>
+  <programme start="20210323063000 +0700" stop="20210323064500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323064500 +0700" stop="20210323070000 +0700" channel="France 24 English">
+    <title lang="id">Encore!</title>
+  </programme>
+  <programme start="20210323070000 +0700" stop="20210323071500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323071500 +0700" stop="20210323072000 +0700" channel="France 24 English">
+    <title lang="id">Focus</title>
+  </programme>
+  <programme start="20210323072000 +0700" stop="20210323073000 +0700" channel="France 24 English">
+    <title lang="id">French Connections</title>
+  </programme>
+  <programme start="20210323073000 +0700" stop="20210323074500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323074500 +0700" stop="20210323080000 +0700" channel="France 24 English">
+    <title lang="id">Eye On Africa</title>
+  </programme>
+  <programme start="20210323080000 +0700" stop="20210323081100 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323081100 +0700" stop="20210323083000 +0700" channel="France 24 English">
+    <title lang="id">The Debate, Pt 1</title>
+  </programme>
+  <programme start="20210323083000 +0700" stop="20210323083200 +0700" channel="France 24 English">
+    <title lang="id">Headlines (L)</title>
+  </programme>
+  <programme start="20210323083200 +0700" stop="20210323085200 +0700" channel="France 24 English">
+    <title lang="id">The Debate, Pt 2</title>
+  </programme>
+  <programme start="20210323085200 +0700" stop="20210323090000 +0700" channel="France 24 English">
+    <title lang="id">French Connections</title>
+  </programme>
+  <programme start="20210323090000 +0700" stop="20210323091500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323091500 +0700" stop="20210323093000 +0700" channel="France 24 English">
+    <title lang="id">Access Asia</title>
+  </programme>
+  <programme start="20210323093000 +0700" stop="20210323094500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323094500 +0700" stop="20210323100000 +0700" channel="France 24 English">
+    <title lang="id">The 51%</title>
+  </programme>
+  <programme start="20210323100000 +0700" stop="20210323101500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323101500 +0700" stop="20210323103000 +0700" channel="France 24 English">
+    <title lang="id">Eye On Africa</title>
+  </programme>
+  <programme start="20210323103000 +0700" stop="20210323104500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323104500 +0700" stop="20210323110000 +0700" channel="France 24 English">
+    <title lang="id">Encore!</title>
+  </programme>
+  <programme start="20210323110000 +0700" stop="20210323111500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323111500 +0700" stop="20210323111600 +0700" channel="France 24 English">
+    <title lang="id">Headlines (L)</title>
+  </programme>
+  <programme start="20210323111600 +0700" stop="20210323112000 +0700" channel="France 24 English">
+    <title lang="id">Business (L)</title>
+  </programme>
+  <programme start="20210323112000 +0700" stop="20210323112500 +0700" channel="France 24 English">
+    <title lang="id">More News (L)</title>
+  </programme>
+  <programme start="20210323112500 +0700" stop="20210323113000 +0700" channel="France 24 English">
+    <title lang="id">In The Press (L)</title>
+  </programme>
+  <programme start="20210323113000 +0700" stop="20210323114500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323114500 +0700" stop="20210323114600 +0700" channel="France 24 English">
+    <title lang="id">Headlines (L)</title>
+  </programme>
+  <programme start="20210323114600 +0700" stop="20210323115100 +0700" channel="France 24 English">
+    <title lang="id">Focus (L)</title>
+  </programme>
+  <programme start="20210323115100 +0700" stop="20210323115600 +0700" channel="France 24 English">
+    <title lang="id">Sport TTI PKG</title>
+  </programme>
+  <programme start="20210323115600 +0700" stop="20210323120000 +0700" channel="France 24 English">
+    <title lang="id">News Sign Off (L)</title>
+  </programme>
+  <programme start="20210323120000 +0700" stop="20210323121700 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323121700 +0700" stop="20210323121800 +0700" channel="France 24 English">
+    <title lang="id">Headlines (L)</title>
+  </programme>
+  <programme start="20210323121800 +0700" stop="20210323122200 +0700" channel="France 24 English">
+    <title lang="id">Business (L)</title>
+  </programme>
+  <programme start="20210323122200 +0700" stop="20210323123000 +0700" channel="France 24 English">
+    <title lang="id">In The Press (L)</title>
+  </programme>
+  <programme start="20210323123000 +0700" stop="20210323124500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323124500 +0700" stop="20210323124600 +0700" channel="France 24 English">
+    <title lang="id">Headlines (L)</title>
+  </programme>
+  <programme start="20210323124600 +0700" stop="20210323125100 +0700" channel="France 24 English">
+    <title lang="id">Global Grid (L)</title>
+  </programme>
+  <programme start="20210323125100 +0700" stop="20210323125600 +0700" channel="France 24 English">
+    <title lang="id">Focus (L)</title>
+  </programme>
+  <programme start="20210323125600 +0700" stop="20210323130000 +0700" channel="France 24 English">
+    <title lang="id">News Sign Off (L)</title>
+  </programme>
+  <programme start="20210323130000 +0700" stop="20210323131600 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323131600 +0700" stop="20210323131700 +0700" channel="France 24 English">
+    <title lang="id">Headlines (L)</title>
+  </programme>
+  <programme start="20210323131700 +0700" stop="20210323132200 +0700" channel="France 24 English">
+    <title lang="id">Business (L)</title>
+  </programme>
+  <programme start="20210323132200 +0700" stop="20210323133000 +0700" channel="France 24 English">
+    <title lang="id">More News (L)</title>
+  </programme>
+  <programme start="20210323133000 +0700" stop="20210323134000 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323134000 +0700" stop="20210323134500 +0700" channel="France 24 English">
+    <title lang="id">Perspective (L)</title>
+  </programme>
+  <programme start="20210323134500 +0700" stop="20210323134600 +0700" channel="France 24 English">
+    <title lang="id">Headlines (L)</title>
+  </programme>
+  <programme start="20210323134600 +0700" stop="20210323135600 +0700" channel="France 24 English">
+    <title lang="id">Focus + Sports A</title>
+  </programme>
+  <programme start="20210323135600 +0700" stop="20210323140000 +0700" channel="France 24 English">
+    <title lang="id">News Sign Off (L)</title>
+  </programme>
+  <programme start="20210323140000 +0700" stop="20210323141600 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323141600 +0700" stop="20210323141700 +0700" channel="France 24 English">
+    <title lang="id">Headlines (L)</title>
+  </programme>
+  <programme start="20210323141700 +0700" stop="20210323142200 +0700" channel="France 24 English">
+    <title lang="id">Business (L)</title>
+  </programme>
+  <programme start="20210323142200 +0700" stop="20210323143000 +0700" channel="France 24 English">
+    <title lang="id">In The Press (L)</title>
+  </programme>
+  <programme start="20210323143000 +0700" stop="20210323144500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323144500 +0700" stop="20210323144600 +0700" channel="France 24 English">
+    <title lang="id">Headlines (L)</title>
+  </programme>
+  <programme start="20210323144600 +0700" stop="20210323145100 +0700" channel="France 24 English">
+    <title lang="id">A La Carte (L)</title>
+  </programme>
+  <programme start="20210323145100 +0700" stop="20210323145600 +0700" channel="France 24 English">
+    <title lang="id">Focus (L)</title>
+  </programme>
+  <programme start="20210323145600 +0700" stop="20210323150000 +0700" channel="France 24 English">
+    <title lang="id">News Sign Off (L)</title>
+  </programme>
+  <programme start="20210323150000 +0700" stop="20210323151500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323151500 +0700" stop="20210323153000 +0700" channel="France 24 English">
+    <title lang="id">France In Focus</title>
+  </programme>
+  <programme start="20210323153000 +0700" stop="20210323154500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323154500 +0700" stop="20210323155000 +0700" channel="France 24 English">
+    <title lang="id">Focus</title>
+  </programme>
+  <programme start="20210323155000 +0700" stop="20210323160000 +0700" channel="France 24 English">
+    <title lang="id">Sports A</title>
+  </programme>
+  <programme start="20210323160000 +0700" stop="20210323161500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323161500 +0700" stop="20210323163000 +0700" channel="France 24 English">
+    <title lang="id">Talking Europe, Pt 1</title>
+  </programme>
+  <programme start="20210323163000 +0700" stop="20210323164500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323164500 +0700" stop="20210323170000 +0700" channel="France 24 English">
+    <title lang="id">Talking Europe, Pt 2</title>
+  </programme>
+  <programme start="20210323170000 +0700" stop="20210323171600 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323171600 +0700" stop="20210323173000 +0700" channel="France 24 English">
+    <title lang="id">Encore!</title>
+  </programme>
+  <programme start="20210323173000 +0700" stop="20210323174500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323174500 +0700" stop="20210323175100 +0700" channel="France 24 English">
+    <title lang="id">French Connections</title>
+  </programme>
+  <programme start="20210323175100 +0700" stop="20210323180000 +0700" channel="France 24 English">
+    <title lang="id">You Are Here</title>
+  </programme>
+  <programme start="20210323180000 +0700" stop="20210323181500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323181500 +0700" stop="20210323181600 +0700" channel="France 24 English">
+    <title lang="id">Headlines (L)</title>
+  </programme>
+  <programme start="20210323181600 +0700" stop="20210323181900 +0700" channel="France 24 English">
+    <title lang="id">More News (L)</title>
+  </programme>
+  <programme start="20210323181900 +0700" stop="20210323183000 +0700" channel="France 24 English">
+    <title lang="id">Business (L)</title>
+  </programme>
+  <programme start="20210323183000 +0700" stop="20210323184500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323184500 +0700" stop="20210323184600 +0700" channel="France 24 English">
+    <title lang="id">Headlines (L)</title>
+  </programme>
+  <programme start="20210323184600 +0700" stop="20210323185100 +0700" channel="France 24 English">
+    <title lang="id">In The Press (L)</title>
+  </programme>
+  <programme start="20210323185100 +0700" stop="20210323190000 +0700" channel="France 24 English">
+    <title lang="id">More News (L)</title>
+  </programme>
+  <programme start="20210323190000 +0700" stop="20210323191500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323191500 +0700" stop="20210323191600 +0700" channel="France 24 English">
+    <title lang="id">Headlines (L)</title>
+  </programme>
+  <programme start="20210323191600 +0700" stop="20210323192100 +0700" channel="France 24 English">
+    <title lang="id">Culture Critics (L)</title>
+  </programme>
+  <programme start="20210323192100 +0700" stop="20210323193000 +0700" channel="France 24 English">
+    <title lang="id">Sport TTI PKG</title>
+  </programme>
+  <programme start="20210323193000 +0700" stop="20210323194500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323194500 +0700" stop="20210323194600 +0700" channel="France 24 English">
+    <title lang="id">Headlines (L)</title>
+  </programme>
+  <programme start="20210323194600 +0700" stop="20210323195100 +0700" channel="France 24 English">
+    <title lang="id">Focus (L)</title>
+  </programme>
+  <programme start="20210323195100 +0700" stop="20210323200000 +0700" channel="France 24 English">
+    <title lang="id">Sports (L)</title>
+  </programme>
+  <programme start="20210323200000 +0700" stop="20210323201500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323201500 +0700" stop="20210323203000 +0700" channel="France 24 English">
+    <title lang="id">Access Asia</title>
+  </programme>
+  <programme start="20210323203000 +0700" stop="20210323204500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323204500 +0700" stop="20210323210000 +0700" channel="France 24 English">
+    <title lang="id">Reporters</title>
+  </programme>
+  <programme start="20210323210000 +0700" stop="20210323211500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323211500 +0700" stop="20210323212100 +0700" channel="France 24 English">
+    <title lang="id">Banlieue Project</title>
+  </programme>
+  <programme start="20210323212100 +0700" stop="20210323213000 +0700" channel="France 24 English">
+    <title lang="id">You Are Here</title>
+  </programme>
+  <programme start="20210323213000 +0700" stop="20210323214500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323214500 +0700" stop="20210323220000 +0700" channel="France 24 English">
+    <title lang="id">Correspondence</title>
+  </programme>
+  <programme start="20210323220000 +0700" stop="20210323221600 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323221600 +0700" stop="20210323223000 +0700" channel="France 24 English">
+    <title lang="id">Encore!</title>
+  </programme>
+  <programme start="20210323223000 +0700" stop="20210323224500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323224500 +0700" stop="20210323230000 +0700" channel="France 24 English">
+    <title lang="id">Middle East Matters</title>
+  </programme>
+  <programme start="20210323230000 +0700" stop="20210323231500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323231500 +0700" stop="20210323231600 +0700" channel="France 24 English">
+    <title lang="id">Headlines (L)</title>
+  </programme>
+  <programme start="20210323231600 +0700" stop="20210323233000 +0700" channel="France 24 English">
+    <title lang="id">Top Story (L)</title>
+  </programme>
+  <programme start="20210323233000 +0700" stop="20210323234500 +0700" channel="France 24 English">
+    <title lang="id">News (L)</title>
+  </programme>
+  <programme start="20210323234500 +0700" stop="20210323234600 +0700" channel="France 24 English">
+    <title lang="id">Headlines (L)</title>
+  </programme>
+  <programme start="20210323234600 +0700" stop="20210323235100 +0700" channel="France 24 English">
+    <title lang="id">Business (L)</title>
+  </programme>
+  <programme start="20210323235100 +0700" stop="20210324000000 +0700" channel="France 24 English">
+    <title lang="id">Sports (L)</title>
   </programme>
   <programme start="20210316003000 +0700" stop="20210316010500 +0700" channel="ABC Australia">
     <title lang="id">7.30</title>
@@ -5437,20 +6511,107 @@
   <programme start="20210322235500 +0700" stop="20210323001500 +0700" channel="ABC Australia">
     <title lang="id">ABC News Overnight</title>
   </programme>
-  <programme start="20210315180000 +0700" stop="20210315200000 +0700" channel="Bloomberg">
-    <title lang="id">Bloomberg Surveillance</title>
+  <programme start="20210323001500 +0700" stop="20210323003000 +0700" channel="ABC Australia">
+    <title lang="id">The Business</title>
   </programme>
-  <programme start="20210315200000 +0700" stop="20210315210000 +0700" channel="Bloomberg">
-    <title lang="id">Bloomberg Markets: The Open</title>
+  <programme start="20210323003000 +0700" stop="20210323010500 +0700" channel="ABC Australia">
+    <title lang="id">7.30</title>
   </programme>
-  <programme start="20210315210000 +0700" stop="20210315230000 +0700" channel="Bloomberg">
-    <title lang="id">Bloomberg Markets: Americas</title>
+  <programme start="20210323010500 +0700" stop="20210323012500 +0700" channel="ABC Australia">
+    <title lang="id">Home And Away</title>
   </programme>
-  <programme start="20210315230000 +0700" stop="20210316000000 +0700" channel="Bloomberg">
-    <title lang="id">Bloomberg: Balance Of Power</title>
+  <programme start="20210323012500 +0700" stop="20210323020000 +0700" channel="ABC Australia">
+    <title lang="id">Good Game Spawn Point</title>
   </programme>
-  <programme start="20210316000000 +0700" stop="20210316003000 +0700" channel="Bloomberg">
-    <title lang="id">Bloomberg Markets</title>
+  <programme start="20210323020000 +0700" stop="20210323050000 +0700" channel="ABC Australia">
+    <title lang="id">News Breakfast: Early</title>
+  </programme>
+  <programme start="20210323050000 +0700" stop="20210323080000 +0700" channel="ABC Australia">
+    <title lang="id">ABC News Mornings</title>
+  </programme>
+  <programme start="20210323080000 +0700" stop="20210323090000 +0700" channel="ABC Australia">
+    <title lang="id">ABC News At Noon</title>
+  </programme>
+  <programme start="20210323090000 +0700" stop="20210323092500 +0700" channel="ABC Australia">
+    <title lang="id">Play School</title>
+  </programme>
+  <programme start="20210323092500 +0700" stop="20210323101000 +0700" channel="ABC Australia">
+    <title lang="id">Good Game Spawn Point</title>
+  </programme>
+  <programme start="20210323101000 +0700" stop="20210323102500 +0700" channel="ABC Australia">
+    <title lang="id">Business Of English</title>
+  </programme>
+  <programme start="20210323102500 +0700" stop="20210323103000 +0700" channel="ABC Australia">
+    <title lang="id">English Bites</title>
+  </programme>
+  <programme start="20210323103000 +0700" stop="20210323103500 +0700" channel="ABC Australia">
+    <title lang="id">English Bites</title>
+  </programme>
+  <programme start="20210323103500 +0700" stop="20210323110000 +0700" channel="ABC Australia">
+    <title lang="id">Home And Away</title>
+  </programme>
+  <programme start="20210323110000 +0700" stop="20210323120000 +0700" channel="ABC Australia">
+    <title lang="id">Grand Designs Australia</title>
+  </programme>
+  <programme start="20210323120000 +0700" stop="20210323130000 +0700" channel="ABC Australia">
+    <title lang="id">Afternoon Briefing</title>
+  </programme>
+  <programme start="20210323130000 +0700" stop="20210323140000 +0700" channel="ABC Australia">
+    <title lang="id">ABC News Hour</title>
+  </programme>
+  <programme start="20210323140000 +0700" stop="20210323150000 +0700" channel="ABC Australia">
+    <title lang="id">The Drum</title>
+  </programme>
+  <programme start="20210323150000 +0700" stop="20210323152500 +0700" channel="ABC Australia">
+    <title lang="id">Home And Away</title>
+  </programme>
+  <programme start="20210323152500 +0700" stop="20210323153500 +0700" channel="ABC Australia">
+    <title lang="id">BTN Newsbreak</title>
+  </programme>
+  <programme start="20210323153500 +0700" stop="20210323160000 +0700" channel="ABC Australia">
+    <title lang="id">ABC News</title>
+  </programme>
+  <programme start="20210323160000 +0700" stop="20210323164500 +0700" channel="ABC Australia">
+    <title lang="id">ABC News Tonight</title>
+  </programme>
+  <programme start="20210323164500 +0700" stop="20210323170000 +0700" channel="ABC Australia">
+    <title lang="id">The Business</title>
+  </programme>
+  <programme start="20210323170000 +0700" stop="20210323173000 +0700" channel="ABC Australia">
+    <title lang="id">ABC Nightly News</title>
+  </programme>
+  <programme start="20210323173000 +0700" stop="20210323180000 +0700" channel="ABC Australia">
+    <title lang="id">7.30</title>
+  </programme>
+  <programme start="20210323180000 +0700" stop="20210323190000 +0700" channel="ABC Australia">
+    <title lang="id">The World</title>
+  </programme>
+  <programme start="20210323190000 +0700" stop="20210323200000 +0700" channel="ABC Australia">
+    <title lang="id">Four Corners</title>
+  </programme>
+  <programme start="20210323200000 +0700" stop="20210323203000 +0700" channel="ABC Australia">
+    <title lang="id">ABC Late News</title>
+  </programme>
+  <programme start="20210323203000 +0700" stop="20210323210000 +0700" channel="ABC Australia">
+    <title lang="id">Home And Away</title>
+  </programme>
+  <programme start="20210323210000 +0700" stop="20210323211500 +0700" channel="ABC Australia">
+    <title lang="id">ABC Late News</title>
+  </programme>
+  <programme start="20210323211500 +0700" stop="20210323213000 +0700" channel="ABC Australia">
+    <title lang="id">The Business</title>
+  </programme>
+  <programme start="20210323213000 +0700" stop="20210323220000 +0700" channel="ABC Australia">
+    <title lang="id">7.30</title>
+  </programme>
+  <programme start="20210323220000 +0700" stop="20210323230000 +0700" channel="ABC Australia">
+    <title lang="id">The Drum</title>
+  </programme>
+  <programme start="20210323230000 +0700" stop="20210323235500 +0700" channel="ABC Australia">
+    <title lang="id">The World</title>
+  </programme>
+  <programme start="20210323235500 +0700" stop="20210324001500 +0700" channel="ABC Australia">
+    <title lang="id">ABC News Overnight</title>
   </programme>
   <programme start="20210316003000 +0700" stop="20210316010000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg Markets</title>
@@ -5938,29 +7099,68 @@
   <programme start="20210322230000 +0700" stop="20210323000000 +0700" channel="Bloomberg">
     <title lang="id">Bloomberg...: European Close</title>
   </programme>
-  <programme start="20210315190000 +0700" stop="20210315200000 +0700" channel="Channel News Asia">
-    <title lang="id">Asia Tonight</title>
+  <programme start="20210323000000 +0700" stop="20210323010000 +0700" channel="Bloomberg">
+    <title lang="id">Bloomberg Technology</title>
   </programme>
-  <programme start="20210315200000 +0700" stop="20210315200200 +0700" channel="Channel News Asia">
-    <title lang="id">Headline News</title>
+  <programme start="20210323010000 +0700" stop="20210323013000 +0700" channel="Bloomberg">
+    <title lang="id">Bloomberg Big Decisions</title>
   </programme>
-  <programme start="20210315200200 +0700" stop="20210315210000 +0700" channel="Channel News Asia">
-    <title lang="id">Climate Change</title>
+  <programme start="20210323013000 +0700" stop="20210323020000 +0700" channel="Bloomberg">
+    <title lang="id">Bloomberg Big Decisions</title>
   </programme>
-  <programme start="20210315210000 +0700" stop="20210315220000 +0700" channel="Channel News Asia">
-    <title lang="id">Singapore Tonight</title>
+  <programme start="20210323020000 +0700" stop="20210323023000 +0700" channel="Bloomberg">
+    <title lang="id">The David Rubenstein Show</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210315220200 +0700" channel="Channel News Asia">
-    <title lang="id">Headline News</title>
+  <programme start="20210323023000 +0700" stop="20210323030000 +0700" channel="Bloomberg">
+    <title lang="id">The David Rubenstein Show</title>
   </programme>
-  <programme start="20210315220200 +0700" stop="20210315230000 +0700" channel="Channel News Asia">
-    <title lang="id">The Vaccine Quest</title>
+  <programme start="20210323030000 +0700" stop="20210323033000 +0700" channel="Bloomberg">
+    <title lang="id">Leaders With Lacqua</title>
   </programme>
-  <programme start="20210315230000 +0700" stop="20210316000000 +0700" channel="Channel News Asia">
-    <title lang="id">World Tonight</title>
+  <programme start="20210323033000 +0700" stop="20210323040000 +0700" channel="Bloomberg">
+    <title lang="id">Leaders With Lacqua</title>
   </programme>
-  <programme start="20210316000000 +0700" stop="20210316000200 +0700" channel="Channel News Asia">
-    <title lang="id">Headline News</title>
+  <programme start="20210323040000 +0700" stop="20210323043000 +0700" channel="Bloomberg">
+    <title lang="id">High Flyers</title>
+  </programme>
+  <programme start="20210323043000 +0700" stop="20210323050000 +0700" channel="Bloomberg">
+    <title lang="id">High Flyers</title>
+  </programme>
+  <programme start="20210323050000 +0700" stop="20210323060000 +0700" channel="Bloomberg">
+    <title lang="id">Bloomberg Daybreak: Australia</title>
+  </programme>
+  <programme start="20210323060000 +0700" stop="20210323080000 +0700" channel="Bloomberg">
+    <title lang="id">Bloomberg Daybreak: Asia</title>
+  </programme>
+  <programme start="20210323080000 +0700" stop="20210323090000 +0700" channel="Bloomberg">
+    <title lang="id">Bloomberg Markets: China Open</title>
+  </programme>
+  <programme start="20210323090000 +0700" stop="20210323110000 +0700" channel="Bloomberg">
+    <title lang="id">Bloomberg Markets: Asia</title>
+  </programme>
+  <programme start="20210323110000 +0700" stop="20210323130000 +0700" channel="Bloomberg">
+    <title lang="id">Bloomberg Daybreak: Middle East</title>
+  </programme>
+  <programme start="20210323130000 +0700" stop="20210323143000 +0700" channel="Bloomberg">
+    <title lang="id">Bloomberg Daybreak: Europe</title>
+  </programme>
+  <programme start="20210323143000 +0700" stop="20210323160000 +0700" channel="Bloomberg">
+    <title lang="id">Bloomberg...: European Open</title>
+  </programme>
+  <programme start="20210323160000 +0700" stop="20210323190000 +0700" channel="Bloomberg">
+    <title lang="id">Bloomberg Surveillance</title>
+  </programme>
+  <programme start="20210323190000 +0700" stop="20210323210000 +0700" channel="Bloomberg">
+    <title lang="id">Bloomberg Daybreak: Americas</title>
+  </programme>
+  <programme start="20210323210000 +0700" stop="20210323220000 +0700" channel="Bloomberg">
+    <title lang="id">Bloomberg Markets: The Open</title>
+  </programme>
+  <programme start="20210323220000 +0700" stop="20210323230000 +0700" channel="Bloomberg">
+    <title lang="id">Bloomberg Markets: Americas</title>
+  </programme>
+  <programme start="20210323230000 +0700" stop="20210324000000 +0700" channel="Bloomberg">
+    <title lang="id">Bloomberg...: European Close</title>
   </programme>
   <programme start="20210316000200 +0700" stop="20210316010000 +0700" channel="Channel News Asia">
     <title lang="id">Climate Change</title>
@@ -6628,14 +7828,83 @@
   <programme start="20210322230000 +0700" stop="20210323000000 +0700" channel="Channel News Asia">
     <title lang="id">World Tonight</title>
   </programme>
-  <programme start="20210315190000 +0700" stop="20210315203000 +0700" channel="MNC Entertainment">
-    <title lang="id">Take Me Out Indonesia</title>
+  <programme start="20210323000000 +0700" stop="20210323000200 +0700" channel="Channel News Asia">
+    <title lang="id">Headline News</title>
   </programme>
-  <programme start="20210315203000 +0700" stop="20210315220000 +0700" channel="MNC Entertainment">
-    <title lang="id">The Mask Singer S4</title>
+  <programme start="20210323000200 +0700" stop="20210323010000 +0700" channel="Channel News Asia">
+    <title lang="id">Climate Change</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210316003000 +0700" channel="MNC Entertainment">
-    <title lang="id">Kontes KDI 2020</title>
+  <programme start="20210323010000 +0700" stop="20210323020000 +0700" channel="Channel News Asia">
+    <title lang="id">Singapore Tonight</title>
+  </programme>
+  <programme start="20210323020000 +0700" stop="20210323030000 +0700" channel="Channel News Asia">
+    <title lang="id">For Food's Sake!</title>
+  </programme>
+  <programme start="20210323030000 +0700" stop="20210323040000 +0700" channel="Channel News Asia">
+    <title lang="id">Asia Tonight</title>
+  </programme>
+  <programme start="20210323040000 +0700" stop="20210323050000 +0700" channel="Channel News Asia">
+    <title lang="id">Climate Change</title>
+  </programme>
+  <programme start="20210323050000 +0700" stop="20210323060000 +0700" channel="Channel News Asia">
+    <title lang="id">Singapore Tonight</title>
+  </programme>
+  <programme start="20210323060000 +0700" stop="20210323090000 +0700" channel="Channel News Asia">
+    <title lang="id">Asia First</title>
+  </programme>
+  <programme start="20210323090000 +0700" stop="20210323090200 +0700" channel="Channel News Asia">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20210323090200 +0700" stop="20210323100000 +0700" channel="Channel News Asia">
+    <title lang="id">Climate Change</title>
+  </programme>
+  <programme start="20210323100000 +0700" stop="20210323113000 +0700" channel="Channel News Asia">
+    <title lang="id">Asia Now</title>
+  </programme>
+  <programme start="20210323113000 +0700" stop="20210323120000 +0700" channel="Channel News Asia">
+    <title lang="id">Money Mind</title>
+  </programme>
+  <programme start="20210323120000 +0700" stop="20210323130000 +0700" channel="Channel News Asia">
+    <title lang="id">The Vaccine Quest</title>
+  </programme>
+  <programme start="20210323130000 +0700" stop="20210323150000 +0700" channel="Channel News Asia">
+    <title lang="id">Asia Now</title>
+  </programme>
+  <programme start="20210323150000 +0700" stop="20210323150200 +0700" channel="Channel News Asia">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20210323150200 +0700" stop="20210323160000 +0700" channel="Channel News Asia">
+    <title lang="id">For Food's Sake!</title>
+  </programme>
+  <programme start="20210323160000 +0700" stop="20210323180000 +0700" channel="Channel News Asia">
+    <title lang="id">Asia Now</title>
+  </programme>
+  <programme start="20210323180000 +0700" stop="20210323180200 +0700" channel="Channel News Asia">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20210323180200 +0700" stop="20210323190000 +0700" channel="Channel News Asia">
+    <title lang="id">Climate Change</title>
+  </programme>
+  <programme start="20210323190000 +0700" stop="20210323200000 +0700" channel="Channel News Asia">
+    <title lang="id">Asia Tonight</title>
+  </programme>
+  <programme start="20210323200000 +0700" stop="20210323200200 +0700" channel="Channel News Asia">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20210323200200 +0700" stop="20210323210000 +0700" channel="Channel News Asia">
+    <title lang="id">It's In Our Nature</title>
+  </programme>
+  <programme start="20210323210000 +0700" stop="20210323220000 +0700" channel="Channel News Asia">
+    <title lang="id">Singapore Tonight</title>
+  </programme>
+  <programme start="20210323220000 +0700" stop="20210323220200 +0700" channel="Channel News Asia">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20210323220200 +0700" stop="20210323230000 +0700" channel="Channel News Asia">
+    <title lang="id">Climate Change</title>
+  </programme>
+  <programme start="20210323230000 +0700" stop="20210324000000 +0700" channel="Channel News Asia">
+    <title lang="id">World Tonight</title>
   </programme>
   <programme start="20210316003000 +0700" stop="20210316013000 +0700" channel="MNC Entertainment">
     <title lang="id">K Hits</title>
@@ -7090,29 +8359,65 @@
   <programme start="20210322220000 +0700" stop="20210323003000 +0700" channel="MNC Entertainment">
     <title lang="id">Kontes KDI 2020</title>
   </programme>
-  <programme start="20210315190000 +0700" stop="20210315193000 +0700" channel="MNC Infotainment">
-    <title lang="id">Dear Diary</title>
+  <programme start="20210323003000 +0700" stop="20210323013000 +0700" channel="MNC Entertainment">
+    <title lang="id">K Hits</title>
   </programme>
-  <programme start="20210315193000 +0700" stop="20210315200000 +0700" channel="MNC Infotainment">
-    <title lang="id">Celebrity Top 10</title>
+  <programme start="20210323013000 +0700" stop="20210323020000 +0700" channel="MNC Entertainment">
+    <title lang="id">Asli Kena Jebak</title>
   </programme>
-  <programme start="20210315200000 +0700" stop="20210315203000 +0700" channel="MNC Infotainment">
-    <title lang="id">Obsesi</title>
+  <programme start="20210323020000 +0700" stop="20210323030000 +0700" channel="MNC Entertainment">
+    <title lang="id">KomuniKata Indonesia</title>
   </programme>
-  <programme start="20210315203000 +0700" stop="20210315213000 +0700" channel="MNC Infotainment">
-    <title lang="id">Silet</title>
+  <programme start="20210323030000 +0700" stop="20210323040000 +0700" channel="MNC Entertainment">
+    <title lang="id">Family 100 Indonesia</title>
   </programme>
-  <programme start="20210315213000 +0700" stop="20210315220000 +0700" channel="MNC Infotainment">
-    <title lang="id">Go Spot</title>
+  <programme start="20210323040000 +0700" stop="20210323053000 +0700" channel="MNC Entertainment">
+    <title lang="id">Take Me Out Indonesia</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210315223000 +0700" channel="MNC Infotainment">
-    <title lang="id">Intens Reborn</title>
+  <programme start="20210323053000 +0700" stop="20210323070000 +0700" channel="MNC Entertainment">
+    <title lang="id">The Mask Singer S4</title>
   </programme>
-  <programme start="20210315223000 +0700" stop="20210315233000 +0700" channel="MNC Infotainment">
-    <title lang="id">Happy Dirumah Aja</title>
+  <programme start="20210323070000 +0700" stop="20210323073000 +0700" channel="MNC Entertainment">
+    <title lang="id">MNC Shop</title>
   </programme>
-  <programme start="20210315233000 +0700" stop="20210316003000 +0700" channel="MNC Infotainment">
-    <title lang="id">Rumah Ruben</title>
+  <programme start="20210323073000 +0700" stop="20210323083000 +0700" channel="MNC Entertainment">
+    <title lang="id">Family 100 Indonesia</title>
+  </programme>
+  <programme start="20210323083000 +0700" stop="20210323093000 +0700" channel="MNC Entertainment">
+    <title lang="id">Masihkah Kau Mencintaiku</title>
+  </programme>
+  <programme start="20210323093000 +0700" stop="20210323100000 +0700" channel="MNC Entertainment">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20210323100000 +0700" stop="20210323110000 +0700" channel="MNC Entertainment">
+    <title lang="id">Dahsyatnya 2020</title>
+  </programme>
+  <programme start="20210323110000 +0700" stop="20210323123000 +0700" channel="MNC Entertainment">
+    <title lang="id">Take Me Out Indonesia</title>
+  </programme>
+  <programme start="20210323123000 +0700" stop="20210323133000 +0700" channel="MNC Entertainment">
+    <title lang="id">K Hits</title>
+  </programme>
+  <programme start="20210323133000 +0700" stop="20210323143000 +0700" channel="MNC Entertainment">
+    <title lang="id">KomuniKata Indonesia</title>
+  </programme>
+  <programme start="20210323143000 +0700" stop="20210323153000 +0700" channel="MNC Entertainment">
+    <title lang="id">Dahsyatnya 2020</title>
+  </programme>
+  <programme start="20210323153000 +0700" stop="20210323180000 +0700" channel="MNC Entertainment">
+    <title lang="id">Kontes KDI 2020</title>
+  </programme>
+  <programme start="20210323180000 +0700" stop="20210323190000 +0700" channel="MNC Entertainment">
+    <title lang="id">Family 100 Indonesia</title>
+  </programme>
+  <programme start="20210323190000 +0700" stop="20210323203000 +0700" channel="MNC Entertainment">
+    <title lang="id">Take Me Out Indonesia</title>
+  </programme>
+  <programme start="20210323203000 +0700" stop="20210323220000 +0700" channel="MNC Entertainment">
+    <title lang="id">The Mask Singer S4</title>
+  </programme>
+  <programme start="20210323220000 +0700" stop="20210324003000 +0700" channel="MNC Entertainment">
+    <title lang="id">Kontes KDI 2020</title>
   </programme>
   <programme start="20210316003000 +0700" stop="20210316010000 +0700" channel="MNC Infotainment">
     <title lang="id">Seleb On News</title>
@@ -7855,29 +9160,110 @@
   <programme start="20210322233000 +0700" stop="20210323003000 +0700" channel="MNC Infotainment">
     <title lang="id">Rumah Ruben</title>
   </programme>
-  <programme start="20210315190000 +0700" stop="20210315200000 +0700" channel="IDX">
-    <title lang="id">Market Opening</title>
+  <programme start="20210323003000 +0700" stop="20210323010000 +0700" channel="MNC Infotainment">
+    <title lang="id">Seleb On News</title>
   </programme>
-  <programme start="20210315200000 +0700" stop="20210315203000 +0700" channel="IDX">
-    <title lang="id">Decision Maker</title>
+  <programme start="20210323010000 +0700" stop="20210323020000 +0700" channel="MNC Infotainment">
+    <title lang="id">Silet</title>
   </programme>
-  <programme start="20210315203000 +0700" stop="20210315210000 +0700" channel="IDX">
-    <title lang="id">News Screen Evening</title>
+  <programme start="20210323020000 +0700" stop="20210323023000 +0700" channel="MNC Infotainment">
+    <title lang="id">Go Spot</title>
   </programme>
-  <programme start="20210315210000 +0700" stop="20210315220000 +0700" channel="IDX">
-    <title lang="id">Market Review</title>
+  <programme start="20210323023000 +0700" stop="20210323030000 +0700" channel="MNC Infotainment">
+    <title lang="id">Celebrity &amp; Netizen</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210315230000 +0700" channel="IDX">
-    <title lang="id">IDX 2nd Closing Market</title>
+  <programme start="20210323030000 +0700" stop="20210323033000 +0700" channel="MNC Infotainment">
+    <title lang="id">Dear Diary</title>
   </programme>
-  <programme start="20210315230000 +0700" stop="20210315233000 +0700" channel="IDX">
-    <title lang="id">Market Headlines</title>
+  <programme start="20210323033000 +0700" stop="20210323040000 +0700" channel="MNC Infotainment">
+    <title lang="id">Intens Reborn</title>
   </programme>
-  <programme start="20210315233000 +0700" stop="20210316000000 +0700" channel="IDX">
-    <title lang="id">Womens Talk</title>
+  <programme start="20210323040000 +0700" stop="20210323050000 +0700" channel="MNC Infotainment">
+    <title lang="id">Happy Dirumah Aja</title>
   </programme>
-  <programme start="20210316000000 +0700" stop="20210316003000 +0700" channel="IDX">
-    <title lang="id">Traventure Man</title>
+  <programme start="20210323050000 +0700" stop="20210323053000 +0700" channel="MNC Infotainment">
+    <title lang="id">Obsesi</title>
+  </programme>
+  <programme start="20210323053000 +0700" stop="20210323060000 +0700" channel="MNC Infotainment">
+    <title lang="id">iSeleb</title>
+  </programme>
+  <programme start="20210323060000 +0700" stop="20210323070000 +0700" channel="MNC Infotainment">
+    <title lang="id">Rumah Ruben</title>
+  </programme>
+  <programme start="20210323070000 +0700" stop="20210323073000 +0700" channel="MNC Infotainment">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20210323073000 +0700" stop="20210323083000 +0700" channel="MNC Infotainment">
+    <title lang="id">Silet</title>
+  </programme>
+  <programme start="20210323083000 +0700" stop="20210323090000 +0700" channel="MNC Infotainment">
+    <title lang="id">Celebrity &amp; Netizen</title>
+  </programme>
+  <programme start="20210323090000 +0700" stop="20210323093000 +0700" channel="MNC Infotainment">
+    <title lang="id">Go Spot</title>
+  </programme>
+  <programme start="20210323093000 +0700" stop="20210323100000 +0700" channel="MNC Infotainment">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20210323100000 +0700" stop="20210323123000 +0700" channel="MNC Infotainment">
+    <title lang="id">Ikatan Cinta</title>
+  </programme>
+  <programme start="20210323123000 +0700" stop="20210323130000 +0700" channel="MNC Infotainment">
+    <title lang="id">Dear Diary</title>
+  </programme>
+  <programme start="20210323130000 +0700" stop="20210323133000 +0700" channel="MNC Infotainment">
+    <title lang="id">Obsesi</title>
+  </programme>
+  <programme start="20210323133000 +0700" stop="20210323143000 +0700" channel="MNC Infotainment">
+    <title lang="id">Rumah Ruben</title>
+  </programme>
+  <programme start="20210323143000 +0700" stop="20210323150000 +0700" channel="MNC Infotainment">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20210323150000 +0700" stop="20210323153000 +0700" channel="MNC Infotainment">
+    <title lang="id">Go Spot</title>
+  </programme>
+  <programme start="20210323153000 +0700" stop="20210323160000 +0700" channel="MNC Infotainment">
+    <title lang="id">Seleb On News</title>
+  </programme>
+  <programme start="20210323160000 +0700" stop="20210323170000 +0700" channel="MNC Infotainment">
+    <title lang="id">Silet</title>
+  </programme>
+  <programme start="20210323170000 +0700" stop="20210323173000 +0700" channel="MNC Infotainment">
+    <title lang="id">Ada Tamu Gokil</title>
+  </programme>
+  <programme start="20210323173000 +0700" stop="20210323180000 +0700" channel="MNC Infotainment">
+    <title lang="id">Intens Reborn</title>
+  </programme>
+  <programme start="20210323180000 +0700" stop="20210323183000 +0700" channel="MNC Infotainment">
+    <title lang="id">iSeleb</title>
+  </programme>
+  <programme start="20210323183000 +0700" stop="20210323190000 +0700" channel="MNC Infotainment">
+    <title lang="id">Celebrity &amp; Netizen</title>
+  </programme>
+  <programme start="20210323190000 +0700" stop="20210323193000 +0700" channel="MNC Infotainment">
+    <title lang="id">Dear Diary</title>
+  </programme>
+  <programme start="20210323193000 +0700" stop="20210323200000 +0700" channel="MNC Infotainment">
+    <title lang="id">Celebrity Top 10</title>
+  </programme>
+  <programme start="20210323200000 +0700" stop="20210323203000 +0700" channel="MNC Infotainment">
+    <title lang="id">Obsesi</title>
+  </programme>
+  <programme start="20210323203000 +0700" stop="20210323213000 +0700" channel="MNC Infotainment">
+    <title lang="id">Silet</title>
+  </programme>
+  <programme start="20210323213000 +0700" stop="20210323220000 +0700" channel="MNC Infotainment">
+    <title lang="id">Go Spot</title>
+  </programme>
+  <programme start="20210323220000 +0700" stop="20210323223000 +0700" channel="MNC Infotainment">
+    <title lang="id">Intens Reborn</title>
+  </programme>
+  <programme start="20210323223000 +0700" stop="20210323233000 +0700" channel="MNC Infotainment">
+    <title lang="id">Happy Dirumah Aja</title>
+  </programme>
+  <programme start="20210323233000 +0700" stop="20210324003000 +0700" channel="MNC Infotainment">
+    <title lang="id">Rumah Ruben</title>
   </programme>
   <programme start="20210316003000 +0700" stop="20210316013000 +0700" channel="IDX">
     <title lang="id">Market Opening</title>
@@ -8674,23 +10060,113 @@
   <programme start="20210322233000 +0700" stop="20210323000000 +0700" channel="IDX">
     <title lang="id">Womens Talk</title>
   </programme>
-  <programme start="20210315182000 +0700" stop="20210315193000 +0700" channel="Lifetime">
-    <title lang="id">MasterChef Australia</title>
+  <programme start="20210323000000 +0700" stop="20210323003000 +0700" channel="IDX">
+    <title lang="id">Traventure Man</title>
   </programme>
-  <programme start="20210315193000 +0700" stop="20210315200000 +0700" channel="Lifetime">
-    <title lang="id">Tiny House Hunting</title>
+  <programme start="20210323003000 +0700" stop="20210323013000 +0700" channel="IDX">
+    <title lang="id">Market Opening</title>
   </programme>
-  <programme start="20210315200000 +0700" stop="20210315205500 +0700" channel="Lifetime">
-    <title lang="id">The Naked Truth</title>
+  <programme start="20210323013000 +0700" stop="20210323023000 +0700" channel="IDX">
+    <title lang="id">Market Review</title>
   </programme>
-  <programme start="20210315205500 +0700" stop="20210315223000 +0700" channel="Lifetime">
-    <title lang="id">I Am Elizabeth Smart</title>
+  <programme start="20210323023000 +0700" stop="20210323033000 +0700" channel="IDX">
+    <title lang="id">IDX 2nd Closing Market</title>
   </programme>
-  <programme start="20210315223000 +0700" stop="20210315232500 +0700" channel="Lifetime">
-    <title lang="id">Donnie Loves Jenny</title>
+  <programme start="20210323033000 +0700" stop="20210323040000 +0700" channel="IDX">
+    <title lang="id">Geopark Indonesia</title>
   </programme>
-  <programme start="20210315232500 +0700" stop="20210316003500 +0700" channel="Lifetime">
-    <title lang="id">MasterChef Australia</title>
+  <programme start="20210323040000 +0700" stop="20210323043000 +0700" channel="IDX">
+    <title lang="id">Mata Pancing</title>
+  </programme>
+  <programme start="20210323043000 +0700" stop="20210323050000 +0700" channel="IDX">
+    <title lang="id">Womens Talk</title>
+  </programme>
+  <programme start="20210323050000 +0700" stop="20210323053000 +0700" channel="IDX">
+    <title lang="id">Capture</title>
+  </programme>
+  <programme start="20210323053000 +0700" stop="20210323063000 +0700" channel="IDX">
+    <title lang="id">IDX 2nd Closing Market</title>
+  </programme>
+  <programme start="20210323063000 +0700" stop="20210323073000 +0700" channel="IDX">
+    <title lang="id">Market Review</title>
+  </programme>
+  <programme start="20210323073000 +0700" stop="20210323080000 +0700" channel="IDX">
+    <title lang="id">Market Headlines</title>
+  </programme>
+  <programme start="20210323080000 +0700" stop="20210323083000 +0700" channel="IDX">
+    <title lang="id">News Screen Morning (L)</title>
+  </programme>
+  <programme start="20210323083000 +0700" stop="20210323093000 +0700" channel="IDX">
+    <title lang="id">Market Opening (L)</title>
+  </programme>
+  <programme start="20210323093000 +0700" stop="20210323100000 +0700" channel="IDX">
+    <title lang="id">Hangout</title>
+  </programme>
+  <programme start="20210323100000 +0700" stop="20210323110000 +0700" channel="IDX">
+    <title lang="id">Market Review (L)</title>
+  </programme>
+  <programme start="20210323110000 +0700" stop="20210323113000 +0700" channel="IDX">
+    <title lang="id">Decision Maker</title>
+  </programme>
+  <programme start="20210323113000 +0700" stop="20210323123000 +0700" channel="IDX">
+    <title lang="id">IDX 1st Closing Market (L)</title>
+  </programme>
+  <programme start="20210323123000 +0700" stop="20210323130000 +0700" channel="IDX">
+    <title lang="id">Womens Talk</title>
+  </programme>
+  <programme start="20210323130000 +0700" stop="20210323133000 +0700" channel="IDX">
+    <title lang="id">Urban Street Food</title>
+  </programme>
+  <programme start="20210323133000 +0700" stop="20210323140000 +0700" channel="IDX">
+    <title lang="id">People And Hobbies</title>
+  </programme>
+  <programme start="20210323140000 +0700" stop="20210323143000 +0700" channel="IDX">
+    <title lang="id">Indonesia Authentic Place</title>
+  </programme>
+  <programme start="20210323143000 +0700" stop="20210323150000 +0700" channel="IDX">
+    <title lang="id">News Screen Evening (L)</title>
+  </programme>
+  <programme start="20210323150000 +0700" stop="20210323160000 +0700" channel="IDX">
+    <title lang="id">IDX 2nd Closing Market (L)</title>
+  </programme>
+  <programme start="20210323160000 +0700" stop="20210323163000 +0700" channel="IDX">
+    <title lang="id">Hangout</title>
+  </programme>
+  <programme start="20210323163000 +0700" stop="20210323170000 +0700" channel="IDX">
+    <title lang="id">Market Headlines (L)</title>
+  </programme>
+  <programme start="20210323170000 +0700" stop="20210323173000 +0700" channel="IDX">
+    <title lang="id">Decision Maker</title>
+  </programme>
+  <programme start="20210323173000 +0700" stop="20210323180000 +0700" channel="IDX">
+    <title lang="id">Home Ideas</title>
+  </programme>
+  <programme start="20210323180000 +0700" stop="20210323183000 +0700" channel="IDX">
+    <title lang="id">Urban Street Food S2</title>
+  </programme>
+  <programme start="20210323183000 +0700" stop="20210323190000 +0700" channel="IDX">
+    <title lang="id">Double Gardan</title>
+  </programme>
+  <programme start="20210323190000 +0700" stop="20210323200000 +0700" channel="IDX">
+    <title lang="id">Market Opening</title>
+  </programme>
+  <programme start="20210323200000 +0700" stop="20210323203000 +0700" channel="IDX">
+    <title lang="id">Womens Talk</title>
+  </programme>
+  <programme start="20210323203000 +0700" stop="20210323210000 +0700" channel="IDX">
+    <title lang="id">News Screen Evening</title>
+  </programme>
+  <programme start="20210323210000 +0700" stop="20210323220000 +0700" channel="IDX">
+    <title lang="id">Market Review</title>
+  </programme>
+  <programme start="20210323220000 +0700" stop="20210323230000 +0700" channel="IDX">
+    <title lang="id">IDX 2nd Closing Market</title>
+  </programme>
+  <programme start="20210323230000 +0700" stop="20210323233000 +0700" channel="IDX">
+    <title lang="id">Market Headlines</title>
+  </programme>
+  <programme start="20210323233000 +0700" stop="20210324000000 +0700" channel="IDX">
+    <title lang="id">Hangout</title>
   </programme>
   <programme start="20210316003500 +0700" stop="20210316021000 +0700" channel="Lifetime">
     <title lang="id">I Am Elizabeth Smart</title>
@@ -9277,535 +10753,622 @@
   <programme start="20210322232500 +0700" stop="20210323005500 +0700" channel="Lifetime">
     <title lang="id">MasterChef Australia</title>
   </programme>
-  <programme start="20210315000000 +0700" stop="20210315003000 +0700" channel="Kompas TV">
-    <title lang="id">Kompas Sepekan</title>
+  <programme start="20210323005500 +0700" stop="20210323024000 +0700" channel="Lifetime">
+    <title lang="id">Abducted: Mary Stauffer Story</title>
   </programme>
-  <programme start="20210315003000 +0700" stop="20210315010000 +0700" channel="Kompas TV">
-    <title lang="id">World Enduro Super Series 2019</title>
+  <programme start="20210323024000 +0700" stop="20210323033500 +0700" channel="Lifetime">
+    <title lang="id">The Big Fat Wedding Walk</title>
   </programme>
-  <programme start="20210315010000 +0700" stop="20210315013000 +0700" channel="Kompas TV">
-    <title lang="id">MNC Shop</title>
+  <programme start="20210323033500 +0700" stop="20210323040500 +0700" channel="Lifetime">
+    <title lang="id">Tiny House Hunting</title>
   </programme>
-  <programme start="20210315013000 +0700" stop="20210315020000 +0700" channel="Kompas TV">
-    <title lang="id">Bingkai Inspirasi</title>
+  <programme start="20210323040500 +0700" stop="20210323043000 +0700" channel="Lifetime">
+    <title lang="id">#InstafamousLives</title>
   </programme>
-  <programme start="20210315020000 +0700" stop="20210315023000 +0700" channel="Kompas TV">
-    <title lang="id">Click</title>
+  <programme start="20210323043000 +0700" stop="20210323050500 +0700" channel="Lifetime">
+    <title lang="id">Half Holiday In Italy</title>
   </programme>
-  <programme start="20210315023000 +0700" stop="20210315033000 +0700" channel="Kompas TV">
-    <title lang="id">Kompas Malam</title>
+  <programme start="20210323050500 +0700" stop="20210323064000 +0700" channel="Lifetime">
+    <title lang="id">Abducted: Mary Stauffer Story</title>
   </programme>
-  <programme start="20210315033000 +0700" stop="20210315040000 +0700" channel="Kompas TV">
-    <title lang="id">Kalam Hati</title>
+  <programme start="20210323064000 +0700" stop="20210323081000 +0700" channel="Lifetime">
+    <title lang="id">MasterChef Australia</title>
   </programme>
-  <programme start="20210315040000 +0700" stop="20210315043000 +0700" channel="Kompas TV">
-    <title lang="id">Kompas Sport Pagi</title>
+  <programme start="20210323081000 +0700" stop="20210323084000 +0700" channel="Lifetime">
+    <title lang="id">#InstafamousLives</title>
   </programme>
-  <programme start="20210315043000 +0700" stop="20210315070000 +0700" channel="Kompas TV">
-    <title lang="id">Kompas Pagi</title>
+  <programme start="20210323084000 +0700" stop="20210323094000 +0700" channel="Lifetime">
+    <title lang="id">The Big Fat Wedding Walk</title>
   </programme>
-  <programme start="20210315070000 +0700" stop="20210315093000 +0700" channel="Kompas TV">
-    <title lang="id">Sapa Indonesia Pagi</title>
+  <programme start="20210323094000 +0700" stop="20210323101000 +0700" channel="Lifetime">
+    <title lang="id">Tiny House Hunting</title>
   </programme>
-  <programme start="20210315093000 +0700" stop="20210315100000 +0700" channel="Kompas TV">
-    <title lang="id">Bincang Kita</title>
+  <programme start="20210323101000 +0700" stop="20210323103500 +0700" channel="Lifetime">
+    <title lang="id">Wahlburgers</title>
   </programme>
-  <programme start="20210315100000 +0700" stop="20210315103000 +0700" channel="Kompas TV">
-    <title lang="id">Pop News</title>
+  <programme start="20210323103500 +0700" stop="20210323110500 +0700" channel="Lifetime">
+    <title lang="id">Wahlburgers</title>
   </programme>
-  <programme start="20210315103000 +0700" stop="20210315110000 +0700" channel="Kompas TV">
-    <title lang="id">Ayo Sehat</title>
+  <programme start="20210323110500 +0700" stop="20210323113500 +0700" channel="Lifetime">
+    <title lang="id">#InstafamousLives</title>
   </programme>
-  <programme start="20210315110000 +0700" stop="20210315130000 +0700" channel="Kompas TV">
-    <title lang="id">Kompas Siang</title>
+  <programme start="20210323113500 +0700" stop="20210323130500 +0700" channel="Lifetime">
+    <title lang="id">MasterChef Australia</title>
   </programme>
-  <programme start="20210315130000 +0700" stop="20210315140000 +0700" channel="Kompas TV">
-    <title lang="id">Sapa Indonesia Siang</title>
+  <programme start="20210323130500 +0700" stop="20210323144000 +0700" channel="Lifetime">
+    <title lang="id">Abducted: Mary Stauffer Story</title>
   </programme>
-  <programme start="20210315140000 +0700" stop="20210315143000 +0700" channel="Kompas TV">
-    <title lang="id">MNC Shop</title>
+  <programme start="20210323144000 +0700" stop="20210323153500 +0700" channel="Lifetime">
+    <title lang="id">The Big Fat Wedding Walk</title>
   </programme>
-  <programme start="20210315143000 +0700" stop="20210315150000 +0700" channel="Kompas TV">
-    <title lang="id">Saksi Kunci</title>
+  <programme start="20210323153500 +0700" stop="20210323160000 +0700" channel="Lifetime">
+    <title lang="id">Tiny House Hunting</title>
   </programme>
-  <programme start="20210315150000 +0700" stop="20210315160000 +0700" channel="Kompas TV">
-    <title lang="id">Update Korona</title>
+  <programme start="20210323160000 +0700" stop="20210323162500 +0700" channel="Lifetime">
+    <title lang="id">Wahlburgers</title>
   </programme>
-  <programme start="20210315160000 +0700" stop="20210315180000 +0700" channel="Kompas TV">
-    <title lang="id">Kompas Petang</title>
+  <programme start="20210323162500 +0700" stop="20210323165000 +0700" channel="Lifetime">
+    <title lang="id">Wahlburgers</title>
   </programme>
-  <programme start="20210315180000 +0700" stop="20210315190000 +0700" channel="Kompas TV">
+  <programme start="20210323165000 +0700" stop="20210323172000 +0700" channel="Lifetime">
+    <title lang="id">Instafamous House</title>
+  </programme>
+  <programme start="20210323172000 +0700" stop="20210323175000 +0700" channel="Lifetime">
+    <title lang="id">Instafamous House</title>
+  </programme>
+  <programme start="20210323175000 +0700" stop="20210323182000 +0700" channel="Lifetime">
+    <title lang="id">Scraps</title>
+  </programme>
+  <programme start="20210323182000 +0700" stop="20210323193000 +0700" channel="Lifetime">
+    <title lang="id">MasterChef Australia</title>
+  </programme>
+  <programme start="20210323193000 +0700" stop="20210323200000 +0700" channel="Lifetime">
+    <title lang="id">Tiny House Hunting</title>
+  </programme>
+  <programme start="20210323200000 +0700" stop="20210323205500 +0700" channel="Lifetime">
+    <title lang="id">My Great Big Live Wedding</title>
+  </programme>
+  <programme start="20210323205500 +0700" stop="20210323223000 +0700" channel="Lifetime">
+    <title lang="id">Mistress Hunter</title>
+  </programme>
+  <programme start="20210323223000 +0700" stop="20210323225500 +0700" channel="Lifetime">
+    <title lang="id">Donnie Loves Jenny</title>
+  </programme>
+  <programme start="20210323225500 +0700" stop="20210323232500 +0700" channel="Lifetime">
+    <title lang="id">Donnie Loves Jenny</title>
+  </programme>
+  <programme start="20210323232500 +0700" stop="20210324003500 +0700" channel="Lifetime">
+    <title lang="id">MasterChef Australia</title>
+  </programme>
+  <programme start="20210316000000 +0700" stop="20210316010000 +0700" channel="Kompas TV">
     <title lang="id">Berita Utama</title>
   </programme>
-  <programme start="20210315190000 +0700" stop="20210315200000 +0700" channel="Kompas TV">
-    <title lang="id">Sapa Indonesia Malam</title>
+  <programme start="20210316010000 +0700" stop="20210316013000 +0700" channel="Kompas TV">
+    <title lang="id">MNC Shop</title>
   </programme>
-  <programme start="20210315200000 +0700" stop="20210315210000 +0700" channel="Kompas TV">
-    <title lang="id">Aiman</title>
+  <programme start="20210316013000 +0700" stop="20210316020000 +0700" channel="Kompas TV">
+    <title lang="id">Bingkai Inspirasi</title>
   </programme>
-  <programme start="20210315210000 +0700" stop="20210315220000 +0700" channel="Kompas TV">
+  <programme start="20210316020000 +0700" stop="20210316030000 +0700" channel="Kompas TV">
     <title lang="id">Kompas Malam</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210315230000 +0700" channel="Kompas TV">
-    <title lang="id">Melek Hukum</title>
-  </programme>
-  <programme start="20210315230000 +0700" stop="20210315233000 +0700" channel="Kompas TV">
+  <programme start="20210316030000 +0700" stop="20210316033000 +0700" channel="Kompas TV">
     <title lang="id">Kilas Kompas</title>
   </programme>
-  <programme start="20210315233000 +0700" stop="20210316000000 +0700" channel="Kompas TV">
+  <programme start="20210316033000 +0700" stop="20210316040000 +0700" channel="Kompas TV">
+    <title lang="id">Kalam Hati</title>
+  </programme>
+  <programme start="20210316040000 +0700" stop="20210316043000 +0700" channel="Kompas TV">
+    <title lang="id">Kompas Sport Pagi</title>
+  </programme>
+  <programme start="20210316043000 +0700" stop="20210316070000 +0700" channel="Kompas TV">
+    <title lang="id">Kompas Pagi</title>
+  </programme>
+  <programme start="20210316070000 +0700" stop="20210316093000 +0700" channel="Kompas TV">
+    <title lang="id">Sapa Indonesia Pagi</title>
+  </programme>
+  <programme start="20210316093000 +0700" stop="20210316100000 +0700" channel="Kompas TV">
+    <title lang="id">Bincang Kita</title>
+  </programme>
+  <programme start="20210316100000 +0700" stop="20210316103000 +0700" channel="Kompas TV">
+    <title lang="id">Saksi Kunci</title>
+  </programme>
+  <programme start="20210316103000 +0700" stop="20210316110000 +0700" channel="Kompas TV">
+    <title lang="id">Ayo Sehat</title>
+  </programme>
+  <programme start="20210316110000 +0700" stop="20210316130000 +0700" channel="Kompas TV">
+    <title lang="id">Kompas Siang</title>
+  </programme>
+  <programme start="20210316130000 +0700" stop="20210316140000 +0700" channel="Kompas TV">
+    <title lang="id">Sapa Indonesia Siang</title>
+  </programme>
+  <programme start="20210316140000 +0700" stop="20210316143000 +0700" channel="Kompas TV">
+    <title lang="id">Zona Inspirasi</title>
+  </programme>
+  <programme start="20210316143000 +0700" stop="20210316150000 +0700" channel="Kompas TV">
+    <title lang="id">Saksi Kunci</title>
+  </programme>
+  <programme start="20210316150000 +0700" stop="20210316160000 +0700" channel="Kompas TV">
+    <title lang="id">Update Korona</title>
+  </programme>
+  <programme start="20210316160000 +0700" stop="20210316180000 +0700" channel="Kompas TV">
+    <title lang="id">Kompas Petang</title>
+  </programme>
+  <programme start="20210316180000 +0700" stop="20210316190000 +0700" channel="Kompas TV">
+    <title lang="id">Berita Utama</title>
+  </programme>
+  <programme start="20210316190000 +0700" stop="20210316200000 +0700" channel="Kompas TV">
+    <title lang="id">Sapa Indonesia Malam</title>
+  </programme>
+  <programme start="20210316200000 +0700" stop="20210316210000 +0700" channel="Kompas TV">
+    <title lang="id">B - Talk Business Talk</title>
+  </programme>
+  <programme start="20210316210000 +0700" stop="20210316220000 +0700" channel="Kompas TV">
+    <title lang="id">Kompas Malam</title>
+  </programme>
+  <programme start="20210316220000 +0700" stop="20210316223000 +0700" channel="Kompas TV">
+    <title lang="id">Laporan Khusus</title>
+  </programme>
+  <programme start="20210316223000 +0700" stop="20210316230000 +0700" channel="Kompas TV">
+    <title lang="id">Berkas Kompas</title>
+  </programme>
+  <programme start="20210316230000 +0700" stop="20210316233000 +0700" channel="Kompas TV">
+    <title lang="id">Kilas Kompas</title>
+  </programme>
+  <programme start="20210316233000 +0700" stop="20210317000000 +0700" channel="Kompas TV">
     <title lang="id">Kompas Sport Malam</title>
   </programme>
-  <programme start="20210315000000 +0700" stop="20210315003000 +0700" channel="SEA Today">
+  <programme start="20210316000000 +0700" stop="20210316003000 +0700" channel="SEA Today">
     <title lang="id">Duo Ransel</title>
   </programme>
-  <programme start="20210315003000 +0700" stop="20210315010000 +0700" channel="SEA Today">
+  <programme start="20210316003000 +0700" stop="20210316010000 +0700" channel="SEA Today">
     <title lang="id">Maestro</title>
   </programme>
-  <programme start="20210315010000 +0700" stop="20210315013000 +0700" channel="SEA Today">
+  <programme start="20210316010000 +0700" stop="20210316013000 +0700" channel="SEA Today">
     <title lang="id">Cerita Di Balik Lensa</title>
   </programme>
-  <programme start="20210315013000 +0700" stop="20210315020000 +0700" channel="SEA Today">
+  <programme start="20210316013000 +0700" stop="20210316020000 +0700" channel="SEA Today">
     <title lang="id">Ruang Teh</title>
   </programme>
-  <programme start="20210315020000 +0700" stop="20210315023000 +0700" channel="SEA Today">
+  <programme start="20210316020000 +0700" stop="20210316023000 +0700" channel="SEA Today">
     <title lang="id">Temurun</title>
   </programme>
-  <programme start="20210315023000 +0700" stop="20210315030000 +0700" channel="SEA Today">
+  <programme start="20210316023000 +0700" stop="20210316030000 +0700" channel="SEA Today">
     <title lang="id">Break The Limit</title>
   </programme>
-  <programme start="20210315030000 +0700" stop="20210315033000 +0700" channel="SEA Today">
+  <programme start="20210316030000 +0700" stop="20210316033000 +0700" channel="SEA Today">
     <title lang="id">Local Pride</title>
   </programme>
-  <programme start="20210315033000 +0700" stop="20210315040000 +0700" channel="SEA Today">
+  <programme start="20210316033000 +0700" stop="20210316040000 +0700" channel="SEA Today">
     <title lang="id">Duo Ransel</title>
   </programme>
-  <programme start="20210315040000 +0700" stop="20210315043000 +0700" channel="SEA Today">
+  <programme start="20210316040000 +0700" stop="20210316043000 +0700" channel="SEA Today">
     <title lang="id">Maestro</title>
   </programme>
-  <programme start="20210315043000 +0700" stop="20210315050000 +0700" channel="SEA Today">
+  <programme start="20210316043000 +0700" stop="20210316050000 +0700" channel="SEA Today">
     <title lang="id">Cerita Di Balik Lensa</title>
   </programme>
-  <programme start="20210315050000 +0700" stop="20210315053000 +0700" channel="SEA Today">
+  <programme start="20210316050000 +0700" stop="20210316053000 +0700" channel="SEA Today">
     <title lang="id">Ruang Teh</title>
   </programme>
-  <programme start="20210315053000 +0700" stop="20210315060000 +0700" channel="SEA Today">
-    <title lang="id">Dawai</title>
+  <programme start="20210316053000 +0700" stop="20210316060000 +0700" channel="SEA Today">
+    <title lang="id">Break The Limit</title>
   </programme>
-  <programme start="20210315060000 +0700" stop="20210315090000 +0700" channel="SEA Today">
+  <programme start="20210316060000 +0700" stop="20210316090000 +0700" channel="SEA Today">
     <title lang="id">Sea Morning Show</title>
   </programme>
-  <programme start="20210315090000 +0700" stop="20210315093000 +0700" channel="SEA Today">
-    <title lang="id">Cerita Di Balik Lensa</title>
-  </programme>
-  <programme start="20210315093000 +0700" stop="20210315100000 +0700" channel="SEA Today">
-    <title lang="id">Local Pride</title>
-  </programme>
-  <programme start="20210315100000 +0700" stop="20210315103000 +0700" channel="SEA Today">
-    <title lang="id">Duo Ransel</title>
-  </programme>
-  <programme start="20210315103000 +0700" stop="20210315110000 +0700" channel="SEA Today">
-    <title lang="id">Maestro</title>
-  </programme>
-  <programme start="20210315110000 +0700" stop="20210315113000 +0700" channel="SEA Today">
-    <title lang="id">Cerita Di Balik Lensa</title>
-  </programme>
-  <programme start="20210315113000 +0700" stop="20210315120000 +0700" channel="SEA Today">
+  <programme start="20210316090000 +0700" stop="20210316093000 +0700" channel="SEA Today">
     <title lang="id">Temurun</title>
   </programme>
-  <programme start="20210315120000 +0700" stop="20210315150000 +0700" channel="SEA Today">
+  <programme start="20210316093000 +0700" stop="20210316100000 +0700" channel="SEA Today">
+    <title lang="id">Local Pride</title>
+  </programme>
+  <programme start="20210316100000 +0700" stop="20210316103000 +0700" channel="SEA Today">
+    <title lang="id">Duo Ransel</title>
+  </programme>
+  <programme start="20210316103000 +0700" stop="20210316110000 +0700" channel="SEA Today">
+    <title lang="id">Maestro</title>
+  </programme>
+  <programme start="20210316110000 +0700" stop="20210316113000 +0700" channel="SEA Today">
+    <title lang="id">Cerita Di Balik Lensa</title>
+  </programme>
+  <programme start="20210316113000 +0700" stop="20210316120000 +0700" channel="SEA Today">
+    <title lang="id">Local Pride</title>
+  </programme>
+  <programme start="20210316120000 +0700" stop="20210316150000 +0700" channel="SEA Today">
     <title lang="id">Sea Morning Show Re - Run</title>
   </programme>
-  <programme start="20210315150000 +0700" stop="20210315153000 +0700" channel="SEA Today">
+  <programme start="20210316150000 +0700" stop="20210316153000 +0700" channel="SEA Today">
     <title lang="id">Ruang Teh</title>
   </programme>
-  <programme start="20210315153000 +0700" stop="20210315160000 +0700" channel="SEA Today">
+  <programme start="20210316153000 +0700" stop="20210316160000 +0700" channel="SEA Today">
     <title lang="id">Local Pride</title>
   </programme>
-  <programme start="20210315160000 +0700" stop="20210315190000 +0700" channel="SEA Today">
+  <programme start="20210316160000 +0700" stop="20210316190000 +0700" channel="SEA Today">
     <title lang="id">3 - Hour News Show</title>
   </programme>
-  <programme start="20210315190000 +0700" stop="20210315193000 +0700" channel="SEA Today">
+  <programme start="20210316190000 +0700" stop="20210316193000 +0700" channel="SEA Today">
     <title lang="id">Temurun</title>
   </programme>
-  <programme start="20210315193000 +0700" stop="20210315200000 +0700" channel="SEA Today">
+  <programme start="20210316193000 +0700" stop="20210316200000 +0700" channel="SEA Today">
     <title lang="id">Break The Limit</title>
   </programme>
-  <programme start="20210315200000 +0700" stop="20210315203000 +0700" channel="SEA Today">
+  <programme start="20210316200000 +0700" stop="20210316203000 +0700" channel="SEA Today">
     <title lang="id">Local Pride</title>
   </programme>
-  <programme start="20210315203000 +0700" stop="20210315210000 +0700" channel="SEA Today">
+  <programme start="20210316203000 +0700" stop="20210316210000 +0700" channel="SEA Today">
     <title lang="id">Duo Ransel</title>
   </programme>
-  <programme start="20210315210000 +0700" stop="20210315213000 +0700" channel="SEA Today">
+  <programme start="20210316210000 +0700" stop="20210316213000 +0700" channel="SEA Today">
     <title lang="id">Maestro</title>
   </programme>
-  <programme start="20210315213000 +0700" stop="20210315220000 +0700" channel="SEA Today">
+  <programme start="20210316213000 +0700" stop="20210316220000 +0700" channel="SEA Today">
     <title lang="id">Cerita Di Balik Lensa</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210315223000 +0700" channel="SEA Today">
+  <programme start="20210316220000 +0700" stop="20210316223000 +0700" channel="SEA Today">
     <title lang="id">Ruang Teh</title>
   </programme>
-  <programme start="20210315223000 +0700" stop="20210315230000 +0700" channel="SEA Today">
+  <programme start="20210316223000 +0700" stop="20210316230000 +0700" channel="SEA Today">
     <title lang="id">Temurun</title>
   </programme>
-  <programme start="20210315230000 +0700" stop="20210315233000 +0700" channel="SEA Today">
+  <programme start="20210316230000 +0700" stop="20210316233000 +0700" channel="SEA Today">
     <title lang="id">Break The Limit</title>
   </programme>
-  <programme start="20210315233000 +0700" stop="20210316000000 +0700" channel="SEA Today">
+  <programme start="20210316233000 +0700" stop="20210317000000 +0700" channel="SEA Today">
     <title lang="id">Local Pride</title>
   </programme>
-  <programme start="20210315000000 +0700" stop="20210315003000 +0700" channel="Ruang Trampil">
+  <programme start="20210316000000 +0700" stop="20210316003000 +0700" channel="Ruang Trampil">
     <title lang="id">Behind The Scene</title>
   </programme>
-  <programme start="20210315003000 +0700" stop="20210315010000 +0700" channel="Ruang Trampil">
+  <programme start="20210316003000 +0700" stop="20210316010000 +0700" channel="Ruang Trampil">
     <title lang="id">Ruang Otomotif</title>
   </programme>
-  <programme start="20210315010000 +0700" stop="20210315013000 +0700" channel="Ruang Trampil">
+  <programme start="20210316010000 +0700" stop="20210316013000 +0700" channel="Ruang Trampil">
     <title lang="id">Ruang Budidaya Hewan</title>
   </programme>
-  <programme start="20210315013000 +0700" stop="20210315023000 +0700" channel="Ruang Trampil">
+  <programme start="20210316013000 +0700" stop="20210316023000 +0700" channel="Ruang Trampil">
     <title lang="id">Mentor Investor</title>
   </programme>
-  <programme start="20210315023000 +0700" stop="20210315033000 +0700" channel="Ruang Trampil">
+  <programme start="20210316023000 +0700" stop="20210316033000 +0700" channel="Ruang Trampil">
     <title lang="id">Sweet</title>
   </programme>
-  <programme start="20210315033000 +0700" stop="20210315043000 +0700" channel="Ruang Trampil">
+  <programme start="20210316033000 +0700" stop="20210316043000 +0700" channel="Ruang Trampil">
     <title lang="id">Dapur Lindawaty</title>
   </programme>
-  <programme start="20210315043000 +0700" stop="20210315050000 +0700" channel="Ruang Trampil">
+  <programme start="20210316043000 +0700" stop="20210316050000 +0700" channel="Ruang Trampil">
     <title lang="id">Ruang Barista Brewing</title>
   </programme>
-  <programme start="20210315050000 +0700" stop="20210315053000 +0700" channel="Ruang Trampil">
+  <programme start="20210316050000 +0700" stop="20210316053000 +0700" channel="Ruang Trampil">
     <title lang="id">Ruang Teh</title>
   </programme>
-  <programme start="20210315053000 +0700" stop="20210315060000 +0700" channel="Ruang Trampil">
+  <programme start="20210316053000 +0700" stop="20210316060000 +0700" channel="Ruang Trampil">
     <title lang="id">Ruang Berkebun</title>
   </programme>
-  <programme start="20210315060000 +0700" stop="20210315063000 +0700" channel="Ruang Trampil">
+  <programme start="20210316060000 +0700" stop="20210316063000 +0700" channel="Ruang Trampil">
     <title lang="id">Healthy Beauty</title>
   </programme>
-  <programme start="20210315063000 +0700" stop="20210315070000 +0700" channel="Ruang Trampil">
+  <programme start="20210316063000 +0700" stop="20210316070000 +0700" channel="Ruang Trampil">
     <title lang="id">Food Versus</title>
   </programme>
-  <programme start="20210315070000 +0700" stop="20210315073000 +0700" channel="Ruang Trampil">
+  <programme start="20210316070000 +0700" stop="20210316073000 +0700" channel="Ruang Trampil">
     <title lang="id">Food Photography</title>
   </programme>
-  <programme start="20210315073000 +0700" stop="20210315083000 +0700" channel="Ruang Trampil">
+  <programme start="20210316073000 +0700" stop="20210316083000 +0700" channel="Ruang Trampil">
     <title lang="id">Dapur Lindawaty</title>
   </programme>
-  <programme start="20210315083000 +0700" stop="20210315090000 +0700" channel="Ruang Trampil">
+  <programme start="20210316083000 +0700" stop="20210316090000 +0700" channel="Ruang Trampil">
     <title lang="id">Home Design</title>
   </programme>
-  <programme start="20210315090000 +0700" stop="20210315093000 +0700" channel="Ruang Trampil">
+  <programme start="20210316090000 +0700" stop="20210316093000 +0700" channel="Ruang Trampil">
     <title lang="id">Ruang Kreatif</title>
   </programme>
-  <programme start="20210315093000 +0700" stop="20210315100000 +0700" channel="Ruang Trampil">
+  <programme start="20210316093000 +0700" stop="20210316100000 +0700" channel="Ruang Trampil">
     <title lang="id">Local Pride</title>
   </programme>
-  <programme start="20210315100000 +0700" stop="20210315110000 +0700" channel="Ruang Trampil">
-    <title lang="id">Lejel Homeshopping - Royal Jade Matt</title>
+  <programme start="20210316100000 +0700" stop="20210316110000 +0700" channel="Ruang Trampil">
+    <title lang="id">Lejel Homeshopping - Hit Power Squat</title>
   </programme>
-  <programme start="20210315110000 +0700" stop="20210315120000 +0700" channel="Ruang Trampil">
+  <programme start="20210316110000 +0700" stop="20210316120000 +0700" channel="Ruang Trampil">
     <title lang="id">Dapur Lindawaty</title>
   </programme>
-  <programme start="20210315120000 +0700" stop="20210315123000 +0700" channel="Ruang Trampil">
+  <programme start="20210316120000 +0700" stop="20210316123000 +0700" channel="Ruang Trampil">
     <title lang="id">Inovator</title>
   </programme>
-  <programme start="20210315123000 +0700" stop="20210315130000 +0700" channel="Ruang Trampil">
+  <programme start="20210316123000 +0700" stop="20210316130000 +0700" channel="Ruang Trampil">
     <title lang="id">Kulineran</title>
   </programme>
-  <programme start="20210315130000 +0700" stop="20210315133000 +0700" channel="Ruang Trampil">
+  <programme start="20210316130000 +0700" stop="20210316133000 +0700" channel="Ruang Trampil">
     <title lang="id">Sweet</title>
   </programme>
-  <programme start="20210315133000 +0700" stop="20210315140000 +0700" channel="Ruang Trampil">
+  <programme start="20210316133000 +0700" stop="20210316140000 +0700" channel="Ruang Trampil">
     <title lang="id">Ruang Teh</title>
   </programme>
-  <programme start="20210315140000 +0700" stop="20210315150000 +0700" channel="Ruang Trampil">
+  <programme start="20210316140000 +0700" stop="20210316150000 +0700" channel="Ruang Trampil">
     <title lang="id">Mentor Investor</title>
   </programme>
-  <programme start="20210315150000 +0700" stop="20210315153000 +0700" channel="Ruang Trampil">
+  <programme start="20210316150000 +0700" stop="20210316153000 +0700" channel="Ruang Trampil">
     <title lang="id">Ruang Otomotif</title>
   </programme>
-  <programme start="20210315153000 +0700" stop="20210315160000 +0700" channel="Ruang Trampil">
+  <programme start="20210316153000 +0700" stop="20210316160000 +0700" channel="Ruang Trampil">
     <title lang="id">Ruang Florist</title>
   </programme>
-  <programme start="20210315160000 +0700" stop="20210315170000 +0700" channel="Ruang Trampil">
-    <title lang="id">Lejel Homeshopping - Gingseng Merah</title>
+  <programme start="20210316160000 +0700" stop="20210316170000 +0700" channel="Ruang Trampil">
+    <title lang="id">Lejel Homeshopping - Royal Jade Matt</title>
   </programme>
-  <programme start="20210315170000 +0700" stop="20210315173000 +0700" channel="Ruang Trampil">
+  <programme start="20210316170000 +0700" stop="20210316173000 +0700" channel="Ruang Trampil">
     <title lang="id">Sweet</title>
   </programme>
-  <programme start="20210315173000 +0700" stop="20210315180000 +0700" channel="Ruang Trampil">
+  <programme start="20210316173000 +0700" stop="20210316180000 +0700" channel="Ruang Trampil">
     <title lang="id">Ruang Teh</title>
   </programme>
-  <programme start="20210315180000 +0700" stop="20210315190000 +0700" channel="Ruang Trampil">
+  <programme start="20210316180000 +0700" stop="20210316190000 +0700" channel="Ruang Trampil">
     <title lang="id">Dapur Lindawaty</title>
   </programme>
-  <programme start="20210315190000 +0700" stop="20210315193000 +0700" channel="Ruang Trampil">
+  <programme start="20210316190000 +0700" stop="20210316193000 +0700" channel="Ruang Trampil">
     <title lang="id">Ruang Make Up</title>
   </programme>
-  <programme start="20210315193000 +0700" stop="20210315200000 +0700" channel="Ruang Trampil">
+  <programme start="20210316193000 +0700" stop="20210316200000 +0700" channel="Ruang Trampil">
     <title lang="id">Behind The Scene</title>
   </programme>
-  <programme start="20210315200000 +0700" stop="20210315210000 +0700" channel="Ruang Trampil">
+  <programme start="20210316200000 +0700" stop="20210316210000 +0700" channel="Ruang Trampil">
     <title lang="id">Speak Up</title>
   </programme>
-  <programme start="20210315210000 +0700" stop="20210315213000 +0700" channel="Ruang Trampil">
+  <programme start="20210316210000 +0700" stop="20210316213000 +0700" channel="Ruang Trampil">
     <title lang="id">Ruang Budidaya Hewan</title>
   </programme>
-  <programme start="20210315213000 +0700" stop="20210315220000 +0700" channel="Ruang Trampil">
+  <programme start="20210316213000 +0700" stop="20210316220000 +0700" channel="Ruang Trampil">
     <title lang="id">Ruang Otomotif</title>
   </programme>
-  <programme start="20210315220000 +0700" stop="20210315223000 +0700" channel="Ruang Trampil">
+  <programme start="20210316220000 +0700" stop="20210316223000 +0700" channel="Ruang Trampil">
     <title lang="id">Ruang Teh</title>
   </programme>
-  <programme start="20210315223000 +0700" stop="20210315230000 +0700" channel="Ruang Trampil">
+  <programme start="20210316223000 +0700" stop="20210316230000 +0700" channel="Ruang Trampil">
     <title lang="id">Ruang Barista Brewing</title>
   </programme>
-  <programme start="20210315230000 +0700" stop="20210315233000 +0700" channel="Ruang Trampil">
+  <programme start="20210316230000 +0700" stop="20210316233000 +0700" channel="Ruang Trampil">
     <title lang="id">Ruang Make Up</title>
   </programme>
-  <programme start="20210315233000 +0700" stop="20210316000000 +0700" channel="Ruang Trampil">
+  <programme start="20210316233000 +0700" stop="20210317000000 +0700" channel="Ruang Trampil">
     <title lang="id">Local Pride</title>
   </programme>
-  <programme start="20210315000000 +0700" stop="20210315010000 +0700" channel="Usee Photo">
-    <title lang="id">Satria Berkamera - Eps. 16</title>
+  <programme start="20210316000000 +0700" stop="20210316010000 +0700" channel="Usee Photo">
+    <title lang="id">Satria Berkamera - Eps. 17</title>
   </programme>
-  <programme start="20210315010000 +0700" stop="20210315013000 +0700" channel="Usee Photo">
-    <title lang="id">Life of DOP - Eps. 3</title>
+  <programme start="20210316010000 +0700" stop="20210316013000 +0700" channel="Usee Photo">
+    <title lang="id">Life of DOP - Eps. 4</title>
   </programme>
-  <programme start="20210315013000 +0700" stop="20210315020000 +0700" channel="Usee Photo">
-    <title lang="id">Blitz - Eps. 1</title>
+  <programme start="20210316013000 +0700" stop="20210316020000 +0700" channel="Usee Photo">
+    <title lang="id">Blitz - Eps. 2</title>
   </programme>
-  <programme start="20210315020000 +0700" stop="20210315023000 +0700" channel="Usee Photo">
-    <title lang="id">Models - Eps. 15</title>
+  <programme start="20210316020000 +0700" stop="20210316023000 +0700" channel="Usee Photo">
+    <title lang="id">Models - Eps. 16</title>
   </programme>
-  <programme start="20210315023000 +0700" stop="20210315030000 +0700" channel="Usee Photo">
-    <title lang="id">I Babes - Eps. 10</title>
+  <programme start="20210316023000 +0700" stop="20210316030000 +0700" channel="Usee Photo">
+    <title lang="id">I Babes - Eps. 11</title>
   </programme>
-  <programme start="20210315030000 +0700" stop="20210315033000 +0700" channel="Usee Photo">
-    <title lang="id">Apperture of Animal - Eps. 4</title>
+  <programme start="20210316030000 +0700" stop="20210316033000 +0700" channel="Usee Photo">
+    <title lang="id">Apperture of Animal - Eps. 5</title>
   </programme>
-  <programme start="20210315033000 +0700" stop="20210315043000 +0700" channel="Usee Photo">
-    <title lang="id">Cam Talk - Eps. 11</title>
+  <programme start="20210316033000 +0700" stop="20210316043000 +0700" channel="Usee Photo">
+    <title lang="id">Cam Talk - Eps. 12</title>
   </programme>
-  <programme start="20210315043000 +0700" stop="20210315053000 +0700" channel="Usee Photo">
-    <title lang="id">Satria Berkamera - Eps. 11 - Waduk Pluit</title>
+  <programme start="20210316043000 +0700" stop="20210316053000 +0700" channel="Usee Photo">
+    <title lang="id">Satria Berkamera - Eps. 12 - Harvest</title>
   </programme>
-  <programme start="20210315053000 +0700" stop="20210315063000 +0700" channel="Usee Photo">
-    <title lang="id">Lelaki dan Fotografi - Eps. 23</title>
+  <programme start="20210316053000 +0700" stop="20210316063000 +0700" channel="Usee Photo">
+    <title lang="id">Lelaki dan Fotografi - Eps. 24</title>
   </programme>
-  <programme start="20210315063000 +0700" stop="20210315070000 +0700" channel="Usee Photo">
-    <title lang="id">Snapshot - Eps. 5</title>
+  <programme start="20210316063000 +0700" stop="20210316070000 +0700" channel="Usee Photo">
+    <title lang="id">Snapshot - Eps. 6</title>
   </programme>
-  <programme start="20210315070000 +0700" stop="20210315073000 +0700" channel="Usee Photo">
-    <title lang="id">Portofolio - Eps. 6</title>
+  <programme start="20210316070000 +0700" stop="20210316073000 +0700" channel="Usee Photo">
+    <title lang="id">Portofolio - Eps. 7</title>
   </programme>
-  <programme start="20210315073000 +0700" stop="20210315080000 +0700" channel="Usee Photo">
-    <title lang="id">Cerita Di Balik Lensa - Pasar Johar</title>
+  <programme start="20210316073000 +0700" stop="20210316080000 +0700" channel="Usee Photo">
+    <title lang="id">Cerita Di Balik Lensa - Kota Lama</title>
   </programme>
-  <programme start="20210315080000 +0700" stop="20210315083000 +0700" channel="Usee Photo">
-    <title lang="id">Asal Jepret - Eps. 10</title>
+  <programme start="20210316080000 +0700" stop="20210316083000 +0700" channel="Usee Photo">
+    <title lang="id">Asal Jepret - Eps. 11</title>
   </programme>
-  <programme start="20210315083000 +0700" stop="20210315090000 +0700" channel="Usee Photo">
-    <title lang="id">The Studio - Eps. 4</title>
-  </programme>
-  <programme start="20210315090000 +0700" stop="20210315093000 +0700" channel="Usee Photo">
-    <title lang="id">Inspired Potrait - Eps. 1</title>
-  </programme>
-  <programme start="20210315093000 +0700" stop="20210315100000 +0700" channel="Usee Photo">
-    <title lang="id">Maestro - Eps. 6</title>
-  </programme>
-  <programme start="20210315100000 +0700" stop="20210315103000 +0700" channel="Usee Photo">
-    <title lang="id">Travel dan Fotografi - Eps. 27</title>
-  </programme>
-  <programme start="20210315103000 +0700" stop="20210315110000 +0700" channel="Usee Photo">
-    <title lang="id">Stage Potrait - Eps. 8</title>
-  </programme>
-  <programme start="20210315110000 +0700" stop="20210315113000 +0700" channel="Usee Photo">
-    <title lang="id">Photo Hunter - Eps. 6</title>
-  </programme>
-  <programme start="20210315113000 +0700" stop="20210315123000 +0700" channel="Usee Photo">
-    <title lang="id">Satria Berkamera - Eps. 23</title>
-  </programme>
-  <programme start="20210315123000 +0700" stop="20210315130000 +0700" channel="Usee Photo">
-    <title lang="id">Portofolio - Eps. 11</title>
-  </programme>
-  <programme start="20210315130000 +0700" stop="20210315133000 +0700" channel="Usee Photo">
-    <title lang="id">Cerita Di Balik Lensa - Kraton</title>
-  </programme>
-  <programme start="20210315133000 +0700" stop="20210315140000 +0700" channel="Usee Photo">
-    <title lang="id">Models - Eps. 22 - Vintage Vibes</title>
-  </programme>
-  <programme start="20210315140000 +0700" stop="20210315150000 +0700" channel="Usee Photo">
-    <title lang="id">Cam Talk - Eps. 20</title>
-  </programme>
-  <programme start="20210315150000 +0700" stop="20210315153000 +0700" channel="Usee Photo">
-    <title lang="id">Travel dan Fotografi - Honeymoon Tegal Wangi</title>
-  </programme>
-  <programme start="20210315153000 +0700" stop="20210315160000 +0700" channel="Usee Photo">
-    <title lang="id">Snapshot - Eps. 11</title>
-  </programme>
-  <programme start="20210315160000 +0700" stop="20210315163000 +0700" channel="Usee Photo">
-    <title lang="id">I Babes - Eps. 2</title>
-  </programme>
-  <programme start="20210315163000 +0700" stop="20210315170000 +0700" channel="Usee Photo">
-    <title lang="id">Stage Potrait - Eps. 5</title>
-  </programme>
-  <programme start="20210315170000 +0700" stop="20210315173000 +0700" channel="Usee Photo">
+  <programme start="20210316083000 +0700" stop="20210316090000 +0700" channel="Usee Photo">
     <title lang="id">The Studio - Eps. 5</title>
   </programme>
-  <programme start="20210315173000 +0700" stop="20210315180000 +0700" channel="Usee Photo">
-    <title lang="id">Asal Jepret - Eps. 3</title>
+  <programme start="20210316090000 +0700" stop="20210316093000 +0700" channel="Usee Photo">
+    <title lang="id">Inspired Potrait - Eps. 2</title>
   </programme>
-  <programme start="20210315180000 +0700" stop="20210315183000 +0700" channel="Usee Photo">
-    <title lang="id">Food Photography - Eps. 4</title>
+  <programme start="20210316093000 +0700" stop="20210316100000 +0700" channel="Usee Photo">
+    <title lang="id">Maestro - Eps. 7</title>
   </programme>
-  <programme start="20210315183000 +0700" stop="20210315193000 +0700" channel="Usee Photo">
-    <title lang="id">Lelaki dan Fotografi - Eps. 31</title>
+  <programme start="20210316100000 +0700" stop="20210316103000 +0700" channel="Usee Photo">
+    <title lang="id">Travel dan Fotografi - Eps. 28</title>
   </programme>
-  <programme start="20210315193000 +0700" stop="20210315203000 +0700" channel="Usee Photo">
-    <title lang="id">Satria Berkamera - Eps. 30</title>
+  <programme start="20210316103000 +0700" stop="20210316110000 +0700" channel="Usee Photo">
+    <title lang="id">Stage Potrait - Eps. 1</title>
   </programme>
-  <programme start="20210315203000 +0700" stop="20210315210000 +0700" channel="Usee Photo">
-    <title lang="id">Models - Eps. 20</title>
+  <programme start="20210316110000 +0700" stop="20210316113000 +0700" channel="Usee Photo">
+    <title lang="id">Photo Hunter - Eps. 7</title>
   </programme>
-  <programme start="20210315210000 +0700" stop="20210315213000 +0700" channel="Usee Photo">
-    <title lang="id">Travel dan Fotografi - Plataran Menjangan</title>
+  <programme start="20210316113000 +0700" stop="20210316123000 +0700" channel="Usee Photo">
+    <title lang="id">Satria Berkamera - Eps. 24</title>
   </programme>
-  <programme start="20210315213000 +0700" stop="20210315223000 +0700" channel="Usee Photo">
-    <title lang="id">Cam Talk - Eps. 29</title>
+  <programme start="20210316123000 +0700" stop="20210316130000 +0700" channel="Usee Photo">
+    <title lang="id">Portofolio - Eps. 12</title>
   </programme>
-  <programme start="20210315223000 +0700" stop="20210315230000 +0700" channel="Usee Photo">
-    <title lang="id">Digiworld - Eps. 3</title>
+  <programme start="20210316130000 +0700" stop="20210316133000 +0700" channel="Usee Photo">
+    <title lang="id">Cerita Di Balik Lensa - Pasar Rejowinangun</title>
   </programme>
-  <programme start="20210315230000 +0700" stop="20210316000000 +0700" channel="Usee Photo">
-    <title lang="id">Lelaki dan Fotografi - Eps. 14</title>
+  <programme start="20210316133000 +0700" stop="20210316140000 +0700" channel="Usee Photo">
+    <title lang="id">Models - Eps. 23</title>
   </programme>
-  <programme start="20210315000000 +0700" stop="20210315010000 +0700" channel="UseePrime">
+  <programme start="20210316140000 +0700" stop="20210316150000 +0700" channel="Usee Photo">
+    <title lang="id">Cam Talk - Eps. 21</title>
+  </programme>
+  <programme start="20210316150000 +0700" stop="20210316153000 +0700" channel="Usee Photo">
+    <title lang="id">Travel dan Fotografi - Taman Nasional Bali Barat</title>
+  </programme>
+  <programme start="20210316153000 +0700" stop="20210316160000 +0700" channel="Usee Photo">
+    <title lang="id">Snapshot - Eps. 12</title>
+  </programme>
+  <programme start="20210316160000 +0700" stop="20210316163000 +0700" channel="Usee Photo">
+    <title lang="id">I Babes - Eps. 3</title>
+  </programme>
+  <programme start="20210316163000 +0700" stop="20210316170000 +0700" channel="Usee Photo">
+    <title lang="id">Stage Potrait - Eps. 6</title>
+  </programme>
+  <programme start="20210316170000 +0700" stop="20210316173000 +0700" channel="Usee Photo">
+    <title lang="id">The Studio - Eps. 6</title>
+  </programme>
+  <programme start="20210316173000 +0700" stop="20210316180000 +0700" channel="Usee Photo">
+    <title lang="id">Asal Jepret - Eps. 4</title>
+  </programme>
+  <programme start="20210316180000 +0700" stop="20210316183000 +0700" channel="Usee Photo">
+    <title lang="id">Food Photography - Eps. 5</title>
+  </programme>
+  <programme start="20210316183000 +0700" stop="20210316193000 +0700" channel="Usee Photo">
+    <title lang="id">Lelaki dan Fotografi - Eps. 1</title>
+  </programme>
+  <programme start="20210316193000 +0700" stop="20210316203000 +0700" channel="Usee Photo">
+    <title lang="id">Satria Berkamera - Eps. 31</title>
+  </programme>
+  <programme start="20210316203000 +0700" stop="20210316210000 +0700" channel="Usee Photo">
+    <title lang="id">Models - Eps. 21</title>
+  </programme>
+  <programme start="20210316210000 +0700" stop="20210316213000 +0700" channel="Usee Photo">
+    <title lang="id">Travel dan Fotografi - Panglipuran</title>
+  </programme>
+  <programme start="20210316213000 +0700" stop="20210316223000 +0700" channel="Usee Photo">
+    <title lang="id">Cam Talk - Eps. 30</title>
+  </programme>
+  <programme start="20210316223000 +0700" stop="20210316230000 +0700" channel="Usee Photo">
+    <title lang="id">Digiworld - Eps. 4</title>
+  </programme>
+  <programme start="20210316230000 +0700" stop="20210317000000 +0700" channel="Usee Photo">
+    <title lang="id">Lelaki dan Fotografi - Eps. 15</title>
+  </programme>
+  <programme start="20210316000000 +0700" stop="20210316010000 +0700" channel="UseePrime">
     <title lang="id">K Pop Invasion</title>
   </programme>
-  <programme start="20210315010000 +0700" stop="20210315020000 +0700" channel="UseePrime">
+  <programme start="20210316010000 +0700" stop="20210316020000 +0700" channel="UseePrime">
     <title lang="id">100 Persen Indonesia</title>
   </programme>
-  <programme start="20210315020000 +0700" stop="20210315030000 +0700" channel="UseePrime">
+  <programme start="20210316020000 +0700" stop="20210316030000 +0700" channel="UseePrime">
     <title lang="id">International Music Mix</title>
   </programme>
-  <programme start="20210315030000 +0700" stop="20210315040000 +0700" channel="UseePrime">
+  <programme start="20210316030000 +0700" stop="20210316040000 +0700" channel="UseePrime">
     <title lang="id">Happy Cozy</title>
   </programme>
-  <programme start="20210315040000 +0700" stop="20210315043000 +0700" channel="UseePrime">
+  <programme start="20210316040000 +0700" stop="20210316043000 +0700" channel="UseePrime">
     <title lang="id">Travel And Fotografi</title>
   </programme>
-  <programme start="20210315043000 +0700" stop="20210315050000 +0700" channel="UseePrime">
+  <programme start="20210316043000 +0700" stop="20210316050000 +0700" channel="UseePrime">
     <title lang="id">Mosque From Around The World</title>
   </programme>
-  <programme start="20210315050000 +0700" stop="20210315051500 +0700" channel="UseePrime">
+  <programme start="20210316050000 +0700" stop="20210316051500 +0700" channel="UseePrime">
     <title lang="id">Indonesia Dalam 15 Menit</title>
   </programme>
-  <programme start="20210315051500 +0700" stop="20210315053000 +0700" channel="UseePrime">
+  <programme start="20210316051500 +0700" stop="20210316053000 +0700" channel="UseePrime">
     <title lang="id">Indonesia Dalam 15 Menit</title>
   </programme>
-  <programme start="20210315053000 +0700" stop="20210315054500 +0700" channel="UseePrime">
+  <programme start="20210316053000 +0700" stop="20210316054500 +0700" channel="UseePrime">
     <title lang="id">Zoo Moo Lost</title>
   </programme>
-  <programme start="20210315054500 +0700" stop="20210315060000 +0700" channel="UseePrime">
+  <programme start="20210316054500 +0700" stop="20210316060000 +0700" channel="UseePrime">
     <title lang="id">Zoo Moo Lost</title>
   </programme>
-  <programme start="20210315060000 +0700" stop="20210315063000 +0700" channel="UseePrime">
+  <programme start="20210316060000 +0700" stop="20210316063000 +0700" channel="UseePrime">
     <title lang="id">All Hail King Julien S2</title>
   </programme>
-  <programme start="20210315063000 +0700" stop="20210315070000 +0700" channel="UseePrime">
+  <programme start="20210316063000 +0700" stop="20210316070000 +0700" channel="UseePrime">
     <title lang="id">Home S1</title>
   </programme>
-  <programme start="20210315070000 +0700" stop="20210315080000 +0700" channel="UseePrime">
+  <programme start="20210316070000 +0700" stop="20210316080000 +0700" channel="UseePrime">
     <title lang="id">100 Persen Indonesia</title>
   </programme>
-  <programme start="20210315080000 +0700" stop="20210315090000 +0700" channel="UseePrime">
+  <programme start="20210316080000 +0700" stop="20210316090000 +0700" channel="UseePrime">
     <title lang="id">International Music Mix</title>
   </programme>
-  <programme start="20210315090000 +0700" stop="20210315100000 +0700" channel="UseePrime">
+  <programme start="20210316090000 +0700" stop="20210316100000 +0700" channel="UseePrime">
     <title lang="id">K Pop Invasion</title>
   </programme>
-  <programme start="20210315100000 +0700" stop="20210315101500 +0700" channel="UseePrime">
+  <programme start="20210316100000 +0700" stop="20210316101500 +0700" channel="UseePrime">
     <title lang="id">Indonesia Dalam 15 Menit</title>
   </programme>
-  <programme start="20210315101500 +0700" stop="20210315103000 +0700" channel="UseePrime">
+  <programme start="20210316101500 +0700" stop="20210316103000 +0700" channel="UseePrime">
     <title lang="id">Indonesia Dalam 15 Menit</title>
   </programme>
-  <programme start="20210315103000 +0700" stop="20210315110000 +0700" channel="UseePrime">
+  <programme start="20210316103000 +0700" stop="20210316110000 +0700" channel="UseePrime">
     <title lang="id">Popcorn</title>
   </programme>
-  <programme start="20210315110000 +0700" stop="20210315113000 +0700" channel="UseePrime">
+  <programme start="20210316110000 +0700" stop="20210316113000 +0700" channel="UseePrime">
     <title lang="id">Temurun</title>
   </programme>
-  <programme start="20210315113000 +0700" stop="20210315120000 +0700" channel="UseePrime">
+  <programme start="20210316113000 +0700" stop="20210316120000 +0700" channel="UseePrime">
     <title lang="id">Kulineran</title>
   </programme>
-  <programme start="20210315120000 +0700" stop="20210315123000 +0700" channel="UseePrime">
+  <programme start="20210316120000 +0700" stop="20210316123000 +0700" channel="UseePrime">
     <title lang="id">Hi Doctor</title>
   </programme>
-  <programme start="20210315123000 +0700" stop="20210315133000 +0700" channel="UseePrime">
+  <programme start="20210316123000 +0700" stop="20210316133000 +0700" channel="UseePrime">
     <title lang="id">K Pop Invasion</title>
   </programme>
-  <programme start="20210315133000 +0700" stop="20210315140000 +0700" channel="UseePrime">
+  <programme start="20210316133000 +0700" stop="20210316140000 +0700" channel="UseePrime">
     <title lang="id">The Adventures Of Puss In Boots S1</title>
   </programme>
-  <programme start="20210315140000 +0700" stop="20210315141500 +0700" channel="UseePrime">
+  <programme start="20210316140000 +0700" stop="20210316141500 +0700" channel="UseePrime">
     <title lang="id">Si Unyil</title>
   </programme>
-  <programme start="20210315141500 +0700" stop="20210315143000 +0700" channel="UseePrime">
+  <programme start="20210316141500 +0700" stop="20210316143000 +0700" channel="UseePrime">
     <title lang="id">Si Unyil</title>
   </programme>
-  <programme start="20210315143000 +0700" stop="20210315150000 +0700" channel="UseePrime">
-    <title lang="id">Sweetness Lightning - F</title>
+  <programme start="20210316143000 +0700" stop="20210316150000 +0700" channel="UseePrime">
+    <title lang="id">Sweetness Lightning</title>
   </programme>
-  <programme start="20210315150000 +0700" stop="20210315151500 +0700" channel="UseePrime">
+  <programme start="20210316150000 +0700" stop="20210316151500 +0700" channel="UseePrime">
     <title lang="id">Zoo Moo Lost</title>
   </programme>
-  <programme start="20210315151500 +0700" stop="20210315153000 +0700" channel="UseePrime">
+  <programme start="20210316151500 +0700" stop="20210316153000 +0700" channel="UseePrime">
     <title lang="id">Zoo Moo Lost</title>
   </programme>
-  <programme start="20210315153000 +0700" stop="20210315160000 +0700" channel="UseePrime">
+  <programme start="20210316153000 +0700" stop="20210316160000 +0700" channel="UseePrime">
     <title lang="id">All Hail King Julien S1</title>
   </programme>
-  <programme start="20210315160000 +0700" stop="20210315170000 +0700" channel="UseePrime">
+  <programme start="20210316160000 +0700" stop="20210316170000 +0700" channel="UseePrime">
     <title lang="id">Happy Cozy</title>
   </programme>
-  <programme start="20210315170000 +0700" stop="20210315171500 +0700" channel="UseePrime">
+  <programme start="20210316170000 +0700" stop="20210316171500 +0700" channel="UseePrime">
     <title lang="id">Indonesia Dalam 15 Menit</title>
   </programme>
-  <programme start="20210315171500 +0700" stop="20210315173000 +0700" channel="UseePrime">
+  <programme start="20210316171500 +0700" stop="20210316173000 +0700" channel="UseePrime">
     <title lang="id">Indonesia Dalam 15 Menit</title>
   </programme>
-  <programme start="20210315173000 +0700" stop="20210315174000 +0700" channel="UseePrime">
+  <programme start="20210316173000 +0700" stop="20210316174000 +0700" channel="UseePrime">
     <title lang="id">Zoo Moo Pandas Cave of Dreams</title>
   </programme>
-  <programme start="20210315174000 +0700" stop="20210315175000 +0700" channel="UseePrime">
+  <programme start="20210316174000 +0700" stop="20210316175000 +0700" channel="UseePrime">
     <title lang="id">Zoo Moo Pandas Cave of Dreams</title>
   </programme>
-  <programme start="20210315175000 +0700" stop="20210315180000 +0700" channel="UseePrime">
+  <programme start="20210316175000 +0700" stop="20210316180000 +0700" channel="UseePrime">
     <title lang="id">Zoo Moo Pandas Cave of Dreams</title>
   </programme>
-  <programme start="20210315180000 +0700" stop="20210315183000 +0700" channel="UseePrime">
-    <title lang="id">Kemono Friends</title>
+  <programme start="20210316180000 +0700" stop="20210316183000 +0700" channel="UseePrime">
+    <title lang="id">Kemono Friends - F</title>
   </programme>
-  <programme start="20210315183000 +0700" stop="20210315193000 +0700" channel="UseePrime">
+  <programme start="20210316183000 +0700" stop="20210316193000 +0700" channel="UseePrime">
     <title lang="id">100 Persen Indonesia</title>
   </programme>
-  <programme start="20210315193000 +0700" stop="20210315203000 +0700" channel="UseePrime">
+  <programme start="20210316193000 +0700" stop="20210316203000 +0700" channel="UseePrime">
     <title lang="id">International Music Mix</title>
   </programme>
-  <programme start="20210315203000 +0700" stop="20210315213000 +0700" channel="UseePrime">
+  <programme start="20210316203000 +0700" stop="20210316213000 +0700" channel="UseePrime">
     <title lang="id">K Pop Invasion</title>
   </programme>
-  <programme start="20210315213000 +0700" stop="20210315233000 +0700" channel="UseePrime">
+  <programme start="20210316213000 +0700" stop="20210316233000 +0700" channel="UseePrime">
     <title lang="id">Rivalitas</title>
   </programme>
-  <programme start="20210315233000 +0700" stop="20210315234500 +0700" channel="UseePrime">
+  <programme start="20210316233000 +0700" stop="20210316234500 +0700" channel="UseePrime">
     <title lang="id">Indonesia Dalam 15 Menit</title>
   </programme>
-  <programme start="20210315234500 +0700" stop="20210316000000 +0700" channel="UseePrime">
+  <programme start="20210316234500 +0700" stop="20210317000000 +0700" channel="UseePrime">
     <title lang="id">Indonesia Dalam 15 Menit</title>
   </programme>
 </tv>
