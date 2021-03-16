@@ -1,0 +1,659 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Dreamworks">
+    <display-name lang="id">Dreamworks</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_dreamworks_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="My Kids">
+    <display-name lang="id">My Kids</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="egg network">
+    <display-name lang="id">egg network</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_egg_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Kplus">
+    <display-name lang="id">Kplus</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_kplus_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="SGEM">
+    <display-name lang="id">SGEM</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_sgem_small.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="SONE">
+    <display-name lang="id">SONE</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_sone_small.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="ZBioskop">
+    <display-name lang="id">ZBioskop</display-name>
+    <icon src="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_zbioskop_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <programme start="20210316000000 +0700" stop="20210316003000 +0700" channel="Dreamworks">
+    <title lang="id">Caspers Scare School</title>
+  </programme>
+  <programme start="20210316003000 +0700" stop="20210316004500 +0700" channel="Dreamworks">
+    <title lang="id">Olivia</title>
+  </programme>
+  <programme start="20210316004500 +0700" stop="20210316010000 +0700" channel="Dreamworks">
+    <title lang="id">Olivia</title>
+  </programme>
+  <programme start="20210316010000 +0700" stop="20210316011500 +0700" channel="Dreamworks">
+    <title lang="id">Roary The Racing Car</title>
+  </programme>
+  <programme start="20210316011500 +0700" stop="20210316013000 +0700" channel="Dreamworks">
+    <title lang="id">Roary The Racing Car</title>
+  </programme>
+  <programme start="20210316013000 +0700" stop="20210316014500 +0700" channel="Dreamworks">
+    <title lang="id">Guess With Jess</title>
+  </programme>
+  <programme start="20210316014500 +0700" stop="20210316020000 +0700" channel="Dreamworks">
+    <title lang="id">Guess With Jess</title>
+  </programme>
+  <programme start="20210316020000 +0700" stop="20210316021500 +0700" channel="Dreamworks">
+    <title lang="id">Tinga Tinga Tales</title>
+  </programme>
+  <programme start="20210316021500 +0700" stop="20210316023000 +0700" channel="Dreamworks">
+    <title lang="id">Tinga Tinga Tales</title>
+  </programme>
+  <programme start="20210316023000 +0700" stop="20210316024500 +0700" channel="Dreamworks">
+    <title lang="id">My Life Me</title>
+  </programme>
+  <programme start="20210316024500 +0700" stop="20210316030000 +0700" channel="Dreamworks">
+    <title lang="id">My Life Me</title>
+  </programme>
+  <programme start="20210316030000 +0700" stop="20210316033000 +0700" channel="Dreamworks">
+    <title lang="id">Veggietales In The House</title>
+  </programme>
+  <programme start="20210316033000 +0700" stop="20210316040000 +0700" channel="Dreamworks">
+    <title lang="id">The Adventures Of Rocky And Bullwinkle</title>
+  </programme>
+  <programme start="20210316040000 +0700" stop="20210316043000 +0700" channel="Dreamworks">
+    <title lang="id">Dawn Of The Croods</title>
+  </programme>
+  <programme start="20210316043000 +0700" stop="20210316050000 +0700" channel="Dreamworks">
+    <title lang="id">The Mr. Peabody And Sherman Show</title>
+  </programme>
+  <programme start="20210316050000 +0700" stop="20210316051500 +0700" channel="Dreamworks">
+    <title lang="id">Denver The Last Dinosaur</title>
+  </programme>
+  <programme start="20210316051500 +0700" stop="20210316053000 +0700" channel="Dreamworks">
+    <title lang="id">Denver The Last Dinosaur</title>
+  </programme>
+  <programme start="20210316053000 +0700" stop="20210316054500 +0700" channel="Dreamworks">
+    <title lang="id">Dennis Gnasher Unleashed S1</title>
+  </programme>
+  <programme start="20210316054500 +0700" stop="20210316060000 +0700" channel="Dreamworks">
+    <title lang="id">Dennis Gnasher Unleashed S1</title>
+  </programme>
+  <programme start="20210316060000 +0700" stop="20210316062500 +0700" channel="Dreamworks">
+    <title lang="id">The Epic Tales Of Captain Underpants</title>
+  </programme>
+  <programme start="20210316062500 +0700" stop="20210316065000 +0700" channel="Dreamworks">
+    <title lang="id">Boss Baby Back In Business</title>
+  </programme>
+  <programme start="20210316065000 +0700" stop="20210316071500 +0700" channel="Dreamworks">
+    <title lang="id">Kung Fu Panda The Paws Of Destiny S1</title>
+  </programme>
+  <programme start="20210316071500 +0700" stop="20210316074000 +0700" channel="Dreamworks">
+    <title lang="id">The Adventures Of Puss In Boots</title>
+  </programme>
+  <programme start="20210316074000 +0700" stop="20210316080500 +0700" channel="Dreamworks">
+    <title lang="id">All Hail King Julien</title>
+  </programme>
+  <programme start="20210316080500 +0700" stop="20210316083000 +0700" channel="Dreamworks">
+    <title lang="id">Harvey Girls Forever S1</title>
+  </programme>
+  <programme start="20210316083000 +0700" stop="20210316090000 +0700" channel="Dreamworks">
+    <title lang="id">Wheres Wally</title>
+  </programme>
+  <programme start="20210316090000 +0700" stop="20210316091500 +0700" channel="Dreamworks">
+    <title lang="id">Noddy Toyland Detective S2</title>
+  </programme>
+  <programme start="20210316091500 +0700" stop="20210316093000 +0700" channel="Dreamworks">
+    <title lang="id">Noddy Toyland Detective S2</title>
+  </programme>
+  <programme start="20210316093000 +0700" stop="20210316094500 +0700" channel="Dreamworks">
+    <title lang="id">Raa Raa The Noisy Lion</title>
+  </programme>
+  <programme start="20210316094500 +0700" stop="20210316100000 +0700" channel="Dreamworks">
+    <title lang="id">Raa Raa The Noisy Lion</title>
+  </programme>
+  <programme start="20210316100000 +0700" stop="20210316101500 +0700" channel="Dreamworks">
+    <title lang="id">Postman Pat Delivery Service</title>
+  </programme>
+  <programme start="20210316101500 +0700" stop="20210316103000 +0700" channel="Dreamworks">
+    <title lang="id">Postman Pat Delivery Service</title>
+  </programme>
+  <programme start="20210316103000 +0700" stop="20210316104500 +0700" channel="Dreamworks">
+    <title lang="id">Fifi And The Flowertots</title>
+  </programme>
+  <programme start="20210316104500 +0700" stop="20210316110000 +0700" channel="Dreamworks">
+    <title lang="id">Fifi And The Flowertots</title>
+  </programme>
+  <programme start="20210316110000 +0700" stop="20210316113000 +0700" channel="Dreamworks">
+    <title lang="id">Dinotrux</title>
+  </programme>
+  <programme start="20210316113000 +0700" stop="20210316120000 +0700" channel="Dreamworks">
+    <title lang="id">Trolls The Beat Goes On</title>
+  </programme>
+  <programme start="20210316120000 +0700" stop="20210316123000 +0700" channel="Dreamworks">
+    <title lang="id">Home Adventures With Tip And Oh</title>
+  </programme>
+  <programme start="20210316123000 +0700" stop="20210316130000 +0700" channel="Dreamworks">
+    <title lang="id">Spirit Riding Free</title>
+  </programme>
+  <programme start="20210316130000 +0700" stop="20210316133000 +0700" channel="Dreamworks">
+    <title lang="id">Harvey Girls Forever S1</title>
+  </programme>
+  <programme start="20210316133000 +0700" stop="20210316140000 +0700" channel="Dreamworks">
+    <title lang="id">Cleopatra In Space</title>
+  </programme>
+  <programme start="20210316140000 +0700" stop="20210316143000 +0700" channel="Dreamworks">
+    <title lang="id">Wheres Wally</title>
+  </programme>
+  <programme start="20210316143000 +0700" stop="20210316144500 +0700" channel="Dreamworks">
+    <title lang="id">Denver The Last Dinosaur</title>
+  </programme>
+  <programme start="20210316144500 +0700" stop="20210316150000 +0700" channel="Dreamworks">
+    <title lang="id">Denver The Last Dinosaur</title>
+  </programme>
+  <programme start="20210316150000 +0700" stop="20210316152500 +0700" channel="Dreamworks">
+    <title lang="id">Dawn Of The Croods</title>
+  </programme>
+  <programme start="20210316152500 +0700" stop="20210316155000 +0700" channel="Dreamworks">
+    <title lang="id">Trolls The Beat Goes On S2</title>
+  </programme>
+  <programme start="20210316155000 +0700" stop="20210316161500 +0700" channel="Dreamworks">
+    <title lang="id">The Adventures Of Puss In Boots</title>
+  </programme>
+  <programme start="20210316161500 +0700" stop="20210316162800 +0700" channel="Dreamworks">
+    <title lang="id">Dennis Gnasher Unleashed S1</title>
+  </programme>
+  <programme start="20210316162800 +0700" stop="20210316164000 +0700" channel="Dreamworks">
+    <title lang="id">Dennis Gnasher Unleashed S1</title>
+  </programme>
+  <programme start="20210316164000 +0700" stop="20210316170500 +0700" channel="Dreamworks">
+    <title lang="id">Kung Fu Panda The Paws Of Destiny S1</title>
+  </programme>
+  <programme start="20210316170500 +0700" stop="20210316173000 +0700" channel="Dreamworks">
+    <title lang="id">Boss Baby Back In Business</title>
+  </programme>
+  <programme start="20210316173000 +0700" stop="20210316175500 +0700" channel="Dreamworks">
+    <title lang="id">The Epic Tales Of Captain Underpants</title>
+  </programme>
+  <programme start="20210316175500 +0700" stop="20210316182000 +0700" channel="Dreamworks">
+    <title lang="id">Dragons - Race To The Edge</title>
+  </programme>
+  <programme start="20210316182000 +0700" stop="20210316184500 +0700" channel="Dreamworks">
+    <title lang="id">3 Below Tales Of Arcadia</title>
+  </programme>
+  <programme start="20210316184500 +0700" stop="20210316191000 +0700" channel="Dreamworks">
+    <title lang="id">Dawn Of The Croods</title>
+  </programme>
+  <programme start="20210316191000 +0700" stop="20210316193500 +0700" channel="Dreamworks">
+    <title lang="id">Trolls The Beat Goes On S2</title>
+  </programme>
+  <programme start="20210316193500 +0700" stop="20210316200000 +0700" channel="Dreamworks">
+    <title lang="id">The Adventures Of Puss In Boots</title>
+  </programme>
+  <programme start="20210316200000 +0700" stop="20210316201500 +0700" channel="Dreamworks">
+    <title lang="id">Dennis Gnasher Unleashed S1</title>
+  </programme>
+  <programme start="20210316201500 +0700" stop="20210316203000 +0700" channel="Dreamworks">
+    <title lang="id">Dennis Gnasher Unleashed S1</title>
+  </programme>
+  <programme start="20210316203000 +0700" stop="20210316210000 +0700" channel="Dreamworks">
+    <title lang="id">Kung Fu Panda The Paws Of Destiny S1</title>
+  </programme>
+  <programme start="20210316210000 +0700" stop="20210316213000 +0700" channel="Dreamworks">
+    <title lang="id">Boss Baby Back In Business</title>
+  </programme>
+  <programme start="20210316213000 +0700" stop="20210316220000 +0700" channel="Dreamworks">
+    <title lang="id">The Epic Tales Of Captain Underpants</title>
+  </programme>
+  <programme start="20210316220000 +0700" stop="20210316223000 +0700" channel="Dreamworks">
+    <title lang="id">Dragons - Race To The Edge</title>
+  </programme>
+  <programme start="20210316223000 +0700" stop="20210316230000 +0700" channel="Dreamworks">
+    <title lang="id">3 Below Tales Of Arcadia</title>
+  </programme>
+  <programme start="20210316230000 +0700" stop="20210316233000 +0700" channel="Dreamworks">
+    <title lang="id">Voltron Legendary Defender</title>
+  </programme>
+  <programme start="20210316233000 +0700" stop="20210317000000 +0700" channel="Dreamworks">
+    <title lang="id">Turbo F. A. S. T</title>
+  </programme>
+  <programme start="20210316000000 +0700" stop="20210316020000 +0700" channel="My Kids">
+    <title lang="id">Chicken Run</title>
+  </programme>
+  <programme start="20210316020000 +0700" stop="20210316040000 +0700" channel="My Kids">
+    <title lang="id">Santa Magic Crystal</title>
+  </programme>
+  <programme start="20210316040000 +0700" stop="20210316043000 +0700" channel="My Kids">
+    <title lang="id">Winx Club Season 5 - eps 11</title>
+  </programme>
+  <programme start="20210316043000 +0700" stop="20210316050000 +0700" channel="My Kids">
+    <title lang="id">Winx Club Season 5 - eps 12</title>
+  </programme>
+  <programme start="20210316050000 +0700" stop="20210316053000 +0700" channel="My Kids">
+    <title lang="id">MIA and ME - eps 47</title>
+  </programme>
+  <programme start="20210316053000 +0700" stop="20210316060000 +0700" channel="My Kids">
+    <title lang="id">MIA and ME - eps 48</title>
+  </programme>
+  <programme start="20210316060000 +0700" stop="20210316063000 +0700" channel="My Kids">
+    <title lang="id">GON - eps 37</title>
+  </programme>
+  <programme start="20210316063000 +0700" stop="20210316070000 +0700" channel="My Kids">
+    <title lang="id">GON - eps 38</title>
+  </programme>
+  <programme start="20210316070000 +0700" stop="20210316073000 +0700" channel="My Kids">
+    <title lang="id">Oscar Oasis - eps 06</title>
+  </programme>
+  <programme start="20210316073000 +0700" stop="20210316080000 +0700" channel="My Kids">
+    <title lang="id">Oscar Oasis - eps 07</title>
+  </programme>
+  <programme start="20210316080000 +0700" stop="20210316083000 +0700" channel="My Kids">
+    <title lang="id">Bernard Bear - eps 081</title>
+  </programme>
+  <programme start="20210316083000 +0700" stop="20210316090000 +0700" channel="My Kids">
+    <title lang="id">Bernard Bear - eps 082</title>
+  </programme>
+  <programme start="20210316090000 +0700" stop="20210316093000 +0700" channel="My Kids">
+    <title lang="id">Vicky and Johnny - eps 52</title>
+  </programme>
+  <programme start="20210316093000 +0700" stop="20210316100000 +0700" channel="My Kids">
+    <title lang="id">Vicky and Johnny - eps 53</title>
+  </programme>
+  <programme start="20210316100000 +0700" stop="20210316120000 +0700" channel="My Kids">
+    <title lang="id">Bernard Bear Movie - Mug Travel</title>
+  </programme>
+  <programme start="20210316120000 +0700" stop="20210316140000 +0700" channel="My Kids">
+    <title lang="id">The Great Bear</title>
+  </programme>
+  <programme start="20210316140000 +0700" stop="20210316160000 +0700" channel="My Kids">
+    <title lang="id">A Mouse Tale</title>
+  </programme>
+  <programme start="20210316160000 +0700" stop="20210316180000 +0700" channel="My Kids">
+    <title lang="id">Dragon Nest</title>
+  </programme>
+  <programme start="20210316180000 +0700" stop="20210316200000 +0700" channel="My Kids">
+    <title lang="id">The Reef 2</title>
+  </programme>
+  <programme start="20210316200000 +0700" stop="20210316220000 +0700" channel="My Kids">
+    <title lang="id">Sammy Adventure</title>
+  </programme>
+  <programme start="20210316220000 +0700" stop="20210317000000 +0700" channel="My Kids">
+    <title lang="id">Dragon Nest 2</title>
+  </programme>
+  <programme start="20210316000000 +0700" stop="20210316020000 +0700" channel="egg network">
+    <title lang="id">SEA Spring Regional League : Week 6 Day 1</title>
+  </programme>
+  <programme start="20210316020000 +0700" stop="20210316030000 +0700" channel="egg network">
+    <title lang="id">SEA Spring Regional League : Week 6 Day 1</title>
+  </programme>
+  <programme start="20210316030000 +0700" stop="20210316043000 +0700" channel="egg network">
+    <title lang="id">SEA Spring Regional League : Week 6 Day 1</title>
+  </programme>
+  <programme start="20210316043000 +0700" stop="20210316050000 +0700" channel="egg network">
+    <title lang="id">SEA Spring Regional League : Week 6 Day 2</title>
+  </programme>
+  <programme start="20210316050000 +0700" stop="20210316060000 +0700" channel="egg network">
+    <title lang="id">SEA Spring Regional League : Week 6 Day 2</title>
+  </programme>
+  <programme start="20210316060000 +0700" stop="20210316070000 +0700" channel="egg network">
+    <title lang="id">SEA Spring Regional League : Week 6 Day 2</title>
+  </programme>
+  <programme start="20210316070000 +0700" stop="20210316083000 +0700" channel="egg network">
+    <title lang="id">SEA Spring Regional League : Week 6 Day 2</title>
+  </programme>
+  <programme start="20210316083000 +0700" stop="20210316090000 +0700" channel="egg network">
+    <title lang="id">PUBG Global Invitational. S : Week 5 - Survival Tournament Day 1</title>
+  </programme>
+  <programme start="20210316090000 +0700" stop="20210316100000 +0700" channel="egg network">
+    <title lang="id">PUBG Global Invitational. S : Week 5 - Survival Tournament Day 1</title>
+  </programme>
+  <programme start="20210316100000 +0700" stop="20210316110000 +0700" channel="egg network">
+    <title lang="id">PUBG Global Invitational. S : Week 5 - Survival Tournament Day 1</title>
+  </programme>
+  <programme start="20210316110000 +0700" stop="20210316113000 +0700" channel="egg network">
+    <title lang="id">PUBG Global Invitational. S : Week 5 - Survival Tournament Day 1</title>
+  </programme>
+  <programme start="20210316113000 +0700" stop="20210316120000 +0700" channel="egg network">
+    <title lang="id">Arena eSport Episode 213</title>
+  </programme>
+  <programme start="20210316120000 +0700" stop="20210316130000 +0700" channel="egg network">
+    <title lang="id">Mobile Legends Professional League : MY Season 7 - Week 1 Day 1</title>
+  </programme>
+  <programme start="20210316130000 +0700" stop="20210316140000 +0700" channel="egg network">
+    <title lang="id">Mobile Legends Professional League : MY Season 7 - Week 1 Day 1</title>
+  </programme>
+  <programme start="20210316140000 +0700" stop="20210316150000 +0700" channel="egg network">
+    <title lang="id">Mobile Legends Professional League : MY Season 7 - Week 1 Day 1</title>
+  </programme>
+  <programme start="20210316150000 +0700" stop="20210316160000 +0700" channel="egg network">
+    <title lang="id">Mobile Legends Professional League : MY Season 7 - Week 1 Day 1</title>
+  </programme>
+  <programme start="20210316160000 +0700" stop="20210316170000 +0700" channel="egg network">
+    <title lang="id">PGI. S Show - Episode 4</title>
+  </programme>
+  <programme start="20210316170000 +0700" stop="20210316180000 +0700" channel="egg network">
+    <title lang="id">LIVE PUBG Global Invitational. S : Week 7 - Day 1</title>
+  </programme>
+  <programme start="20210316180000 +0700" stop="20210316190000 +0700" channel="egg network">
+    <title lang="id">LIVE PUBG Global Invitational. S : Week 7 - Day 1</title>
+  </programme>
+  <programme start="20210316190000 +0700" stop="20210316200000 +0700" channel="egg network">
+    <title lang="id">LIVE PUBG Global Invitational. S : Week 7 - Day 1</title>
+  </programme>
+  <programme start="20210316200000 +0700" stop="20210316210000 +0700" channel="egg network">
+    <title lang="id">LIVE PUBG Global Invitational. S : Week 7 - Day 1</title>
+  </programme>
+  <programme start="20210316210000 +0700" stop="20210316220000 +0700" channel="egg network">
+    <title lang="id">LIVE PUBG Global Invitational. S : Week 7 - Day 1</title>
+  </programme>
+  <programme start="20210316220000 +0700" stop="20210316230000 +0700" channel="egg network">
+    <title lang="id">PGI. S Show - Episode 4</title>
+  </programme>
+  <programme start="20210316230000 +0700" stop="20210317000000 +0700" channel="egg network">
+    <title lang="id">FIFA e Club World Cup - Day 1</title>
+  </programme>
+  <programme start="20210316001500 +0700" stop="20210316013000 +0700" channel="Kplus">
+    <title lang="id">Evergreen</title>
+  </programme>
+  <programme start="20210316013000 +0700" stop="20210316024500 +0700" channel="Kplus">
+    <title lang="id">Devilish Charm</title>
+  </programme>
+  <programme start="20210316024500 +0700" stop="20210316040000 +0700" channel="Kplus">
+    <title lang="id">Sweet Munchies</title>
+  </programme>
+  <programme start="20210316040000 +0700" stop="20210316051500 +0700" channel="Kplus">
+    <title lang="id">Sweet Munchies</title>
+  </programme>
+  <programme start="20210316051500 +0700" stop="20210316063000 +0700" channel="Kplus">
+    <title lang="id">Evergreen</title>
+  </programme>
+  <programme start="20210316063000 +0700" stop="20210316074500 +0700" channel="Kplus">
+    <title lang="id">Weekly Idol</title>
+  </programme>
+  <programme start="20210316074500 +0700" stop="20210316090000 +0700" channel="Kplus">
+    <title lang="id">Best Of Chef &amp; My Fridge</title>
+  </programme>
+  <programme start="20210316090000 +0700" stop="20210316101500 +0700" channel="Kplus">
+    <title lang="id">Evergreen</title>
+  </programme>
+  <programme start="20210316101500 +0700" stop="20210316113000 +0700" channel="Kplus">
+    <title lang="id">Beyond Evil</title>
+  </programme>
+  <programme start="20210316113000 +0700" stop="20210316124500 +0700" channel="Kplus">
+    <title lang="id">Beyond Evil</title>
+  </programme>
+  <programme start="20210316124500 +0700" stop="20210316140000 +0700" channel="Kplus">
+    <title lang="id">Sweet Munchies</title>
+  </programme>
+  <programme start="20210316140000 +0700" stop="20210316151500 +0700" channel="Kplus">
+    <title lang="id">Sweet Munchies</title>
+  </programme>
+  <programme start="20210316151500 +0700" stop="20210316163000 +0700" channel="Kplus">
+    <title lang="id">Devilish Charm</title>
+  </programme>
+  <programme start="20210316163000 +0700" stop="20210316174500 +0700" channel="Kplus">
+    <title lang="id">Level Up</title>
+  </programme>
+  <programme start="20210316174500 +0700" stop="20210316190000 +0700" channel="Kplus">
+    <title lang="id">Best Of Chef &amp; My Fridge</title>
+  </programme>
+  <programme start="20210316190000 +0700" stop="20210316201500 +0700" channel="Kplus">
+    <title lang="id">The Miracle</title>
+  </programme>
+  <programme start="20210316201500 +0700" stop="20210316213000 +0700" channel="Kplus">
+    <title lang="id">Devilish Charm</title>
+  </programme>
+  <programme start="20210316213000 +0700" stop="20210316224500 +0700" channel="Kplus">
+    <title lang="id">Rich Man</title>
+  </programme>
+  <programme start="20210316224500 +0700" stop="20210317000000 +0700" channel="Kplus">
+    <title lang="id">Best Of Chef &amp; My Fridge</title>
+  </programme>
+  <programme start="20210316002500 +0700" stop="20210316005500 +0700" channel="SGEM">
+    <title lang="id">Dining Al Fresco</title>
+  </programme>
+  <programme start="20210316005500 +0700" stop="20210316015500 +0700" channel="SGEM">
+    <title lang="id">Can I Follow You Home</title>
+  </programme>
+  <programme start="20210316015500 +0700" stop="20210316023000 +0700" channel="SGEM">
+    <title lang="id">Karakai Jozu No Takagi - San</title>
+  </programme>
+  <programme start="20210316023000 +0700" stop="20210316033000 +0700" channel="SGEM">
+    <title lang="id">School Cop</title>
+  </programme>
+  <programme start="20210316033000 +0700" stop="20210316040000 +0700" channel="SGEM">
+    <title lang="id">Dining Al Fresco</title>
+  </programme>
+  <programme start="20210316040000 +0700" stop="20210316043000 +0700" channel="SGEM">
+    <title lang="id">Dining Al Fresco</title>
+  </programme>
+  <programme start="20210316043000 +0700" stop="20210316050000 +0700" channel="SGEM">
+    <title lang="id">Karakai Jozu No Takagi - San</title>
+  </programme>
+  <programme start="20210316050000 +0700" stop="20210316054200 +0700" channel="SGEM">
+    <title lang="id">Monday Late Night Show S2</title>
+  </programme>
+  <programme start="20210316054200 +0700" stop="20210316060700 +0700" channel="SGEM">
+    <title lang="id">Japanese Homemade Recipes</title>
+  </programme>
+  <programme start="20210316060700 +0700" stop="20210316063600 +0700" channel="SGEM">
+    <title lang="id">Dining Al Fresco</title>
+  </programme>
+  <programme start="20210316063600 +0700" stop="20210316070500 +0700" channel="SGEM">
+    <title lang="id">Dining Al Fresco</title>
+  </programme>
+  <programme start="20210316070500 +0700" stop="20210316080000 +0700" channel="SGEM">
+    <title lang="id">Can I Follow You Home</title>
+  </programme>
+  <programme start="20210316080000 +0700" stop="20210316085500 +0700" channel="SGEM">
+    <title lang="id">School Cop</title>
+  </programme>
+  <programme start="20210316085500 +0700" stop="20210316094000 +0700" channel="SGEM">
+    <title lang="id">Monday Late Night Show S2</title>
+  </programme>
+  <programme start="20210316094000 +0700" stop="20210316100500 +0700" channel="SGEM">
+    <title lang="id">Japanese Homemade Recipes</title>
+  </programme>
+  <programme start="20210316100500 +0700" stop="20210316103400 +0700" channel="SGEM">
+    <title lang="id">Dining Al Fresco</title>
+  </programme>
+  <programme start="20210316103400 +0700" stop="20210316110300 +0700" channel="SGEM">
+    <title lang="id">Dining Al Fresco</title>
+  </programme>
+  <programme start="20210316110300 +0700" stop="20210316115800 +0700" channel="SGEM">
+    <title lang="id">Can I Follow You Home</title>
+  </programme>
+  <programme start="20210316115800 +0700" stop="20210316125300 +0700" channel="SGEM">
+    <title lang="id">School Cop</title>
+  </programme>
+  <programme start="20210316125300 +0700" stop="20210316133500 +0700" channel="SGEM">
+    <title lang="id">Monday Late Night Show S2</title>
+  </programme>
+  <programme start="20210316133500 +0700" stop="20210316140000 +0700" channel="SGEM">
+    <title lang="id">Japanese Homemade Recipes</title>
+  </programme>
+  <programme start="20210316140000 +0700" stop="20210316142900 +0700" channel="SGEM">
+    <title lang="id">Dining Al Fresco</title>
+  </programme>
+  <programme start="20210316142900 +0700" stop="20210316145800 +0700" channel="SGEM">
+    <title lang="id">Dining Al Fresco</title>
+  </programme>
+  <programme start="20210316145800 +0700" stop="20210316155300 +0700" channel="SGEM">
+    <title lang="id">Can I Follow You Home</title>
+  </programme>
+  <programme start="20210316155300 +0700" stop="20210316164600 +0700" channel="SGEM">
+    <title lang="id">School Revolution</title>
+  </programme>
+  <programme start="20210316164600 +0700" stop="20210316171100 +0700" channel="SGEM">
+    <title lang="id">Japanese Homemade Recipes</title>
+  </programme>
+  <programme start="20210316171100 +0700" stop="20210316175100 +0700" channel="SGEM">
+    <title lang="id">Burning Questions S3</title>
+  </programme>
+  <programme start="20210316175100 +0700" stop="20210316182000 +0700" channel="SGEM">
+    <title lang="id">Dining Al Fresco</title>
+  </programme>
+  <programme start="20210316182000 +0700" stop="20210316185000 +0700" channel="SGEM">
+    <title lang="id">Dining Al Fresco</title>
+  </programme>
+  <programme start="20210316185000 +0700" stop="20210316194800 +0700" channel="SGEM">
+    <title lang="id">Ariyoshi Seminar</title>
+  </programme>
+  <programme start="20210316194800 +0700" stop="20210316204300 +0700" channel="SGEM">
+    <title lang="id">My Dangerous Wife</title>
+  </programme>
+  <programme start="20210316204300 +0700" stop="20210316211200 +0700" channel="SGEM">
+    <title lang="id">Dining Al Fresco</title>
+  </programme>
+  <programme start="20210316211200 +0700" stop="20210316214100 +0700" channel="SGEM">
+    <title lang="id">Dining Al Fresco</title>
+  </programme>
+  <programme start="20210316214100 +0700" stop="20210316223900 +0700" channel="SGEM">
+    <title lang="id">Ariyoshi Seminar</title>
+  </programme>
+  <programme start="20210316223900 +0700" stop="20210316230800 +0700" channel="SGEM">
+    <title lang="id">Karakai Jozu No Takagi - San</title>
+  </programme>
+  <programme start="20210316230800 +0700" stop="20210317000300 +0700" channel="SGEM">
+    <title lang="id">My Dangerous Wife</title>
+  </programme>
+  <programme start="20210316004500 +0700" stop="20210316020500 +0700" channel="SONE">
+    <title lang="id">Cheongdam-Dong Alice - Eps. 2</title>
+  </programme>
+  <programme start="20210316020500 +0700" stop="20210316032000 +0700" channel="SONE">
+    <title lang="id">Law of the Jungle in Wild Korea - Eps. 26</title>
+  </programme>
+  <programme start="20210316032000 +0700" stop="20210316050000 +0700" channel="SONE">
+    <title lang="id">Running Man - Eps. 522</title>
+  </programme>
+  <programme start="20210316050000 +0700" stop="20210316053700 +0700" channel="SONE">
+    <title lang="id">VIP - Eps. 5</title>
+  </programme>
+  <programme start="20210316053700 +0700" stop="20210316061500 +0700" channel="SONE">
+    <title lang="id">VIP - Eps. 6</title>
+  </programme>
+  <programme start="20210316061500 +0700" stop="20210316065300 +0700" channel="SONE">
+    <title lang="id">VIP - Eps. 7</title>
+  </programme>
+  <programme start="20210316065300 +0700" stop="20210316073100 +0700" channel="SONE">
+    <title lang="id">VIP - Eps. 8</title>
+  </programme>
+  <programme start="20210316073100 +0700" stop="20210316081100 +0700" channel="SONE">
+    <title lang="id">Haechi - Eps. 11</title>
+  </programme>
+  <programme start="20210316081100 +0700" stop="20210316084900 +0700" channel="SONE">
+    <title lang="id">Haechi - Eps. 12</title>
+  </programme>
+  <programme start="20210316084900 +0700" stop="20210316100600 +0700" channel="SONE">
+    <title lang="id">Cheongdam-Dong Alice - Eps. 2</title>
+  </programme>
+  <programme start="20210316100600 +0700" stop="20210316104900 +0700" channel="SONE">
+    <title lang="id">Ugly Alert - Eps. 95</title>
+  </programme>
+  <programme start="20210316104900 +0700" stop="20210316113200 +0700" channel="SONE">
+    <title lang="id">Ugly Alert - Eps. 96</title>
+  </programme>
+  <programme start="20210316113200 +0700" stop="20210316124000 +0700" channel="SONE">
+    <title lang="id">The First Wives Club - Eps. 37</title>
+  </programme>
+  <programme start="20210316124000 +0700" stop="20210316132000 +0700" channel="SONE">
+    <title lang="id">Haechi - Eps. 11</title>
+  </programme>
+  <programme start="20210316132000 +0700" stop="20210316140000 +0700" channel="SONE">
+    <title lang="id">Haechi - Eps. 12</title>
+  </programme>
+  <programme start="20210316140000 +0700" stop="20210316152000 +0700" channel="SONE">
+    <title lang="id">Cheongdam-Dong Alice - Eps. 2</title>
+  </programme>
+  <programme start="20210316152000 +0700" stop="20210316155700 +0700" channel="SONE">
+    <title lang="id">VIP - Eps. 9</title>
+  </programme>
+  <programme start="20210316155700 +0700" stop="20210316163700 +0700" channel="SONE">
+    <title lang="id">VIP - Eps. 10</title>
+  </programme>
+  <programme start="20210316163700 +0700" stop="20210316172200 +0700" channel="SONE">
+    <title lang="id">VIP - Eps. 11</title>
+  </programme>
+  <programme start="20210316172200 +0700" stop="20210316180200 +0700" channel="SONE">
+    <title lang="id">VIP - Eps. 12</title>
+  </programme>
+  <programme start="20210316180200 +0700" stop="20210316184000 +0700" channel="SONE">
+    <title lang="id">Haechi - Eps. 13</title>
+  </programme>
+  <programme start="20210316184000 +0700" stop="20210316192000 +0700" channel="SONE">
+    <title lang="id">Haechi - Eps. 14</title>
+  </programme>
+  <programme start="20210316192000 +0700" stop="20210316203800 +0700" channel="SONE">
+    <title lang="id">Cheongdam-Dong Alice - Eps. 3</title>
+  </programme>
+  <programme start="20210316203800 +0700" stop="20210316211400 +0700" channel="SONE">
+    <title lang="id">Lovely in-Laws - Eps. 33</title>
+  </programme>
+  <programme start="20210316211400 +0700" stop="20210316215000 +0700" channel="SONE">
+    <title lang="id">Lovely in-Laws - Eps. 34</title>
+  </programme>
+  <programme start="20210316215000 +0700" stop="20210316220000 +0700" channel="SONE">
+    <title lang="id">K-Hits - Eps. 1</title>
+  </programme>
+  <programme start="20210316220000 +0700" stop="20210316232500 +0700" channel="SONE">
+    <title lang="id">Law of the Jungle in Wild Korea - Eps. 27</title>
+  </programme>
+  <programme start="20210316232500 +0700" stop="20210316234500 +0700" channel="SONE">
+    <title lang="id">K-Hits - Eps. 1</title>
+  </programme>
+  <programme start="20210316234500 +0700" stop="20210317010000 +0700" channel="SONE">
+    <title lang="id">Cheongdam-Dong Alice - Eps. 3</title>
+  </programme>
+  <programme start="20210316030000 +0700" stop="20210316063000 +0700" channel="ZBioskop">
+    <title lang="id">Dhobi Ghat</title>
+  </programme>
+  <programme start="20210316063000 +0700" stop="20210316090000 +0700" channel="ZBioskop">
+    <title lang="id">Taare Zameen Par</title>
+  </programme>
+  <programme start="20210316090000 +0700" stop="20210316100000 +0700" channel="ZBioskop">
+    <title lang="id">Guddan Tumse Na Ho Paayega</title>
+  </programme>
+  <programme start="20210316100000 +0700" stop="20210316110000 +0700" channel="ZBioskop">
+    <title lang="id">Kumkum Bhagya</title>
+  </programme>
+  <programme start="20210316110000 +0700" stop="20210316120000 +0700" channel="ZBioskop">
+    <title lang="id">Cinta Yang Terluka</title>
+  </programme>
+  <programme start="20210316120000 +0700" stop="20210316123000 +0700" channel="ZBioskop">
+    <title lang="id">Khaana Khazana</title>
+  </programme>
+  <programme start="20210316123000 +0700" stop="20210316150000 +0700" channel="ZBioskop">
+    <title lang="id">Haal-E-Dil</title>
+  </programme>
+  <programme start="20210316150000 +0700" stop="20210316160000 +0700" channel="ZBioskop">
+    <title lang="id">Guddan Tumse Na Ho Paayega S1</title>
+  </programme>
+  <programme start="20210316160000 +0700" stop="20210316170000 +0700" channel="ZBioskop">
+    <title lang="id">Kumkum Bhagya</title>
+  </programme>
+  <programme start="20210316170000 +0700" stop="20210316180000 +0700" channel="ZBioskop">
+    <title lang="id">Cinta Yang Terluka</title>
+  </programme>
+  <programme start="20210316180000 +0700" stop="20210316203000 +0700" channel="ZBioskop">
+    <title lang="id">Mumbai Express</title>
+  </programme>
+  <programme start="20210316203000 +0700" stop="20210316230000 +0700" channel="ZBioskop">
+    <title lang="id">Alone</title>
+  </programme>
+  <programme start="20210316230000 +0700" stop="20210317030000 +0700" channel="ZBioskop">
+    <title lang="id">Sonchiriya</title>
+  </programme>
+</tv>
