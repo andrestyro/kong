@@ -3,61 +3,104 @@
 http://iptvid.my.id/hmm/useeinfo.m3u8
 #EXTINF:-1 tvg-id="UseePhoto.id" tvg-name="useephoto" tvg-logo="https://i.ibb.co/zXb9cGt/useephoto-lean-paps.png" ,Usee Photo
 http://iptvid.my.id/hmm/useephoto.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 ,
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/RCTI_2015.svg/revision/latest/scale-to-width-down/250?cb=20160314110324" tvg-logo-small="https://i.postimg.cc/yxL35WPL/20220926-145249.png" ,RCTI
 https://live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:0 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" tvg-logo-small="https://i.postimg.cc/brg1hmzH/20220926-145716.png" ,SCTV
 http://iptvid.my.id/hmm/sctv.m3u8
+#EXTINF:-1 ,
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/200px-Antv_logo.svg.png" tvg-logo-small="https://i.postimg.cc/NfNRCCCQ/20220926-145450.png" ,ANTV
 https://live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:0 tvg-id="INDOSIAR" tvg-name="INDOSIAR" tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" tvg-logo-small="https://i.postimg.cc/SsW-WZy3P/20220926-145742.png" ,INDOSIAR
 http://tv.zonanime.my.id/vidio/indosiar.m3u8
+#EXTINF:-1 ,
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" tvg-logo-small="https://i.postimg.cc/WbfJwFt3/20220926-145143.png" ,Global TV
 https://live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#EXTINF:-1 ,
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="MNCTV" tvg-name="MNCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" tvg-logo-small="https://i.postimg.cc/9Xb9zNhy/20220926-145209.png" ,MNC TV
 https://live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTINF:-1 ,
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="iNews" tvg-name="iNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" tvg-logo-small="https://i.postimg.cc/cHN3tpCB/20220926-145353.png" ,iNews
 https://live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#EXTINF:-1 ,
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/1b/TRANS_TV.png" tvg-logo-small="https://i.postimg.cc/VvmXpxck/20220926-145629.png" ,TRANS TV
 https://live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+#EXTINF:-1 ,
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7.id" tvg-logo="https://1.bp.blogspot.com/-WGwAI9yh7v8/XwuUphRrO3I/AAAAAAAACWQ/2VrYHGDj3_Y80tX-15K4vednqt-Yc3oHwCLcBGAsYHQ/s400/Logo%2BTrans%2B7.png" tvg-logo-small="https://i.postimg.cc/7Pn30ZgG/20220926-145655.png" ,Trans7
 https://live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+#EXTINF:-1 ,
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="tvOne.id" tvg-name="tvOne.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1200px-TvOne_logo_2012.svg.png" tvg-logo-small="https://i.postimg.cc/25Wv6kk5/20220926-145512.png" ,TVONE
 https://live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+#EXTINF:-1 ,
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="KompasTV" tvg-name="KompasTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/KOMPAS_TV_%282017%29.svg/revision/latest/scale-to-width-down/300?cb=20181111102441" tvg-logo-small="https://i.postimg.cc/XYmd4G0h/20220926-145419.png" ,Kompas TV
 https://live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+#EXTINF:-1 ,
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/20_Tahun_MetroTV.png/revision/latest/scale-to-width-down/390?cb=20201209025239" tvg-logo-small="https://i.postimg.cc/mDNHYmFf/20220926-145306.png" ,Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1 ,
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRINasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" tvg-logo-small="https://i.postimg.cc/tTSgLG59/20220926-161909.png" ,TVRI
 https://live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+#EXTINF:-1 ,
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/400px-Rajawali_Televisi.svg.png" tvg-logo-small="https://i.postimg.cc/BQZxgfgh/20220926-145540.png" ,RTV
 https://live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+#EXTINF:-1 ,
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="NET.id" tvg-name="NET.id" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/02/14/710166894.png" tvg-logo-small="https://i.postimg.cc/y8kcMh2c/20220926-145611.png" ,NET TV
 https://live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#EXTINF:-1 ,
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/BeritaSatu_%28Stacked%29.svg/revision/latest/top-crop/width/450/height/450?cb=20181125093938" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/f/f1/BeritaSatu_%28Stacked%29.svg/revision/latest/top-crop/width/450/height/450?cb=20181125093938" ,Berita Satu
 https://live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 #EXTINF:-1 tvg-id="DAAI TV" tvg-name="DAAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png" ,DAAI TV
 http://iptvid.my.id/hmm/daaitv.m3u8
+#EXTINF:-1 ,
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Jak TV" tvg-name="Jak TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Jaktv_logo.png/revision/latest/scale-to-width-down/250?cb=20180131051655" ,Jaktv
 https://live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+#EXTINF:-1 ,
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="NHK World Premium" tvg-name="NHK World Premium" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Logo_NHK_World_Premium.jpg/revision/latest/scale-to-width-down/250?cb=20171009031643" ,NHK WORLD PREMIUM
 https://live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+#EXTINF:-1 ,
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="WAKUWAKU JAPAN" tvg-name="WAKUWAKU JAPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" ,WAKUWAKU JAPAN
 https://live-cdn.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
+#EXTINF:-1 ,
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://static.epg.best/nz/CNBC.nz.png" ,CNBC Asia
 https://live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="cnnindonesia" tvg-logo="http://static.epg.best/gb/CNN.uk.png" ,CNN International
 http://iptvid.my.id/hmm/cnn_id.m3u8
+#EXTINF:-1 ,
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/BBC_World_News_2019.svg/revision/latest/scale-to-width-down/200?cb=20191123221705" ,BBC World News
 https://live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+#EXTINF:-1 ,
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Channel [V]" tvg-name="Channel [V]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Channel_V_Logo.svg/revision/latest/scale-to-width-down/260?cb=20150218131622" ,Channel [V]
 https://live-cdn.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
+#EXTINF:-1 ,
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Music channel" tvg-name="Music channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Logo_%281%292.png/revision/latest/scale-to-width-down/200?cb=20200311184319" ,Music Channel
 https://live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+#EXTINF:-1 ,
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ALQURAN ALKARIM" tvg-name="ALQURAN ALKARIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png" ,MAKKAH TV
 https://live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareeml.mpd
+#EXTINF:-1 ,
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" ,Arirang
 https://live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 #EXTINF:-1 tvg-id="KBS WORLD" tvg-name="KBS WORLD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/KBS_WORLD_logo_%282009-present%29.svg/revision/latest/scale-to-width-down/250?cb=20200927131101" ,KBS World
@@ -74,8 +117,12 @@ http://iptvid.my.id/hmm/bloomberg.m3u8
 http://iptvid.my.id/hmm/euronews.m3u8
 #EXTINF:-1 tvg-id="CNA.sg" tvg-name="newsasia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Channel_NewsAsia_Horizontal.svg/revision/latest/scale-to-width-down/350?cb=20190331173556" ,Channel News Asia
 http://iptvid.my.id/hmm/cna.m3u8
+#EXTINF:-1 ,
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="MNC Entertainment" tvg-name="MNC Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/MNCEntertainment_Vertical.png/revision/latest/scale-to-width-down/950?cb=20190610115029" ,MNC Entertainment
 https://live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+#EXTINF:-1 ,
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="MNC Infotainment" tvg-name="MNC Infotainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/IE.png/revision/latest/scale-to-width-down/200?cb=20210109121613" ,MNC Infotainment
 https://live-cdn.mncnow.id/live/eds/MNCInfotainmentt/sa_dash_vmx/MNCInfotainment.mpd
 #EXTINF:-1 tvg-id="IDXChannel.id" tvg-name="idx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/IDX_Channel.png/revision/latest/scale-to-width-down/168?cb=20180701122513" ,IDX
