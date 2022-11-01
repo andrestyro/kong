@@ -3,7 +3,10 @@
 http://iptvid.my.id/hmm/useeinfo.m3u8
 #EXTINF:-1 tvg-id="UseePhoto.id" tvg-name="useephoto" tvg-logo="https://i.ibb.co/zXb9cGt/useephoto-lean-paps.png" ,Usee Photo
 http://iptvid.my.id/hmm/useephoto.m3u8
-#EXTINF:0 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/RCTI_2015.svg/revision/latest/scale-to-width-down/250?cb=20160314110324" tvg-logo-small="https://i.postimg.cc/yxL35WPL/20220926-145249.png" ,RCTI
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/RCTI_2015.svg/revision/latest/scale-to-width-down/250?cb=20160314110324" tvg-logo-small="https://i.postimg.cc/yxL35WPL/20220926-145249.png" ,RCTI
 https://live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:0 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" tvg-logo-small="https://i.postimg.cc/brg1hmzH/20220926-145716.png" ,SCTV
 http://iptvid.my.id/hmm/sctv.m3u8
