@@ -318,8 +318,7 @@ http://tv.zonanime.my.id/vidio/horee.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-id="HipHipHoree.id" group-title="" 
-tvg-logo="https://thumbor.prod.vidiocdn.com/NM4W4Epe_JAMRpDF11AeNuzSdqk=/172x96/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7052/hip-hip-horee-f5d7ab.jpg",HIP-HIP HoreeTV
+#EXTINF:-1  tvg-id="HipHipHoree.id" group-title="" tvg-logo="https://thumbor.prod.vidiocdn.com/NM4W4Epe_JAMRpDF11AeNuzSdqk=/172x96/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7052/hip-hip-horee-f5d7ab.jpg",HIP-HIP HoreeTV
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
 http://tvn.x10.mx/1/master-2.m3u8?dl\u003d1
 
@@ -505,18 +504,6 @@ http://iptvid.my.id/hmm/cnmwrld.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-id="WarnerTVSoutheastAsia.us"  tvg-logo="https://images.useetv.com/logo_warner_small.png?v=2.0.0.13",Warner TV HD
-#EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-http://iptvid.my.id/hmm/wrnr.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-id="Kix.hk"  tvg-logo="https://images.useetv.com/logo_kix_small.png?v=2.0.0.13",Kix HD
-#EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-http://iptvid.my.id/hmm/kix.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="CitraBioskop.id"  tvg-logo="https://thumbor.prod.vidiocdn.com/cAAqHZj2gWKCv4ghipvDppbuH0U=/372x211/filters:format(webp):quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
 http://tv.zonanime.my.id/vidio/citrabioskop.m3u8
@@ -574,11 +561,6 @@ https://live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTINF:-1  tvg-id="ZBioskop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Zee_Bioskop.png/revision/latest/scale-to-width-down/340?cb=20191213060816",Zee Bioskop
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
 https://live-cdn.mncnow.id/live/eds/MovieChannel/sa_dash_vmx/MovieChannel.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/zing.png",Zing
-https://live-cdn.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -683,18 +665,6 @@ https://live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
 https://live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-id="Zee" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20191222192526",Zee
-#EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-https://live-cdn.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-id="N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg/revision/latest/scale-to-width-down/300?cb=20191222192752",ZEECINEMA
-#EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-https://live-cdn.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
-
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="AlQuranKareem.id" tvg-name="AlQuranKareem.id" tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/Live-Mekkah-1-1-1-300x98.png",Al Quran Al Kareem 2
 https://live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
@@ -714,22 +684,11 @@ https://live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mp
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://tv9.co.id/images/logo.png",TV9
 https://live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 
-#EXTINF: -1 tvg-logo="", FOX HD
-#http://93.152.174.144:4000/play/foxpt/index.m3u8
-http://58.65.171.202:8000/play/3111/index.m3u8
-
-#EXTINF: -1 tvg-logo="", FOX Life
-#http://93.152.174.144:4000/play/foxlifept/index.m3u8
-http://91.185.3.218:4000/play/417
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Warner" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warner2018LA.png/revision/latest/scale-to-width-down/200?cb=20190207141646",WARNER
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
 https://live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
-
-#EXTM3U url-tvg="https://raw.githubusercontent.com/andrestyro/kong/main/KNOWLEDGE.XML"
 
 #EXTINF:-1  tvg-id="N/A"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest/scale-to-width-down/300?cb=20151125134652",Love Nature
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
@@ -781,15 +740,17 @@ https://live-cdn.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
 https://live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/andrestyro/kong/main/Sport.xml"
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="Champion TV 1"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Champions_TV_1.png/revision/latest/scale-to-width-down/200?cb=20200428062800",Champions TV 1
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-http://180.211.90.134:8000/play/a05u
+http://tv.zonanime.my.id/vidio/championstv1.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="Champion TV 2"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Champions_TV_2.png/revision/latest/scale-to-width-down/200?cb=20200428063004",Champions TV 2
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-http://180.211.90.134:8000/play/a05w
+http://tv.zonanime.my.id/vidio/championstv2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -814,6 +775,8 @@ https://live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-H
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
 https://live-cdn.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="egg network"  tvg-logo="http://www.dens.tv/images/channel-logo/26.jpg",eGG TV
 http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
 
