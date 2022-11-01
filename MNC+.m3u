@@ -14,9 +14,9 @@ http://iptvid.my.id/hmm/useephoto.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="ANTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/200px-Antv_logo.svg.png",ANTV
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-https://live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+http://iptvid.my.id/hmm/antv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png", INDOSIAR 
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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", INDOSIAR 
 http://tv.zonanime.my.id/vidio/indosiar.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -53,19 +53,19 @@ http://iptvid.my.id/hmm/sctv.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="transtv"  tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/1b/TRANS_TV.png",TRANS TV
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-https://live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+http://iptvid.my.id/hmm/transtv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="trans7"  tvg-logo="https://1.bp.blogspot.com/-WGwAI9yh7v8/XwuUphRrO3I/AAAAAAAACWQ/2VrYHGDj3_Y80tX-15K4vednqt-Yc3oHwCLcBGAsYHQ/s400/Logo%2BTrans%2B7.png",Trans7
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-https://live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+http://iptvid.my.id/hmm/trans7.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="TVONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1200px-TvOne_logo_2012.svg.png",TVONE
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-https://live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+http://iptvid.my.id/hmm/tvone.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -87,7 +87,7 @@ https://live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-id="RTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/400px-Rajawali_Televisi.svg.png",RTV
+#EXTINF:-1  tvg-id="RajawaliTV.id"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/400px-Rajawali_Televisi.svg.png",RTV
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
@@ -105,7 +105,7 @@ https://live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-id="DAAI TV"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png",DAAI TV
+#EXTINF:-1  tvg-id="DAAI TV"  tvg-logo="data:image/png;base64,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",DAAI TV
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
 https://live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
@@ -123,7 +123,7 @@ http://180.211.90.134:8000/play/a09k
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="NHK World Premium"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Logo_NHK_World_Premium.jpg/revision/latest/scale-to-width-down/250?cb=20171009031643",NHK WORLD PREMIUM
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-https://live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+http://iptvid.my.id/hmm/nhkw.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -135,25 +135,19 @@ https://live-cdn.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="CNBC" tvg-logo="https://static.epg.best/nz/CNBC.nz.png" ,CNBC Asia
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-https://live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+http://iptvid.my.id/hmm/cnbcasia.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="CNN International" tvg-logo="http://static.epg.best/gb/CNN.uk.png" ,CNN International
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="http://static.epg.best/gb/CNN.uk.png" ,CNN Indonesia
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-https://live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+http://iptvid.my.id/hmm/cnn_id.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/BBC_World_News_2019.svg/revision/latest/scale-to-width-down/200?cb=20191123221705" ,BBC World News
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
 https://live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-id="Channel [V]"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Channel_V_Logo.svg/revision/latest/scale-to-width-down/260?cb=20150218131622",Channel [V]
-#EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-https://live-cdn.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -171,44 +165,44 @@ https://live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="Arirang"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",Arirang
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-https://live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+http://iptvid.my.id/hmm/arirang.m3u8
 
 #EXTINF:-1  tvg-id="KBS WORLD"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/KBS_WORLD_logo_%282009-present%29.svg/revision/latest/scale-to-width-down/250?cb=20200927131101",KBS World
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-http://180.211.90.134:8000/play/a086
+http://iptvid.my.id/hmm/kbsw.m3u8
 
-#EXTINF:-1  tvg-id="MTV ASIA"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/MTV_Live_HD.png/revision/latest/scale-to-width-down/185?cb=20200608133245",MTV Live
+#EXTINF:-1  tvg-id="MTVLive.uK"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/MTV_Live_HD.png/revision/latest/scale-to-width-down/185?cb=20200608133245",MTV Live
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-http://180.211.90.134:8000/play/a078
+http://iptvid.my.id/hmm/mtv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-id="France 24 English"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/France_24_2013.svg/revision/latest/scale-to-width-down/200?cb=20210115151030",France 24
-https://live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
+#EXTINF:-1  tvg-id="France24English.fr"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/France_24_2013.svg/revision/latest/scale-to-width-down/200?cb=20210115151030",France 24
+http://iptvid.my.id/hmm/france24.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-id="ABC Australia"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/ABCAustralia.svg/revision/latest/scale-to-width-down/250?cb=20180702124934",ABC
+#EXTINF:-1  tvg-id="ABCAustraliaAsia.au"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/ABCAustralia.svg/revision/latest/scale-to-width-down/250?cb=20180702124934",ABC
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-https://live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
+http://iptvid.my.id/hmm/abcaus.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="Bloomberg"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Bloomberg_2015.svg/revision/latest/scale-to-width-down/300?cb=20171125073306",Bloomberg
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-https://live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
+http://iptvid.my.id/hmm/bloomberg.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="Euronews"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Euronews_2016.svg/revision/latest/scale-to-width-down/300?cb=20170218115717",Euronews
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-https://live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
+http://iptvid.my.id/hmm/euronews.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="Channel News Asia"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Channel_NewsAsia_Horizontal.svg/revision/latest/scale-to-width-down/350?cb=20190331173556",Channel News Asia
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-https://live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
+http://iptvid.my.id/hmm/cna.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -224,9 +218,9 @@ https://live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-id="IDX"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/IDX_Channel.png/revision/latest/scale-to-width-down/168?cb=20180701122513",IDX
+#EXTINF:-1  tvg-id="IDXChannel.id"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/IDX_Channel.png/revision/latest/scale-to-width-down/168?cb=20180701122513",IDX
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-https://live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+http://iptvid.my.id/hmm/idx.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -236,18 +230,18 @@ https://live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #EXTINF:-1  tvg-id="FASHION TV"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/FASHION_TV_2017.png/revision/latest/scale-to-width-down/200?cb=20191026175440",FASHION TV
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-http://180.211.90.134:8000/play/a09c
+http://iptvid.my.id/hmm/fashiontv.m3u8
 
 
-#EXTINF:-1  tvg-id="N/A"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/ZooMoo_logo.svg.png/revision/latest/scale-to-width-down/340?cb=20171225070513",Zoomoo
+#EXTINF:-1  tvg-id="ZooMooAsia.nz"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/ZooMoo_logo.svg.png/revision/latest/scale-to-width-down/340?cb=20171225070513",Zoomoo
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-http://61.19.242.134/feed/202105171329/LC38/tracks-v1a1/mono.m3u8
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-id="Aniplus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest/scale-to-width-down/300?cb=20180531073555",Aniplus
+#EXTINF:-1  tvg-id="AniplusAsia.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest/scale-to-width-down/300?cb=20180531073555",Aniplus
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
+http://iptvid.my.id/hmm/aniplus.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
