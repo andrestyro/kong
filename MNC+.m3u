@@ -7,18 +7,18 @@ https://matsugi.000webhostapp.com/heroku-clearkey-hex-base64-json-main/web/resul
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3UbMn0i" ,Champions League
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3FvXuNt" ,Champions League
+http://cdn.raino.xyz/hls/stream4.m3u8|Referer=http://bdnewszh.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3UbMn0i" ,Champions League
-https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3WlJ34A" ,Champions League
+https://vaeagaa.wedodemos.com/live/_definst_/stream_1_4e329@VG44/chunklist.m3u8|Referer=https://xoivo6.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3UbMn0i" ,Champions League
-https://vaeagaa.wedodemos.com/live/_definst_/stream_1_4e329@VG26/chunklist.m3u8|Referer=https://xoivo6.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3gSwUDL" ,Champions League
+http://cdn.raino.xyz/hls/stream6.m3u8|Referer=http://bdnewszh.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -27,8 +27,8 @@ https://matsugi.000webhostapp.com/heroku-clearkey-hex-base64-json-main/web/resul
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3UbMn0i" ,Champions League
-https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3h0kyK3" ,Champions League
+http://cdn.raino.xyz/hls/stream9.m3u8|Referer=http://bdnewszh.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
