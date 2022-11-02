@@ -2,6 +2,11 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://shorturl.at/jI234" ,Test
+http://tvn.x10.mx/playlist/master-1.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://shorturl.at/jI234" ,Champions League
 https://vaeagaa.wedodemos.com/live/_definst_/stream_1_4e329@VG20/chunklist.m3u8|Referer=https://xoivo6.com
 
@@ -233,7 +238,12 @@ http://iptvid.my.id/hmm/fashiontv.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="ZooMooAsia.nz"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/ZooMoo_logo.svg.png/revision/latest/scale-to-width-down/340?cb=20171225070513",Zoomoo
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+http://tvn.x10.mx/1/master-8.m3u8?dl=1
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-id="MentariTV.id"  tvg-logo="https://i.imgur.com/Ka5OY8k.png",Mentari
+http://tvn.x10.mx/1/master-9.m3u8?dl=1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -428,17 +438,17 @@ http://tv.zonanime.my.id/vidio/citrabioskop.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="CitraDrama.id"  tvg-logo="https://thumbor.prod.vidiocdn.com/nNGu_CJWlLheaQG4s5R0Bp0-lIQ=/372x211/filters:format(webp):quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg",Citra Drama
-http://tvn.x10.mx/playlist/master-3.m3u8
+http://tvn.x10.mx/1/master-1.m3u8?dl=1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="CitraEntertainment.id"  tvg-logo="https://thumbor.prod.vidiocdn.com/Yg0BipGem9vJ1HU_M2nta2S1fgE=/372x211/filters:format(webp):quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg",Citra Entertainment
-http://tv.zonanime.my.id/vidio/citraentertainment.m3u8
+http://tvn.x10.mx/1/master-6.m3u8?dl=1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="CitraDangdut.id"  tvg-logo="https://thumbor.prod.vidiocdn.com/dfxtzulRmK4-cAUvo30s9VoSwbc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6587/8742fe.png",Citra Dangdut
-http://iptvid.my.id/hmm/cdangdut.m3u8
+http://tvn.x10.mx/1/master-5.m3u8?dl=1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
