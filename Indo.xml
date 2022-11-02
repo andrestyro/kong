@@ -1,0 +1,1385 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Dunia anak">
+    <display-name lang="id">Dunia anak</display-name>
+    <icon src="https://images.useetv.com/logogrey/grey_logo_duniaanak_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="id">Boomerang</display-name>
+    <icon src="https://images.useetv.com/logogrey/grey_logo_boomerang_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Net.">
+    <display-name lang="id">Net.</display-name>
+    <icon src="https://images.useetv.com/logo_net_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="id">Cartoon Network</display-name>
+    <icon src="https://images.useetv.com/logogrey/grey_logo_cartoonnetwork_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="beIN Sports 1">
+    <display-name lang="id">beIN Sports 1</display-name>
+    <icon src="https://images.useetv.com/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="beIN Sports 3">
+    <display-name lang="id">beIN Sports 3</display-name>
+    <icon src="https://images.useetv.com/logogrey/grey_logo_bein3_small1.png?v=3.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Animax">
+    <display-name lang="id">Animax</display-name>
+    <icon src="https://images.useetv.com/logogrey/grey_logo_animax_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Trans7">
+    <display-name lang="id">Trans7</display-name>
+    <icon src="https://images.useetv.com/logo_trans7_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="ATV">
+    <display-name lang="id">ATV</display-name>
+    <icon src="https://images.useetv.com/logo_atv_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="ANIPlus">
+    <display-name lang="id">ANIPlus</display-name>
+    <icon src="https://images.useetv.com/logogrey/grey_logo_aniplus_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="CNBC Asia">
+    <display-name lang="id">CNBC Asia</display-name>
+    <icon src="https://images.useetv.com/logogrey/grey_logo_cnbcasias_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="CNN Indonesia">
+    <display-name lang="id">CNN Indonesia</display-name>
+    <icon src="https://images.useetv.com/logogrey/grey_logo_cnnindonesia_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="JakTV">
+    <display-name lang="id">JakTV</display-name>
+    <icon src="https://images.useetv.com/logo_jaktv_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Nick Junior">
+    <display-name lang="id">Nick Junior</display-name>
+    <icon src="https://images.useetv.com/logogrey/grey_logo_nickjr_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="MyKidz">
+    <display-name lang="id">MyKidz</display-name>
+    <icon src="https://images.useetv.com/logogrey/grey_logo_mykids_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="Baby First">
+    <display-name lang="id">Baby First</display-name>
+    <icon src="https://images.useetv.com/logogrey/grey_logo_babyfirst_small.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <programme start="20221102000000 +0700" stop="20221102050000 +0700" channel="Dunia anak">
+    <title lang="id">Music Lullaby</title>
+  </programme>
+  <programme start="20221102050000 +0700" stop="20221102052500 +0700" channel="Dunia anak">
+    <title lang="id">Si Unyil Eps. 66</title>
+  </programme>
+  <programme start="20221102052500 +0700" stop="20221102055000 +0700" channel="Dunia anak">
+    <title lang="id">Petualangan Si Unyil Eps. 14</title>
+  </programme>
+  <programme start="20221102055000 +0700" stop="20221102061500 +0700" channel="Dunia anak">
+    <title lang="id">Surat Sahabat Eps. 110</title>
+  </programme>
+  <programme start="20221102061500 +0700" stop="20221102064000 +0700" channel="Dunia anak">
+    <title lang="id">Shuriken School Eps. 21</title>
+  </programme>
+  <programme start="20221102064000 +0700" stop="20221102070500 +0700" channel="Dunia anak">
+    <title lang="id">Happy Holy Kids Eps. 9</title>
+  </programme>
+  <programme start="20221102070500 +0700" stop="20221102073000 +0700" channel="Dunia anak">
+    <title lang="id">Si Otan Eps. 129</title>
+  </programme>
+  <programme start="20221102073000 +0700" stop="20221102075500 +0700" channel="Dunia anak">
+    <title lang="id">Aku Mau Tahu Eps. 38</title>
+  </programme>
+  <programme start="20221102075500 +0700" stop="20221102082000 +0700" channel="Dunia anak">
+    <title lang="id">Dunia Air Eps. 284</title>
+  </programme>
+  <programme start="20221102082000 +0700" stop="20221102084500 +0700" channel="Dunia anak">
+    <title lang="id">Asal Usul Fauna Eps. 20</title>
+  </programme>
+  <programme start="20221102084500 +0700" stop="20221102092500 +0700" channel="Dunia anak">
+    <title lang="id">Super Kids Eps. 41</title>
+  </programme>
+  <programme start="20221102092500 +0700" stop="20221102100000 +0700" channel="Dunia anak">
+    <title lang="id">Teropong Si Bolang Eps. 89</title>
+  </programme>
+  <programme start="20221102100000 +0700" stop="20221102102500 +0700" channel="Dunia anak">
+    <title lang="id">Bocah NgapaK Ya Eps. 33</title>
+  </programme>
+  <programme start="20221102102500 +0700" stop="20221102105000 +0700" channel="Dunia anak">
+    <title lang="id">Dunia Binatang Eps. 1093</title>
+  </programme>
+  <programme start="20221102105000 +0700" stop="20221102111500 +0700" channel="Dunia anak">
+    <title lang="id">Si Otan Eps. 130</title>
+  </programme>
+  <programme start="20221102111500 +0700" stop="20221102114000 +0700" channel="Dunia anak">
+    <title lang="id">Happy Holy Kids Eps. 8</title>
+  </programme>
+  <programme start="20221102114000 +0700" stop="20221102120500 +0700" channel="Dunia anak">
+    <title lang="id">Pat A Pat Como Eps. 8</title>
+  </programme>
+  <programme start="20221102120500 +0700" stop="20221102123000 +0700" channel="Dunia anak">
+    <title lang="id">Teropong Si Bolang Eps. 4</title>
+  </programme>
+  <programme start="20221102123000 +0700" stop="20221102125500 +0700" channel="Dunia anak">
+    <title lang="id">Si Unyil Eps. 67</title>
+  </programme>
+  <programme start="20221102125500 +0700" stop="20221102132000 +0700" channel="Dunia anak">
+    <title lang="id">Petualangan Si Unyil Eps. 15</title>
+  </programme>
+  <programme start="20221102132000 +0700" stop="20221102134500 +0700" channel="Dunia anak">
+    <title lang="id">Surat Sahabat Eps. 115</title>
+  </programme>
+  <programme start="20221102134500 +0700" stop="20221102141000 +0700" channel="Dunia anak">
+    <title lang="id">Dunia Air Eps. 287</title>
+  </programme>
+  <programme start="20221102141000 +0700" stop="20221102143500 +0700" channel="Dunia anak">
+    <title lang="id">Bocah NgapaK Ya Eps. 34</title>
+  </programme>
+  <programme start="20221102143500 +0700" stop="20221102150000 +0700" channel="Dunia anak">
+    <title lang="id">Dunia Binatang Eps. 100</title>
+  </programme>
+  <programme start="20221102150000 +0700" stop="20221102152500 +0700" channel="Dunia anak">
+    <title lang="id">Laptop Si Unyil Eps. 1562</title>
+  </programme>
+  <programme start="20221102152500 +0700" stop="20221102155000 +0700" channel="Dunia anak">
+    <title lang="id">Bocah Petualang Eps. 1913</title>
+  </programme>
+  <programme start="20221102155000 +0700" stop="20221102161500 +0700" channel="Dunia anak">
+    <title lang="id">Happy Holy Kids Eps. 9</title>
+  </programme>
+  <programme start="20221102161500 +0700" stop="20221102164000 +0700" channel="Dunia anak">
+    <title lang="id">Shuriken School Eps. 22</title>
+  </programme>
+  <programme start="20221102164000 +0700" stop="20221102170500 +0700" channel="Dunia anak">
+    <title lang="id">Teropong Si Bolang Eps. 5</title>
+  </programme>
+  <programme start="20221102170500 +0700" stop="20221102173000 +0700" channel="Dunia anak">
+    <title lang="id">Si Otan Eps. 131</title>
+  </programme>
+  <programme start="20221102173000 +0700" stop="20221102175500 +0700" channel="Dunia anak">
+    <title lang="id">Asal Usul Fauna Eps. 19</title>
+  </programme>
+  <programme start="20221102175500 +0700" stop="20221102182000 +0700" channel="Dunia anak">
+    <title lang="id">Dunia Binatang Eps. 1093</title>
+  </programme>
+  <programme start="20221102182000 +0700" stop="20221102184500 +0700" channel="Dunia anak">
+    <title lang="id">Dunia Air Eps. 284</title>
+  </programme>
+  <programme start="20221102184500 +0700" stop="20221102191000 +0700" channel="Dunia anak">
+    <title lang="id">Bocah Petualang Eps. 1697</title>
+  </programme>
+  <programme start="20221102191000 +0700" stop="20221102193500 +0700" channel="Dunia anak">
+    <title lang="id">Laptop Si Unyil Eps. 1565</title>
+  </programme>
+  <programme start="20221102193500 +0700" stop="20221102200000 +0700" channel="Dunia anak">
+    <title lang="id">Asal Usul Fauna Eps. 20</title>
+  </programme>
+  <programme start="20221102200000 +0700" stop="20221102202500 +0700" channel="Dunia anak">
+    <title lang="id">Si Otan Eps. 129</title>
+  </programme>
+  <programme start="20221102202500 +0700" stop="20221102205000 +0700" channel="Dunia anak">
+    <title lang="id">Si Unyil Eps. 68</title>
+  </programme>
+  <programme start="20221102205000 +0700" stop="20221102211500 +0700" channel="Dunia anak">
+    <title lang="id">Petualangan Si Unyil Eps. 17</title>
+  </programme>
+  <programme start="20221102211500 +0700" stop="20221102214000 +0700" channel="Dunia anak">
+    <title lang="id">Bocah NgapaK Ya Eps. 35</title>
+  </programme>
+  <programme start="20221102214000 +0700" stop="20221102220500 +0700" channel="Dunia anak">
+    <title lang="id">Bocah Petualang Eps. 1913</title>
+  </programme>
+  <programme start="20221102220500 +0700" stop="20221103000000 +0700" channel="Dunia anak">
+    <title lang="id">Music Lullaby</title>
+  </programme>
+  <programme start="20221102000000 +0700" stop="20221102010000 +0700" channel="Boomerang">
+    <title lang="id">Unikitty</title>
+  </programme>
+  <programme start="20221102010000 +0700" stop="20221102020000 +0700" channel="Boomerang">
+    <title lang="id">Chowder</title>
+  </programme>
+  <programme start="20221102020000 +0700" stop="20221102030000 +0700" channel="Boomerang">
+    <title lang="id">The Powerpuff Girls</title>
+  </programme>
+  <programme start="20221102030000 +0700" stop="20221102040000 +0700" channel="Boomerang">
+    <title lang="id">Ben 10</title>
+  </programme>
+  <programme start="20221102040000 +0700" stop="20221102050000 +0700" channel="Boomerang">
+    <title lang="id">Fosters Home For Imaginary Friends</title>
+  </programme>
+  <programme start="20221102050000 +0700" stop="20221102060000 +0700" channel="Boomerang">
+    <title lang="id">Fosters Home For Imaginary Friends</title>
+  </programme>
+  <programme start="20221102060000 +0700" stop="20221102070000 +0700" channel="Boomerang">
+    <title lang="id">Unikitty</title>
+  </programme>
+  <programme start="20221102070000 +0700" stop="20221102080000 +0700" channel="Boomerang">
+    <title lang="id">Pat The Dog</title>
+  </programme>
+  <programme start="20221102080000 +0700" stop="20221102090000 +0700" channel="Boomerang">
+    <title lang="id">The Powerpuff Girls</title>
+  </programme>
+  <programme start="20221102090000 +0700" stop="20221102100000 +0700" channel="Boomerang">
+    <title lang="id">New Looney Tunes</title>
+  </programme>
+  <programme start="20221102100000 +0700" stop="20221102110000 +0700" channel="Boomerang">
+    <title lang="id">The Looney Tunes Show</title>
+  </programme>
+  <programme start="20221102110000 +0700" stop="20221102112500 +0700" channel="Boomerang">
+    <title lang="id">Esme  Roy</title>
+  </programme>
+  <programme start="20221102112500 +0700" stop="20221102115000 +0700" channel="Boomerang">
+    <title lang="id">Monchhichi Tribe</title>
+  </programme>
+  <programme start="20221102115000 +0700" stop="20221102121500 +0700" channel="Boomerang">
+    <title lang="id">Mush Mush And The Mushables</title>
+  </programme>
+  <programme start="20221102121500 +0700" stop="20221102124000 +0700" channel="Boomerang">
+    <title lang="id">Ranger Rob</title>
+  </programme>
+  <programme start="20221102124000 +0700" stop="20221102130000 +0700" channel="Boomerang">
+    <title lang="id">Brave Bunnies</title>
+  </programme>
+  <programme start="20221102130000 +0700" stop="20221102140000 +0700" channel="Boomerang">
+    <title lang="id">Grizzy And The Lemmings</title>
+  </programme>
+  <programme start="20221102140000 +0700" stop="20221102150000 +0700" channel="Boomerang">
+    <title lang="id">Scooby-Doo Mystery Incorporated</title>
+  </programme>
+  <programme start="20221102150000 +0700" stop="20221102160000 +0700" channel="Boomerang">
+    <title lang="id">Tom And Jerry Tales</title>
+  </programme>
+  <programme start="20221102160000 +0700" stop="20221102162500 +0700" channel="Boomerang">
+    <title lang="id">Brave Bunnies</title>
+  </programme>
+  <programme start="20221102162500 +0700" stop="20221102165000 +0700" channel="Boomerang">
+    <title lang="id">Alice  Lewis</title>
+  </programme>
+  <programme start="20221102165000 +0700" stop="20221102171500 +0700" channel="Boomerang">
+    <title lang="id">Esme  Roy</title>
+  </programme>
+  <programme start="20221102171500 +0700" stop="20221102174000 +0700" channel="Boomerang">
+    <title lang="id">Monchhichi Tribe</title>
+  </programme>
+  <programme start="20221102174000 +0700" stop="20221102180500 +0700" channel="Boomerang">
+    <title lang="id">Dino Ranch</title>
+  </programme>
+  <programme start="20221102180500 +0700" stop="20221102183000 +0700" channel="Boomerang">
+    <title lang="id">Ranger Rob</title>
+  </programme>
+  <programme start="20221102183000 +0700" stop="20221102190000 +0700" channel="Boomerang">
+    <title lang="id">Mush Mush And The Mushables</title>
+  </programme>
+  <programme start="20221102190000 +0700" stop="20221102200000 +0700" channel="Boomerang">
+    <title lang="id">New Looney Tunes</title>
+  </programme>
+  <programme start="20221102200000 +0700" stop="20221102210000 +0700" channel="Boomerang">
+    <title lang="id">The Looney Tunes Show</title>
+  </programme>
+  <programme start="20221102210000 +0700" stop="20221102220000 +0700" channel="Boomerang">
+    <title lang="id">Mighty Mike</title>
+  </programme>
+  <programme start="20221102220000 +0700" stop="20221102230000 +0700" channel="Boomerang">
+    <title lang="id">Tom And Jerry Theatricals</title>
+  </programme>
+  <programme start="20221102230000 +0700" stop="20221103000000 +0700" channel="Boomerang">
+    <title lang="id">Pat The Dog</title>
+  </programme>
+  <programme start="20221102003000 +0700" stop="20221102010000 +0700" channel="Net.">
+    <title lang="id">One Championship Warrior</title>
+  </programme>
+  <programme start="20221102010000 +0700" stop="20221102023000 +0700" channel="Net.">
+    <title lang="id">Ini Talkshow</title>
+  </programme>
+  <programme start="20221102023000 +0700" stop="20221102040000 +0700" channel="Net.">
+    <title lang="id">Comedy Night Live</title>
+  </programme>
+  <programme start="20221102040000 +0700" stop="20221102050000 +0700" channel="Net.">
+    <title lang="id">Tawa Tawa Santai</title>
+  </programme>
+  <programme start="20221102050000 +0700" stop="20221102060000 +0700" channel="Net.">
+    <title lang="id">Menjemput Berkah</title>
+  </programme>
+  <programme start="20221102060000 +0700" stop="20221102065900 +0700" channel="Net.">
+    <title lang="id">Di Balik Mitos</title>
+  </programme>
+  <programme start="20221102065900 +0700" stop="20221102080000 +0700" channel="Net.">
+    <title lang="id">Fakta 62</title>
+  </programme>
+  <programme start="20221102080000 +0700" stop="20221102090000 +0700" channel="Net.">
+    <title lang="id">Tik Tok Wow</title>
+  </programme>
+  <programme start="20221102090000 +0700" stop="20221102103000 +0700" channel="Net.">
+    <title lang="id">Makan Enak</title>
+  </programme>
+  <programme start="20221102103000 +0700" stop="20221102120000 +0700" channel="Net.">
+    <title lang="id">Net. Turkish: Hercai</title>
+  </programme>
+  <programme start="20221102120000 +0700" stop="20221102130000 +0700" channel="Net.">
+    <title lang="id">Net. Drakor Saranghae: Sing Again - Hera Gu</title>
+  </programme>
+  <programme start="20221102130000 +0700" stop="20221102150000 +0700" channel="Net.">
+    <title lang="id">Net. Asik :  Hello Jadoo</title>
+  </programme>
+  <programme start="20221102150000 +0700" stop="20221102160000 +0700" channel="Net.">
+    <title lang="id">Net. Mania :  Detective Conan</title>
+  </programme>
+  <programme start="20221102160000 +0700" stop="20221102180000 +0700" channel="Net.">
+    <title lang="id">Net. Movie: Shinbis House</title>
+  </programme>
+  <programme start="20221102180000 +0700" stop="20221102190000 +0700" channel="Net.">
+    <title lang="id">Net. Drakor Platinum: My Absolute Boyfriend</title>
+  </programme>
+  <programme start="20221102190000 +0700" stop="20221102203000 +0700" channel="Net.">
+    <title lang="id">Biar Viral</title>
+  </programme>
+  <programme start="20221102203000 +0700" stop="20221102223000 +0700" channel="Net.">
+    <title lang="id">Kalpa Prime Movie - Lewat Tengah Malam</title>
+  </programme>
+  <programme start="20221102223000 +0700" stop="20221102233000 +0700" channel="Net.">
+    <title lang="id">86</title>
+  </programme>
+  <programme start="20221102233000 +0700" stop="20221103003000 +0700" channel="Net.">
+    <title lang="id">Jatanras</title>
+  </programme>
+  <programme start="20221102000000 +0700" stop="20221102010000 +0700" channel="Cartoon Network">
+    <title lang="id">Regular Show</title>
+  </programme>
+  <programme start="20221102010000 +0700" stop="20221102020000 +0700" channel="Cartoon Network">
+    <title lang="id">Steven Universe</title>
+  </programme>
+  <programme start="20221102020000 +0700" stop="20221102030000 +0700" channel="Cartoon Network">
+    <title lang="id">The Powerpuff Girls</title>
+  </programme>
+  <programme start="20221102030000 +0700" stop="20221102040000 +0700" channel="Cartoon Network">
+    <title lang="id">Adventure Time</title>
+  </programme>
+  <programme start="20221102040000 +0700" stop="20221102050000 +0700" channel="Cartoon Network">
+    <title lang="id">Grizzy And The Lemmings</title>
+  </programme>
+  <programme start="20221102050000 +0700" stop="20221102060000 +0700" channel="Cartoon Network">
+    <title lang="id">We Bare Bears</title>
+  </programme>
+  <programme start="20221102060000 +0700" stop="20221102064000 +0700" channel="Cartoon Network">
+    <title lang="id">Lucas The Spider</title>
+  </programme>
+  <programme start="20221102064000 +0700" stop="20221102071000 +0700" channel="Cartoon Network">
+    <title lang="id">Monchhichi Tribe</title>
+  </programme>
+  <programme start="20221102071000 +0700" stop="20221102080500 +0700" channel="Cartoon Network">
+    <title lang="id">Baby Looney Tunes</title>
+  </programme>
+  <programme start="20221102080500 +0700" stop="20221102090000 +0700" channel="Cartoon Network">
+    <title lang="id">Ranger Rob</title>
+  </programme>
+  <programme start="20221102090000 +0700" stop="20221102093000 +0700" channel="Cartoon Network">
+    <title lang="id">Talking Tom And Friends</title>
+  </programme>
+  <programme start="20221102093000 +0700" stop="20221102103000 +0700" channel="Cartoon Network">
+    <title lang="id">Running Man Animation</title>
+  </programme>
+  <programme start="20221102103000 +0700" stop="20221102113000 +0700" channel="Cartoon Network">
+    <title lang="id">We Bare Bears</title>
+  </programme>
+  <programme start="20221102113000 +0700" stop="20221102123000 +0700" channel="Cartoon Network">
+    <title lang="id">Mr. Bean : The Animated Series</title>
+  </programme>
+  <programme start="20221102123000 +0700" stop="20221102133000 +0700" channel="Cartoon Network">
+    <title lang="id">The Amazing World Of Gumball</title>
+  </programme>
+  <programme start="20221102133000 +0700" stop="20221102140000 +0700" channel="Cartoon Network">
+    <title lang="id">The Amazing World Of Gumball</title>
+  </programme>
+  <programme start="20221102140000 +0700" stop="20221102143000 +0700" channel="Cartoon Network">
+    <title lang="id">Mechamato</title>
+  </programme>
+  <programme start="20221102143000 +0700" stop="20221102150000 +0700" channel="Cartoon Network">
+    <title lang="id">Teen Titans Go</title>
+  </programme>
+  <programme start="20221102150000 +0700" stop="20221102160000 +0700" channel="Cartoon Network">
+    <title lang="id">Teen Titans Go</title>
+  </programme>
+  <programme start="20221102160000 +0700" stop="20221102163000 +0700" channel="Cartoon Network">
+    <title lang="id">Adventure Time</title>
+  </programme>
+  <programme start="20221102163000 +0700" stop="20221102170000 +0700" channel="Cartoon Network">
+    <title lang="id">We Baby Bears</title>
+  </programme>
+  <programme start="20221102170000 +0700" stop="20221102173500 +0700" channel="Cartoon Network">
+    <title lang="id">The Amazing World Of Gumball</title>
+  </programme>
+  <programme start="20221102173500 +0700" stop="20221102180000 +0700" channel="Cartoon Network">
+    <title lang="id">The Amazing World Of Gumball</title>
+  </programme>
+  <programme start="20221102180000 +0700" stop="20221102183500 +0700" channel="Cartoon Network">
+    <title lang="id">Looney Tunes Cartoons</title>
+  </programme>
+  <programme start="20221102183500 +0700" stop="20221102190000 +0700" channel="Cartoon Network">
+    <title lang="id">Jellystone</title>
+  </programme>
+  <programme start="20221102190000 +0700" stop="20221102200000 +0700" channel="Cartoon Network">
+    <title lang="id">We Bare Bears</title>
+  </programme>
+  <programme start="20221102200000 +0700" stop="20221102210000 +0700" channel="Cartoon Network">
+    <title lang="id">Teen Titans Go</title>
+  </programme>
+  <programme start="20221102210000 +0700" stop="20221102220000 +0700" channel="Cartoon Network">
+    <title lang="id">Mr. Bean : The Animated Series</title>
+  </programme>
+  <programme start="20221102220000 +0700" stop="20221102230000 +0700" channel="Cartoon Network">
+    <title lang="id">Ben 10</title>
+  </programme>
+  <programme start="20221102230000 +0700" stop="20221103000000 +0700" channel="Cartoon Network">
+    <title lang="id">Adventure Time</title>
+  </programme>
+  <programme start="20221102000000 +0700" stop="20221102010000 +0700" channel="beIN Sports 1">
+    <title lang="id">Ligue 1 Highlights 2022 - 2023</title>
+  </programme>
+  <programme start="20221102010000 +0700" stop="20221102025000 +0700" channel="beIN Sports 1">
+    <title lang="id">Serie A 2022 - 2023</title>
+  </programme>
+  <programme start="20221102025000 +0700" stop="20221102044000 +0700" channel="beIN Sports 1">
+    <title lang="id">Ligue 1 2022 - 2023</title>
+  </programme>
+  <programme start="20221102044000 +0700" stop="20221102063000 +0700" channel="beIN Sports 1">
+    <title lang="id">Serie A 2022 - 2023</title>
+  </programme>
+  <programme start="20221102063000 +0700" stop="20221102070000 +0700" channel="beIN Sports 1">
+    <title lang="id">MUTV Highlights 2022 - 2023</title>
+  </programme>
+  <programme start="20221102070000 +0700" stop="20221102090000 +0700" channel="beIN Sports 1">
+    <title lang="id">MUTV 2022 - 2023</title>
+  </programme>
+  <programme start="20221102090000 +0700" stop="20221102093000 +0700" channel="beIN Sports 1">
+    <title lang="id">MUTV: Match Day Review 2022 - 2023</title>
+  </programme>
+  <programme start="20221102093000 +0700" stop="20221102100000 +0700" channel="beIN Sports 1">
+    <title lang="id">A-League Men Highlights 2022 - 2023</title>
+  </programme>
+  <programme start="20221102100000 +0700" stop="20221102103000 +0700" channel="beIN Sports 1">
+    <title lang="id">GP Confidential 2022</title>
+  </programme>
+  <programme start="20221102103000 +0700" stop="20221102122000 +0700" channel="beIN Sports 1">
+    <title lang="id">Serie A 2022 - 2023</title>
+  </programme>
+  <programme start="20221102122000 +0700" stop="20221102142000 +0700" channel="beIN Sports 1">
+    <title lang="id">Serie A 2022 - 2023</title>
+  </programme>
+  <programme start="20221102142000 +0700" stop="20221102161000 +0700" channel="beIN Sports 1">
+    <title lang="id">Ligue 1 2022 - 2023</title>
+  </programme>
+  <programme start="20221102161000 +0700" stop="20221102180000 +0700" channel="beIN Sports 1">
+    <title lang="id">Serie A 2022 - 2023</title>
+  </programme>
+  <programme start="20221102180000 +0700" stop="20221102183000 +0700" channel="beIN Sports 1">
+    <title lang="id">Serie A Full Impact 2022 - 2023</title>
+  </programme>
+  <programme start="20221102183000 +0700" stop="20221102190000 +0700" channel="beIN Sports 1">
+    <title lang="id">Electric Odyssey 2022</title>
+  </programme>
+  <programme start="20221102190000 +0700" stop="20221102210000 +0700" channel="beIN Sports 1">
+    <title lang="id">Serie A 2022 - 2023</title>
+  </programme>
+  <programme start="20221102210000 +0700" stop="20221102230000 +0700" channel="beIN Sports 1">
+    <title lang="id">LFCTV 2022 - 2023</title>
+  </programme>
+  <programme start="20221102230000 +0700" stop="20221102233000 +0700" channel="beIN Sports 1">
+    <title lang="id">LFC Trending 2022 - 2023</title>
+  </programme>
+  <programme start="20221102233000 +0700" stop="20221103000000 +0700" channel="beIN Sports 1">
+    <title lang="id">LFCTV Specials 2022 - 2023</title>
+  </programme>
+  <programme start="20221102000000 +0700" stop="20221102003000 +0700" channel="beIN Sports 3">
+    <title lang="id">LaLiga Fans 2022 - 2023</title>
+  </programme>
+  <programme start="20221102003000 +0700" stop="20221102010000 +0700" channel="beIN Sports 3">
+    <title lang="id">Arsenal 360 2022 - 2023</title>
+  </programme>
+  <programme start="20221102010000 +0700" stop="20221102023000 +0700" channel="beIN Sports 3">
+    <title lang="id">Viva LaLiga 2022 - 2023</title>
+  </programme>
+  <programme start="20221102023000 +0700" stop="20221102042000 +0700" channel="beIN Sports 3">
+    <title lang="id">LaLiga 2022 - 2023</title>
+  </programme>
+  <programme start="20221102042000 +0700" stop="20221102061000 +0700" channel="beIN Sports 3">
+    <title lang="id">A - League Men 2022 - 2023</title>
+  </programme>
+  <programme start="20221102061000 +0700" stop="20221102080000 +0700" channel="beIN Sports 3">
+    <title lang="id">LaLiga 2022 - 2023</title>
+  </programme>
+  <programme start="20221102080000 +0700" stop="20221102083000 +0700" channel="beIN Sports 3">
+    <title lang="id">Arsenal World 2022 - 2023</title>
+  </programme>
+  <programme start="20221102083000 +0700" stop="20221102090000 +0700" channel="beIN Sports 3">
+    <title lang="id">Arsenal 360 2022 - 2023</title>
+  </programme>
+  <programme start="20221102090000 +0700" stop="20221102111000 +0700" channel="beIN Sports 3">
+    <title lang="id">Arsenal TV 2022 - 2023</title>
+  </programme>
+  <programme start="20221102111000 +0700" stop="20221102113000 +0700" channel="beIN Sports 3">
+    <title lang="id">Ligue 1 Talking Talents 2022 - 2023</title>
+  </programme>
+  <programme start="20221102113000 +0700" stop="20221102123000 +0700" channel="beIN Sports 3">
+    <title lang="id">Ferrari Challenge Europe Race 2022</title>
+  </programme>
+  <programme start="20221102123000 +0700" stop="20221102133000 +0700" channel="beIN Sports 3">
+    <title lang="id">Ferrari Challenge Europe Race 2022</title>
+  </programme>
+  <programme start="20221102133000 +0700" stop="20221102144000 +0700" channel="beIN Sports 3">
+    <title lang="id">Ferrari Challenge Europe Race 2022</title>
+  </programme>
+  <programme start="20221102144000 +0700" stop="20221102151000 +0700" channel="beIN Sports 3">
+    <title lang="id">Porsche Carrera Cup Germany Highlights 2022</title>
+  </programme>
+  <programme start="20221102151000 +0700" stop="20221102173000 +0700" channel="beIN Sports 3">
+    <title lang="id">Supercars Championship 2022</title>
+  </programme>
+  <programme start="20221102173000 +0700" stop="20221102180000 +0700" channel="beIN Sports 3">
+    <title lang="id">Mini Match - LaLiga 2022 - 2023</title>
+  </programme>
+  <programme start="20221102180000 +0700" stop="20221102183000 +0700" channel="beIN Sports 3">
+    <title lang="id">LaLiga World 2022 - 2023</title>
+  </programme>
+  <programme start="20221102183000 +0700" stop="20221102193000 +0700" channel="beIN Sports 3">
+    <title lang="id">LaLiga 2 Highlights 2022 - 2023</title>
+  </programme>
+  <programme start="20221102193000 +0700" stop="20221102213000 +0700" channel="beIN Sports 3">
+    <title lang="id">Ligue 1 2022 - 2023</title>
+  </programme>
+  <programme start="20221102213000 +0700" stop="20221102233000 +0700" channel="beIN Sports 3">
+    <title lang="id">LaLiga 2022 - 2023</title>
+  </programme>
+  <programme start="20221102233000 +0700" stop="20221103000000 +0700" channel="beIN Sports 3">
+    <title lang="id">LaLiga World 2022 - 2023</title>
+  </programme>
+  <programme start="20221102000000 +0700" stop="20221102003000 +0700" channel="Animax">
+    <title lang="id">Rent - A - Girlfriend</title>
+  </programme>
+  <programme start="20221102003000 +0700" stop="20221102010000 +0700" channel="Animax">
+    <title lang="id">Rent - A - Girlfriend</title>
+  </programme>
+  <programme start="20221102010000 +0700" stop="20221102013000 +0700" channel="Animax">
+    <title lang="id">Kurokos Basketball</title>
+  </programme>
+  <programme start="20221102013000 +0700" stop="20221102020000 +0700" channel="Animax">
+    <title lang="id">Legend Of The Galactic Heroes: Die Neue These Second</title>
+  </programme>
+  <programme start="20221102020000 +0700" stop="20221102023000 +0700" channel="Animax">
+    <title lang="id">Legend Of The Galactic Heroes: Die Neue These Second</title>
+  </programme>
+  <programme start="20221102023000 +0700" stop="20221102030000 +0700" channel="Animax">
+    <title lang="id">One Punch Man</title>
+  </programme>
+  <programme start="20221102030000 +0700" stop="20221102033000 +0700" channel="Animax">
+    <title lang="id">Sabikui Bisco</title>
+  </programme>
+  <programme start="20221102033000 +0700" stop="20221102040000 +0700" channel="Animax">
+    <title lang="id">Rent - A - Girlfriend</title>
+  </programme>
+  <programme start="20221102040000 +0700" stop="20221102043000 +0700" channel="Animax">
+    <title lang="id">Rent - A - Girlfriend</title>
+  </programme>
+  <programme start="20221102043000 +0700" stop="20221102050000 +0700" channel="Animax">
+    <title lang="id">Yashahime: Princess Half - Demon  -  The Second Act  -</title>
+  </programme>
+  <programme start="20221102050000 +0700" stop="20221102053000 +0700" channel="Animax">
+    <title lang="id">Sabikui Bisco</title>
+  </programme>
+  <programme start="20221102053000 +0700" stop="20221102060000 +0700" channel="Animax">
+    <title lang="id">One Punch Man</title>
+  </programme>
+  <programme start="20221102060000 +0700" stop="20221102063000 +0700" channel="Animax">
+    <title lang="id">High School Prodigies Have It Easy Even In Another World</title>
+  </programme>
+  <programme start="20221102063000 +0700" stop="20221102070000 +0700" channel="Animax">
+    <title lang="id">High School Prodigies Have It Easy Even In Another World</title>
+  </programme>
+  <programme start="20221102070000 +0700" stop="20221102073000 +0700" channel="Animax">
+    <title lang="id">Legend Of The Galactic Heroes: Die Neue These Second</title>
+  </programme>
+  <programme start="20221102073000 +0700" stop="20221102080000 +0700" channel="Animax">
+    <title lang="id">Legend Of The Galactic Heroes: Die Neue These Second</title>
+  </programme>
+  <programme start="20221102080000 +0700" stop="20221102083000 +0700" channel="Animax">
+    <title lang="id">Kurokos Basketball</title>
+  </programme>
+  <programme start="20221102083000 +0700" stop="20221102093000 +0700" channel="Animax">
+    <title lang="id">Re: Zero  - Starting Life In Another World -  Directors Cut</title>
+  </programme>
+  <programme start="20221102093000 +0700" stop="20221102100000 +0700" channel="Animax">
+    <title lang="id">One Punch Man</title>
+  </programme>
+  <programme start="20221102100000 +0700" stop="20221102103000 +0700" channel="Animax">
+    <title lang="id">High School Prodigies Have It Easy Even In Another World</title>
+  </programme>
+  <programme start="20221102103000 +0700" stop="20221102110000 +0700" channel="Animax">
+    <title lang="id">High School Prodigies Have It Easy Even In Another World</title>
+  </programme>
+  <programme start="20221102110000 +0700" stop="20221102113000 +0700" channel="Animax">
+    <title lang="id">Legend Of The Galactic Heroes: Die Neue These Second</title>
+  </programme>
+  <programme start="20221102113000 +0700" stop="20221102120000 +0700" channel="Animax">
+    <title lang="id">Legend Of The Galactic Heroes: Die Neue These Second</title>
+  </programme>
+  <programme start="20221102120000 +0700" stop="20221102123000 +0700" channel="Animax">
+    <title lang="id">Kurokos Basketball</title>
+  </programme>
+  <programme start="20221102123000 +0700" stop="20221102130000 +0700" channel="Animax">
+    <title lang="id">Yashahime: Princess Half - Demon  -  The Second Act  -</title>
+  </programme>
+  <programme start="20221102130000 +0700" stop="20221102133000 +0700" channel="Animax">
+    <title lang="id">Sabikui Bisco</title>
+  </programme>
+  <programme start="20221102133000 +0700" stop="20221102140000 +0700" channel="Animax">
+    <title lang="id">One Punch Man</title>
+  </programme>
+  <programme start="20221102140000 +0700" stop="20221102143000 +0700" channel="Animax">
+    <title lang="id">High School Prodigies Have It Easy Even In Another World</title>
+  </programme>
+  <programme start="20221102143000 +0700" stop="20221102150000 +0700" channel="Animax">
+    <title lang="id">High School Prodigies Have It Easy Even In Another World</title>
+  </programme>
+  <programme start="20221102150000 +0700" stop="20221102153000 +0700" channel="Animax">
+    <title lang="id">Legend Of The Galactic Heroes: Die Neue These Second</title>
+  </programme>
+  <programme start="20221102153000 +0700" stop="20221102160000 +0700" channel="Animax">
+    <title lang="id">Legend Of The Galactic Heroes: Die Neue These Second</title>
+  </programme>
+  <programme start="20221102160000 +0700" stop="20221102163000 +0700" channel="Animax">
+    <title lang="id">My Senpai Is Annoying</title>
+  </programme>
+  <programme start="20221102163000 +0700" stop="20221102170000 +0700" channel="Animax">
+    <title lang="id">My Senpai Is Annoying</title>
+  </programme>
+  <programme start="20221102170000 +0700" stop="20221102173000 +0700" channel="Animax">
+    <title lang="id">Yashahime: Princess Half - Demon  -  The Second Act  -</title>
+  </programme>
+  <programme start="20221102173000 +0700" stop="20221102183000 +0700" channel="Animax">
+    <title lang="id">Re: Zero  - Starting Life In Another World -  Directors Cut</title>
+  </programme>
+  <programme start="20221102183000 +0700" stop="20221102190000 +0700" channel="Animax">
+    <title lang="id">Kurokos Basketball</title>
+  </programme>
+  <programme start="20221102190000 +0700" stop="20221102193000 +0700" channel="Animax">
+    <title lang="id">Mushoku Tensei Jobless Reincarnation</title>
+  </programme>
+  <programme start="20221102193000 +0700" stop="20221102200000 +0700" channel="Animax">
+    <title lang="id">Mushoku Tensei Jobless Reincarnation</title>
+  </programme>
+  <programme start="20221102200000 +0700" stop="20221102203000 +0700" channel="Animax">
+    <title lang="id">Golden Kamuy</title>
+  </programme>
+  <programme start="20221102203000 +0700" stop="20221102210000 +0700" channel="Animax">
+    <title lang="id">Sabikui Bisco</title>
+  </programme>
+  <programme start="20221102210000 +0700" stop="20221102213000 +0700" channel="Animax">
+    <title lang="id">Strike The Blood Fourth</title>
+  </programme>
+  <programme start="20221102213000 +0700" stop="20221102220000 +0700" channel="Animax">
+    <title lang="id">Strike The Blood Fourth</title>
+  </programme>
+  <programme start="20221102220000 +0700" stop="20221102223000 +0700" channel="Animax">
+    <title lang="id">Mushoku Tensei Jobless Reincarnation</title>
+  </programme>
+  <programme start="20221102223000 +0700" stop="20221102230000 +0700" channel="Animax">
+    <title lang="id">Mushoku Tensei Jobless Reincarnation</title>
+  </programme>
+  <programme start="20221102230000 +0700" stop="20221103000000 +0700" channel="Animax">
+    <title lang="id">Re: Zero  - Starting Life In Another World -  Directors Cut</title>
+  </programme>
+  <programme start="20221102001500 +0700" stop="20221102004500 +0700" channel="Trans7">
+    <title lang="id">Sport 7</title>
+  </programme>
+  <programme start="20221102004500 +0700" stop="20221102013000 +0700" channel="Trans7">
+    <title lang="id">Mancing Mania</title>
+  </programme>
+  <programme start="20221102013000 +0700" stop="20221102023000 +0700" channel="Trans7">
+    <title lang="id">Fear Factor</title>
+  </programme>
+  <programme start="20221102023000 +0700" stop="20221102040000 +0700" channel="Trans7">
+    <title lang="id">Opera Van Java</title>
+  </programme>
+  <programme start="20221102040000 +0700" stop="20221102050000 +0700" channel="Trans7">
+    <title lang="id">The Police</title>
+  </programme>
+  <programme start="20221102050000 +0700" stop="20221102053000 +0700" channel="Trans7">
+    <title lang="id">Islampedia</title>
+  </programme>
+  <programme start="20221102053000 +0700" stop="20221102060000 +0700" channel="Trans7">
+    <title lang="id">Ragam Indonesia</title>
+  </programme>
+  <programme start="20221102060000 +0700" stop="20221102070000 +0700" channel="Trans7">
+    <title lang="id">Redaksi Pagi</title>
+  </programme>
+  <programme start="20221102070000 +0700" stop="20221102080000 +0700" channel="Trans7">
+    <title lang="id">Spotlite</title>
+  </programme>
+  <programme start="20221102080000 +0700" stop="20221102083000 +0700" channel="Trans7">
+    <title lang="id">Selebrita Pagi</title>
+  </programme>
+  <programme start="20221102083000 +0700" stop="20221102093000 +0700" channel="Trans7">
+    <title lang="id">FYP For Your Pagi</title>
+  </programme>
+  <programme start="20221102093000 +0700" stop="20221102101500 +0700" channel="Trans7">
+    <title lang="id">Selebrita Heits</title>
+  </programme>
+  <programme start="20221102101500 +0700" stop="20221102110000 +0700" channel="Trans7">
+    <title lang="id">OMG</title>
+  </programme>
+  <programme start="20221102110000 +0700" stop="20221102114500 +0700" channel="Trans7">
+    <title lang="id">Trending</title>
+  </programme>
+  <programme start="20221102114500 +0700" stop="20221102123000 +0700" channel="Trans7">
+    <title lang="id">Enah Bikin Enak</title>
+  </programme>
+  <programme start="20221102123000 +0700" stop="20221102130000 +0700" channel="Trans7">
+    <title lang="id">Bocah Petualang</title>
+  </programme>
+  <programme start="20221102130000 +0700" stop="20221102133000 +0700" channel="Trans7">
+    <title lang="id">Si Otan</title>
+  </programme>
+  <programme start="20221102133000 +0700" stop="20221102141500 +0700" channel="Trans7">
+    <title lang="id">Jejak Petualang</title>
+  </programme>
+  <programme start="20221102141500 +0700" stop="20221102151500 +0700" channel="Trans7">
+    <title lang="id">Redaksi</title>
+  </programme>
+  <programme start="20221102151500 +0700" stop="20221102161500 +0700" channel="Trans7">
+    <title lang="id">Jejak Si Gundul</title>
+  </programme>
+  <programme start="20221102161500 +0700" stop="20221102171500 +0700" channel="Trans7">
+    <title lang="id">Makan Receh</title>
+  </programme>
+  <programme start="20221102171500 +0700" stop="20221102180000 +0700" channel="Trans7">
+    <title lang="id">Selebrita Expose</title>
+  </programme>
+  <programme start="20221102180000 +0700" stop="20221102190000 +0700" channel="Trans7">
+    <title lang="id">On The Spot</title>
+  </programme>
+  <programme start="20221102190000 +0700" stop="20221102193000 +0700" channel="Trans7">
+    <title lang="id">Secret Story</title>
+  </programme>
+  <programme start="20221102193000 +0700" stop="20221102203000 +0700" channel="Trans7">
+    <title lang="id">POV Pasti Obrolan Viral</title>
+  </programme>
+  <programme start="20221102203000 +0700" stop="20221102213000 +0700" channel="Trans7">
+    <title lang="id">Anak Sekolah</title>
+  </programme>
+  <programme start="20221102213000 +0700" stop="20221102224500 +0700" channel="Trans7">
+    <title lang="id">Lapor Pak</title>
+  </programme>
+  <programme start="20221102224500 +0700" stop="20221102231500 +0700" channel="Trans7">
+    <title lang="id">Krim Malam</title>
+  </programme>
+  <programme start="20221102231500 +0700" stop="20221102234500 +0700" channel="Trans7">
+    <title lang="id">Misteri Dunia</title>
+  </programme>
+  <programme start="20221102234500 +0700" stop="20221103001500 +0700" channel="Trans7">
+    <title lang="id">Redaksi Malam</title>
+  </programme>
+  <programme start="20221102000000 +0700" stop="20221102010000 +0700" channel="ATV">
+    <title lang="id">Homeshopping Al Haya</title>
+  </programme>
+  <programme start="20221102010000 +0700" stop="20221102030000 +0700" channel="ATV">
+    <title lang="id">Fullmoon Devil</title>
+  </programme>
+  <programme start="20221102030000 +0700" stop="20221102050000 +0700" channel="ATV">
+    <title lang="id">The Assassin</title>
+  </programme>
+  <programme start="20221102050000 +0700" stop="20221102060000 +0700" channel="ATV">
+    <title lang="id">Homeshopping Dana Matras</title>
+  </programme>
+  <programme start="20221102060000 +0700" stop="20221102070000 +0700" channel="ATV">
+    <title lang="id">Homeshopping Rice Cooker</title>
+  </programme>
+  <programme start="20221102070000 +0700" stop="20221102090000 +0700" channel="ATV">
+    <title lang="id">Six</title>
+  </programme>
+  <programme start="20221102090000 +0700" stop="20221102100000 +0700" channel="ATV">
+    <title lang="id">Homeshopping Al Haya</title>
+  </programme>
+  <programme start="20221102100000 +0700" stop="20221102110000 +0700" channel="ATV">
+    <title lang="id">Homeshopping Dana Matras</title>
+  </programme>
+  <programme start="20221102110000 +0700" stop="20221102120000 +0700" channel="ATV">
+    <title lang="id">Homeshopping Al Haya</title>
+  </programme>
+  <programme start="20221102120000 +0700" stop="20221102140000 +0700" channel="ATV">
+    <title lang="id">Fly High</title>
+  </programme>
+  <programme start="20221102140000 +0700" stop="20221102150000 +0700" channel="ATV">
+    <title lang="id">Homeshopping Dana Matras</title>
+  </programme>
+  <programme start="20221102150000 +0700" stop="20221102160000 +0700" channel="ATV">
+    <title lang="id">Homeshopping Rice Cooker</title>
+  </programme>
+  <programme start="20221102160000 +0700" stop="20221102180000 +0700" channel="ATV">
+    <title lang="id">Four</title>
+  </programme>
+  <programme start="20221102180000 +0700" stop="20221102190000 +0700" channel="ATV">
+    <title lang="id">Homeshopping Dana Matras</title>
+  </programme>
+  <programme start="20221102190000 +0700" stop="20221102200000 +0700" channel="ATV">
+    <title lang="id">Homeshopping Rice Cooker</title>
+  </programme>
+  <programme start="20221102200000 +0700" stop="20221102210000 +0700" channel="ATV">
+    <title lang="id">Homeshopping Dana Matras</title>
+  </programme>
+  <programme start="20221102210000 +0700" stop="20221102230000 +0700" channel="ATV">
+    <title lang="id">Fullmoon Devil</title>
+  </programme>
+  <programme start="20221102230000 +0700" stop="20221103000000 +0700" channel="ATV">
+    <title lang="id">Homeshopping Al Haya</title>
+  </programme>
+  <programme start="20221102000000 +0700" stop="20221102003000 +0700" channel="ANIPlus">
+    <title lang="id">School - Live - Eps. 5</title>
+  </programme>
+  <programme start="20221102003000 +0700" stop="20221102010000 +0700" channel="ANIPlus">
+    <title lang="id">School - Live - Eps. 6</title>
+  </programme>
+  <programme start="20221102010000 +0700" stop="20221102013000 +0700" channel="ANIPlus">
+    <title lang="id">Attack On Titan Season 2 - Eps. 10</title>
+  </programme>
+  <programme start="20221102013000 +0700" stop="20221102020000 +0700" channel="ANIPlus">
+    <title lang="id">Darling In The Franxx - Eps. 4</title>
+  </programme>
+  <programme start="20221102020000 +0700" stop="20221102023000 +0700" channel="ANIPlus">
+    <title lang="id">The Promised Neverland Season 2 - Eps. 8</title>
+  </programme>
+  <programme start="20221102023000 +0700" stop="20221102030000 +0700" channel="ANIPlus">
+    <title lang="id">Touken Ranbu Hanamaru Season 2 - Eps. 2</title>
+  </programme>
+  <programme start="20221102030000 +0700" stop="20221102033000 +0700" channel="ANIPlus">
+    <title lang="id">Kingdom Season 3 - Eps. 25</title>
+  </programme>
+  <programme start="20221102033000 +0700" stop="20221102040000 +0700" channel="ANIPlus">
+    <title lang="id">Kingdom Season 3 - Eps. 26</title>
+  </programme>
+  <programme start="20221102040000 +0700" stop="20221102043000 +0700" channel="ANIPlus">
+    <title lang="id">Raven Of The Inner Palace - Eps. 5</title>
+  </programme>
+  <programme start="20221102043000 +0700" stop="20221102050000 +0700" channel="ANIPlus">
+    <title lang="id">Princess Connect Re : Dive Season 2 - Eps. 11</title>
+  </programme>
+  <programme start="20221102050000 +0700" stop="20221102053000 +0700" channel="ANIPlus">
+    <title lang="id">Aho - Girl x Tsuredure Children - Eps. 11</title>
+  </programme>
+  <programme start="20221102053000 +0700" stop="20221102060000 +0700" channel="ANIPlus">
+    <title lang="id">Stars Align - Eps. 6</title>
+  </programme>
+  <programme start="20221102060000 +0700" stop="20221102063000 +0700" channel="ANIPlus">
+    <title lang="id">Planet With - Eps. 6</title>
+  </programme>
+  <programme start="20221102063000 +0700" stop="20221102070000 +0700" channel="ANIPlus">
+    <title lang="id">Touken Ranbu Hanamaru Season 2 - Eps. 3</title>
+  </programme>
+  <programme start="20221102070000 +0700" stop="20221102073000 +0700" channel="ANIPlus">
+    <title lang="id">School - Live - Eps. 5</title>
+  </programme>
+  <programme start="20221102073000 +0700" stop="20221102080000 +0700" channel="ANIPlus">
+    <title lang="id">School - Live - Eps. 6</title>
+  </programme>
+  <programme start="20221102080000 +0700" stop="20221102083000 +0700" channel="ANIPlus">
+    <title lang="id">Bocchi The Rock - Eps. 4</title>
+  </programme>
+  <programme start="20221102083000 +0700" stop="20221102090000 +0700" channel="ANIPlus">
+    <title lang="id">The Promised Neverland Season 2 - Eps. 8</title>
+  </programme>
+  <programme start="20221102090000 +0700" stop="20221102093000 +0700" channel="ANIPlus">
+    <title lang="id">Attack On Titan Season 2 - Eps. 10</title>
+  </programme>
+  <programme start="20221102093000 +0700" stop="20221102100000 +0700" channel="ANIPlus">
+    <title lang="id">Darling In The Franxx - Eps. 4</title>
+  </programme>
+  <programme start="20221102100000 +0700" stop="20221102103000 +0700" channel="ANIPlus">
+    <title lang="id">Kingdom Season 3 - Eps. 25</title>
+  </programme>
+  <programme start="20221102103000 +0700" stop="20221102110000 +0700" channel="ANIPlus">
+    <title lang="id">Kingdom Season 3 - Eps. 26</title>
+  </programme>
+  <programme start="20221102110000 +0700" stop="20221102113000 +0700" channel="ANIPlus">
+    <title lang="id">Aho - Girl x Tsuredure Children - Eps. 11</title>
+  </programme>
+  <programme start="20221102113000 +0700" stop="20221102120000 +0700" channel="ANIPlus">
+    <title lang="id">Planet With - Eps. 6</title>
+  </programme>
+  <programme start="20221102120000 +0700" stop="20221102123000 +0700" channel="ANIPlus">
+    <title lang="id">The Promised Neverland Season 2 - Eps. 8</title>
+  </programme>
+  <programme start="20221102123000 +0700" stop="20221102130000 +0700" channel="ANIPlus">
+    <title lang="id">Bocchi The Rock - Eps. 4</title>
+  </programme>
+  <programme start="20221102130000 +0700" stop="20221102133000 +0700" channel="ANIPlus">
+    <title lang="id">School - Live - Eps. 5</title>
+  </programme>
+  <programme start="20221102133000 +0700" stop="20221102140000 +0700" channel="ANIPlus">
+    <title lang="id">School - Live - Eps. 6</title>
+  </programme>
+  <programme start="20221102140000 +0700" stop="20221102143000 +0700" channel="ANIPlus">
+    <title lang="id">Attack On Titan Season 2 - Eps. 10</title>
+  </programme>
+  <programme start="20221102143000 +0700" stop="20221102150000 +0700" channel="ANIPlus">
+    <title lang="id">Darling In The Franxx - Eps. 4</title>
+  </programme>
+  <programme start="20221102150000 +0700" stop="20221102153000 +0700" channel="ANIPlus">
+    <title lang="id">Touken Ranbu Hanamaru Season 2 - Eps. 3</title>
+  </programme>
+  <programme start="20221102153000 +0700" stop="20221102160000 +0700" channel="ANIPlus">
+    <title lang="id">Stars Align - Eps. 6</title>
+  </programme>
+  <programme start="20221102160000 +0700" stop="20221102163000 +0700" channel="ANIPlus">
+    <title lang="id">Kingdom Season 3 - Eps. 25</title>
+  </programme>
+  <programme start="20221102163000 +0700" stop="20221102170000 +0700" channel="ANIPlus">
+    <title lang="id">Kingdom Season 3 - Eps. 26</title>
+  </programme>
+  <programme start="20221102170000 +0700" stop="20221102173000 +0700" channel="ANIPlus">
+    <title lang="id">Bocchi The Rock - Eps. 4</title>
+  </programme>
+  <programme start="20221102173000 +0700" stop="20221102180000 +0700" channel="ANIPlus">
+    <title lang="id">The Promised Neverland Season 2 - Eps. 9</title>
+  </programme>
+  <programme start="20221102180000 +0700" stop="20221102183000 +0700" channel="ANIPlus">
+    <title lang="id">Isekai Quartet 2 Eps Back To Back - Eps. 1</title>
+  </programme>
+  <programme start="20221102183000 +0700" stop="20221102190000 +0700" channel="ANIPlus">
+    <title lang="id">Isekai Quartet 2 Eps Back To Back - Eps. 3</title>
+  </programme>
+  <programme start="20221102190000 +0700" stop="20221102193000 +0700" channel="ANIPlus">
+    <title lang="id">Attack On Titan Season 2 - Eps. 11</title>
+  </programme>
+  <programme start="20221102193000 +0700" stop="20221102200000 +0700" channel="ANIPlus">
+    <title lang="id">Darling In The Franxx - Eps. 5</title>
+  </programme>
+  <programme start="20221102200000 +0700" stop="20221102203000 +0700" channel="ANIPlus">
+    <title lang="id">Puella Magi Madoka Magica Side Story - Eps. 4</title>
+  </programme>
+  <programme start="20221102203000 +0700" stop="20221102210000 +0700" channel="ANIPlus">
+    <title lang="id">The Rising Of The Shield Hero - Eps. 23</title>
+  </programme>
+  <programme start="20221102210000 +0700" stop="20221102213000 +0700" channel="ANIPlus">
+    <title lang="id">The Rising Of The Shield Hero - Eps. 24</title>
+  </programme>
+  <programme start="20221102213000 +0700" stop="20221102220000 +0700" channel="ANIPlus">
+    <title lang="id">Bocchi The Rock - Eps. 4</title>
+  </programme>
+  <programme start="20221102220000 +0700" stop="20221102223000 +0700" channel="ANIPlus">
+    <title lang="id">Princess Connect Re : Dive Season 2 - Eps. 12</title>
+  </programme>
+  <programme start="20221102223000 +0700" stop="20221102230000 +0700" channel="ANIPlus">
+    <title lang="id">The Promised Neverland Season 2 - Eps. 9</title>
+  </programme>
+  <programme start="20221102230000 +0700" stop="20221102233000 +0700" channel="ANIPlus">
+    <title lang="id">Puella Magi Madoka Magica Side Story - Eps. 4</title>
+  </programme>
+  <programme start="20221102233000 +0700" stop="20221103000000 +0700" channel="ANIPlus">
+    <title lang="id">Touken Ranbu Hanamaru Season 2 - Eps. 3</title>
+  </programme>
+  <programme start="20221102000000 +0700" stop="20221102003000 +0700" channel="CNBC Asia">
+    <title lang="id">Us The Exchange S1</title>
+  </programme>
+  <programme start="20221102003000 +0700" stop="20221102010000 +0700" channel="CNBC Asia">
+    <title lang="id">Us The Exchange S1</title>
+  </programme>
+  <programme start="20221102010000 +0700" stop="20221102013000 +0700" channel="CNBC Asia">
+    <title lang="id">Us Power Lunch S1</title>
+  </programme>
+  <programme start="20221102013000 +0700" stop="20221102020000 +0700" channel="CNBC Asia">
+    <title lang="id">Us Power Lunch S1</title>
+  </programme>
+  <programme start="20221102020000 +0700" stop="20221102023000 +0700" channel="CNBC Asia">
+    <title lang="id">Us Closing Bell S1</title>
+  </programme>
+  <programme start="20221102023000 +0700" stop="20221102030000 +0700" channel="CNBC Asia">
+    <title lang="id">Us Closing Bell S1</title>
+  </programme>
+  <programme start="20221102030000 +0700" stop="20221102033000 +0700" channel="CNBC Asia">
+    <title lang="id">Us Closing Bell: Overtime</title>
+  </programme>
+  <programme start="20221102033000 +0700" stop="20221102040000 +0700" channel="CNBC Asia">
+    <title lang="id">Us Closing Bell: Overtime</title>
+  </programme>
+  <programme start="20221102040000 +0700" stop="20221102043000 +0700" channel="CNBC Asia">
+    <title lang="id">Us Fast Money S1</title>
+  </programme>
+  <programme start="20221102043000 +0700" stop="20221102050000 +0700" channel="CNBC Asia">
+    <title lang="id">Us Fast Money S1</title>
+  </programme>
+  <programme start="20221102050000 +0700" stop="20221102060000 +0700" channel="CNBC Asia">
+    <title lang="id">Asia Squawk Box S1</title>
+  </programme>
+  <programme start="20221102060000 +0700" stop="20221102070000 +0700" channel="CNBC Asia">
+    <title lang="id">Asia Squawk Box S1</title>
+  </programme>
+  <programme start="20221102070000 +0700" stop="20221102080000 +0700" channel="CNBC Asia">
+    <title lang="id">Asia Squawk Box S1</title>
+  </programme>
+  <programme start="20221102080000 +0700" stop="20221102090000 +0700" channel="CNBC Asia">
+    <title lang="id">Asia Street Signs S1</title>
+  </programme>
+  <programme start="20221102090000 +0700" stop="20221102100000 +0700" channel="CNBC Asia">
+    <title lang="id">Asia Street Signs S1</title>
+  </programme>
+  <programme start="20221102100000 +0700" stop="20221102110000 +0700" channel="CNBC Asia">
+    <title lang="id">Asia Street Signs S1</title>
+  </programme>
+  <programme start="20221102110000 +0700" stop="20221102113000 +0700" channel="CNBC Asia">
+    <title lang="id">The News With Shepard Smith 2022 Weekday</title>
+  </programme>
+  <programme start="20221102113000 +0700" stop="20221102120000 +0700" channel="CNBC Asia">
+    <title lang="id">The News With Shepard Smith 2022 Weekday</title>
+  </programme>
+  <programme start="20221102120000 +0700" stop="20221102130000 +0700" channel="CNBC Asia">
+    <title lang="id">Asia Capital Connection S1</title>
+  </programme>
+  <programme start="20221102130000 +0700" stop="20221102133000 +0700" channel="CNBC Asia">
+    <title lang="id">Europe Squawk Box S1</title>
+  </programme>
+  <programme start="20221102133000 +0700" stop="20221102140000 +0700" channel="CNBC Asia">
+    <title lang="id">Europe Squawk Box S1</title>
+  </programme>
+  <programme start="20221102140000 +0700" stop="20221102143000 +0700" channel="CNBC Asia">
+    <title lang="id">Europe Squawk Box S1</title>
+  </programme>
+  <programme start="20221102143000 +0700" stop="20221102150000 +0700" channel="CNBC Asia">
+    <title lang="id">Europe Squawk Box S1</title>
+  </programme>
+  <programme start="20221102150000 +0700" stop="20221102153000 +0700" channel="CNBC Asia">
+    <title lang="id">Europe Squawk Box S1</title>
+  </programme>
+  <programme start="20221102153000 +0700" stop="20221102160000 +0700" channel="CNBC Asia">
+    <title lang="id">Europe Squawk Box S1</title>
+  </programme>
+  <programme start="20221102160000 +0700" stop="20221102163000 +0700" channel="CNBC Asia">
+    <title lang="id">Us Worldwide Exchange S1</title>
+  </programme>
+  <programme start="20221102163000 +0700" stop="20221102170000 +0700" channel="CNBC Asia">
+    <title lang="id">Us Worldwide Exchange S1</title>
+  </programme>
+  <programme start="20221102170000 +0700" stop="20221102173000 +0700" channel="CNBC Asia">
+    <title lang="id">Us Squawk Box S1</title>
+  </programme>
+  <programme start="20221102173000 +0700" stop="20221102180000 +0700" channel="CNBC Asia">
+    <title lang="id">Us Squawk Box S1</title>
+  </programme>
+  <programme start="20221102180000 +0700" stop="20221102183000 +0700" channel="CNBC Asia">
+    <title lang="id">Us Squawk Box S1</title>
+  </programme>
+  <programme start="20221102183000 +0700" stop="20221102190000 +0700" channel="CNBC Asia">
+    <title lang="id">Us Squawk Box S1</title>
+  </programme>
+  <programme start="20221102190000 +0700" stop="20221102193000 +0700" channel="CNBC Asia">
+    <title lang="id">Us Squawk Box S1</title>
+  </programme>
+  <programme start="20221102193000 +0700" stop="20221102200000 +0700" channel="CNBC Asia">
+    <title lang="id">Us Squawk Box S1</title>
+  </programme>
+  <programme start="20221102200000 +0700" stop="20221102203000 +0700" channel="CNBC Asia">
+    <title lang="id">Us Squawk On The Street S1</title>
+  </programme>
+  <programme start="20221102203000 +0700" stop="20221102210000 +0700" channel="CNBC Asia">
+    <title lang="id">Us Squawk On The Street S1</title>
+  </programme>
+  <programme start="20221102210000 +0700" stop="20221102213000 +0700" channel="CNBC Asia">
+    <title lang="id">Us Squawk On The Street S1</title>
+  </programme>
+  <programme start="20221102213000 +0700" stop="20221102220000 +0700" channel="CNBC Asia">
+    <title lang="id">Us Squawk On The Street S1</title>
+  </programme>
+  <programme start="20221102220000 +0700" stop="20221102223000 +0700" channel="CNBC Asia">
+    <title lang="id">Us Techcheck S1</title>
+  </programme>
+  <programme start="20221102223000 +0700" stop="20221102230000 +0700" channel="CNBC Asia">
+    <title lang="id">Us Techcheck S1</title>
+  </programme>
+  <programme start="20221102230000 +0700" stop="20221102233000 +0700" channel="CNBC Asia">
+    <title lang="id">Us Halftime Report S1</title>
+  </programme>
+  <programme start="20221102233000 +0700" stop="20221103000000 +0700" channel="CNBC Asia">
+    <title lang="id">Us Halftime Report S1</title>
+  </programme>
+  <programme start="20221102000000 +0700" stop="20221102001500 +0700" channel="CNN Indonesia">
+    <title lang="id">CNN Indonesia News Update</title>
+  </programme>
+  <programme start="20221102001500 +0700" stop="20221102010000 +0700" channel="CNN Indonesia">
+    <title lang="id">Cnn Indonesia Connected</title>
+  </programme>
+  <programme start="20221102010000 +0700" stop="20221102034500 +0700" channel="CNN Indonesia">
+    <title lang="id">Prime News</title>
+  </programme>
+  <programme start="20221102034500 +0700" stop="20221102050000 +0700" channel="CNN Indonesia">
+    <title lang="id">Cnn Indonesia Newsroom</title>
+  </programme>
+  <programme start="20221102050000 +0700" stop="20221102053000 +0700" channel="CNN Indonesia">
+    <title lang="id">Gapai Kemuliaan</title>
+  </programme>
+  <programme start="20221102053000 +0700" stop="20221102060000 +0700" channel="CNN Indonesia">
+    <title lang="id">Cnn Indonesia Sports</title>
+  </programme>
+  <programme start="20221102060000 +0700" stop="20221102070000 +0700" channel="CNN Indonesia">
+    <title lang="id">Redaksi Pagi</title>
+  </programme>
+  <programme start="20221102070000 +0700" stop="20221102073000 +0700" channel="CNN Indonesia">
+    <title lang="id">Cnn Indonesia New Day</title>
+  </programme>
+  <programme start="20221102073000 +0700" stop="20221102083000 +0700" channel="CNN Indonesia">
+    <title lang="id">Good Morning</title>
+  </programme>
+  <programme start="20221102083000 +0700" stop="20221102093000 +0700" channel="CNN Indonesia">
+    <title lang="id">Bisnis Dan Referensi</title>
+  </programme>
+  <programme start="20221102093000 +0700" stop="20221102110000 +0700" channel="CNN Indonesia">
+    <title lang="id">Cnn Indonesia Today</title>
+  </programme>
+  <programme start="20221102110000 +0700" stop="20221102130000 +0700" channel="CNN Indonesia">
+    <title lang="id">Cnn Indonesia News Hour</title>
+  </programme>
+  <programme start="20221102130000 +0700" stop="20221102141500 +0700" channel="CNN Indonesia">
+    <title lang="id">Cnn Indonesia News Report</title>
+  </programme>
+  <programme start="20221102141500 +0700" stop="20221102151500 +0700" channel="CNN Indonesia">
+    <title lang="id">Redaksi</title>
+  </programme>
+  <programme start="20221102151500 +0700" stop="20221102160000 +0700" channel="CNN Indonesia">
+    <title lang="id">Happening Now</title>
+  </programme>
+  <programme start="20221102160000 +0700" stop="20221102163000 +0700" channel="CNN Indonesia">
+    <title lang="id">Cnn Indonesia News Update</title>
+  </programme>
+  <programme start="20221102163000 +0700" stop="20221102180000 +0700" channel="CNN Indonesia">
+    <title lang="id">Cnn Indonesia Newsroom</title>
+  </programme>
+  <programme start="20221102180000 +0700" stop="20221102190000 +0700" channel="CNN Indonesia">
+    <title lang="id">Cnn Indonesia Connected</title>
+  </programme>
+  <programme start="20221102190000 +0700" stop="20221102220000 +0700" channel="CNN Indonesia">
+    <title lang="id">Prime News</title>
+  </programme>
+  <programme start="20221102220000 +0700" stop="20221102234500 +0700" channel="CNN Indonesia">
+    <title lang="id">The World Tonight</title>
+  </programme>
+  <programme start="20221102234500 +0700" stop="20221103001500 +0700" channel="CNN Indonesia">
+    <title lang="id">Redaksi Malam</title>
+  </programme>
+  <programme start="20221102000000 +0700" stop="20221102060000 +0700" channel="JakTV">
+    <title lang="id">Sign Off</title>
+  </programme>
+  <programme start="20221102060000 +0700" stop="20221102070000 +0700" channel="JakTV">
+    <title lang="id">Berkah Baitullah</title>
+  </programme>
+  <programme start="20221102070000 +0700" stop="20221102080000 +0700" channel="JakTV">
+    <title lang="id">Mohon Ampun Aku</title>
+  </programme>
+  <programme start="20221102080000 +0700" stop="20221102090000 +0700" channel="JakTV">
+    <title lang="id">Berkah Shop</title>
+  </programme>
+  <programme start="20221102090000 +0700" stop="20221102100000 +0700" channel="JakTV">
+    <title lang="id">Sendok Garpu - Indonesian Food</title>
+  </programme>
+  <programme start="20221102100000 +0700" stop="20221102110000 +0700" channel="JakTV">
+    <title lang="id">The Hermansyah Story</title>
+  </programme>
+  <programme start="20221102110000 +0700" stop="20221102113000 +0700" channel="JakTV">
+    <title lang="id">Food Truck</title>
+  </programme>
+  <programme start="20221102113000 +0700" stop="20221102120000 +0700" channel="JakTV">
+    <title lang="id">Otomotif Around The World</title>
+  </programme>
+  <programme start="20221102120000 +0700" stop="20221102123000 +0700" channel="JakTV">
+    <title lang="id">Animal Action</title>
+  </programme>
+  <programme start="20221102123000 +0700" stop="20221102130000 +0700" channel="JakTV">
+    <title lang="id">Kiddie World</title>
+  </programme>
+  <programme start="20221102130000 +0700" stop="20221102140000 +0700" channel="JakTV">
+    <title lang="id">Berkah Shop</title>
+  </programme>
+  <programme start="20221102140000 +0700" stop="20221102150000 +0700" channel="JakTV">
+    <title lang="id">The Hermansyah Story</title>
+  </programme>
+  <programme start="20221102150000 +0700" stop="20221102170000 +0700" channel="JakTV">
+    <title lang="id">Berkah Shop</title>
+  </programme>
+  <programme start="20221102170000 +0700" stop="20221102180000 +0700" channel="JakTV">
+    <title lang="id">Terapi Garang Arang</title>
+  </programme>
+  <programme start="20221102180000 +0700" stop="20221102190000 +0700" channel="JakTV">
+    <title lang="id">Sendok Garpu - Healthy Food</title>
+  </programme>
+  <programme start="20221102190000 +0700" stop="20221102193000 +0700" channel="JakTV">
+    <title lang="id">Animal Action</title>
+  </programme>
+  <programme start="20221102193000 +0700" stop="20221102200200 +0700" channel="JakTV">
+    <title lang="id">Kiddie World</title>
+  </programme>
+  <programme start="20221102200200 +0700" stop="20221102210200 +0700" channel="JakTV">
+    <title lang="id">Terapi Garang Arang</title>
+  </programme>
+  <programme start="20221102210200 +0700" stop="20221102220200 +0700" channel="JakTV">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20221102220200 +0700" stop="20221102230000 +0700" channel="JakTV">
+    <title lang="id">Kabar Misteri</title>
+  </programme>
+  <programme start="20221102230000 +0700" stop="20221102233000 +0700" channel="JakTV">
+    <title lang="id">News Room</title>
+  </programme>
+  <programme start="20221102233000 +0700" stop="20221103000000 +0700" channel="JakTV">
+    <title lang="id">Retro Hour</title>
+  </programme>
+  <programme start="20221102000000 +0700" stop="20221102020000 +0700" channel="MyKidz">
+    <title lang="id">Freebirds</title>
+  </programme>
+  <programme start="20221102020000 +0700" stop="20221102040000 +0700" channel="MyKidz">
+    <title lang="id">Kapi</title>
+  </programme>
+  <programme start="20221102040000 +0700" stop="20221102050000 +0700" channel="MyKidz">
+    <title lang="id">Highlight Sunday - Monday</title>
+  </programme>
+  <programme start="20221102050000 +0700" stop="20221102053000 +0700" channel="MyKidz">
+    <title lang="id">Vicky And Johnny Eps 04</title>
+  </programme>
+  <programme start="20221102053000 +0700" stop="20221102060000 +0700" channel="MyKidz">
+    <title lang="id">Vicky And Johnny Eps 05</title>
+  </programme>
+  <programme start="20221102060000 +0700" stop="20221102063000 +0700" channel="MyKidz">
+    <title lang="id">Oscar Oasis Eps 48</title>
+  </programme>
+  <programme start="20221102063000 +0700" stop="20221102070000 +0700" channel="MyKidz">
+    <title lang="id">Oscar Oasis Eps 49</title>
+  </programme>
+  <programme start="20221102070000 +0700" stop="20221102073000 +0700" channel="MyKidz">
+    <title lang="id">Gon Eps 79</title>
+  </programme>
+  <programme start="20221102073000 +0700" stop="20221102080000 +0700" channel="MyKidz">
+    <title lang="id">Gon Eps 80</title>
+  </programme>
+  <programme start="20221102080000 +0700" stop="20221102100000 +0700" channel="MyKidz">
+    <title lang="id">Betizu  The Golden Bell</title>
+  </programme>
+  <programme start="20221102100000 +0700" stop="20221102120000 +0700" channel="MyKidz">
+    <title lang="id">Freedom Force</title>
+  </programme>
+  <programme start="20221102120000 +0700" stop="20221102140000 +0700" channel="MyKidz">
+    <title lang="id">Betizu  The Mysterious Monster</title>
+  </programme>
+  <programme start="20221102140000 +0700" stop="20221102160000 +0700" channel="MyKidz">
+    <title lang="id">Gladiator Of Rome</title>
+  </programme>
+  <programme start="20221102160000 +0700" stop="20221102180000 +0700" channel="MyKidz">
+    <title lang="id">Hairy Tooth Fairy 1</title>
+  </programme>
+  <programme start="20221102180000 +0700" stop="20221102200000 +0700" channel="MyKidz">
+    <title lang="id">Deep</title>
+  </programme>
+  <programme start="20221102200000 +0700" stop="20221102220000 +0700" channel="MyKidz">
+    <title lang="id">Friends</title>
+  </programme>
+  <programme start="20221102220000 +0700" stop="20221103000000 +0700" channel="MyKidz">
+    <title lang="id">Hairy Tooth Fairy 2</title>
+  </programme>
+  <programme start="20221102053000 +0700" stop="20221102060000 +0700" channel="Baby First">
+    <title lang="id">Early Bloomers</title>
+  </programme>
+  <programme start="20221102060000 +0700" stop="20221102063000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs For Baby</title>
+  </programme>
+  <programme start="20221102063000 +0700" stop="20221102070000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs For Baby</title>
+  </programme>
+  <programme start="20221102070000 +0700" stop="20221102073000 +0700" channel="Baby First">
+    <title lang="id">Baby Class</title>
+  </programme>
+  <programme start="20221102073000 +0700" stop="20221102080000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs For Baby</title>
+  </programme>
+  <programme start="20221102080000 +0700" stop="20221102083000 +0700" channel="Baby First">
+    <title lang="id">Baby First Club</title>
+  </programme>
+  <programme start="20221102083000 +0700" stop="20221102090000 +0700" channel="Baby First">
+    <title lang="id">Baby First Club</title>
+  </programme>
+  <programme start="20221102090000 +0700" stop="20221102093000 +0700" channel="Baby First">
+    <title lang="id">Baby First Club</title>
+  </programme>
+  <programme start="20221102093000 +0700" stop="20221102100000 +0700" channel="Baby First">
+    <title lang="id">Let s Sing Together</title>
+  </programme>
+  <programme start="20221102100000 +0700" stop="20221102103000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs For Baby</title>
+  </programme>
+  <programme start="20221102103000 +0700" stop="20221102110000 +0700" channel="Baby First">
+    <title lang="id">Early Bloomers</title>
+  </programme>
+  <programme start="20221102110000 +0700" stop="20221102113000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs For Baby</title>
+  </programme>
+  <programme start="20221102113000 +0700" stop="20221102120000 +0700" channel="Baby First">
+    <title lang="id">Art And Music</title>
+  </programme>
+  <programme start="20221102120000 +0700" stop="20221102123000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs For Baby</title>
+  </programme>
+  <programme start="20221102123000 +0700" stop="20221102130000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs For Baby</title>
+  </programme>
+  <programme start="20221102130000 +0700" stop="20221102133000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs For Baby</title>
+  </programme>
+  <programme start="20221102133000 +0700" stop="20221102140000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs For Baby</title>
+  </programme>
+  <programme start="20221102140000 +0700" stop="20221102143000 +0700" channel="Baby First">
+    <title lang="id">Baby Class</title>
+  </programme>
+  <programme start="20221102143000 +0700" stop="20221102150000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs For Baby</title>
+  </programme>
+  <programme start="20221102150000 +0700" stop="20221102153000 +0700" channel="Baby First">
+    <title lang="id">Baby First Club</title>
+  </programme>
+  <programme start="20221102153000 +0700" stop="20221102160000 +0700" channel="Baby First">
+    <title lang="id">Baby First Club</title>
+  </programme>
+  <programme start="20221102160000 +0700" stop="20221102163000 +0700" channel="Baby First">
+    <title lang="id">Baby First Club</title>
+  </programme>
+  <programme start="20221102163000 +0700" stop="20221102170000 +0700" channel="Baby First">
+    <title lang="id">Let s Sing Together</title>
+  </programme>
+  <programme start="20221102170000 +0700" stop="20221102173000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs For Baby</title>
+  </programme>
+  <programme start="20221102173000 +0700" stop="20221102180000 +0700" channel="Baby First">
+    <title lang="id">Early Bloomers</title>
+  </programme>
+  <programme start="20221102180000 +0700" stop="20221102183000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs For Baby</title>
+  </programme>
+  <programme start="20221102183000 +0700" stop="20221102190000 +0700" channel="Baby First">
+    <title lang="id">Art And Music</title>
+  </programme>
+  <programme start="20221102190000 +0700" stop="20221102193000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs For Baby</title>
+  </programme>
+  <programme start="20221102193000 +0700" stop="20221102200000 +0700" channel="Baby First">
+    <title lang="id">Developmental Programs For Baby</title>
+  </programme>
+  <programme start="20221102200000 +0700" stop="20221103053000 +0700" channel="Baby First">
+    <title lang="id">A Dreamy Journey</title>
+  </programme>
+</tv>
