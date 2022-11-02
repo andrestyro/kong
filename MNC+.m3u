@@ -1,34 +1,34 @@
-﻿#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id.xml, https://iptv-org.github.io/epg/guides/uk.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id.xml"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3UbMn0i" ,Champions League
-https://matsugi.000webhostapp.com/heroku-clearkey-hex-base64-json-main/web/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://shorturl.at/jI234" ,Champions League
+https://vaeagaa.wedodemos.com/live/_definst_/stream_1_4e329@VG20/chunklist.m3u8|Referer=https://xoivo6.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3FvXuNt" ,Champions League
-http://cdn.raino.xyz/hls/stream4.m3u8|Referer=http://bdnewszh.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://shorturl.at/jI234" ,Champions League
+https://vaeagaa.wedodemos.com/live/_definst_/stream_1_4e329@VG41/chunklist.m3u8|Referer=https://xoivo6.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3WlJ34A" ,Champions League
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://shorturl.at/jI234" ,Champions League
+https://vaeagaa.wedodemos.com/live/_definst_/stream_1_4e329@VG22/chunklist.m3u8|Referer=https://xoivo6.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://shorturl.at/jI234" ,Champions League
 https://vaeagaa.wedodemos.com/live/_definst_/stream_1_4e329@VG44/chunklist.m3u8|Referer=https://xoivo6.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3gSwUDL" ,Champions League
-http://cdn.raino.xyz/hls/stream6.m3u8|Referer=http://bdnewszh.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://shorturl.at/jI234" ,Champions League
+https://vaeagaa.wedodemos.com/live/_definst_/stream_1_4e329@VG26/chunklist.m3u8|Referer=https://xoivo6.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3UbMn0i" ,Champions League
-https://matsugi.000webhostapp.com/heroku-clearkey-hex-base64-json-main/web/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3h0kyK3" ,Champions League
-http://cdn.raino.xyz/hls/stream9.m3u8|Referer=http://bdnewszh.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://shorturl.at/jI234" ,Champions League
+https://vaeagaa.wedodemos.com/live/_definst_/stream_1_4e329@VG43/chunklist.m3u8|Referer=https://xoivo6.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -88,7 +88,7 @@ http://iptvid.my.id/hmm/trans7.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="tvOne.id"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1200px-TvOne_logo_2012.svg.png",TVONE
 #EXT-X-STREAM-INF:BANDWIDTH=1711306,AVERAGE-BANDWIDTH=1711306,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_mp4a.40.2_128000"
-http://103.186.200.4:8000/play/a00c
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51a
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
