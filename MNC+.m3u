@@ -2,8 +2,13 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="RuangTrampil.id" tvg-name="useeinfo" tvg-logo="https://pbs.twimg.com/profile_images/1479314338380869633/OyYuVE42_400x400.png" ,Ruang Trampil
-http://iptvid.my.id/hmm/useeinfo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3UbMn0i" ,Champions League
+https://matsugi.000webhostapp.com/heroku-clearkey-hex-base64-json-main/web/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+https://vaeagaa.wedodemos.com/live/_definst_/stream_1_4e329@VG26/chunklist.m3u8|Referer=https://xoivo6.com
+https://matsugi.000webhostapp.com/heroku-clearkey-hex-base64-json-main/web/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
