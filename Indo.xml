@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="BT Sport 1">
+    <display-name lang="en">BT Sport 1</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
   <channel id="Dunia anak">
     <display-name lang="id">Dunia anak</display-name>
     <icon src="https://images.useetv.com/logogrey/grey_logo_duniaanak_small1.png?v=2.0.0.13" />
@@ -40,11 +44,6 @@
     <icon src="https://images.useetv.com/logo_trans7_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
-  <channel id="ATV">
-    <display-name lang="id">ATV</display-name>
-    <icon src="https://images.useetv.com/logo_atv_small.png" />
-    <url>http://www.useetv.com</url>
-  </channel>
   <channel id="ANIPlus">
     <display-name lang="id">ANIPlus</display-name>
     <icon src="https://images.useetv.com/logogrey/grey_logo_aniplus_small1.png?v=2.0.0.13" />
@@ -65,11 +64,6 @@
     <icon src="https://images.useetv.com/logo_jaktv_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
-  <channel id="Nick Junior">
-    <display-name lang="id">Nick Junior</display-name>
-    <icon src="https://images.useetv.com/logogrey/grey_logo_nickjr_small.png" />
-    <url>http://www.useetv.com</url>
-  </channel>
   <channel id="MyKidz">
     <display-name lang="id">MyKidz</display-name>
     <icon src="https://images.useetv.com/logogrey/grey_logo_mykids_small.png" />
@@ -80,6 +74,550 @@
     <icon src="https://images.useetv.com/logogrey/grey_logo_babyfirst_small.png" />
     <url>http://www.useetv.com</url>
   </channel>
+  <programme start="20221102063000 +0000" stop="20221102070000 +0000" channel="BT Sport 1">
+    <title lang="en">Premier League Stories</title>
+    <desc lang="en">A round-up of all the news from the Premier League.(n)</desc>
+  </programme>
+  <programme start="20221102093000 +0000" stop="20221102103000 +0000" channel="BT Sport 1">
+    <title lang="en">Ligue 1 Highlights</title>
+    <desc lang="en">A look back at all the recent action from the top flight of French football, including PSG v Troyes, Lyon v Lille and Monaco v Angers.(n)</desc>
+  </programme>
+  <programme start="20221102103000 +0000" stop="20221102120000 +0000" channel="BT Sport 1">
+    <title lang="en">Vanarama National League</title>
+    <desc lang="en">Halifax Town v Oldham Athletic Halifax Town v Oldham Athletic.(n)</desc>
+  </programme>
+  <programme start="20221102120000 +0000" stop="20221102123000 +0000" channel="BT Sport 1">
+    <title lang="en">Vanarama National League Highlights</title>
+    <desc lang="en">Action from the latest round of fixtures, including Wrexham v Altrincham, Notts County v Torquay United, and Barnet v Scunthorpe United.(n)</desc>
+  </programme>
+  <programme start="20221102123000 +0000" stop="20221102130000 +0000" channel="BT Sport 1">
+    <title lang="en">Premier League Stories</title>
+    <desc lang="en">A round-up of all the news from the Premier League.(n)</desc>
+  </programme>
+  <programme start="20221102130000 +0000" stop="20221102150000 +0000" channel="BT Sport 1">
+    <title lang="en">Live UEFA Youth League</title>
+    <desc lang="en">Live: Man City U19 v Sevilla U19 Manchester City v Sevilla . Coverage of the Group G match at Manchester City Academy Stadium.(n)</desc>
+  </programme>
+  <programme start="20221102150000 +0000" stop="20221102163000 +0000" channel="BT Sport 1">
+    <title lang="en">Premier League</title>
+    <desc lang="en">Leicester City v Manchester City Leicester City v Manchester City.(n)</desc>
+  </programme>
+  <programme start="20221102163000 +0000" stop="20221102173000 +0000" channel="BT Sport 1">
+    <title lang="en">Premier League Review</title>
+    <desc lang="en">A look back at the best of the recent matches.(n)</desc>
+  </programme>
+  <programme start="20221102194500 +0000" stop="20221102221500 +0000" channel="BT Sport 1">
+    <title lang="en">Live UCL Goals Show</title>
+    <desc lang="en">All the goals as they go in from tonight's group stage matches.(n)</desc>
+  </programme>
+  <programme start="20221102221500 +0000" stop="20221102231500 +0000" channel="BT Sport 1">
+    <title lang="en">The Football's On</title>
+    <desc lang="en">A humorous look at the week's football stories with Ian Stone and guests.(n)</desc>
+  </programme>
+  <programme start="20221102231500 +0000" stop="20221102234500 +0000" channel="BT Sport 1">
+    <title lang="en">Serie A - Full Impact</title>
+    <desc lang="en">Matchday 12 A round-up of the latest action in Italy's top flight football competition.(n)</desc>
+  </programme>
+  <programme start="20221102234500 +0000" stop="20221103000000 +0000" channel="BT Sport 1">
+    <title lang="en">Baseball Today in the UK</title>
+    <desc lang="en">World Series Game 4 Preview A preview of game four of the World Series.(n)</desc>
+  </programme>
+  <programme start="20221103000000 +0000" stop="20221103040000 +0000" channel="BT Sport 1">
+    <title lang="en">Live MLB</title>
+    <desc lang="en">Live MLB: World Series Game 4 Philadelphia Phillies v Houston Astros . Coverage of game four of the World Series from Citizens Bank Park.(n)</desc>
+  </programme>
+  <programme start="20221103040000 +0000" stop="20221103043000 +0000" channel="BT Sport 1">
+    <title lang="en">UFC Fight Flashback</title>
+    <desc lang="en">275 Teixeira v Prochazka A look back at Glover Teixeira v Jiri Prochazka from UFC 275.(n)</desc>
+  </programme>
+  <programme start="20221103043000 +0000" stop="20221103050000 +0000" channel="BT Sport 1">
+    <title lang="en">Formula Regional European Championship</title>
+    <desc lang="en">Season 2022 Episode 9/.(n)</desc>
+  </programme>
+  <programme start="20221103050000 +0000" stop="20221103060000 +0000" channel="BT Sport 1">
+    <title lang="en">World Rallycross Championship Highlights</title>
+    <desc lang="en">Action from the World RX of Spain.(n)</desc>
+  </programme>
+  <programme start="20221103060000 +0000" stop="20221103063000 +0000" channel="BT Sport 1">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football.(n)</desc>
+  </programme>
+  <programme start="20221103063000 +0000" stop="20221103070000 +0000" channel="BT Sport 1">
+    <title lang="en">Serie A - Full Impact</title>
+    <desc lang="en">Matchday 12 A round-up of the latest action in Italy's top flight football competition.(n)</desc>
+  </programme>
+  <programme start="20221103070000 +0000" stop="20221103084500 +0000" channel="BT Sport 1">
+    <title lang="en">WWE NXT</title>
+    <desc lang="en">The next generation of wrestling superstars showcase their talents.(n)</desc>
+  </programme>
+  <programme start="20221103084500 +0000" stop="20221103094500 +0000" channel="BT Sport 1">
+    <title lang="en">Ligue 1 Highlights</title>
+    <desc lang="en">A look back at all the recent action from the top flight of French football, including PSG v Troyes, Lyon v Lille and Monaco v Angers.(n)</desc>
+  </programme>
+  <programme start="20221103094500 +0000" stop="20221103104500 +0000" channel="BT Sport 1">
+    <title lang="en">Primeira Liga</title>
+    <desc lang="en">Arouca v Sporting CP Arouca v Sporting Lisbon.(n)</desc>
+  </programme>
+  <programme start="20221103104500 +0000" stop="20221103111500 +0000" channel="BT Sport 1">
+    <title lang="en">Serie A - Full Impact</title>
+    <desc lang="en">Matchday 12 A round-up of the latest action in Italy's top flight football competition.(n)</desc>
+  </programme>
+  <programme start="20221103111500 +0000" stop="20221103114500 +0000" channel="BT Sport 1">
+    <title lang="en">Premier League Stories</title>
+    <desc lang="en">A round-up of all the news from the Premier League.(n)</desc>
+  </programme>
+  <programme start="20221103114500 +0000" stop="20221103124500 +0000" channel="BT Sport 1">
+    <title lang="en">The Football's On</title>
+    <desc lang="en">A humorous look at the week's football stories with Ian Stone and guests.(n)</desc>
+  </programme>
+  <programme start="20221103124500 +0000" stop="20221103134500 +0000" channel="BT Sport 1">
+    <title lang="en">Fishing: On the Bank</title>
+    <desc lang="en">Action from the Cornish Lure Festival.(n)</desc>
+  </programme>
+  <programme start="20221103134500 +0000" stop="20221103141500 +0000" channel="BT Sport 1">
+    <title lang="en">Badminton Unlimited</title>
+    <desc lang="en">All the latest news and information from the world of badminton.(n)</desc>
+  </programme>
+  <programme start="20221103141500 +0000" stop="20221103144500 +0000" channel="BT Sport 1">
+    <title lang="en">Gearing Up</title>
+    <desc lang="en">Action from Monster Jam, the Stock Car Pro Series in Brazil, the UIM MotoSurf World Championship in Mexico and Airspeeder - the world's first crewed flying electric cars series.(n)</desc>
+  </programme>
+  <programme start="20221103144500 +0000" stop="20221103151500 +0000" channel="BT Sport 1">
+    <title lang="en">Kite Masters</title>
+    <desc lang="en">The series that flies you around the world, together with the very best athletes from one of the most exciting, fast, extreme and stylish sports... Kiteboarding!(n)</desc>
+  </programme>
+  <programme start="20221103151500 +0000" stop="20221103154500 +0000" channel="BT Sport 1">
+    <title lang="en">A-League Highlights</title>
+    <desc lang="en">Action from the latest round of Australian top-flight football fixtures.(n)</desc>
+  </programme>
+  <programme start="20221103154500 +0000" stop="20221103161500 +0000" channel="BT Sport 1">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football.(n)</desc>
+  </programme>
+  <programme start="20221103161500 +0000" stop="20221103171500 +0000" channel="BT Sport 1">
+    <title lang="en">The Football's On</title>
+    <desc lang="en">A humorous look at the week's football stories with Ian Stone and guests.(n)</desc>
+  </programme>
+  <programme start="20221103171500 +0000" stop="20221103201500 +0000" channel="BT Sport 1">
+    <title lang="en">Live UEFA Europa League</title>
+    <desc lang="en">Live: Real Sociedad v Man Utd Real Sociedad v Manchester United . Coverage of the Group E encounter at Reale Arena.(n)</desc>
+  </programme>
+  <programme start="20221103201500 +0000" stop="20221103213000 +0000" channel="BT Sport 1">
+    <title lang="en">BT Sport Films</title>
+    <desc lang="en">George Best: True Genius Celebrating the life of George Best. Presented by his son Calum, the film features rare and never-before-seen footage of one of the greatest footballers of all time.(n)</desc>
+  </programme>
+  <programme start="20221103213000 +0000" stop="20221103233000 +0000" channel="BT Sport 1">
+    <title lang="en">Live NCAA Women's Soccer Championship</title>
+    <desc lang="en">ACC Semifinal 7 North Carolina Tar Heels v Duke Blue Devils.(n)</desc>
+  </programme>
+  <programme start="20221103233000 +0000" stop="20221103234500 +0000" channel="BT Sport 1">
+    <title lang="en">Premier League Reload</title>
+    <desc lang="en">Matchday 14 Brief highlights of the weekend's Premier League matches, featuring all the goals and talking points from Leicester v Manchester City, and Manchester United v West Ham United.(n)</desc>
+  </programme>
+  <programme start="20221103234500 +0000" stop="20221104000000 +0000" channel="BT Sport 1">
+    <title lang="en">Baseball Today in the UK</title>
+    <desc lang="en">World Series Game 5 Preview A preview of game five of the World Series.(n)</desc>
+  </programme>
+  <programme start="20221104000000 +0000" stop="20221104040000 +0000" channel="BT Sport 1">
+    <title lang="en">Live MLB</title>
+    <desc lang="en">Live MLB: World Series Game 5 Philadelphia Phillies v Houston Astros . Coverage of game five of the World Series, held at Citizens Bank Park.(n)</desc>
+  </programme>
+  <programme start="20221104040000 +0000" stop="20221104043000 +0000" channel="BT Sport 1">
+    <title lang="en">Ligue 1 Show</title>
+    <desc lang="en">Matchday 14 A look ahead to the upcoming football in the top flight of France, including Lorient v PSG, Clermont Foot v Montpellier and Marseille v Lyon.(n)</desc>
+  </programme>
+  <programme start="20221104043000 +0000" stop="20221104050000 +0000" channel="BT Sport 1">
+    <title lang="en">Classic MOTD - Thrillers</title>
+    <desc lang="en">Fulham v Sheff Weds 1965/66 We delve into the Match of the Day archives to revisit highlights of the 1965/66 First Division clash between Fulham and Sheffield Wednesday at Craven Cottage.(n)</desc>
+  </programme>
+  <programme start="20221104050000 +0000" stop="20221104053000 +0000" channel="BT Sport 1">
+    <title lang="en">Classic MOTD - Thrillers</title>
+    <desc lang="en">Man Utd v West Ham 1969/70 We delve into the Match of the Day archives to revisit highlights of the 1969/70 First Division clash between Manchester United and West Ham at Old Trafford.(n)</desc>
+  </programme>
+  <programme start="20221104053000 +0000" stop="20221104060000 +0000" channel="BT Sport 1">
+    <title lang="en">Classic MOTD - Thrillers</title>
+    <desc lang="en">Chelsea v Leeds United 1969/70 We delve into the Match of the Day archives to revisit highlights of the 1969/70 First Division clash between Chelsea and Leeds United at Stamford Bridge.(n)</desc>
+  </programme>
+  <programme start="20221104060000 +0000" stop="20221104063000 +0000" channel="BT Sport 1">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football.(n)</desc>
+  </programme>
+  <programme start="20221104063000 +0000" stop="20221104070000 +0000" channel="BT Sport 1">
+    <title lang="en">Ligue 1 Show</title>
+    <desc lang="en">Matchday 14 A look ahead to the upcoming football in the top flight of France, including Lorient v PSG, Clermont Foot v Montpellier and Marseille v Lyon.(n)</desc>
+  </programme>
+  <programme start="20221104070000 +0000" stop="20221104073000 +0000" channel="BT Sport 1">
+    <title lang="en">Currie Club</title>
+    <desc lang="en">Chris Sutton: Love Him or Hate Him Darrell Currie discusses some of the greatest stories in Scottish football history.(n)</desc>
+  </programme>
+  <programme start="20221104073000 +0000" stop="20221104074500 +0000" channel="BT Sport 1">
+    <title lang="en">Immortals</title>
+    <desc lang="en">Rio Ferdinand Rio Ferdinand picks his all-time Champions League XI.(n)</desc>
+  </programme>
+  <programme start="20221104074500 +0000" stop="20221104081500 +0000" channel="BT Sport 1">
+    <title lang="en">Premier League Stories</title>
+    <desc lang="en">A round-up of all the news from the Premier League.(n)</desc>
+  </programme>
+  <programme start="20221104081500 +0000" stop="20221104084500 +0000" channel="BT Sport 1">
+    <title lang="en">A-League Highlights</title>
+    <desc lang="en">Action from the latest round of Australian top-flight football fixtures.(n)</desc>
+  </programme>
+  <programme start="20221104084500 +0000" stop="20221104104500 +0000" channel="BT Sport 1">
+    <title lang="en">Live: Isuzu UTE A-League</title>
+    <desc lang="en">Live: Melbourne V v Newcastle Jets Melbourne Victory v Newcastle Jets . Coverage of the Australian top-flight clash from AAMI Park.(n)</desc>
+  </programme>
+  <programme start="20221104104500 +0000" stop="20221104114500 +0000" channel="BT Sport 1">
+    <title lang="en">The Football's On</title>
+    <desc lang="en">A humorous look at the week's football stories with Ian Stone and guests.(n)</desc>
+  </programme>
+  <programme start="20221104114500 +0000" stop="20221104120000 +0000" channel="BT Sport 1">
+    <title lang="en">Chip Shot Challenge</title>
+    <desc lang="en">Crystal Palace defender Joel Ward takes on the Chip Shot Challenge.(n)</desc>
+  </programme>
+  <programme start="20221104120000 +0000" stop="20221104123000 +0000" channel="BT Sport 1">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football.(n)</desc>
+  </programme>
+  <programme start="20221104123000 +0000" stop="20221104130000 +0000" channel="BT Sport 1">
+    <title lang="en">Premier League Stories</title>
+    <desc lang="en">A round-up of all the news from the Premier League.(n)</desc>
+  </programme>
+  <programme start="20221104130000 +0000" stop="20221104133000 +0000" channel="BT Sport 1">
+    <title lang="en">Premier League - The Big Interview</title>
+    <desc lang="en">Marc Guehi talks about leaving behind his boyhood club Chelsea, being part of Patrick Vieira's regeneration at Crystal Palace, and his dreams of a World Cup spot with England.(n)</desc>
+  </programme>
+  <programme start="20221104133000 +0000" stop="20221104153000 +0000" channel="BT Sport 1">
+    <title lang="en">Live Hockey</title>
+    <desc lang="en">Live: India v New Zealand India v New Zealand . Coverage of the Men's FIH Hockey Pro League match from Bhubaneswar, India.(n)</desc>
+  </programme>
+  <programme start="20221104153000 +0000" stop="20221104154500 +0000" channel="BT Sport 1">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+  </programme>
+  <programme start="20221104154500 +0000" stop="20221104160000 +0000" channel="BT Sport 1">
+    <title lang="en">Premier League Reload</title>
+    <desc lang="en">Matchday 14 Brief highlights of the weekend's Premier League matches, featuring all the goals and talking points from Leicester v Manchester City, and Manchester United v West Ham United.(n)</desc>
+  </programme>
+  <programme start="20221104160000 +0000" stop="20221104163000 +0000" channel="BT Sport 1">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football.(n)</desc>
+  </programme>
+  <programme start="20221104163000 +0000" stop="20221104170000 +0000" channel="BT Sport 1">
+    <title lang="en">Inside Serie A</title>
+    <desc lang="en">A round-up of all the latest news from the top flight of Italian football.(n)</desc>
+  </programme>
+  <programme start="20221104170000 +0000" stop="20221104173000 +0000" channel="BT Sport 1">
+    <title lang="en">Premier League Preview</title>
+    <desc lang="en">A look ahead to the weekend's fixtures, including Chelsea v Arsenal, Manchester City v Fulham and Aston Villa v Manchester United.(n)</desc>
+  </programme>
+  <programme start="20221104173000 +0000" stop="20221104183000 +0000" channel="BT Sport 1">
+    <title lang="en">UEFA Champions League Review</title>
+    <desc lang="en">Action from the latest round of group fixtures.(n)</desc>
+  </programme>
+  <programme start="20221104183000 +0000" stop="20221104190000 +0000" channel="BT Sport 1">
+    <title lang="en">Scottish Football Extra</title>
+    <desc lang="en">A look at all the key issues and talking points in Scottish football.(n)</desc>
+  </programme>
+  <programme start="20221104190000 +0000" stop="20221104220000 +0000" channel="BT Sport 1">
+    <title lang="en">Live Gallagher Premiership Rugby Union</title>
+    <desc lang="en">Live: Northampton Saints v Exeter Northampton Saints v Exeter Chiefs . Coverage of the match from Franklin's Gardens.(n)</desc>
+  </programme>
+  <programme start="20221104220000 +0000" stop="20221104230000 +0000" channel="BT Sport 1">
+    <title lang="en">WWE NXT UK Classics</title>
+    <desc lang="en">A look at some of the tag team classics.(n)</desc>
+  </programme>
+  <programme start="20221104230000 +0000" stop="20221104233000 +0000" channel="BT Sport 1">
+    <title lang="en">Premier League Preview</title>
+    <desc lang="en">A look ahead to the weekend's fixtures, including Chelsea v Arsenal, Manchester City v Fulham and Aston Villa v Manchester United.(n)</desc>
+  </programme>
+  <programme start="20221104233000 +0000" stop="20221104234500 +0000" channel="BT Sport 1">
+    <title lang="en">MotoGP: ICYMI</title>
+    <desc lang="en">Action from the Valencian Community Grand Prix.(n)</desc>
+  </programme>
+  <programme start="20221104234500 +0000" stop="20221105000000 +0000" channel="BT Sport 1">
+    <title lang="en">Chip Shot Challenge</title>
+    <desc lang="en">Crystal Palace defender Joel Ward takes on the Chip Shot Challenge.(n)</desc>
+  </programme>
+  <programme start="20221105000000 +0000" stop="20221105020000 +0000" channel="BT Sport 1">
+    <title lang="en">Live: WWE Friday Night SmackDown</title>
+    <desc lang="en">Wrestling action, featuring the likes of Roman Reigns, Sasha Banks, Drew McIntyre and Charlotte Flair.(n)</desc>
+  </programme>
+  <programme start="20221105020000 +0000" stop="20221105030000 +0000" channel="BT Sport 1">
+    <title lang="en">The Football's On</title>
+    <desc lang="en">A humorous look at the week's football stories with Ian Stone and guests.(n)</desc>
+  </programme>
+  <programme start="20221105030000 +0000" stop="20221105033000 +0000" channel="BT Sport 1">
+    <title lang="en">Scottish Football Extra</title>
+    <desc lang="en">A look at all the key issues and talking points in Scottish football.(n)</desc>
+  </programme>
+  <programme start="20221105033000 +0000" stop="20221105043000 +0000" channel="BT Sport 1">
+    <title lang="en">Serie A</title>
+    <desc lang="en">Udinese v Lecce Udinese v Lecce.(n)</desc>
+  </programme>
+  <programme start="20221105043000 +0000" stop="20221105053000 +0000" channel="BT Sport 1">
+    <title lang="en">Isuzu UTE A-League</title>
+    <desc lang="en">Melbourne Victory v Newcastle Jets Melbourne Victory v Newcastle Jets.(n)</desc>
+  </programme>
+  <programme start="20221105053000 +0000" stop="20221105060000 +0000" channel="BT Sport 1">
+    <title lang="en">Classic MOTD - Thrillers</title>
+    <desc lang="en">Leicester City v Burnley 1966/67 We delve into the Match of the Day archives to revisit highlights of the 1966/67 First Division clash between Leicester City and Burnley at Filbert Street.(n)</desc>
+  </programme>
+  <programme start="20221105060000 +0000" stop="20221105080000 +0000" channel="BT Sport 1">
+    <title lang="en">Live: Isuzu UTE A-League</title>
+    <desc lang="en">Live: Melbourne City v Perth Glory Melbourne City v Perth Glory . Coverage of the match from AAMI Park.(n)</desc>
+  </programme>
+  <programme start="20221105080000 +0000" stop="20221105081500 +0000" channel="BT Sport 1">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+  </programme>
+  <programme start="20221105081500 +0000" stop="20221105084500 +0000" channel="BT Sport 1">
+    <title lang="en">Premier League - The Big Interview</title>
+    <desc lang="en">Marc Guehi talks about leaving behind his boyhood club Chelsea, being part of Patrick Vieira's regeneration at Crystal Palace, and his dreams of a World Cup spot with England.(n)</desc>
+  </programme>
+  <programme start="20221105084500 +0000" stop="20221105104500 +0000" channel="BT Sport 1">
+    <title lang="en">Live: Isuzu UTE A-League</title>
+    <desc lang="en">Live: Western Sydney v CCM Western Sydney Wanderers v Central Coast Mariners . Coverage of the Australian top-flight clash from CommBank Stadium.(n)</desc>
+  </programme>
+  <programme start="20221105104500 +0000" stop="20221105110000 +0000" channel="BT Sport 1">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport over the last week, including exclusive interviews, the best action and so much more.(n)</desc>
+  </programme>
+  <programme start="20221105110000 +0000" stop="20221105113000 +0000" channel="BT Sport 1">
+    <title lang="en">Scottish Football Extra</title>
+    <desc lang="en">A look at all the key issues and talking points in Scottish football.(n)</desc>
+  </programme>
+  <programme start="20221105113000 +0000" stop="20221105120000 +0000" channel="BT Sport 1">
+    <title lang="en">Joe Cole Cast</title>
+    <desc lang="en">The former midfielder talks to another famous football personality.(n)</desc>
+  </programme>
+  <programme start="20221105120000 +0000" stop="20221105130000 +0000" channel="BT Sport 1">
+    <title lang="en">The Football's On</title>
+    <desc lang="en">A humorous look at the week's football stories with Ian Stone and guests.(n)</desc>
+  </programme>
+  <programme start="20221105130000 +0000" stop="20221105143000 +0000" channel="BT Sport 1">
+    <title lang="en">Live Badminton</title>
+    <desc lang="en">Live Badminton: Hylo Open Coverage of the Hylo Open semi-finals, a BWF World Tour Super 300 event at Saarlandhalle in Saarbrucken, Germany.(n)</desc>
+  </programme>
+  <programme start="20221105143000 +0000" stop="20221105171500 +0000" channel="BT Sport 1">
+    <title lang="en">BT Sport Score</title>
+    <desc lang="en">Darrell Currie and Jules Breach are joined by guests to provide the scores and key talking points from across the country as they happen.(n)</desc>
+  </programme>
+  <programme start="20221105171500 +0000" stop="20221105190000 +0000" channel="BT Sport 1">
+    <title lang="en">Live: Serie A</title>
+    <desc lang="en">Live Serie A: Atalanta v Napoli Atalanta v Napoli. Coverage of the clash at Gewiss Stadium, joining in progress.(n)</desc>
+  </programme>
+  <programme start="20221105190000 +0000" stop="20221105193000 +0000" channel="BT Sport 1">
+    <title lang="en">Joe Cole Cast</title>
+    <desc lang="en">The former midfielder talks to another famous football personality.(n)</desc>
+  </programme>
+  <programme start="20221105193000 +0000" stop="20221105214500 +0000" channel="BT Sport 1">
+    <title lang="en">Live: Serie A</title>
+    <desc lang="en">Live: AC Milan v Spezia AC Milan v Spezia . All the action from the Italian top-flight encounter at the San Siro.(n)</desc>
+  </programme>
+  <programme start="20221105214500 +0000" stop="20221105231500 +0000" channel="BT Sport 1">
+    <title lang="en">WWE Friday Night SmackDown</title>
+    <desc lang="en">Wrestling action.(n)</desc>
+  </programme>
+  <programme start="20221105231500 +0000" stop="20221105234500 +0000" channel="BT Sport 1">
+    <title lang="en">The Quest For Excellence</title>
+    <desc lang="en">Profiles of Jannik Sinner and Lindsey Vonn.(n)</desc>
+  </programme>
+  <programme start="20221105234500 +0000" stop="20221106000000 +0000" channel="BT Sport 1">
+    <title lang="en">Baseball Today in the UK</title>
+    <desc lang="en">World Series Game 6 Preview A preview of game six of the World Series.(n)</desc>
+  </programme>
+  <programme start="20221106000000 +0000" stop="20221106040000 +0000" channel="BT Sport 1">
+    <title lang="en">Live MLB</title>
+    <desc lang="en">Live MLB: World Series Game 6 Houston Astros v Philadelphia Phillies . Coverage of game six of the World Series at Minute Maid Park.(n)</desc>
+  </programme>
+  <programme start="20221106040000 +0000" stop="20221106053000 +0000" channel="BT Sport 1">
+    <title lang="en">30 for 30</title>
+    <desc lang="en">30 for 30: Big Shot A tale of a dream that became a lie, and how a scam of such epic proportions plagued an iconic NHL franchise and almost went undetected. Part of the award-winning 30 for 30 series.(n)</desc>
+  </programme>
+  <programme start="20221106053000 +0000" stop="20221106060000 +0000" channel="BT Sport 1">
+    <title lang="en">ESPN Classic Boxing</title>
+    <desc lang="en">Boxing: Frazier v Quarry II 1974 Another chance to watch the classic 1975 rematch between Joe Frazier and Jerry Quarry in New York City.(n)</desc>
+  </programme>
+  <programme start="20221106060000 +0000" stop="20221106080000 +0000" channel="BT Sport 1">
+    <title lang="en">Live: Isuzu UTE A-League</title>
+    <desc lang="en">Live: Western Utd v Adelaide Utd Western United v Adelaide United . All the action from the match at AAMI Park.(n)</desc>
+  </programme>
+  <programme start="20221106080000 +0000" stop="20221106093000 +0000" channel="BT Sport 1">
+    <title lang="en">Gallagher Premiership Rugby Union</title>
+    <desc lang="en">Sale Sharks v Gloucester Sale Sharks v Gloucester.(n)</desc>
+  </programme>
+  <programme start="20221106093000 +0000" stop="20221106103000 +0000" channel="BT Sport 1">
+    <title lang="en">The Football's On</title>
+    <desc lang="en">A humorous look at the week's football stories with Ian Stone and guests.(n)</desc>
+  </programme>
+  <programme start="20221106103000 +0000" stop="20221106110000 +0000" channel="BT Sport 1">
+    <title lang="en">Joe Cole Cast</title>
+    <desc lang="en">The former midfielder talks to another famous football personality.(n)</desc>
+  </programme>
+  <programme start="20221106110000 +0000" stop="20221106113000 +0000" channel="BT Sport 1">
+    <title lang="en">Premier League Today</title>
+    <desc lang="en">Including a look ahead to Chelsea v Arsenal.(n)</desc>
+  </programme>
+  <programme start="20221106113000 +0000" stop="20221106143000 +0000" channel="BT Sport 1">
+    <title lang="en">Live Premier League</title>
+    <desc lang="en">Live: Chelsea v Arsenal Chelsea v Arsenal . All the action from the London derby at Stamford Bridge.(n)</desc>
+  </programme>
+  <programme start="20221106143000 +0000" stop="20221106150000 +0000" channel="BT Sport 1">
+    <title lang="en">Joe Cole Cast</title>
+    <desc lang="en">The former midfielder talks to another famous football personality.(n)</desc>
+  </programme>
+  <programme start="20221106150000 +0000" stop="20221106161500 +0000" channel="BT Sport 1">
+    <title lang="en">BT Sport Films</title>
+    <desc lang="en">BT Sport Films: The Special 1 Richie Driss explores the many faces of goalkeepers, from game-changer to weak-link. Featuring Jordan Pickford, Aaron Ramsdale, Rob Green and more.(n)</desc>
+  </programme>
+  <programme start="20221106161500 +0000" stop="20221106163000 +0000" channel="BT Sport 1">
+    <title lang="en">UEFA Europa League Goals Reload</title>
+    <desc lang="en">The pick of the goals from the latest round of fixtures.(n)</desc>
+  </programme>
+  <programme start="20221106163000 +0000" stop="20221106190000 +0000" channel="BT Sport 1">
+    <title lang="en">Live: Serie A</title>
+    <desc lang="en">Live: Roma v Lazio AS Roma v Lazio . All the action from the Rome derby at Stadio Olimpico.(n)</desc>
+  </programme>
+  <programme start="20221106190000 +0000" stop="20221106194500 +0000" channel="BT Sport 1">
+    <title lang="en">Live: Golazzo Live</title>
+    <desc lang="en">A look ahead to Juventus v Inter Milan.(n)</desc>
+  </programme>
+  <programme start="20221106194500 +0000" stop="20221106220000 +0000" channel="BT Sport 1">
+    <title lang="en">Live: Serie A</title>
+    <desc lang="en">Live: Juventus v Inter Juventus v Inter Milan . All the action from the Italian top-flight clash at Allianz Stadium.(n)</desc>
+  </programme>
+  <programme start="20221106220000 +0000" stop="20221107000000 +0000" channel="BT Sport 1">
+    <title lang="en">Live Hockey</title>
+    <desc lang="en">Live Women's Hockey: ARG v BEL Argentina v Belgium . Coverage of the Women's FIH Hockey Pro League match at Mendoza, Argentina.(n)</desc>
+  </programme>
+  <programme start="20221107000000 +0000" stop="20221107040000 +0000" channel="BT Sport 1">
+    <title lang="en">Live MLB</title>
+    <desc lang="en">Live MLB: World Series Game 7 Houston Astros v Philadelphia Phillies . Coverage of game seven of the World Series from Minute Maid Park.(n)</desc>
+  </programme>
+  <programme start="20221107040000 +0000" stop="20221107043000 +0000" channel="BT Sport 1">
+    <title lang="en">Joe Cole Cast</title>
+    <desc lang="en">The former midfielder talks to another famous football personality.(n)</desc>
+  </programme>
+  <programme start="20221107043000 +0000" stop="20221107053000 +0000" channel="BT Sport 1">
+    <title lang="en">World Rallycross Championship Highlights</title>
+    <desc lang="en">Action from the World RX of Spain.(n)</desc>
+  </programme>
+  <programme start="20221107053000 +0000" stop="20221107060000 +0000" channel="BT Sport 1">
+    <title lang="en">Formula Regional European Championship</title>
+    <desc lang="en">Season 2022 Episode 9/.(n)</desc>
+  </programme>
+  <programme start="20221107060000 +0000" stop="20221107063000 +0000" channel="BT Sport 1">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football.(n)</desc>
+  </programme>
+  <programme start="20221107063000 +0000" stop="20221107070000 +0000" channel="BT Sport 1">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">The latest news and updates from Europe's premier club football competition.(n)</desc>
+  </programme>
+  <programme start="20221107070000 +0000" stop="20221107080000 +0000" channel="BT Sport 1">
+    <title lang="en">WWE NXT Highlights</title>
+    <desc lang="en">The next generation of wrestling superstars showcase their talents.(n)</desc>
+  </programme>
+  <programme start="20221107080000 +0000" stop="20221107090000 +0000" channel="BT Sport 1">
+    <title lang="en">Premier League Review</title>
+    <desc lang="en">A look back at the best of the recent action, including Chelsea v Arsenal, Aston Villa v Manchester United and Manchester City v Fulham.(n)</desc>
+  </programme>
+  <programme start="20221107090000 +0000" stop="20221107093000 +0000" channel="BT Sport 1">
+    <title lang="en">Premier League - The Big Interview</title>
+    <desc lang="en">Marc Guehi talks about leaving behind his boyhood club Chelsea, being part of Patrick Vieira's regeneration at Crystal Palace, and his dreams of a World Cup spot with England.(n)</desc>
+  </programme>
+  <programme start="20221107093000 +0000" stop="20221107110000 +0000" channel="BT Sport 1">
+    <title lang="en">Premier League</title>
+    <desc lang="en">Chelsea v Arsenal Chelsea v Arsenal.(n)</desc>
+  </programme>
+  <programme start="20221107110000 +0000" stop="20221107113000 +0000" channel="BT Sport 1">
+    <title lang="en">Live UEFA Champions League</title>
+    <desc lang="en">Live: UEFA Champions League Draw Coverage of the draw for the round of 16.(n)</desc>
+  </programme>
+  <programme start="20221107113000 +0000" stop="20221107114500 +0000" channel="BT Sport 1">
+    <title lang="en">UEFA Champions League Goals Reload</title>
+    <desc lang="en">The pick of the goals from the latest round of fixtures.(n)</desc>
+  </programme>
+  <programme start="20221107114500 +0000" stop="20221107120000 +0000" channel="BT Sport 1">
+    <title lang="en">UEFA Europa League Goals Reload</title>
+    <desc lang="en">The pick of the goals from the latest round of fixtures.(n)</desc>
+  </programme>
+  <programme start="20221107120000 +0000" stop="20221107123000 +0000" channel="BT Sport 1">
+    <title lang="en">Live UEFA Europa League</title>
+    <desc lang="en">Live: UEFA Europa League Draw Coverage of the UEFA Europa League Knockout Round Play-Off draw.(n)</desc>
+  </programme>
+  <programme start="20221107123000 +0000" stop="20221107130000 +0000" channel="BT Sport 1">
+    <title lang="en">Joe Cole Cast</title>
+    <desc lang="en">The former midfielder talks to another famous football personality.(n)</desc>
+  </programme>
+  <programme start="20221107130000 +0000" stop="20221107133000 +0000" channel="BT Sport 1">
+    <title lang="en">Live UEFA Europa Conference League</title>
+    <desc lang="en">Live Europa Conference League Draw Coverage of the UEFA Europa Conference League Knockout Round Play-Off draw.(n)</desc>
+  </programme>
+  <programme start="20221107133000 +0000" stop="20221107143000 +0000" channel="BT Sport 1">
+    <title lang="en">UEFA Europa League Highlights Show</title>
+    <desc lang="en">Action from the matchday six fixtures.(n)</desc>
+  </programme>
+  <programme start="20221107143000 +0000" stop="20221107153000 +0000" channel="BT Sport 1">
+    <title lang="en">Premier League Review</title>
+    <desc lang="en">A look back at the best of the recent action, including Chelsea v Arsenal, Aston Villa v Manchester United and Manchester City v Fulham.(n)</desc>
+  </programme>
+  <programme start="20221107153000 +0000" stop="20221107163000 +0000" channel="BT Sport 1">
+    <title lang="en">Ligue 1 Highlights</title>
+    <desc lang="en">A look back at all the recent action, including Lorient v Paris Saint-Germain, Clermont Foot v Montpellier and Marseille v Lyon.(n)</desc>
+  </programme>
+  <programme start="20221107163000 +0000" stop="20221107170000 +0000" channel="BT Sport 1">
+    <title lang="en">Premier League - The Big Interview</title>
+    <desc lang="en">Marc Guehi talks about leaving behind his boyhood club Chelsea, being part of Patrick Vieira's regeneration at Crystal Palace, and his dreams of a World Cup spot with England.(n)</desc>
+  </programme>
+  <programme start="20221107170000 +0000" stop="20221107173000 +0000" channel="BT Sport 1">
+    <title lang="en">ESPN FC</title>
+    <desc lang="en">A round-up of the latest news from the world of football.(n)</desc>
+  </programme>
+  <programme start="20221107173000 +0000" stop="20221107180000 +0000" channel="BT Sport 1">
+    <title lang="en">ESPN FC Presents: Gab &amp; Juls</title>
+    <desc lang="en">Gab Marcotti and Julien Laurens discuss the latest football news.(n)</desc>
+  </programme>
+  <programme start="20221107180000 +0000" stop="20221107183000 +0000" channel="BT Sport 1">
+    <title lang="en">What I Wore</title>
+    <desc lang="en">What I Wore: Paul Scholes The former Manchester United star talks about moment in his career.(n)</desc>
+  </programme>
+  <programme start="20221107183000 +0000" stop="20221107190000 +0000" channel="BT Sport 1">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">The latest news and updates from Europe's premier club football competition.(n)</desc>
+  </programme>
+  <programme start="20221107190000 +0000" stop="20221107193000 +0000" channel="BT Sport 1">
+    <title lang="en">Premier League Legends</title>
+    <desc lang="en">PL Legends: Thierry Henry A profile of Arsenal legend Thierry Henry, who amassed a total of 175 Premier League goals for the Gunners and is considered one of the greatest strikers in Premier League history.(n)</desc>
+  </programme>
+  <programme start="20221107193000 +0000" stop="20221107210000 +0000" channel="BT Sport 1">
+    <title lang="en">Premier League</title>
+    <desc lang="en">Chelsea v Arsenal Chelsea v Arsenal.(n)</desc>
+  </programme>
+  <programme start="20221107210000 +0000" stop="20221107211500 +0000" channel="BT Sport 1">
+    <title lang="en">UEFA Champions League Goals Reload</title>
+    <desc lang="en">The pick of the goals from the latest round of fixtures.(n)</desc>
+  </programme>
+  <programme start="20221107211500 +0000" stop="20221107213000 +0000" channel="BT Sport 1">
+    <title lang="en">UEFA Europa League Goals Reload</title>
+    <desc lang="en">The pick of the goals from the latest round of fixtures.(n)</desc>
+  </programme>
+  <programme start="20221107213000 +0000" stop="20221107220000 +0000" channel="BT Sport 1">
+    <title lang="en">Currie Club</title>
+    <desc lang="en">The Romanov Years A look at Hearts under the ownership of Vladimir Romanov.(n)</desc>
+  </programme>
+  <programme start="20221107220000 +0000" stop="20221107223000 +0000" channel="BT Sport 1">
+    <title lang="en">BT Sport Goals Reload</title>
+    <desc lang="en">The greatest goals from around the world this week.(n)</desc>
+  </programme>
+  <programme start="20221107223000 +0000" stop="20221107230000 +0000" channel="BT Sport 1">
+    <title lang="en">ESPN FC Presents: Gab &amp; Juls</title>
+    <desc lang="en">Gab Marcotti and Julien Laurens discuss the latest football news.(n)</desc>
+  </programme>
+  <programme start="20221107230000 +0000" stop="20221108000000 +0000" channel="BT Sport 1">
+    <title lang="en">WWE Raw Highlights</title>
+    <desc lang="en">Wrestling action, featuring the likes of Asuka, Bianca Belair, Randy Orton and Seth Rollins.(n)</desc>
+  </programme>
   <programme start="20221102000000 +0700" stop="20221102050000 +0700" channel="Dunia anak">
     <title lang="id">Music Lullaby</title>
   </programme>
@@ -790,60 +1328,6 @@
   </programme>
   <programme start="20221102234500 +0700" stop="20221103001500 +0700" channel="Trans7">
     <title lang="id">Redaksi Malam</title>
-  </programme>
-  <programme start="20221102000000 +0700" stop="20221102010000 +0700" channel="ATV">
-    <title lang="id">Homeshopping Al Haya</title>
-  </programme>
-  <programme start="20221102010000 +0700" stop="20221102030000 +0700" channel="ATV">
-    <title lang="id">Fullmoon Devil</title>
-  </programme>
-  <programme start="20221102030000 +0700" stop="20221102050000 +0700" channel="ATV">
-    <title lang="id">The Assassin</title>
-  </programme>
-  <programme start="20221102050000 +0700" stop="20221102060000 +0700" channel="ATV">
-    <title lang="id">Homeshopping Dana Matras</title>
-  </programme>
-  <programme start="20221102060000 +0700" stop="20221102070000 +0700" channel="ATV">
-    <title lang="id">Homeshopping Rice Cooker</title>
-  </programme>
-  <programme start="20221102070000 +0700" stop="20221102090000 +0700" channel="ATV">
-    <title lang="id">Six</title>
-  </programme>
-  <programme start="20221102090000 +0700" stop="20221102100000 +0700" channel="ATV">
-    <title lang="id">Homeshopping Al Haya</title>
-  </programme>
-  <programme start="20221102100000 +0700" stop="20221102110000 +0700" channel="ATV">
-    <title lang="id">Homeshopping Dana Matras</title>
-  </programme>
-  <programme start="20221102110000 +0700" stop="20221102120000 +0700" channel="ATV">
-    <title lang="id">Homeshopping Al Haya</title>
-  </programme>
-  <programme start="20221102120000 +0700" stop="20221102140000 +0700" channel="ATV">
-    <title lang="id">Fly High</title>
-  </programme>
-  <programme start="20221102140000 +0700" stop="20221102150000 +0700" channel="ATV">
-    <title lang="id">Homeshopping Dana Matras</title>
-  </programme>
-  <programme start="20221102150000 +0700" stop="20221102160000 +0700" channel="ATV">
-    <title lang="id">Homeshopping Rice Cooker</title>
-  </programme>
-  <programme start="20221102160000 +0700" stop="20221102180000 +0700" channel="ATV">
-    <title lang="id">Four</title>
-  </programme>
-  <programme start="20221102180000 +0700" stop="20221102190000 +0700" channel="ATV">
-    <title lang="id">Homeshopping Dana Matras</title>
-  </programme>
-  <programme start="20221102190000 +0700" stop="20221102200000 +0700" channel="ATV">
-    <title lang="id">Homeshopping Rice Cooker</title>
-  </programme>
-  <programme start="20221102200000 +0700" stop="20221102210000 +0700" channel="ATV">
-    <title lang="id">Homeshopping Dana Matras</title>
-  </programme>
-  <programme start="20221102210000 +0700" stop="20221102230000 +0700" channel="ATV">
-    <title lang="id">Fullmoon Devil</title>
-  </programme>
-  <programme start="20221102230000 +0700" stop="20221103000000 +0700" channel="ATV">
-    <title lang="id">Homeshopping Al Haya</title>
   </programme>
   <programme start="20221102000000 +0700" stop="20221102003000 +0700" channel="ANIPlus">
     <title lang="id">School - Live - Eps. 5</title>
