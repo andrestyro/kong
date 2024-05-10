@@ -7,7 +7,7 @@ https://liveaneviadev.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJa
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo=""  group-title="",ANTV
+#EXTINF:-1 tvg-logo="https://github.com/andrestyro/kong/blob/main/LOGO%20TV/antv.jpg"  group-title="",ANTV
 https://liveaneviadev.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -22,17 +22,17 @@ https://liveaneviadev.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz"  group-title="",RCTI
+#EXTINF:-1 tvg-logo="https://github.com/andrestyro/kong/blob/main/LOGO%20TV/rcti.jpeg"  group-title="",RCTI
 https://liveaneviadev.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo=""  group-title="",MNC TV
+#EXTINF:-1 tvg-logo="https://github.com/andrestyro/kong/blob/main/LOGO%20TV/mnctv.jpg"  group-title="",MNC TV
 https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/fcc2sbh556rtp08/gtv.png"  group-title="",GTV
+#EXTINF:-1 tvg-logo="https://github.com/andrestyro/kong/blob/main/LOGO%20TV/gtv.jpeg"  group-title="",GTV
 https://liveaneviadev.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -42,27 +42,27 @@ https://liveaneviadev.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo=""  group-title="",TRANS 7
+#EXTINF:-1 tvg-logo="https://github.com/andrestyro/kong/blob/main/LOGO%20TV/trans%207.jpg"  group-title="",TRANS 7
 https://liveaneviadev.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo=""  group-title="",DAAI TV
+#EXTINF:-1 tvg-logo="https://github.com/andrestyro/kong/blob/main/LOGO%20TV/daai.jpg"  group-title="",DAAI TV
 https://liveaneviadev.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo=""  group-title="",RTV
+#EXTINF:-1 tvg-logo="https://github.com/andrestyro/kong/blob/main/LOGO%20TV/rtv.jpg"  group-title="",RTV
 https://liveaneviadev.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo=""  group-title="",INEWS
+#EXTINF:-1 tvg-logo="https://github.com/andrestyro/kong/blob/main/LOGO%20TV/inews.jpg"  group-title="",INEWS
 https://liveaneviadev.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo=""  group-title="",TVONE
+#EXTINF:-1 tvg-logo="https://github.com/andrestyro/kong/blob/main/LOGO%20TV/tv%20one.jpg"  group-title="",TVONE
 https://liveaneviadev.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -72,17 +72,17 @@ https://liveaneviadev.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo=""  group-title="",NET.
+#EXTINF:-1 tvg-logo="https://github.com/andrestyro/kong/blob/main/LOGO%20TV/net.jpg"  group-title="",NET.
 https://liveaneviadev.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo=""  group-title="",Metro TV
+#EXTINF:-1 tvg-logo="https://github.com/andrestyro/kong/blob/main/LOGO%20TV/metro.jpg"  group-title="",Metro TV
 https://liveaneviadev.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo=""  group-title="",Trans TV
+#EXTINF:-1 tvg-logo="https://github.com/andrestyro/kong/blob/main/LOGO%20TV/trans%20tv.jpg"  group-title="",Trans TV
 https://liveaneviadev.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -92,12 +92,12 @@ https://liveaneviadev.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo=""  group-title="",Kompas TV
+#EXTINF:-1 tvg-logo="https://github.com/andrestyro/kong/blob/main/LOGO%20TV/kompas.jpg"  group-title="",Kompas TV
 https://liveaneviadev.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo=""  group-title="",TVRI
+#EXTINF:-1 tvg-logo="https://github.com/andrestyro/kong/blob/main/LOGO%20TV/tvri.jpg"  group-title="",TVRI
 https://liveaneviadev.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -257,7 +257,7 @@ https://liveaneviadev.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd|R
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo=""  group-title="",TVN Movies Indonesia
+#EXTINF:-1 tvg-logo="https://github.com/andrestyro/kong/blob/main/LOGO%20TV/tvn%20movies.jpg"  group-title="",TVN Movies Indonesia
 https://liveaneviadev.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -267,7 +267,7 @@ https://liveaneviadev.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo=""  group-title="",tvN
+#EXTINF:-1 tvg-logo="https://github.com/andrestyro/kong/blob/main/LOGO%20TV/tvn.jpg"  group-title="",tvN
 https://liveaneviadev.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -322,7 +322,7 @@ https://liveaneviadev.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo=""  group-title="",Nick Jr Asia
+#EXTINF:-1 tvg-logo="https://github.com/andrestyro/kong/blob/main/LOGO%20TV/nick.jr%20hd.jpg"  group-title="",Nick Jr Asia
 https://liveaneviadev.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -501,19 +501,19 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:79:7D:04&stream=1790&extensi
 #EXTINF:-1 tvg-logo=""  group-title="",Sky Cinema Scfi
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:79:7D:04&stream=1800&extension=ts&play_token=NuvJrvtNNW
 
-#EXTINF:-1 tvg-logo=""  group-title="",Boomerang
+#EXTINF:-1 tvg-logo="https://github.com/andrestyro/kong/blob/main/LOGO%20TV/boomerang%20HD.jpg"  group-title="",Boomerang
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:79:7D:04&stream=2245&extension=ts&play_token=0G8FRVfsc8
 
-#EXTINF:-1 tvg-logo=""  group-title="",Disney XD
+#EXTINF:-1 tvg-logo="https://github.com/andrestyro/kong/blob/main/LOGO%20TV/Disney%20XD.jpg"  group-title="",Disney XD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:79:7D:04&stream=1497312&extension=ts&play_token=DldBd9SeDq
 
-#EXTINF:-1 tvg-logo=""  group-title="",Disney Junior
+#EXTINF:-1 tvg-logo="https://github.com/andrestyro/kong/blob/main/LOGO%20TV/Disney%20jr.jpg"  group-title="",Disney Junior
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:79:7D:04&stream=1497311&extension=ts&play_token=4wrx1FPHjU
 
-#EXTINF:-1 tvg-logo=""  group-title="",Nick Jr
+#EXTINF:-1 tvg-logo="https://github.com/andrestyro/kong/blob/main/LOGO%20TV/nick.jr%20hd.jpg"  group-title="",Nick Jr
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:59:C2:C5&stream=2247&extension=ts&play_token=LOEmOy0mdU
 
-#EXTINF:-1 tvg-logo=""  group-title="",Cartoon Network
+#EXTINF:-1 tvg-logo="https://github.com/andrestyro/kong/blob/main/LOGO%20TV/cartoon%20network.jpg"  group-title="",Cartoon Network
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:79:7D:04&stream=2240&extension=ts&play_token=pEfR38AgPA
 
 #EXTINF:-1 tvg-logo=""  group-title="",CBBC
